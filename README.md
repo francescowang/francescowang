@@ -7,3 +7,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=francescowang&show_icons=true&theme=radical&count_private=true)
 
 [![Most Used Tools](https://github-readme-stats.vercel.app/api/top-langs/?username=francescowang&layout=compact)](https://github.com/francescowang)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francescowang)
