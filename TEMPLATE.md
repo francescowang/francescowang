@@ -5,7 +5,7 @@
 
 <!-- LIVE CLOCK -->
 <p>
-<img src="https://img.shields.io/badge/📅_Today-Wednesday, 01 April 2026-58a6ff?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/📅_Today-{{date}}-58a6ff?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/☕_Visitors-welcome-f78166?style=for-the-badge&labelColor=0d1117" />
 </p>
 
@@ -115,19 +115,10 @@ fun_fact: "This README updates itself every day via GitHub Actions ⚡"
 <th>🌬️ Wind</th>
 <th>☁️ Conditions</th>
 </tr>
-<tr><td>🇬🇧 <b>London</b></td><td>13.0°C</td><td>67%</td><td>7.9 km/h</td><td>☀️ Clear sky</td></tr>
-<tr><td>🇨🇳 <b>Beijing</b></td><td>10.7°C</td><td>35%</td><td>7.1 km/h</td><td>☀️ Clear sky</td></tr>
-<tr><td>🇺🇸 <b>New York</b></td><td>22.1°C</td><td>50%</td><td>19.4 km/h</td><td>⛅ Partly cloudy</td></tr>
-<tr><td>🇫🇷 <b>Paris</b></td><td>10.2°C</td><td>87%</td><td>4.8 km/h</td><td>🌧️ Light rain</td></tr>
-<tr><td>🇮🇹 <b>Milan</b></td><td>8.3°C</td><td>29%</td><td>12.2 km/h</td><td>☀️ Clear sky</td></tr>
-<tr><td>🇿🇦 <b>Cape Town</b></td><td>19.2°C</td><td>87%</td><td>11.7 km/h</td><td>⛅ Partly cloudy</td></tr>
-<tr><td>🇯🇵 <b>Tokyo</b></td><td>15.1°C</td><td>68%</td><td>4.6 km/h</td><td>⛅ Partly cloudy</td></tr>
-<tr><td>🇦🇺 <b>Sydney</b></td><td>21.2°C</td><td>68%</td><td>1.6 km/h</td><td>☀️ Clear sky</td></tr>
-<tr><td>🇦🇪 <b>Dubai</b></td><td>21.5°C</td><td>87%</td><td>4.9 km/h</td><td>☁️ Overcast</td></tr>
-<tr><td>🇧🇷 <b>São Paulo</b></td><td>20.3°C</td><td>88%</td><td>5.6 km/h</td><td>☁️ Overcast</td></tr>
+{{weather_rows}}
 </table>
 
-<sub>🕐 Last weather update: <b>01 Apr 2026, 00:07 UTC</b></sub>
+<sub>🕐 Last weather update: <b>{{weather_update_time}}</b></sub>
 
 ---
 
@@ -144,15 +135,10 @@ fun_fact: "This README updates itself every day via GitHub Actions ⚡"
 <th>📊 % Change</th>
 <th>📅 As Of</th>
 </tr>
-<tr><td><b>VUAG</b></td><td>93.86</td><td>🟢 +0.43</td><td>+0.46%</td><td>01 Apr 2026</td></tr>
-<tr><td><b>VWRL</b></td><td>120.48</td><td>🟢 +0.54</td><td>+0.45%</td><td>01 Apr 2026</td></tr>
-<tr><td><b>SPY</b></td><td>650.34</td><td>🟢 +19.80</td><td>+3.14%</td><td>01 Apr 2026</td></tr>
-<tr><td><b>QQQ</b></td><td>577.18</td><td>🟢 +21.14</td><td>+3.80%</td><td>01 Apr 2026</td></tr>
-<tr><td><b>ARKK</b></td><td>67.59</td><td>🟢 +4.46</td><td>+7.07%</td><td>01 Apr 2026</td></tr>
-<tr><td><b>VTI</b></td><td>320.81</td><td>🟢 +9.83</td><td>+3.16%</td><td>01 Apr 2026</td></tr>
+{{stock_rows}}
 </table>
 
-<sub>🕐 Last market update: <b>01 Apr 2026, 00:07 UTC</b> · Data from Yahoo Finance</sub>
+<sub>🕐 Last market update: <b>{{stock_update_time}}</b> · Data from Yahoo Finance</sub>
 
 ---
 
@@ -165,40 +151,40 @@ fun_fact: "This README updates itself every day via GitHub Actions ⚡"
 
 ### 📖 Word of the Day
 
-> **Melancholy** · */ˈmelənkəli/*
+> **{{word}}** · *{{word_pronunciation}}*
 >
-> *noun* — Black bile, formerly thought to be one of the four "cardinal humours" of animal bodies.
+> *{{word_type}}* — {{word_meaning}}
 >
-> 💬 *"Today's word is 'melancholy' — try using it in conversation!"*
+> 💬 *"{{word_example}}"*
 
 </td>
 <td width="50%">
 
 ### 🏛️ Philosopher's Quote
 
-> *"It's not the men in your life that matters, it's the life in your men."*
+> *"{{philosopher_quote}}"*
 >
-> — **Mae West**
+> — **{{philosopher_author}}**
 
 </td>
 </tr>
 <tr>
 <td>
 
-### 🧠 Fun Fact
+### {{fun_fact_emoji}} Fun Fact
 
-> The human feet perspire half a pint of fluid a day
+> {{fun_fact}}
 
 </td>
 <td>
 
 ### 🌙 Moon Phase
 
-> 🌔 Waxing Gibbous
+> {{moon_phase}}
 
-### 📜 On This Day (April 01)
+### {{history_emoji}} On This Day ({{today_month_day}})
 
-> **1918** — The United Kingdom established the Royal Air Force, near the end of the First World War.
+> **{{history_year}}** — {{history_event}}
 
 </td>
 </tr>
@@ -211,12 +197,7 @@ fun_fact: "This README updates itself every day via GitHub Actions ⚡"
 
 | 🎉 Event | 📅 Days Left |
 |-----------|-------------|
-| 🎄 Christmas | `██████░░░░░░░░░░░░░░` **267** days |
-| 🎆 New Year | `█████░░░░░░░░░░░░░░░` **274** days |
-| 🎃 Halloween | `█████████░░░░░░░░░░░` **212** days |
-| 🥧 Pi Day | `██░░░░░░░░░░░░░░░░░░` **346** days |
-| ⚔️ Star Wars Day | `███████████████████░` **32** days |
-| 🌍 Earth Day | `███████████████████░` **20** days |
+{{countdowns}}
 
 ---
 
@@ -272,6 +253,6 @@ fun_fact: "This README updates itself every day via GitHub Actions ⚡"
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer" width="100%" />
 
-<sub>⚡ This README is <b>auto-generated</b> daily by <a href="https://github.com/francescowang/francescowang/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a></sub>
+<sub>⚡ This README is <b>auto-generated</b> daily by <a href="https://github.com/francescowang/francescowang/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a> · Powered by Mustache templating</sub>
 
 </div>
