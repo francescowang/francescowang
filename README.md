@@ -115,19 +115,19 @@ fun_fact: "This README updates itself every day via GitHub Actions ⚡"
 <th>🌬️ Wind</th>
 <th>☁️ Conditions</th>
 </tr>
-<tr><td>🇬🇧 <b>London</b></td><td>13.0°C</td><td>67%</td><td>7.9 km/h</td><td>☀️ Clear sky</td></tr>
-<tr><td>🇨🇳 <b>Beijing</b></td><td>10.7°C</td><td>35%</td><td>7.1 km/h</td><td>☀️ Clear sky</td></tr>
-<tr><td>🇺🇸 <b>New York</b></td><td>22.1°C</td><td>50%</td><td>19.4 km/h</td><td>⛅ Partly cloudy</td></tr>
-<tr><td>🇫🇷 <b>Paris</b></td><td>10.2°C</td><td>87%</td><td>4.8 km/h</td><td>🌧️ Light rain</td></tr>
-<tr><td>🇮🇹 <b>Milan</b></td><td>8.3°C</td><td>29%</td><td>12.2 km/h</td><td>☀️ Clear sky</td></tr>
-<tr><td>🇿🇦 <b>Cape Town</b></td><td>19.2°C</td><td>87%</td><td>11.7 km/h</td><td>⛅ Partly cloudy</td></tr>
-<tr><td>🇯🇵 <b>Tokyo</b></td><td>15.1°C</td><td>68%</td><td>4.6 km/h</td><td>⛅ Partly cloudy</td></tr>
-<tr><td>🇦🇺 <b>Sydney</b></td><td>21.2°C</td><td>68%</td><td>1.6 km/h</td><td>☀️ Clear sky</td></tr>
-<tr><td>🇦🇪 <b>Dubai</b></td><td>21.5°C</td><td>87%</td><td>4.9 km/h</td><td>☁️ Overcast</td></tr>
-<tr><td>🇧🇷 <b>São Paulo</b></td><td>20.3°C</td><td>88%</td><td>5.6 km/h</td><td>☁️ Overcast</td></tr>
+<tr><td>🇬🇧 <b>London</b></td><td>12.2°C</td><td>70%</td><td>9.0 km/h</td><td>☀️ Clear sky</td></tr>
+<tr><td>🇨🇳 <b>Beijing</b></td><td>11.9°C</td><td>29%</td><td>9.0 km/h</td><td>☀️ Clear sky</td></tr>
+<tr><td>🇺🇸 <b>New York</b></td><td>21.9°C</td><td>50%</td><td>16.2 km/h</td><td>⛅ Partly cloudy</td></tr>
+<tr><td>🇫🇷 <b>Paris</b></td><td>10.2°C</td><td>87%</td><td>4.9 km/h</td><td>🌧️ Light rain</td></tr>
+<tr><td>🇮🇹 <b>Milan</b></td><td>7.4°C</td><td>34%</td><td>3.2 km/h</td><td>☀️ Clear sky</td></tr>
+<tr><td>🇿🇦 <b>Cape Town</b></td><td>19.2°C</td><td>88%</td><td>12.2 km/h</td><td>⛅ Partly cloudy</td></tr>
+<tr><td>🇯🇵 <b>Tokyo</b></td><td>15.3°C</td><td>73%</td><td>4.0 km/h</td><td>☁️ Overcast</td></tr>
+<tr><td>🇦🇺 <b>Sydney</b></td><td>22.5°C</td><td>62%</td><td>3.3 km/h</td><td>☀️ Clear sky</td></tr>
+<tr><td>🇦🇪 <b>Dubai</b></td><td>21.6°C</td><td>87%</td><td>4.5 km/h</td><td>☁️ Overcast</td></tr>
+<tr><td>🇧🇷 <b>São Paulo</b></td><td>20.1°C</td><td>89%</td><td>5.1 km/h</td><td>☁️ Overcast</td></tr>
 </table>
 
-<sub>🕐 Last weather update: <b>01 Apr 2026, 00:07 UTC</b></sub>
+<sub>🕐 Last weather update: <b>01 Apr 2026, 00:41 UTC</b></sub>
 
 ---
 
@@ -144,15 +144,15 @@ fun_fact: "This README updates itself every day via GitHub Actions ⚡"
 <th>📊 % Change</th>
 <th>📅 As Of</th>
 </tr>
-<tr><td><b>VUAG</b></td><td>93.86</td><td>🟢 +0.43</td><td>+0.46%</td><td>01 Apr 2026</td></tr>
-<tr><td><b>VWRL</b></td><td>120.48</td><td>🟢 +0.54</td><td>+0.45%</td><td>01 Apr 2026</td></tr>
+<tr><td><b>VUAG.L</b></td><td>93.86</td><td>🟢 +0.43</td><td>+0.46%</td><td>01 Apr 2026</td></tr>
+<tr><td><b>VWRL.L</b></td><td>120.48</td><td>🟢 +0.54</td><td>+0.45%</td><td>01 Apr 2026</td></tr>
 <tr><td><b>SPY</b></td><td>650.34</td><td>🟢 +19.80</td><td>+3.14%</td><td>01 Apr 2026</td></tr>
 <tr><td><b>QQQ</b></td><td>577.18</td><td>🟢 +21.14</td><td>+3.80%</td><td>01 Apr 2026</td></tr>
 <tr><td><b>ARKK</b></td><td>67.59</td><td>🟢 +4.46</td><td>+7.07%</td><td>01 Apr 2026</td></tr>
 <tr><td><b>VTI</b></td><td>320.81</td><td>🟢 +9.83</td><td>+3.16%</td><td>01 Apr 2026</td></tr>
 </table>
 
-<sub>🕐 Last market update: <b>01 Apr 2026, 00:07 UTC</b> · Data from Yahoo Finance</sub>
+<sub>🕐 Last market update: <b>01 Apr 2026, 00:41 UTC</b> · Data from Yahoo Finance</sub>
 
 ---
 
@@ -272,6 +272,6 @@ fun_fact: "This README updates itself every day via GitHub Actions ⚡"
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer" width="100%" />
 
-<sub>⚡ This README is <b>auto-generated</b> daily by <a href="https://github.com/francescowang/francescowang/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a></sub>
+<sub>⚡ This README is <b>auto-generated</b> daily by <a href="https://github.com/francescowang/francescowang/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a> · Powered by Mustache templating</sub>
 
 </div>
