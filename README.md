@@ -115,19 +115,19 @@ fun_fact: "This README updates itself every day via GitHub Actions ⚡"
 <th>🌬️ Wind</th>
 <th>☁️ Conditions</th>
 </tr>
-<tr><td>🇬🇧 <b>London</b></td><td>12.2°C</td><td>70%</td><td>9.0 km/h</td><td>☀️ Clear sky</td></tr>
-<tr><td>🇨🇳 <b>Beijing</b></td><td>11.9°C</td><td>29%</td><td>9.0 km/h</td><td>☀️ Clear sky</td></tr>
-<tr><td>🇺🇸 <b>New York</b></td><td>21.9°C</td><td>50%</td><td>16.2 km/h</td><td>⛅ Partly cloudy</td></tr>
-<tr><td>🇫🇷 <b>Paris</b></td><td>10.2°C</td><td>87%</td><td>4.9 km/h</td><td>🌧️ Light rain</td></tr>
-<tr><td>🇮🇹 <b>Milan</b></td><td>7.4°C</td><td>34%</td><td>3.2 km/h</td><td>☀️ Clear sky</td></tr>
-<tr><td>🇿🇦 <b>Cape Town</b></td><td>19.2°C</td><td>88%</td><td>12.2 km/h</td><td>⛅ Partly cloudy</td></tr>
-<tr><td>🇯🇵 <b>Tokyo</b></td><td>15.3°C</td><td>73%</td><td>4.0 km/h</td><td>☁️ Overcast</td></tr>
-<tr><td>🇦🇺 <b>Sydney</b></td><td>22.5°C</td><td>62%</td><td>3.3 km/h</td><td>☀️ Clear sky</td></tr>
-<tr><td>🇦🇪 <b>Dubai</b></td><td>21.6°C</td><td>87%</td><td>4.5 km/h</td><td>☁️ Overcast</td></tr>
-<tr><td>🇧🇷 <b>São Paulo</b></td><td>20.1°C</td><td>89%</td><td>5.1 km/h</td><td>☁️ Overcast</td></tr>
+<tr><td>🇬🇧 <b>London</b></td><td>11.2°C</td><td>66%</td><td>3.6 km/h</td><td>☁️ Overcast</td></tr>
+<tr><td>🇨🇳 <b>Beijing</b></td><td>18.3°C</td><td>19%</td><td>9.2 km/h</td><td>🌤️ Mainly clear</td></tr>
+<tr><td>🇺🇸 <b>New York</b></td><td>18.8°C</td><td>62%</td><td>9.4 km/h</td><td>☁️ Overcast</td></tr>
+<tr><td>🇫🇷 <b>Paris</b></td><td>10.0°C</td><td>90%</td><td>5.6 km/h</td><td>☁️ Overcast</td></tr>
+<tr><td>🇮🇹 <b>Milan</b></td><td>6.8°C</td><td>39%</td><td>3.8 km/h</td><td>☁️ Overcast</td></tr>
+<tr><td>🇿🇦 <b>Cape Town</b></td><td>19.5°C</td><td>83%</td><td>10.9 km/h</td><td>⛅ Partly cloudy</td></tr>
+<tr><td>🇯🇵 <b>Tokyo</b></td><td>13.0°C</td><td>91%</td><td>4.8 km/h</td><td>🌦️ Light drizzle</td></tr>
+<tr><td>🇦🇺 <b>Sydney</b></td><td>25.0°C</td><td>57%</td><td>13.2 km/h</td><td>☀️ Clear sky</td></tr>
+<tr><td>🇦🇪 <b>Dubai</b></td><td>23.9°C</td><td>77%</td><td>12.7 km/h</td><td>⛅ Partly cloudy</td></tr>
+<tr><td>🇧🇷 <b>São Paulo</b></td><td colspan='4'>Data unavailable</td></tr>
 </table>
 
-<sub>🕐 Last weather update: <b>01 Apr 2026, 00:41 UTC</b></sub>
+<sub>🕐 Last weather update: <b>01 Apr 2026, 06:30 UTC</b></sub>
 
 ---
 
@@ -152,7 +152,7 @@ fun_fact: "This README updates itself every day via GitHub Actions ⚡"
 <tr><td><b>VTI</b></td><td>320.81</td><td>🟢 +9.83</td><td>+3.16%</td><td>01 Apr 2026</td></tr>
 </table>
 
-<sub>🕐 Last market update: <b>01 Apr 2026, 00:41 UTC</b> · Data from Yahoo Finance</sub>
+<sub>🕐 Last market update: <b>01 Apr 2026, 06:30 UTC</b> · Data from Yahoo Finance</sub>
 
 ---
 
