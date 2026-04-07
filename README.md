@@ -5,7 +5,7 @@
 
 <!-- LIVE CLOCK -->
 <p>
-<img src="https://img.shields.io/badge/📅_Today-Monday, 06 April 2026-58a6ff?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/📅_Today-Tuesday, 07 April 2026-58a6ff?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/☕_Visitors-welcome-f78166?style=for-the-badge&labelColor=0d1117" />
 </p>
 
@@ -115,19 +115,19 @@ fun_fact: "This README updates itself every day via GitHub Actions ⚡"
 <th>🌬️ Wind</th>
 <th>☁️ Conditions</th>
 </tr>
-<tr><td>🇬🇧 <b>London</b></td><td>5.3°C</td><td>70%</td><td>2.5 km/h</td><td>☁️ Overcast</td></tr>
-<tr><td>🇨🇳 <b>Beijing</b></td><td>18.5°C</td><td>11%</td><td>7.0 km/h</td><td>☁️ Overcast</td></tr>
-<tr><td>🇺🇸 <b>New York</b></td><td>6.4°C</td><td>69%</td><td>15.4 km/h</td><td>🌤️ Mainly clear</td></tr>
-<tr><td>🇫🇷 <b>Paris</b></td><td>5.9°C</td><td>82%</td><td>2.9 km/h</td><td>🌤️ Mainly clear</td></tr>
-<tr><td>🇮🇹 <b>Milan</b></td><td>11.8°C</td><td>89%</td><td>5.4 km/h</td><td>⛅ Partly cloudy</td></tr>
-<tr><td>🇿🇦 <b>Cape Town</b></td><td>16.8°C</td><td>77%</td><td>8.7 km/h</td><td>⛅ Partly cloudy</td></tr>
-<tr><td>🇯🇵 <b>Tokyo</b></td><td>21.0°C</td><td>65%</td><td>8.0 km/h</td><td>⛅ Partly cloudy</td></tr>
-<tr><td>🇦🇺 <b>Sydney</b></td><td>18.4°C</td><td>70%</td><td>5.1 km/h</td><td>☁️ Overcast</td></tr>
-<tr><td>🇦🇪 <b>Dubai</b></td><td>25.0°C</td><td>56%</td><td>16.2 km/h</td><td>⛅ Partly cloudy</td></tr>
-<tr><td>🇧🇷 <b>São Paulo</b></td><td>20.8°C</td><td>92%</td><td>5.9 km/h</td><td>☁️ Overcast</td></tr>
+<tr><td>🇬🇧 <b>London</b></td><td colspan='4'>Data unavailable</td></tr>
+<tr><td>🇨🇳 <b>Beijing</b></td><td colspan='4'>Data unavailable</td></tr>
+<tr><td>🇺🇸 <b>New York</b></td><td colspan='4'>Data unavailable</td></tr>
+<tr><td>🇫🇷 <b>Paris</b></td><td colspan='4'>Data unavailable</td></tr>
+<tr><td>🇮🇹 <b>Milan</b></td><td colspan='4'>Data unavailable</td></tr>
+<tr><td>🇿🇦 <b>Cape Town</b></td><td colspan='4'>Data unavailable</td></tr>
+<tr><td>🇯🇵 <b>Tokyo</b></td><td colspan='4'>Data unavailable</td></tr>
+<tr><td>🇦🇺 <b>Sydney</b></td><td colspan='4'>Data unavailable</td></tr>
+<tr><td>🇦🇪 <b>Dubai</b></td><td colspan='4'>Data unavailable</td></tr>
+<tr><td>🇧🇷 <b>São Paulo</b></td><td colspan='4'>Data unavailable</td></tr>
 </table>
 
-<sub>🕐 Last weather update: <b>06 Apr 2026, 06:32 UTC</b></sub>
+<sub>🕐 Last weather update: <b>07 Apr 2026, 06:26 UTC</b></sub>
 
 ---
 
@@ -144,15 +144,15 @@ fun_fact: "This README updates itself every day via GitHub Actions ⚡"
 <th>📊 % Change</th>
 <th>📅 As Of</th>
 </tr>
-<tr><td><b>VUAG.L</b></td><td>95.64</td><td>🟢 +0.28</td><td>+0.29%</td><td>06 Apr 2026</td></tr>
-<tr><td><b>VWRL.L</b></td><td>122.80</td><td>🔴 -0.12</td><td>-0.10%</td><td>06 Apr 2026</td></tr>
-<tr><td><b>SPY</b></td><td>655.83</td><td>🟢 +1.08</td><td>+0.16%</td><td>06 Apr 2026</td></tr>
-<tr><td><b>QQQ</b></td><td>584.98</td><td>🟢 +1.11</td><td>+0.19%</td><td>06 Apr 2026</td></tr>
-<tr><td><b>ARKK</b></td><td>68.56</td><td>🟢 +0.23</td><td>+0.34%</td><td>06 Apr 2026</td></tr>
-<tr><td><b>VTI</b></td><td>323.76</td><td>🟢 +0.46</td><td>+0.14%</td><td>06 Apr 2026</td></tr>
+<tr><td><b>VUAG.L</b></td><td>95.64</td><td>🟢 +0.28</td><td>+0.29%</td><td>07 Apr 2026</td></tr>
+<tr><td><b>VWRL.L</b></td><td>122.80</td><td>🔴 -0.12</td><td>-0.10%</td><td>07 Apr 2026</td></tr>
+<tr><td><b>SPY</b></td><td>658.93</td><td>🟢 +3.01</td><td>+0.46%</td><td>07 Apr 2026</td></tr>
+<tr><td><b>QQQ</b></td><td>588.50</td><td>🟢 +3.70</td><td>+0.63%</td><td>07 Apr 2026</td></tr>
+<tr><td><b>ARKK</b></td><td>68.80</td><td>🟢 +0.38</td><td>+0.56%</td><td>07 Apr 2026</td></tr>
+<tr><td><b>VTI</b></td><td>325.21</td><td>🟢 +1.27</td><td>+0.39%</td><td>07 Apr 2026</td></tr>
 </table>
 
-<sub>🕐 Last market update: <b>06 Apr 2026, 06:32 UTC</b> · Data from Yahoo Finance</sub>
+<sub>🕐 Last market update: <b>07 Apr 2026, 06:26 UTC</b> · Data from Yahoo Finance</sub>
 
 ---
 
@@ -165,20 +165,20 @@ fun_fact: "This README updates itself every day via GitHub Actions ⚡"
 
 ### 📖 Word of the Day
 
-> **Halcyon** · */ˈhælsiːən/*
+> **Perspicacious** · */ˌpɜː.spɪˈkeɪ.ʃəs/*
 >
-> *noun* — A kingfisher said in classical mythology to nest on the sea, thereby calming the waters.
+> *adjective* — Of acute discernment; having keen insight; mentally perceptive.
 >
-> 💬 *"Today's word is 'halcyon' — try using it in conversation!"*
+> 💬 *"Today's word is 'perspicacious' — try using it in conversation!"*
 
 </td>
 <td width="50%">
 
 ### 🏛️ Philosopher's Quote
 
-> *"Don't wish it were easier, wish you were better."*
+> *"The only true wisdom is in knowing you know nothing."*
 >
-> — **Jim Rohn**
+> — **Socrates**
 
 </td>
 </tr>
@@ -187,7 +187,7 @@ fun_fact: "This README updates itself every day via GitHub Actions ⚡"
 
 ### 🧠 Fun Fact
 
-> Most Egyptians died by the time they were 30 about 300 years ago,
+> An American urologist bought Napoleon’s penis for $40,000.
 
 </td>
 <td>
@@ -196,9 +196,9 @@ fun_fact: "This README updates itself every day via GitHub Actions ⚡"
 
 > 🌖 Waning Gibbous
 
-### 📜 On This Day (April 06)
+### 📜 On This Day (April 07)
 
-> **1776** — American Revolutionary War: Ships of the Continental Navy unsuccessfully attempted to capture HMS Glasgow near Block Island.
+> **1831** — Pedro II became emperor of the Empire of Brazil.
 
 </td>
 </tr>
@@ -211,12 +211,12 @@ fun_fact: "This README updates itself every day via GitHub Actions ⚡"
 
 | 🎉 Event | 📅 Days Left |
 |-----------|-------------|
-| 🎄 Christmas | `██████░░░░░░░░░░░░░░` **262** days |
-| 🎆 New Year | `██████░░░░░░░░░░░░░░` **269** days |
-| 🎃 Halloween | `█████████░░░░░░░░░░░` **207** days |
-| 🥧 Pi Day | `██░░░░░░░░░░░░░░░░░░` **341** days |
-| ⚔️ Star Wars Day | `███████████████████░` **27** days |
-| 🌍 Earth Day | `████████████████████` **15** days |
+| 🎄 Christmas | `██████░░░░░░░░░░░░░░` **261** days |
+| 🎆 New Year | `██████░░░░░░░░░░░░░░` **268** days |
+| 🎃 Halloween | `█████████░░░░░░░░░░░` **206** days |
+| 🥧 Pi Day | `██░░░░░░░░░░░░░░░░░░` **340** days |
+| ⚔️ Star Wars Day | `███████████████████░` **26** days |
+| 🌍 Earth Day | `████████████████████` **14** days |
 
 ---
 
