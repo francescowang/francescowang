@@ -5,7 +5,7 @@
 
 <!-- LIVE CLOCK -->
 <p>
-<img src="https://img.shields.io/badge/📅_Today-Tuesday, 07 April 2026-58a6ff?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/📅_Today-Wednesday, 08 April 2026-58a6ff?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/☕_Visitors-welcome-f78166?style=for-the-badge&labelColor=0d1117" />
 </p>
 
@@ -115,19 +115,19 @@ fun_fact: "This README updates itself every day via GitHub Actions ⚡"
 <th>🌬️ Wind</th>
 <th>☁️ Conditions</th>
 </tr>
-<tr><td>🇬🇧 <b>London</b></td><td colspan='4'>Data unavailable</td></tr>
-<tr><td>🇨🇳 <b>Beijing</b></td><td colspan='4'>Data unavailable</td></tr>
-<tr><td>🇺🇸 <b>New York</b></td><td colspan='4'>Data unavailable</td></tr>
-<tr><td>🇫🇷 <b>Paris</b></td><td colspan='4'>Data unavailable</td></tr>
-<tr><td>🇮🇹 <b>Milan</b></td><td colspan='4'>Data unavailable</td></tr>
-<tr><td>🇿🇦 <b>Cape Town</b></td><td colspan='4'>Data unavailable</td></tr>
-<tr><td>🇯🇵 <b>Tokyo</b></td><td colspan='4'>Data unavailable</td></tr>
+<tr><td>🇬🇧 <b>London</b></td><td>10.3°C</td><td>69%</td><td>8.3 km/h</td><td>☀️ Clear sky</td></tr>
+<tr><td>🇨🇳 <b>Beijing</b></td><td>19.2°C</td><td>33%</td><td>13.4 km/h</td><td>🌤️ Mainly clear</td></tr>
+<tr><td>🇺🇸 <b>New York</b></td><td>-0.8°C</td><td>56%</td><td>7.1 km/h</td><td>☀️ Clear sky</td></tr>
+<tr><td>🇫🇷 <b>Paris</b></td><td>10.5°C</td><td>70%</td><td>2.5 km/h</td><td>☀️ Clear sky</td></tr>
+<tr><td>🇮🇹 <b>Milan</b></td><td>11.7°C</td><td>86%</td><td>2.3 km/h</td><td>☀️ Clear sky</td></tr>
+<tr><td>🇿🇦 <b>Cape Town</b></td><td>16.8°C</td><td>81%</td><td>7.1 km/h</td><td>☀️ Clear sky</td></tr>
+<tr><td>🇯🇵 <b>Tokyo</b></td><td>16.7°C</td><td>32%</td><td>2.5 km/h</td><td>☀️ Clear sky</td></tr>
 <tr><td>🇦🇺 <b>Sydney</b></td><td colspan='4'>Data unavailable</td></tr>
-<tr><td>🇦🇪 <b>Dubai</b></td><td colspan='4'>Data unavailable</td></tr>
-<tr><td>🇧🇷 <b>São Paulo</b></td><td colspan='4'>Data unavailable</td></tr>
+<tr><td>🇦🇪 <b>Dubai</b></td><td>23.9°C</td><td>65%</td><td>19.8 km/h</td><td>🌤️ Mainly clear</td></tr>
+<tr><td>🇧🇷 <b>São Paulo</b></td><td>22.2°C</td><td>86%</td><td>7.1 km/h</td><td>🌤️ Mainly clear</td></tr>
 </table>
 
-<sub>🕐 Last weather update: <b>07 Apr 2026, 06:26 UTC</b></sub>
+<sub>🕐 Last weather update: <b>08 Apr 2026, 06:27 UTC</b></sub>
 
 ---
 
@@ -144,15 +144,15 @@ fun_fact: "This README updates itself every day via GitHub Actions ⚡"
 <th>📊 % Change</th>
 <th>📅 As Of</th>
 </tr>
-<tr><td><b>VUAG.L</b></td><td>95.64</td><td>🟢 +0.28</td><td>+0.29%</td><td>07 Apr 2026</td></tr>
-<tr><td><b>VWRL.L</b></td><td>122.80</td><td>🔴 -0.12</td><td>-0.10%</td><td>07 Apr 2026</td></tr>
-<tr><td><b>SPY</b></td><td>658.93</td><td>🟢 +3.01</td><td>+0.46%</td><td>07 Apr 2026</td></tr>
-<tr><td><b>QQQ</b></td><td>588.50</td><td>🟢 +3.70</td><td>+0.63%</td><td>07 Apr 2026</td></tr>
-<tr><td><b>ARKK</b></td><td>68.80</td><td>🟢 +0.38</td><td>+0.56%</td><td>07 Apr 2026</td></tr>
-<tr><td><b>VTI</b></td><td>325.21</td><td>🟢 +1.27</td><td>+0.39%</td><td>07 Apr 2026</td></tr>
+<tr><td><b>VUAG.L</b></td><td>95.36</td><td>🔴 -0.28</td><td>-0.29%</td><td>08 Apr 2026</td></tr>
+<tr><td><b>VWRL.L</b></td><td>122.38</td><td>🔴 -0.42</td><td>-0.34%</td><td>08 Apr 2026</td></tr>
+<tr><td><b>SPY</b></td><td>659.22</td><td>🟢 +1.17</td><td>+0.18%</td><td>08 Apr 2026</td></tr>
+<tr><td><b>QQQ</b></td><td>588.59</td><td>🟢 +1.55</td><td>+0.26%</td><td>08 Apr 2026</td></tr>
+<tr><td><b>ARKK</b></td><td>68.76</td><td>🟢 +0.16</td><td>+0.23%</td><td>08 Apr 2026</td></tr>
+<tr><td><b>VTI</b></td><td>325.43</td><td>🟢 +0.53</td><td>+0.16%</td><td>08 Apr 2026</td></tr>
 </table>
 
-<sub>🕐 Last market update: <b>07 Apr 2026, 06:26 UTC</b> · Data from Yahoo Finance</sub>
+<sub>🕐 Last market update: <b>08 Apr 2026, 06:27 UTC</b> · Data from Yahoo Finance</sub>
 
 ---
 
@@ -165,20 +165,20 @@ fun_fact: "This README updates itself every day via GitHub Actions ⚡"
 
 ### 📖 Word of the Day
 
-> **Perspicacious** · */ˌpɜː.spɪˈkeɪ.ʃəs/*
+> **Verisimilitude** · */vɛɹɪsɪˈmɪlɪtjuːd/*
 >
-> *adjective* — Of acute discernment; having keen insight; mentally perceptive.
+> *noun* — The property of seeming true, of resembling reality; resemblance to reality, realism.
 >
-> 💬 *"Today's word is 'perspicacious' — try using it in conversation!"*
+> 💬 *"Today's word is 'verisimilitude' — try using it in conversation!"*
 
 </td>
 <td width="50%">
 
 ### 🏛️ Philosopher's Quote
 
-> *"The only true wisdom is in knowing you know nothing."*
+> *"It's OK to have your eggs in one basket as long as you control what happens to that basket."*
 >
-> — **Socrates**
+> — **Elon Musk**
 
 </td>
 </tr>
@@ -187,7 +187,7 @@ fun_fact: "This README updates itself every day via GitHub Actions ⚡"
 
 ### 🧠 Fun Fact
 
-> An American urologist bought Napoleon’s penis for $40,000.
+> There are 336 dimples on a regulation US golf ball. In the UK its 330.
 
 </td>
 <td>
@@ -196,9 +196,9 @@ fun_fact: "This README updates itself every day via GitHub Actions ⚡"
 
 > 🌖 Waning Gibbous
 
-### 📜 On This Day (April 07)
+### 📜 On This Day (April 08)
 
-> **1831** — Pedro II became emperor of the Empire of Brazil.
+> **217** — Roman emperor Caracalla (pictured) was assassinated near Harran and succeeded by his Praetorian Guard prefect Macrinus.
 
 </td>
 </tr>
@@ -211,12 +211,12 @@ fun_fact: "This README updates itself every day via GitHub Actions ⚡"
 
 | 🎉 Event | 📅 Days Left |
 |-----------|-------------|
-| 🎄 Christmas | `██████░░░░░░░░░░░░░░` **261** days |
-| 🎆 New Year | `██████░░░░░░░░░░░░░░` **268** days |
-| 🎃 Halloween | `█████████░░░░░░░░░░░` **206** days |
-| 🥧 Pi Day | `██░░░░░░░░░░░░░░░░░░` **340** days |
-| ⚔️ Star Wars Day | `███████████████████░` **26** days |
-| 🌍 Earth Day | `████████████████████` **14** days |
+| 🎄 Christmas | `██████░░░░░░░░░░░░░░` **260** days |
+| 🎆 New Year | `██████░░░░░░░░░░░░░░` **267** days |
+| 🎃 Halloween | `█████████░░░░░░░░░░░` **205** days |
+| 🥧 Pi Day | `██░░░░░░░░░░░░░░░░░░` **339** days |
+| ⚔️ Star Wars Day | `███████████████████░` **25** days |
+| 🌍 Earth Day | `████████████████████` **13** days |
 
 ---
 
