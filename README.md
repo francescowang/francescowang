@@ -5,7 +5,7 @@
 
 <!-- LIVE CLOCK -->
 <p>
-<img src="https://img.shields.io/badge/📅_Today-Friday, 24 April 2026-58a6ff?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/📅_Today-Saturday, 25 April 2026-58a6ff?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/☕_Visitors-welcome-f78166?style=for-the-badge&labelColor=0d1117" />
 </p>
 
@@ -115,19 +115,19 @@ fun_fact: "This README updates itself every day via GitHub Actions ⚡"
 <th>🌬️ Wind</th>
 <th>☁️ Conditions</th>
 </tr>
-<tr><td>🇬🇧 <b>London</b></td><td>6.8°C</td><td>84%</td><td>11.2 km/h</td><td>☁️ Overcast</td></tr>
-<tr><td>🇨🇳 <b>Beijing</b></td><td>24.4°C</td><td>50%</td><td>6.8 km/h</td><td>☁️ Overcast</td></tr>
-<tr><td>🇺🇸 <b>New York</b></td><td>16.1°C</td><td>29%</td><td>5.2 km/h</td><td>☁️ Overcast</td></tr>
-<tr><td>🇫🇷 <b>Paris</b></td><td>9.8°C</td><td>51%</td><td>6.3 km/h</td><td>☀️ Clear sky</td></tr>
-<tr><td>🇮🇹 <b>Milan</b></td><td>12.9°C</td><td>80%</td><td>0.0 km/h</td><td>☀️ Clear sky</td></tr>
-<tr><td>🇿🇦 <b>Cape Town</b></td><td>15.4°C</td><td>77%</td><td>6.2 km/h</td><td>🌤️ Mainly clear</td></tr>
-<tr><td>🇯🇵 <b>Tokyo</b></td><td>18.0°C</td><td>56%</td><td>5.9 km/h</td><td>🌤️ Mainly clear</td></tr>
-<tr><td>🇦🇺 <b>Sydney</b></td><td>21.2°C</td><td>54%</td><td>10.4 km/h</td><td>🌤️ Mainly clear</td></tr>
-<tr><td>🇦🇪 <b>Dubai</b></td><td>31.2°C</td><td>53%</td><td>10.1 km/h</td><td>☀️ Clear sky</td></tr>
-<tr><td>🇧🇷 <b>São Paulo</b></td><td>18.4°C</td><td>91%</td><td>5.7 km/h</td><td>⛅ Partly cloudy</td></tr>
+<tr><td>🇬🇧 <b>London</b></td><td>7.7°C</td><td>84%</td><td>4.3 km/h</td><td>☀️ Clear sky</td></tr>
+<tr><td>🇨🇳 <b>Beijing</b></td><td>27.2°C</td><td>34%</td><td>14.5 km/h</td><td>☁️ Overcast</td></tr>
+<tr><td>🇺🇸 <b>New York</b></td><td>7.9°C</td><td>89%</td><td>9.4 km/h</td><td>☁️ Overcast</td></tr>
+<tr><td>🇫🇷 <b>Paris</b></td><td>9.0°C</td><td>68%</td><td>7.2 km/h</td><td>☀️ Clear sky</td></tr>
+<tr><td>🇮🇹 <b>Milan</b></td><td>12.8°C</td><td>75%</td><td>4.5 km/h</td><td>☀️ Clear sky</td></tr>
+<tr><td>🇿🇦 <b>Cape Town</b></td><td>14.9°C</td><td>87%</td><td>12.4 km/h</td><td>☀️ Clear sky</td></tr>
+<tr><td>🇯🇵 <b>Tokyo</b></td><td>17.6°C</td><td>54%</td><td>7.1 km/h</td><td>🌤️ Mainly clear</td></tr>
+<tr><td>🇦🇺 <b>Sydney</b></td><td>21.0°C</td><td>66%</td><td>14.6 km/h</td><td>☀️ Clear sky</td></tr>
+<tr><td>🇦🇪 <b>Dubai</b></td><td>32.2°C</td><td>40%</td><td>6.7 km/h</td><td>☁️ Overcast</td></tr>
+<tr><td>🇧🇷 <b>São Paulo</b></td><td>18.8°C</td><td>88%</td><td>4.1 km/h</td><td>☀️ Clear sky</td></tr>
 </table>
 
-<sub>🕐 Last weather update: <b>24 Apr 2026, 06:34 UTC</b></sub>
+<sub>🕐 Last weather update: <b>25 Apr 2026, 06:26 UTC</b></sub>
 
 ---
 
@@ -144,15 +144,15 @@ fun_fact: "This README updates itself every day via GitHub Actions ⚡"
 <th>📊 % Change</th>
 <th>📅 As Of</th>
 </tr>
-<tr><td><b>VUAG.L</b></td><td>102.00</td><td>🟢 +0.36</td><td>+0.35%</td><td>24 Apr 2026</td></tr>
-<tr><td><b>VWRL.L</b></td><td>129.86</td><td>🟢 +0.22</td><td>+0.17%</td><td>24 Apr 2026</td></tr>
-<tr><td><b>SPY</b></td><td>708.45</td><td>🔴 -2.02</td><td>-0.28%</td><td>24 Apr 2026</td></tr>
-<tr><td><b>QQQ</b></td><td>651.42</td><td>🔴 -4.06</td><td>-0.62%</td><td>24 Apr 2026</td></tr>
-<tr><td><b>ARKK</b></td><td>76.50</td><td>🔴 -2.53</td><td>-3.20%</td><td>24 Apr 2026</td></tr>
-<tr><td><b>VTI</b></td><td>349.80</td><td>🔴 -1.09</td><td>-0.31%</td><td>24 Apr 2026</td></tr>
+<tr><td><b>VUAG.L</b></td><td>101.98</td><td>🔴 -0.02</td><td>-0.02%</td><td>25 Apr 2026</td></tr>
+<tr><td><b>VWRL.L</b></td><td>129.66</td><td>🔴 -0.20</td><td>-0.15%</td><td>25 Apr 2026</td></tr>
+<tr><td><b>SPY</b></td><td>713.94</td><td>🟢 +4.40</td><td>+0.62%</td><td>25 Apr 2026</td></tr>
+<tr><td><b>QQQ</b></td><td>663.88</td><td>🟢 +8.68</td><td>+1.32%</td><td>25 Apr 2026</td></tr>
+<tr><td><b>ARKK</b></td><td>76.50</td><td>🔴 -0.49</td><td>-0.64%</td><td>25 Apr 2026</td></tr>
+<tr><td><b>VTI</b></td><td>352.05</td><td>🟢 +1.82</td><td>+0.52%</td><td>25 Apr 2026</td></tr>
 </table>
 
-<sub>🕐 Last market update: <b>24 Apr 2026, 06:34 UTC</b> · Data from Yahoo Finance</sub>
+<sub>🕐 Last market update: <b>25 Apr 2026, 06:26 UTC</b> · Data from Yahoo Finance</sub>
 
 ---
 
@@ -165,20 +165,20 @@ fun_fact: "This README updates itself every day via GitHub Actions ⚡"
 
 ### 📖 Word of the Day
 
-> **Petrichor** · */ˈpɛtɹɪkɚ/*
+> **Obfuscate** · */ˈɒbfəskeɪt/*
 >
-> *noun* — The distinctive scent, caused by geosmin, which accompanies the first rain after a long, warm, dry spell.
+> *verb* — To make dark; overshadow
 >
-> 💬 *"Today's word is 'petrichor' — try using it in conversation!"*
+> 💬 *"Today's word is 'obfuscate' — try using it in conversation!"*
 
 </td>
 <td width="50%">
 
 ### 🏛️ Philosopher's Quote
 
-> *"You can't get to a place that you don't believe exists."*
+> *"Even if you persuade me, you won't persuade me."*
 >
-> — **Unknown**
+> — **Aristophanes**
 
 </td>
 </tr>
@@ -187,7 +187,7 @@ fun_fact: "This README updates itself every day via GitHub Actions ⚡"
 
 ### 🧠 Fun Fact
 
-> Butterflies taste with their feet.
+> Rubber bands last longer when refrigerated.
 
 </td>
 <td>
@@ -196,9 +196,9 @@ fun_fact: "This README updates itself every day via GitHub Actions ⚡"
 
 > 🌓 First Quarter
 
-### 📜 On This Day (April 24)
+### 📜 On This Day (April 25)
 
-> **1915** — The Armenian genocide in the Ottoman Empire began with the arrest and deportation of hundreds of prominent Armenians in Constantinople.
+> **1915** — First World War: The Australian and New Zealand Army Corps landed at Anzac Cove while British and French troops landed at Cape Helles to begin the Allied invasion of the Gallipoli peninsula in the Ottoman Empire.
 
 </td>
 </tr>
@@ -211,12 +211,12 @@ fun_fact: "This README updates itself every day via GitHub Actions ⚡"
 
 | 🎉 Event | 📅 Days Left |
 |-----------|-------------|
-| 🎄 Christmas | `███████░░░░░░░░░░░░░` **244** days |
-| 🎆 New Year | `███████░░░░░░░░░░░░░` **251** days |
-| 🎃 Halloween | `██████████░░░░░░░░░░` **189** days |
-| 🥧 Pi Day | `███░░░░░░░░░░░░░░░░░` **323** days |
-| ⚔️ Star Wars Day | `████████████████████` **9** days |
-| 🌍 Earth Day | `█░░░░░░░░░░░░░░░░░░░` **362** days |
+| 🎄 Christmas | `███████░░░░░░░░░░░░░` **243** days |
+| 🎆 New Year | `███████░░░░░░░░░░░░░` **250** days |
+| 🎃 Halloween | `██████████░░░░░░░░░░` **188** days |
+| 🥧 Pi Day | `███░░░░░░░░░░░░░░░░░` **322** days |
+| ⚔️ Star Wars Day | `████████████████████` **8** days |
+| 🌍 Earth Day | `█░░░░░░░░░░░░░░░░░░░` **361** days |
 
 ---
 
