@@ -29,11 +29,12 @@ from providers.daily_content import (
 
 def main():
     script_dir = os.path.dirname(os.path.abspath(__file__))
+    project_root = os.path.dirname(script_dir)  # Go up from scripts/
 
     # Set up Jinja2 environment
-    env = Environment(loader=FileSystemLoader(script_dir))
+    env = Environment(loader=FileSystemLoader(project_root))
     template = env.get_template("TEMPLATE.md")
-    output_path = os.path.join(script_dir, "README.md")
+    output_path = os.path.join(project_root, "README.md")
 
     now = datetime.now(timezone.utc)
 

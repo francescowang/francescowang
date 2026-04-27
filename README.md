@@ -153,7 +153,7 @@ fun_fact: "This README updates itself every day via GitHub Actions ⚡"
 <th>💰 Price</th>
 <th>📉 Change</th>
 <th>📊 % Change</th>
-<th>📅 As Of</th>
+<th>� As Of</th>
 </tr>
 <tr><td><b>VUAG.L</b></td><td>101.74</td><td>🔴 -0.24</td><td>-0.24%</td><td>27 Apr 2026, 19:12 UTC</td></tr>
 <tr><td><b>VWRL.L</b></td><td>129.35</td><td>🔴 -0.31</td><td>-0.24%</td><td>27 Apr 2026, 19:12 UTC</td></tr>

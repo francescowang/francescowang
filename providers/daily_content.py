@@ -10,7 +10,7 @@ All APIs are free and require no API keys:
 
 from datetime import datetime, timezone
 
-from config import INTERESTING_WORDS, MOON_PHASES
+from .config import INTERESTING_WORDS, MOON_PHASES
 from providers.utils import fetch_json, pick_daily
 
 

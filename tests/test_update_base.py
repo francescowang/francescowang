@@ -6,8 +6,8 @@ section-specific README update scripts.
 import pytest
 from datetime import datetime, timezone
 
-from update_base import UpdateScriptBase
-from update_patterns import (
+from scripts.update_base import UpdateScriptBase
+from scripts.update_patterns import (
     WEATHER_SECTION_HEADER,
     WEATHER_SECTION_END,
     WEATHER_TIMESTAMP,

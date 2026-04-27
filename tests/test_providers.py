@@ -208,7 +208,7 @@ class TestMoonPhase:
 
     def test_returns_known_phase_emoji(self):
         from providers.daily_content import get_moon_phase
-        from config import MOON_PHASES
+        from providers.config import MOON_PHASES
         now = datetime(2025, 4, 27, tzinfo=timezone.utc)
         result = get_moon_phase(now)
         assert result in MOON_PHASES

@@ -6,8 +6,8 @@ Runs every 6 hours via GitHub Actions.
 Inherits from UpdateScriptBase for common functionality.
 """
 
-from update_base import UpdateScriptBase
-from update_patterns import STOCKS_SECTION_HEADER, STOCKS_SECTION_END, STOCKS_TIMESTAMP
+from .update_base import UpdateScriptBase
+from .update_patterns import STOCKS_SECTION_HEADER, STOCKS_SECTION_END, STOCKS_TIMESTAMP
 from providers.stocks import get_stocks
 
 

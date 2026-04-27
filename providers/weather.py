@@ -6,7 +6,7 @@ Cities are fetched concurrently to reduce total latency.
 
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-from config import CITIES, WEATHER_EMOJI, WEATHER_DESC
+from .config import CITIES, WEATHER_EMOJI, WEATHER_DESC
 from providers.utils import fetch_json
 
 

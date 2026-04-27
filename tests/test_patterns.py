@@ -1,12 +1,11 @@
-"""
-Tests for update_patterns.py — verifies every regex pattern matches
+"""Tests for update_patterns.py — verifies every regex pattern matches
 valid README content and does NOT over-match adjacent sections.
 """
 
 import re
 import pytest
 
-from update_patterns import (
+from scripts.update_patterns import (
     WEATHER_SECTION_HEADER,
     WEATHER_SECTION_END,
     WEATHER_TIMESTAMP,

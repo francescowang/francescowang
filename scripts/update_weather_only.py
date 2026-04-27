@@ -6,8 +6,8 @@ Runs every 3 hours via GitHub Actions.
 Inherits from UpdateScriptBase for common functionality.
 """
 
-from update_base import UpdateScriptBase
-from update_patterns import WEATHER_SECTION_HEADER, WEATHER_SECTION_END, WEATHER_TIMESTAMP
+from .update_base import UpdateScriptBase
+from .update_patterns import WEATHER_SECTION_HEADER, WEATHER_SECTION_END, WEATHER_TIMESTAMP
 from providers.weather import get_weather
 
 

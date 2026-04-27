@@ -28,11 +28,12 @@ class UpdateScriptBase(ABC):
         """Initialize the update script.
         
         Args:
-            readme_path: Path to README.md. If None, uses current directory.
+            readme_path: Path to README.md. If None, looks in project root.
         """
         if readme_path is None:
             script_dir = os.path.dirname(os.path.abspath(__file__))
-            readme_path = os.path.join(script_dir, "README.md")
+            project_root = os.path.dirname(script_dir)  # Go up from scripts/
+            readme_path = os.path.join(project_root, "README.md")
         
         self.readme_path = readme_path
         self.now = datetime.now(timezone.utc)

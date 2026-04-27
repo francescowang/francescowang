@@ -6,8 +6,8 @@ Runs every 12 hours via GitHub Actions.
 Inherits from UpdateScriptBase for common functionality.
 """
 
-from update_base import UpdateScriptBase
-from update_patterns import HACKERNEWS_SECTION_HEADER, HACKERNEWS_SECTION_END, HACKERNEWS_TIMESTAMP
+from .update_base import UpdateScriptBase
+from .update_patterns import HACKERNEWS_SECTION_HEADER, HACKERNEWS_SECTION_END, HACKERNEWS_TIMESTAMP
 from providers.hackernews import get_hackernews_top10
 
 

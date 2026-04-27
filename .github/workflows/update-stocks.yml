@@ -28,19 +28,31 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v6
 
+      - name: Pull latest changes
+        run: git pull --rebase origin main
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.12"
+          python-version: "3.14"
 
       - name: Install dependencies
         run: pip install -r requirements.txt
 
       - name: Update stocks
-        run: python update_stocks_only.py
+        run: python scripts/update_stocks_only.py
 
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git diff --quiet || (git add README.md && git commit -m "chore: update stocks" && git pull --rebase && git push)
+          if ! git diff --quiet; then
+            git add README.md
+            git commit -m "chore: update stocks"
+            for i in 1 2 3 4 5; do
+              git push && break
+              echo "Push attempt $i failed — rebasing on origin/main..."
+              git pull --rebase origin main
+              sleep $((i * 3))
+            done
+          fi

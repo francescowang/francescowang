@@ -5,7 +5,7 @@ https://pypi.org/project/yfinance/
 
 from datetime import datetime, timezone
 
-from config import ETFS
+from .config import ETFS
 
 try:
     import yfinance as yf
@@ -38,13 +38,25 @@ def get_stocks() -> str:
                 else:
                     arrow, change_str, pct_str = "⚪", "N/A", "N/A"
                     price = "N/A"
+                try:
+                    trade_ts = info.regularMarketTime
+                    if trade_ts is not None:
+                        if isinstance(trade_ts, datetime):
+                            trade_dt = trade_ts.astimezone(timezone.utc)
+                        else:
+                            trade_dt = datetime.fromtimestamp(float(trade_ts), tz=timezone.utc)
+                        as_of = trade_dt.strftime('%d %b %Y, %H:%M UTC')
+                    else:
+                        as_of = datetime.now(timezone.utc).strftime('%d %b %Y, %H:%M UTC')
+                except Exception:
+                    as_of = datetime.now(timezone.utc).strftime('%d %b %Y, %H:%M UTC')
                 rows.append(
                     f"<tr>"
                     f"<td><b>{symbol}</b></td>"
                     f"<td>{price if isinstance(price, str) else f'{price:.2f}'}</td>"
                     f"<td>{arrow} {change_str}</td>"
                     f"<td>{pct_str}</td>"
-                    f"<td>{datetime.now(timezone.utc).strftime('%d %b %Y, %H:%M UTC')}</td>"
+                    f"<td>{as_of}</td>"
                     f"</tr>"
                 )
             except Exception as exc:
