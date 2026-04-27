@@ -9,7 +9,9 @@ on:
     paths:
       - "update_weather_only.py"
       - "providers/weather.py"
-
+concurrency:
+  group: readme-push
+  cancel-in-progress: false
 jobs:
   test:
     name: Run test suite
@@ -41,4 +43,4 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git diff --quiet || (git add README.md && git commit -m "chore: update weather" && git push)
+          git diff --quiet || (git add README.md && git commit -m "chore: update weather" && git pull --rebase && git push)

@@ -12,6 +12,10 @@ on:
       - "config.py"
       - "providers/**"
 
+concurrency:
+  group: readme-push
+  cancel-in-progress: false
+
 jobs:
   test:
     name: Run test suite
@@ -59,4 +63,4 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git diff --quiet || (git add README.md && git commit -m "chore: update readme" && git push)
+          git diff --quiet || (git add README.md && git commit -m "chore: update readme" && git pull --rebase && git push)

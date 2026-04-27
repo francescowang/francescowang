@@ -10,6 +10,10 @@ on:
       - "update_hackernews_only.py"
       - "providers/hackernews.py"
 
+concurrency:
+  group: readme-push
+  cancel-in-progress: false
+
 jobs:
   test:
     name: Run test suite
@@ -29,7 +33,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.12"
+          python-version: "3.14"
 
       - name: Install dependencies
         run: pip install -r requirements.txt
@@ -41,4 +45,4 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git diff --quiet || (git add README.md && git commit -m "chore: update hacker news" && git push)
+          git diff --quiet || (git add README.md && git commit -m "chore: update hacker news" && git pull --rebase && git push)
