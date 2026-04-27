@@ -2,7 +2,7 @@ name: Update Stocks
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # Every 6 hours
+    - cron: "15 */6 * * *"  # Every 6 hours at :15 (after weather at :00)
   workflow_dispatch:
   push:
     branches: [main]

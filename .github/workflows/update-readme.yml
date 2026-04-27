@@ -2,7 +2,7 @@ name: Update Profile README
 
 on:
   schedule:
-    - cron: "0 6 * * *"  # Daily at 6 AM UTC
+    - cron: "45 6 * * *"  # Daily at 06:45 UTC (after weather at 6:00, stocks at 6:15)
   workflow_dispatch:
   push:
     branches: [main]

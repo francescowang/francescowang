@@ -2,7 +2,7 @@ name: Update Hacker News
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Every 12 hours
+    - cron: "30 0,12 * * *"  # At 00:30 and 12:30 UTC (after weather at :00, stocks at :15)
   workflow_dispatch:
   push:
     branches: [main]
