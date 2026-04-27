@@ -179,19 +179,19 @@ fun_fact: "This README updates itself every day via GitHub Actions ⚡"
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-| 1. | [GitHub is having issues now](https://www.githubstatus.com) | 116 👍 | 37 💬 |
-| 2. | [Microsoft and OpenAI end their exclusive and revenue-sharing deal](https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai) | 489 👍 | 415 💬 |
-| 3. | [Super ZSNES – GPU Powered SNES Emulator](https://zsnes.com/) | 50 👍 | 11 💬 |
-| 4. | [Open-Source KiCad PCBs for Common Arduino, ESP32, RP2040 Boards](https://github.com/Hanqaqa/Easyduino) | 50 👍 | 1 💬 |
-| 5. | [“Why not just use Lean?”](https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html) | 179 👍 | 98 💬 |
-| 6. | [Networking changes coming in macOS 27](https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27/) | 119 👍 | 90 💬 |
-| 7. | [GitHub Copilot is moving to usage-based billing](https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/) | 306 👍 | 236 💬 |
-| 8. | [4TB of voice samples just stolen from 40k AI contractors at Mercor](https://app.oravys.com/blog/mercor-breach-2026) | 314 👍 | 121 💬 |
-| 9. | [The woes of sanitizing SVGs](https://muffin.ink/blog/scratch-svg-sanitization/) | 106 👍 | 39 💬 |
-| 10. | [Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-fla...](https://github.com/dirac-run/dirac) | 237 👍 | 84 💬 |
+<tr><td>1.</td><td><a href='https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai'>Microsoft and OpenAI end their exclusive and revenue-sharing deal</a></td><td>506 👍</td><td>433 💬</td></tr>
+<tr><td>2.</td><td><a href='https://zsnes.com/'>Super ZSNES – GPU Powered SNES Emulator</a></td><td>68 👍</td><td>15 💬</td></tr>
+<tr><td>3.</td><td><a href='https://github.com/Hanqaqa/Easyduino'>Open-Source KiCad PCBs for Common Arduino, ESP32, RP2040 Boards</a></td><td>59 👍</td><td>2 💬</td></tr>
+<tr><td>4.</td><td><a href='https://unitedwizardsofthecoast.com/news/announcing-united-wizards-coast-cwa'>United Wizards of the Coast</a></td><td>30 👍</td><td>3 💬</td></tr>
+<tr><td>5.</td><td><a href='https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html'>“Why not just use Lean?”</a></td><td>185 👍</td><td>101 💬</td></tr>
+<tr><td>6.</td><td><a href='https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27/'>Networking changes coming in macOS 27</a></td><td>126 👍</td><td>95 💬</td></tr>
+<tr><td>7.</td><td><a href='https://www.githubstatus.com'>GitHub is having issues now</a></td><td>147 👍</td><td>57 💬</td></tr>
+<tr><td>8.</td><td><a href='https://openai.com/index/our-principles/'>OpenAI: Our Principles</a></td><td>6 👍</td><td>2 💬</td></tr>
+<tr><td>9.</td><td><a href='https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/'>GitHub Copilot is moving to usage-based billing</a></td><td>324 👍</td><td>252 💬</td></tr>
+<tr><td>10.</td><td><a href='https://app.oravys.com/blog/mercor-breach-2026'>4TB of voice samples just stolen from 40k AI contractors at Mercor</a></td><td>322 👍</td><td>122 💬</td></tr>
 </table>
 
-<sub>🕐 Last HN update: <b>27 Apr 2026, 18:55 UTC</b></sub>
+<b>27 Apr 2026, 19:08 UTC</b>
 
 ---
 
