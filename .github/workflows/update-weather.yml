@@ -40,7 +40,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Update weather
-        run: python scripts/update_weather_only.py
+        run: python -m scripts.update_weather_only
 
       - name: Commit and push changes
         run: |

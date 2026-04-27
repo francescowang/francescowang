@@ -42,7 +42,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Generate README
-        run: python scripts/update_readme.py
+        run: python -m scripts.update_readme
 
       - name: Generate contribution snake
         uses: Platane/snk@v3

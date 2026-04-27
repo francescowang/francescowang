@@ -40,7 +40,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Update stocks
-        run: python scripts/update_stocks_only.py
+        run: python -m scripts.update_stocks_only
 
       - name: Commit and push changes
         run: |
