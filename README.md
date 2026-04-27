@@ -126,19 +126,19 @@ fun_fact: "This README updates itself every day via GitHub Actions ⚡"
 <th>🌬️ Wind</th>
 <th>☁️ Conditions</th>
 </tr>
-<tr><td>🇬🇧 <b>London</b></td><td>18.7°C</td><td>45%</td><td>16.6 km/h</td><td>🌦️ Light drizzle</td></tr>
-<tr><td>🇨🇳 <b>Beijing</b></td><td>13.7°C</td><td>44%</td><td>5.7 km/h</td><td>☁️ Overcast</td></tr>
-<tr><td>🇺🇸 <b>New York</b></td><td>20.4°C</td><td>30%</td><td>6.4 km/h</td><td>☀️ Clear sky</td></tr>
-<tr><td>🇫🇷 <b>Paris</b></td><td>19.5°C</td><td>38%</td><td>13.4 km/h</td><td>☁️ Overcast</td></tr>
-<tr><td>🇮🇹 <b>Milan</b></td><td>22.9°C</td><td>47%</td><td>6.9 km/h</td><td>🌤️ Mainly clear</td></tr>
-<tr><td>🇿🇦 <b>Cape Town</b></td><td>12.6°C</td><td>76%</td><td>5.3 km/h</td><td>⛅ Partly cloudy</td></tr>
-<tr><td>🇯🇵 <b>Tokyo</b></td><td>10.4°C</td><td>90%</td><td>4.7 km/h</td><td>🌤️ Mainly clear</td></tr>
-<tr><td>🇦🇺 <b>Sydney</b></td><td>13.6°C</td><td>87%</td><td>5.9 km/h</td><td>☀️ Clear sky</td></tr>
-<tr><td>🇦🇪 <b>Dubai</b></td><td>29.7°C</td><td>51%</td><td>20.1 km/h</td><td>☀️ Clear sky</td></tr>
-<tr><td>🇧🇷 <b>São Paulo</b></td><td>24.5°C</td><td>65%</td><td>6.5 km/h</td><td>☁️ Overcast</td></tr>
+<tr><td>🇬🇧 <b>London</b></td><td>18.6°C</td><td>46%</td><td>18.0 km/h</td><td>⛅ Partly cloudy</td></tr>
+<tr><td>🇨🇳 <b>Beijing</b></td><td>14.4°C</td><td>42%</td><td>5.6 km/h</td><td>☁️ Overcast</td></tr>
+<tr><td>🇺🇸 <b>New York</b></td><td>20.5°C</td><td>31%</td><td>8.3 km/h</td><td>☀️ Clear sky</td></tr>
+<tr><td>🇫🇷 <b>Paris</b></td><td>19.2°C</td><td>38%</td><td>14.1 km/h</td><td>☁️ Overcast</td></tr>
+<tr><td>🇮🇹 <b>Milan</b></td><td>22.6°C</td><td>48%</td><td>6.4 km/h</td><td>☀️ Clear sky</td></tr>
+<tr><td>🇿🇦 <b>Cape Town</b></td><td>12.4°C</td><td>77%</td><td>4.9 km/h</td><td>⛅ Partly cloudy</td></tr>
+<tr><td>🇯🇵 <b>Tokyo</b></td><td>10.4°C</td><td>89%</td><td>4.8 km/h</td><td>☀️ Clear sky</td></tr>
+<tr><td>🇦🇺 <b>Sydney</b></td><td>12.8°C</td><td>91%</td><td>5.9 km/h</td><td>☀️ Clear sky</td></tr>
+<tr><td>🇦🇪 <b>Dubai</b></td><td>29.2°C</td><td>52%</td><td>20.0 km/h</td><td>☀️ Clear sky</td></tr>
+<tr><td>🇧🇷 <b>São Paulo</b></td><td>24.8°C</td><td>65%</td><td>6.4 km/h</td><td>🌧️ Dense drizzle</td></tr>
 </table>
 
-<sub>🕐 Last weather update: <b>27 Apr 2026, 18:55 UTC</b></sub>
+<sub>🕐 Last weather update: <b>27 Apr 2026, 19:12 UTC</b></sub>
 
 ---
 
@@ -155,15 +155,15 @@ fun_fact: "This README updates itself every day via GitHub Actions ⚡"
 <th>📊 % Change</th>
 <th>📅 As Of</th>
 </tr>
-<tr><td><b>VUAG.L</b></td><td colspan='4'>Data unavailable</td></tr>
-<tr><td><b>VWRL.L</b></td><td colspan='4'>Data unavailable</td></tr>
-<tr><td><b>SPY</b></td><td colspan='4'>Data unavailable</td></tr>
-<tr><td><b>QQQ</b></td><td colspan='4'>Data unavailable</td></tr>
-<tr><td><b>ARKK</b></td><td colspan='4'>Data unavailable</td></tr>
-<tr><td><b>VTI</b></td><td colspan='4'>Data unavailable</td></tr>
+<tr><td><b>VUAG.L</b></td><td>101.74</td><td>🔴 -0.24</td><td>-0.24%</td><td>27 Apr 2026, 19:12 UTC</td></tr>
+<tr><td><b>VWRL.L</b></td><td>129.35</td><td>🔴 -0.31</td><td>-0.24%</td><td>27 Apr 2026, 19:12 UTC</td></tr>
+<tr><td><b>SPY</b></td><td>714.73</td><td>🟢 +0.72</td><td>+0.10%</td><td>27 Apr 2026, 19:12 UTC</td></tr>
+<tr><td><b>QQQ</b></td><td>663.10</td><td>🔴 -0.55</td><td>-0.08%</td><td>27 Apr 2026, 19:12 UTC</td></tr>
+<tr><td><b>ARKK</b></td><td>76.37</td><td>🔴 -0.33</td><td>-0.43%</td><td>27 Apr 2026, 19:12 UTC</td></tr>
+<tr><td><b>VTI</b></td><td>352.41</td><td>🟢 +0.08</td><td>+0.02%</td><td>27 Apr 2026, 19:12 UTC</td></tr>
 </table>
 
-<sub>🕐 Last market update: <b>27 Apr 2026, 18:55 UTC</b> · Data from Yahoo Finance</sub>
+<sub>🕐 Last market update: <b>27 Apr 2026, 19:12 UTC</b> · Data from Yahoo Finance</sub>
 
 ---
 
@@ -179,19 +179,19 @@ fun_fact: "This README updates itself every day via GitHub Actions ⚡"
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai'>Microsoft and OpenAI end their exclusive and revenue-sharing deal</a></td><td>506 👍</td><td>433 💬</td></tr>
-<tr><td>2.</td><td><a href='https://zsnes.com/'>Super ZSNES – GPU Powered SNES Emulator</a></td><td>68 👍</td><td>15 💬</td></tr>
-<tr><td>3.</td><td><a href='https://github.com/Hanqaqa/Easyduino'>Open-Source KiCad PCBs for Common Arduino, ESP32, RP2040 Boards</a></td><td>59 👍</td><td>2 💬</td></tr>
-<tr><td>4.</td><td><a href='https://unitedwizardsofthecoast.com/news/announcing-united-wizards-coast-cwa'>United Wizards of the Coast</a></td><td>30 👍</td><td>3 💬</td></tr>
-<tr><td>5.</td><td><a href='https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html'>“Why not just use Lean?”</a></td><td>185 👍</td><td>101 💬</td></tr>
-<tr><td>6.</td><td><a href='https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27/'>Networking changes coming in macOS 27</a></td><td>126 👍</td><td>95 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.githubstatus.com'>GitHub is having issues now</a></td><td>147 👍</td><td>57 💬</td></tr>
-<tr><td>8.</td><td><a href='https://openai.com/index/our-principles/'>OpenAI: Our Principles</a></td><td>6 👍</td><td>2 💬</td></tr>
-<tr><td>9.</td><td><a href='https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/'>GitHub Copilot is moving to usage-based billing</a></td><td>324 👍</td><td>252 💬</td></tr>
-<tr><td>10.</td><td><a href='https://app.oravys.com/blog/mercor-breach-2026'>4TB of voice samples just stolen from 40k AI contractors at Mercor</a></td><td>322 👍</td><td>122 💬</td></tr>
+<tr><td>1.</td><td><a href='https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai'>Microsoft and OpenAI end their exclusive and revenue-sharing deal</a></td><td>508 👍</td><td>439 💬</td></tr>
+<tr><td>2.</td><td><a href='https://unitedwizardsofthecoast.com/news/announcing-united-wizards-coast-cwa'>United Wizards of the Coast</a></td><td>41 👍</td><td>5 💬</td></tr>
+<tr><td>3.</td><td><a href='https://github.com/Hanqaqa/Easyduino'>Open-Source KiCad PCBs for Common Arduino, ESP32, RP2040 Boards</a></td><td>66 👍</td><td>2 💬</td></tr>
+<tr><td>4.</td><td><a href='https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html'>“Why not just use Lean?”</a></td><td>187 👍</td><td>105 💬</td></tr>
+<tr><td>5.</td><td><a href='https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27/'>Networking changes coming in macOS 27</a></td><td>127 👍</td><td>97 💬</td></tr>
+<tr><td>6.</td><td><a href='https://www.githubstatus.com'>GitHub is having issues now</a></td><td>155 👍</td><td>58 💬</td></tr>
+<tr><td>7.</td><td><a href='https://zsnes.com/'>Super ZSNES – GPU Powered SNES Emulator</a></td><td>71 👍</td><td>16 💬</td></tr>
+<tr><td>8.</td><td><a href='https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/'>GitHub Copilot is moving to usage-based billing</a></td><td>329 👍</td><td>257 💬</td></tr>
+<tr><td>9.</td><td><a href='https://app.oravys.com/blog/mercor-breach-2026'>4TB of voice samples just stolen from 40k AI contractors at Mercor</a></td><td>330 👍</td><td>122 💬</td></tr>
+<tr><td>10.</td><td><a href='https://muffin.ink/blog/scratch-svg-sanitization/'>The woes of sanitizing SVGs</a></td><td>110 👍</td><td>42 💬</td></tr>
 </table>
 
-<b>27 Apr 2026, 19:08 UTC</b>
+<sub>🕐 Last HN update: <b>27 Apr 2026, 19:12 UTC</b></sub>
 
 ---
 
