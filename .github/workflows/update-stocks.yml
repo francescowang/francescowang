@@ -1,0 +1,38 @@
+name: Update Stocks
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # Every 6 hours
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "update_stocks_only.py"
+      - "providers/stocks.py"
+
+jobs:
+  update-stocks:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Update stocks
+        run: python update_stocks_only.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git diff --quiet || (git add README.md && git commit -m "chore: update stocks" && git push)

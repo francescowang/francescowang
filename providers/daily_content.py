@@ -119,12 +119,16 @@ def get_days_until_events(now: datetime) -> str:
     """Calculate days until fun upcoming events."""
     year = now.year
     events = [
-        (datetime(year, 12, 25, tzinfo=timezone.utc), "🎄 Christmas"),
         (datetime(year, 1, 1, tzinfo=timezone.utc), "🎆 New Year"),
-        (datetime(year, 10, 31, tzinfo=timezone.utc), "🎃 Halloween"),
+        (datetime(year, 2, 14, tzinfo=timezone.utc), "💝 Valentine's Day"),
         (datetime(year, 3, 14, tzinfo=timezone.utc), "🥧 Pi Day"),
-        (datetime(year, 5, 4, tzinfo=timezone.utc), "⚔️ Star Wars Day"),
+        (datetime(year, 3, 17, tzinfo=timezone.utc), "🍀 St. Patrick's Day"),
         (datetime(year, 4, 22, tzinfo=timezone.utc), "🌍 Earth Day"),
+        (datetime(year, 5, 4, tzinfo=timezone.utc), "⚔️ Star Wars Day"),
+        (datetime(year, 6, 20, tzinfo=timezone.utc), "☀️ Summer Solstice"),
+        (datetime(year, 10, 31, tzinfo=timezone.utc), "🎃 Halloween"),
+        (datetime(year, 12, 25, tzinfo=timezone.utc), "🎄 Christmas"),
+        (datetime(year, 12, 31, tzinfo=timezone.utc), "🎊 New Year's Eve"),
     ]
     rows = []
     for event_date, label in events:

@@ -102,6 +102,17 @@ fun_fact: "This README updates itself every day via GitHub Actions ⚡"
 
 ---
 
+<!-- TUTORIALS -->
+## 📚 Tutorials & Learning
+
+> *Check out my collection of guides and tutorials on infrastructure, DevOps, and platform engineering*
+
+<div align="center">
+<a href="https://francescowang.github.io/website/#tutorials"><img src="https://img.shields.io/badge/📖_View_Tutorials-58a6ff?style=for-the-badge&logoColor=white" /></a>
+</div>
+
+---
+
 <!-- LIVE WEATHER DASHBOARD -->
 ## 🌤️ World Weather Dashboard
 
@@ -139,6 +150,25 @@ fun_fact: "This README updates itself every day via GitHub Actions ⚡"
 </table>
 
 <sub>🕐 Last market update: <b>{{stock_update_time}}</b> · Data from Yahoo Finance</sub>
+
+---
+
+<!-- HACKER NEWS -->
+## 📰 Hacker News Top 10
+
+> *The hottest tech stories right now — updated every 12 hours*
+
+<table>
+<tr>
+<th>📌 Rank</th>
+<th>📖 Story</th>
+<th>👍 Score</th>
+<th>💬 Comments</th>
+</tr>
+{{hackernews_rows}}
+</table>
+
+<sub>🕐 Last HN update: <b>{{hackernews_update_time}}</b></sub>
 
 ---
 
