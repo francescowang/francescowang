@@ -7,7 +7,8 @@ on:
   push:
     branches: [main]
     paths:
-      - "update_stocks_only.py"
+      - "scripts/update_stocks_only.py"
+      - "scripts/update_base.py"
       - "providers/stocks.py"
 concurrency:
   group: readme-push

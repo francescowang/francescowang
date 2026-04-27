@@ -7,7 +7,8 @@ on:
   push:
     branches: [main]
     paths:
-      - "update_weather_only.py"
+      - "scripts/update_weather_only.py"
+      - "scripts/update_base.py"
       - "providers/weather.py"
 concurrency:
   group: readme-push

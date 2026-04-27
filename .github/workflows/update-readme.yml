@@ -8,8 +8,8 @@ on:
     branches: [main]
     paths:
       - "TEMPLATE.md"
-      - "update_readme.py"
-      - "config.py"
+      - "scripts/update_readme.py"
+      - "scripts/update_base.py"
       - "providers/**"
 
 concurrency:
