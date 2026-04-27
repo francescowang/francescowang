@@ -11,7 +11,13 @@ on:
       - "providers/stocks.py"
 
 jobs:
+  test:
+    name: Run test suite
+    uses: ./.github/workflows/run-tests.yml
+
   update-stocks:
+    name: Update stocks section
+    needs: [test]
     runs-on: ubuntu-latest
     permissions:
       contents: write

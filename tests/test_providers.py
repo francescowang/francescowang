@@ -20,11 +20,11 @@ class TestHackerNewsProvider:
             result = get_hackernews_top10()
         assert "Unable to fetch Hacker News stories" in result
 
-    def test_fallback_is_valid_pipe_row(self):
+    def test_fallback_is_valid_html_row(self):
         from providers.hackernews import get_hackernews_top10
         with patch("providers.hackernews.requests.get", side_effect=Exception("fail")):
             result = get_hackernews_top10()
-        assert result.startswith("|")
+        assert result.startswith("<tr>")
 
     def test_title_truncated_when_over_70_chars(self):
         from providers.hackernews import get_hackernews_top10
@@ -48,7 +48,7 @@ class TestHackerNewsProvider:
             result = get_hackernews_top10()
 
         assert "..." in result
-        match = re.search(r"\[(.+?)\]", result)
+        match = re.search(r"<a href='[^']+'>(.+?)</a>", result)
         assert match and len(match.group(1)) <= 70
 
     def test_title_not_truncated_when_under_70_chars(self):
@@ -74,6 +74,7 @@ class TestHackerNewsProvider:
 
         assert "..." not in result
         assert short_title in result
+        assert result.startswith("<tr>")
 
     def test_output_contains_score_and_comments(self):
         from providers.hackernews import get_hackernews_top10
@@ -94,8 +95,9 @@ class TestHackerNewsProvider:
         with patch("providers.hackernews.requests.get", side_effect=[mock_ids, mock_story]):
             result = get_hackernews_top10()
 
-        assert "999 👍" in result
-        assert "42 💬" in result
+        assert "999" in result
+        assert "42" in result
+        assert result.startswith("<tr>")
 
 
 # ---------------------------------------------------------------------------

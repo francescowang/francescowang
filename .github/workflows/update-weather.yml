@@ -11,7 +11,13 @@ on:
       - "providers/weather.py"
 
 jobs:
+  test:
+    name: Run test suite
+    uses: ./.github/workflows/run-tests.yml
+
   update-weather:
+    name: Update weather section
+    needs: [test]
     runs-on: ubuntu-latest
     permissions:
       contents: write

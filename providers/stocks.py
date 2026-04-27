@@ -44,7 +44,7 @@ def get_stocks() -> str:
                     f"<td>{price if isinstance(price, str) else f'{price:.2f}'}</td>"
                     f"<td>{arrow} {change_str}</td>"
                     f"<td>{pct_str}</td>"
-                    f"<td>{datetime.now(timezone.utc).strftime('%d %b %Y')}</td>"
+                    f"<td>{datetime.now(timezone.utc).strftime('%d %b %Y, %H:%M UTC')}</td>"
                     f"</tr>"
                 )
             except Exception as exc:

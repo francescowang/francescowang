@@ -24,7 +24,13 @@ SAMPLE_README = """\
 ## 📈 Live Markets
 
 <table>
-<tr><th>📊 Ticker</th><th>💵 Price</th><th>📈 Change</th><th>% Change</th><th>📅 Date</th></tr>
+<tr>
+<th>📊 Ticker</th>
+<th>💰 Price</th>
+<th>📉 Change</th>
+<th>📊 % Change</th>
+<th>📅 As Of</th>
+</tr>
 <tr><td><b>SPY</b></td><td>450.00</td><td>🟢 +1.00</td><td>+0.22%</td><td>26 Apr 2025</td></tr>
 </table>
 
@@ -33,8 +39,13 @@ SAMPLE_README = """\
 ## 📰 Hacker News Top 10
 
 <table>
-<tr><th>📌 Rank</th><th>📰 Story</th><th>⬆️ Score</th><th>💬 Comments</th></tr>
-| 1. | [Old Story](https://example.com) | 50 👍 | 10 💬 |
+<tr>
+<th>📌 Rank</th>
+<th>📖 Story</th>
+<th>👍 Score</th>
+<th>💬 Comments</th>
+</tr>
+<tr><td>1.</td><td><a href='https://example.com'>Old Story</a></td><td>50 👍</td><td>10 💬</td></tr>
 </table>
 
 <sub>🕐 Last HN update: <b>26 Apr 2025, 09:00 UTC</b></sub>

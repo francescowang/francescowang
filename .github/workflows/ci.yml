@@ -1,0 +1,19 @@
+name: CI
+
+# Validates every push to main and every PR.
+# Failing tests block the merge, protecting all downstream update workflows.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "**.py"
+      - "requirements*.txt"
+      - "TEMPLATE.md"
+      - ".github/workflows/**"
+  pull_request:
+    branches: [main]
+
+jobs:
+  test:
+    name: Run test suite
+    uses: ./.github/workflows/run-tests.yml

@@ -72,6 +72,10 @@ class TestStocksPatterns:
         html = "<tr><th>📊 Ticker</th></tr>"
         assert re.search(STOCKS_SECTION_HEADER, html, FLAGS)
 
+    def test_header_matches_multiline_row(self):
+        html = "<tr>\n<th>📊 Ticker</th>\n<th>💰 Price</th>\n</tr>"
+        assert re.search(STOCKS_SECTION_HEADER, html, FLAGS)
+
     def test_header_does_not_match_weather_header(self):
         html = "<tr><th>🏙️ City</th><th>🌡️ Temp</th></tr>"
         assert not re.search(STOCKS_SECTION_HEADER, html, FLAGS)
@@ -105,6 +109,10 @@ class TestHackerNewsPatterns:
 
     def test_header_matches_minimal_row(self):
         html = "<tr><th>📌 Rank</th></tr>"
+        assert re.search(HACKERNEWS_SECTION_HEADER, html, FLAGS)
+
+    def test_header_matches_multiline_row(self):
+        html = "<tr>\n<th>📌 Rank</th>\n<th>📖 Story</th>\n</tr>"
         assert re.search(HACKERNEWS_SECTION_HEADER, html, FLAGS)
 
     def test_header_does_not_match_weather_header(self):

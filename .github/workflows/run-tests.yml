@@ -1,0 +1,26 @@
+name: Run Tests
+
+# Reusable workflow — called by ci.yml (push/PR) and all update workflows
+# so tests must pass before any README change is committed.
+on:
+  workflow_call:
+
+jobs:
+  test:
+    name: pytest
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dev dependencies
+        run: pip install -r requirements-dev.txt
+
+      - name: Run tests
+        run: python -m pytest tests/ -v --tb=short

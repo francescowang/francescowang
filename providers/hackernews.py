@@ -57,10 +57,17 @@ def get_hackernews_top10() -> str:
             if len(title) > 70:
                 title = title[:67] + "..."
 
-            rows.append(f"| {idx}. | [{title}]({item_url}) | {score} 👍 | {comments} 💬 |")
+            rows.append(
+                f"<tr>"
+                f"<td>{idx}.</td>"
+                f"<td><a href='{item_url}'>{title}</a></td>"
+                f"<td>{score} 👍</td>"
+                f"<td>{comments} 💬</td>"
+                f"</tr>"
+            )
 
         return "\n".join(rows)
 
     except Exception as e:
         print(f"⚠️ Error fetching Hacker News: {e}")
-        return "| — | *Unable to fetch Hacker News stories* | — | — |"
+        return "<tr><td colspan='4'><em>Unable to fetch Hacker News stories</em></td></tr>"
