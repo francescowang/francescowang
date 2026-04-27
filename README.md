@@ -126,19 +126,19 @@ fun_fact: "This README updates itself every day via GitHub Actions ⚡"
 <th>🌬️ Wind</th>
 <th>☁️ Conditions</th>
 </tr>
-<tr><td>🇬🇧 <b>London</b></td><td>17.4°C</td><td>51%</td><td>19.1 km/h</td><td>⛅ Partly cloudy</td></tr>
-<tr><td>🇨🇳 <b>Beijing</b></td><td>14.1°C</td><td>44%</td><td>3.6 km/h</td><td>☁️ Overcast</td></tr>
-<tr><td>🇺🇸 <b>New York</b></td><td>20.5°C</td><td>32%</td><td>5.4 km/h</td><td>☀️ Clear sky</td></tr>
-<tr><td>🇫🇷 <b>Paris</b></td><td>18.5°C</td><td>39%</td><td>12.6 km/h</td><td>☁️ Overcast</td></tr>
-<tr><td>🇮🇹 <b>Milan</b></td><td>21.3°C</td><td>47%</td><td>4.8 km/h</td><td>☀️ Clear sky</td></tr>
-<tr><td>🇿🇦 <b>Cape Town</b></td><td>12.1°C</td><td>79%</td><td>4.4 km/h</td><td>⛅ Partly cloudy</td></tr>
-<tr><td>🇯🇵 <b>Tokyo</b></td><td>10.1°C</td><td>89%</td><td>4.6 km/h</td><td>☀️ Clear sky</td></tr>
-<tr><td>🇦🇺 <b>Sydney</b></td><td>12.4°C</td><td>92%</td><td>6.9 km/h</td><td>☀️ Clear sky</td></tr>
-<tr><td>🇦🇪 <b>Dubai</b></td><td>29.0°C</td><td>54%</td><td>15.5 km/h</td><td>☀️ Clear sky</td></tr>
-<tr><td>🇧🇷 <b>São Paulo</b></td><td>24.3°C</td><td>67%</td><td>5.9 km/h</td><td>🌧️ Dense drizzle</td></tr>
+<tr><td>🇬🇧 <b>London</b></td><td>16.8°C</td><td>54%</td><td>19.1 km/h</td><td>☁️ Overcast</td></tr>
+<tr><td>🇨🇳 <b>Beijing</b></td><td>13.9°C</td><td>44%</td><td>3.2 km/h</td><td>☁️ Overcast</td></tr>
+<tr><td>🇺🇸 <b>New York</b></td><td>20.3°C</td><td>33%</td><td>8.2 km/h</td><td>☀️ Clear sky</td></tr>
+<tr><td>🇫🇷 <b>Paris</b></td><td>18.1°C</td><td>38%</td><td>11.9 km/h</td><td>☁️ Overcast</td></tr>
+<tr><td>🇮🇹 <b>Milan</b></td><td>20.7°C</td><td>45%</td><td>6.4 km/h</td><td>☀️ Clear sky</td></tr>
+<tr><td>🇿🇦 <b>Cape Town</b></td><td>11.9°C</td><td>80%</td><td>4.1 km/h</td><td>⛅ Partly cloudy</td></tr>
+<tr><td>🇯🇵 <b>Tokyo</b></td><td>10.0°C</td><td>89%</td><td>4.2 km/h</td><td>☀️ Clear sky</td></tr>
+<tr><td>🇦🇺 <b>Sydney</b></td><td>12.2°C</td><td>93%</td><td>7.4 km/h</td><td>☀️ Clear sky</td></tr>
+<tr><td>🇦🇪 <b>Dubai</b></td><td>28.9°C</td><td>55%</td><td>14.6 km/h</td><td>☀️ Clear sky</td></tr>
+<tr><td>🇧🇷 <b>São Paulo</b></td><td>24.1°C</td><td>68%</td><td>6.6 km/h</td><td>🌧️ Dense drizzle</td></tr>
 </table>
 
-<sub>🕐 Last weather update: <b>27 Apr 2026, 19:37 UTC</b></sub>
+<sub>🕐 Last weather update: <b>27 Apr 2026, 19:48 UTC</b></sub>
 
 ---
 
@@ -155,15 +155,15 @@ fun_fact: "This README updates itself every day via GitHub Actions ⚡"
 <th>📊 % Change</th>
 <th>📅 As Of</th>
 </tr>
-<tr><td><b>VUAG.L</b></td><td>101.74</td><td>🔴 -0.24</td><td>-0.24%</td><td>27 Apr 2026, 19:37 UTC</td></tr>
-<tr><td><b>VWRL.L</b></td><td>129.35</td><td>🔴 -0.31</td><td>-0.24%</td><td>27 Apr 2026, 19:37 UTC</td></tr>
-<tr><td><b>SPY</b></td><td>714.90</td><td>🟢 +0.89</td><td>+0.12%</td><td>27 Apr 2026, 19:37 UTC</td></tr>
-<tr><td><b>QQQ</b></td><td>663.47</td><td>🔴 -0.19</td><td>-0.03%</td><td>27 Apr 2026, 19:37 UTC</td></tr>
-<tr><td><b>ARKK</b></td><td>76.31</td><td>🔴 -0.34</td><td>-0.44%</td><td>27 Apr 2026, 19:37 UTC</td></tr>
-<tr><td><b>VTI</b></td><td>352.46</td><td>🟢 +0.13</td><td>+0.04%</td><td>27 Apr 2026, 19:37 UTC</td></tr>
+<tr><td><b>VUAG.L</b></td><td>101.74</td><td>🔴 -0.24</td><td>-0.24%</td><td>27 Apr 2026, 19:48 UTC</td></tr>
+<tr><td><b>VWRL.L</b></td><td>129.35</td><td>🔴 -0.31</td><td>-0.24%</td><td>27 Apr 2026, 19:48 UTC</td></tr>
+<tr><td><b>SPY</b></td><td>715.32</td><td>🟢 +1.31</td><td>+0.18%</td><td>27 Apr 2026, 19:48 UTC</td></tr>
+<tr><td><b>QQQ</b></td><td>664.12</td><td>🟢 +0.47</td><td>+0.07%</td><td>27 Apr 2026, 19:48 UTC</td></tr>
+<tr><td><b>ARKK</b></td><td>76.49</td><td>🔴 -0.16</td><td>-0.21%</td><td>27 Apr 2026, 19:48 UTC</td></tr>
+<tr><td><b>VTI</b></td><td>352.69</td><td>🟢 +0.36</td><td>+0.10%</td><td>27 Apr 2026, 19:48 UTC</td></tr>
 </table>
 
-<sub>🕐 Last market update: <b>27 Apr 2026, 19:37 UTC</b> · Data from Yahoo Finance</sub>
+<sub>🕐 Last market update: <b>27 Apr 2026, 19:48 UTC</b> · Data from Yahoo Finance</sub>
 
 ---
 
@@ -179,19 +179,19 @@ fun_fact: "This README updates itself every day via GitHub Actions ⚡"
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://unitedwizardsofthecoast.com/news/announcing-united-wizards-coast-cwa'>United Wizards of the Coast</a></td><td>103 👍</td><td>41 💬</td></tr>
-<tr><td>2.</td><td><a href='https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai'>Microsoft and OpenAI end their exclusive and revenue-sharing deal</a></td><td>538 👍</td><td>465 💬</td></tr>
-<tr><td>3.</td><td><a href='https://github.com/Hanqaqa/Easyduino'>Open-Source KiCad PCBs for Common Arduino, ESP32, RP2040 Boards</a></td><td>76 👍</td><td>5 💬</td></tr>
-<tr><td>4.</td><td><a href='https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html'>China blocks Meta's acquisition of AI startup Manus</a></td><td>40 👍</td><td>20 💬</td></tr>
-<tr><td>5.</td><td><a href='https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html'>“Why not just use Lean?”</a></td><td>198 👍</td><td>113 💬</td></tr>
-<tr><td>6.</td><td><a href='https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27/'>Networking changes coming in macOS 27</a></td><td>133 👍</td><td>106 💬</td></tr>
-<tr><td>7.</td><td><a href='https://zsnes.com/'>Super ZSNES – GPU Powered SNES Emulator</a></td><td>84 👍</td><td>19 💬</td></tr>
-<tr><td>8.</td><td><a href='https://www.githubstatus.com'>GitHub is having issues now</a></td><td>187 👍</td><td>71 💬</td></tr>
-<tr><td>9.</td><td><a href='https://app.oravys.com/blog/mercor-breach-2026'>4TB of voice samples just stolen from 40k AI contractors at Mercor</a></td><td>342 👍</td><td>127 💬</td></tr>
-<tr><td>10.</td><td><a href='https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/'>GitHub Copilot is moving to usage-based billing</a></td><td>354 👍</td><td>274 💬</td></tr>
+<tr><td>1.</td><td><a href='https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai'>Microsoft and OpenAI end their exclusive and revenue-sharing deal</a></td><td>543 👍</td><td>474 💬</td></tr>
+<tr><td>2.</td><td><a href='https://unitedwizardsofthecoast.com/news/announcing-united-wizards-coast-cwa'>United Wizards of the Coast</a></td><td>119 👍</td><td>62 💬</td></tr>
+<tr><td>3.</td><td><a href='https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html'>China blocks Meta's acquisition of AI startup Manus</a></td><td>57 👍</td><td>25 💬</td></tr>
+<tr><td>4.</td><td><a href='https://github.com/Hanqaqa/Easyduino'>Open-Source KiCad PCBs for Common Arduino, ESP32, RP2040 Boards</a></td><td>81 👍</td><td>6 💬</td></tr>
+<tr><td>5.</td><td><a href='https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html'>“Why not just use Lean?”</a></td><td>198 👍</td><td>116 💬</td></tr>
+<tr><td>6.</td><td><a href='https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27/'>Networking changes coming in macOS 27</a></td><td>134 👍</td><td>109 💬</td></tr>
+<tr><td>7.</td><td><a href='https://www.githubstatus.com'>GitHub is having issues now</a></td><td>206 👍</td><td>72 💬</td></tr>
+<tr><td>8.</td><td><a href='https://zsnes.com/'>Super ZSNES – GPU Powered SNES Emulator</a></td><td>91 👍</td><td>19 💬</td></tr>
+<tr><td>9.</td><td><a href='https://app.oravys.com/blog/mercor-breach-2026'>4TB of voice samples just stolen from 40k AI contractors at Mercor</a></td><td>345 👍</td><td>129 💬</td></tr>
+<tr><td>10.</td><td><a href='https://atempleton.bearblog.dev/quiet-resurgence-of-rf-engineering/'>The Quiet Resurgence of RF Engineering</a></td><td>26 👍</td><td>8 💬</td></tr>
 </table>
 
-<sub>🕐 Last HN update: <b>27 Apr 2026, 19:37 UTC</b></sub>
+<sub>🕐 Last HN update: <b>27 Apr 2026, 19:48 UTC</b></sub>
 
 ---
 
