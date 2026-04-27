@@ -144,7 +144,7 @@ fun_fact: "This README updates itself every day via GitHub Actions ⚡"
 <th>💰 Price</th>
 <th>📉 Change</th>
 <th>📊 % Change</th>
-<th>� As Of</th>
+<th>📅 As Of</th>
 </tr>
 {{stock_rows}}
 </table>
