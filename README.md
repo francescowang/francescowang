@@ -138,7 +138,7 @@ fun_fact: "This README updates itself every day via GitHub Actions ⚡"
 <tr><td>🇧🇷 <b>São Paulo</b></td><td>24.1°C</td><td>68%</td><td>6.6 km/h</td><td>🌧️ Dense drizzle</td></tr>
 </table>
 
-<sub>🕐 Last weather update: <b>27 Apr 2026, 19:48 UTC</b></sub>
+<b>27 Apr 2026, 21:25 UTC</b>
 
 ---
 
