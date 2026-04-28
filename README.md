@@ -5,7 +5,7 @@
 
 <!-- LIVE CLOCK -->
 <p>
-<img src="https://img.shields.io/badge/📅_Today-Monday, 27 April 2026-58a6ff?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/📅_Today-Tuesday, 28 April 2026-58a6ff?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/☕_Visitors-welcome-f78166?style=for-the-badge&labelColor=0d1117" />
 </p>
 
@@ -126,19 +126,19 @@ fun_fact: "This README updates itself every day via GitHub Actions ⚡"
 <th>🌬️ Wind</th>
 <th>☁️ Conditions</th>
 </tr>
-<tr><td>🇬🇧 <b>London</b></td><td>16.8°C</td><td>54%</td><td>19.1 km/h</td><td>☁️ Overcast</td></tr>
-<tr><td>🇨🇳 <b>Beijing</b></td><td>13.9°C</td><td>44%</td><td>3.2 km/h</td><td>☁️ Overcast</td></tr>
-<tr><td>🇺🇸 <b>New York</b></td><td>20.3°C</td><td>33%</td><td>8.2 km/h</td><td>☀️ Clear sky</td></tr>
-<tr><td>🇫🇷 <b>Paris</b></td><td>18.1°C</td><td>38%</td><td>11.9 km/h</td><td>☁️ Overcast</td></tr>
-<tr><td>🇮🇹 <b>Milan</b></td><td>20.7°C</td><td>45%</td><td>6.4 km/h</td><td>☀️ Clear sky</td></tr>
-<tr><td>🇿🇦 <b>Cape Town</b></td><td>11.9°C</td><td>80%</td><td>4.1 km/h</td><td>⛅ Partly cloudy</td></tr>
-<tr><td>🇯🇵 <b>Tokyo</b></td><td>10.0°C</td><td>89%</td><td>4.2 km/h</td><td>☀️ Clear sky</td></tr>
-<tr><td>🇦🇺 <b>Sydney</b></td><td>12.2°C</td><td>93%</td><td>7.4 km/h</td><td>☀️ Clear sky</td></tr>
-<tr><td>🇦🇪 <b>Dubai</b></td><td>28.9°C</td><td>55%</td><td>14.6 km/h</td><td>☀️ Clear sky</td></tr>
-<tr><td>🇧🇷 <b>São Paulo</b></td><td>24.1°C</td><td>68%</td><td>6.6 km/h</td><td>🌧️ Dense drizzle</td></tr>
+<tr><td>🇬🇧 <b>London</b></td><td>9.8°C</td><td>81%</td><td>17.6 km/h</td><td>☁️ Overcast</td></tr>
+<tr><td>🇨🇳 <b>Beijing</b></td><td>21.4°C</td><td>14%</td><td>7.4 km/h</td><td>⛅ Partly cloudy</td></tr>
+<tr><td>🇺🇸 <b>New York</b></td><td>7.8°C</td><td>76%</td><td>5.4 km/h</td><td>☀️ Clear sky</td></tr>
+<tr><td>🇫🇷 <b>Paris</b></td><td>11.8°C</td><td>57%</td><td>11.5 km/h</td><td>☁️ Overcast</td></tr>
+<tr><td>🇮🇹 <b>Milan</b></td><td>18.8°C</td><td>54%</td><td>10.0 km/h</td><td>☁️ Overcast</td></tr>
+<tr><td>🇿🇦 <b>Cape Town</b></td><td>13.5°C</td><td>86%</td><td>4.0 km/h</td><td>🌤️ Mainly clear</td></tr>
+<tr><td>🇯🇵 <b>Tokyo</b></td><td>22.3°C</td><td>59%</td><td>10.0 km/h</td><td>☀️ Clear sky</td></tr>
+<tr><td>🇦🇺 <b>Sydney</b></td><td>19.5°C</td><td>67%</td><td>9.9 km/h</td><td>☀️ Clear sky</td></tr>
+<tr><td>🇦🇪 <b>Dubai</b></td><td>34.2°C</td><td>36%</td><td>9.7 km/h</td><td>☁️ Overcast</td></tr>
+<tr><td>🇧🇷 <b>São Paulo</b></td><td>19.0°C</td><td>97%</td><td>5.4 km/h</td><td>☁️ Overcast</td></tr>
 </table>
 
-<b>27 Apr 2026, 21:25 UTC</b>
+<sub>🕐 Last weather update: <b>28 Apr 2026, 07:39 UTC</b></sub>
 
 ---
 
@@ -155,15 +155,15 @@ fun_fact: "This README updates itself every day via GitHub Actions ⚡"
 <th>📊 % Change</th>
 <th>📅 As Of</th>
 </tr>
-<tr><td><b>VUAG.L</b></td><td>101.74</td><td>🔴 -0.24</td><td>-0.24%</td><td>28 Apr 2026, 01:10 UTC</td></tr>
-<tr><td><b>VWRL.L</b></td><td>129.35</td><td>🔴 -0.31</td><td>-0.24%</td><td>28 Apr 2026, 01:10 UTC</td></tr>
-<tr><td><b>SPY</b></td><td>715.17</td><td>🟢 +1.16</td><td>+0.16%</td><td>28 Apr 2026, 01:10 UTC</td></tr>
-<tr><td><b>QQQ</b></td><td>664.23</td><td>🟢 +0.58</td><td>+0.09%</td><td>28 Apr 2026, 01:10 UTC</td></tr>
-<tr><td><b>ARKK</b></td><td>76.55</td><td>🔴 -0.15</td><td>-0.20%</td><td>28 Apr 2026, 01:10 UTC</td></tr>
-<tr><td><b>VTI</b></td><td>352.53</td><td>🟢 +0.20</td><td>+0.06%</td><td>28 Apr 2026, 01:10 UTC</td></tr>
+<tr><td><b>VUAG.L</b></td><td>102.14</td><td>🟢 +0.42</td><td>+0.41%</td><td>28 Apr 2026, 07:39 UTC</td></tr>
+<tr><td><b>VWRL.L</b></td><td>129.79</td><td>🟢 +0.35</td><td>+0.27%</td><td>28 Apr 2026, 07:39 UTC</td></tr>
+<tr><td><b>SPY</b></td><td>715.17</td><td>🟢 +1.16</td><td>+0.16%</td><td>28 Apr 2026, 07:39 UTC</td></tr>
+<tr><td><b>QQQ</b></td><td>664.23</td><td>🟢 +0.58</td><td>+0.09%</td><td>28 Apr 2026, 07:39 UTC</td></tr>
+<tr><td><b>ARKK</b></td><td>76.55</td><td>🔴 -0.10</td><td>-0.13%</td><td>28 Apr 2026, 07:39 UTC</td></tr>
+<tr><td><b>VTI</b></td><td>352.53</td><td>🟢 +0.20</td><td>+0.06%</td><td>28 Apr 2026, 07:39 UTC</td></tr>
 </table>
 
-<b>28 Apr 2026, 01:10 UTC</b> · Data from Yahoo Finance</sub>
+<sub>🕐 Last market update: <b>28 Apr 2026, 07:39 UTC</b> · Data from Yahoo Finance</sub>
 
 ---
 
@@ -179,19 +179,19 @@ fun_fact: "This README updates itself every day via GitHub Actions ⚡"
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://vivianvoss.net/blog/integrated-by-design-launch'>New Integrated by Design FreeBSD Book</a></td><td>47 👍</td><td>11 💬</td></tr>
-<tr><td>2.</td><td><a href='https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai'>Microsoft and OpenAI end their exclusive and revenue-sharing deal</a></td><td>739 👍</td><td>650 💬</td></tr>
-<tr><td>3.</td><td><a href='https://talkie-lm.com/introducing-talkie'>Talkie: a 13B vintage language model from 1930</a></td><td>66 👍</td><td>19 💬</td></tr>
-<tr><td>4.</td><td><a href='https://www.mooreds.com/wordpress/archives/3734'>Meetings Are Forcing Functions</a></td><td>28 👍</td><td>9 💬</td></tr>
-<tr><td>5.</td><td><a href='https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/'>Three men are facing charges in Toronto SMS Blaster arrests</a></td><td>79 👍</td><td>43 💬</td></tr>
-<tr><td>6.</td><td><a href='https://ismy.blue/'>Is my blue your blue?</a></td><td>314 👍</td><td>214 💬</td></tr>
-<tr><td>7.</td><td><a href='https://sboots.ca/2026/03/11/generative-ai-vegetarianism/'>Generative AI Vegetarianism</a></td><td>16 👍</td><td>14 💬</td></tr>
-<tr><td>8.</td><td><a href='https://github.com/Hanqaqa/Easyduino'>Easyduino: Open Source PCB Devboards for KiCad</a></td><td>168 👍</td><td>24 💬</td></tr>
-<tr><td>9.</td><td><a href='https://atempleton.bearblog.dev/quiet-resurgence-of-rf-engineering/'>The quiet resurgence of RF engineering</a></td><td>126 👍</td><td>69 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.theguardian.com/science/2026/apr/15/hidden-treasures-spanish-archaeologists-discover-trove-of-ancient-shipwrecks-in-bay-of-gibraltar'>Spanish archaeologists discover trove of ancient shipwrecks in Bay ...</a></td><td>79 👍</td><td>9 💬</td></tr>
+<tr><td>1.</td><td><a href='https://gtfobins.org/'>GTFOBins</a></td><td>65 👍</td><td>21 💬</td></tr>
+<tr><td>2.</td><td><a href='https://talkie-lm.com/introducing-talkie'>Talkie: a 13B vintage language model from 1930</a></td><td>306 👍</td><td>101 💬</td></tr>
+<tr><td>3.</td><td><a href='https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai'>Microsoft and OpenAI end their exclusive and revenue-sharing deal</a></td><td>852 👍</td><td>729 💬</td></tr>
+<tr><td>4.</td><td><a href='https://ismy.blue/'>Is my blue your blue?</a></td><td>487 👍</td><td>327 💬</td></tr>
+<tr><td>5.</td><td><a href='https://github.com/pgcentralfoundation/pgrx'>Pgrx: Build Postgres Extensions with Rust</a></td><td>61 👍</td><td>3 💬</td></tr>
+<tr><td>6.</td><td><a href='https://fabiensanglard.net/curse/'>Mo RAM, Mo Problems (2025)</a></td><td>109 👍</td><td>14 💬</td></tr>
+<tr><td>7.</td><td><a href='https://gitperf.com/'>High Performance Git</a></td><td>104 👍</td><td>12 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/'>Three men are facing charges in Toronto SMS Blaster arrests</a></td><td>148 👍</td><td>68 💬</td></tr>
+<tr><td>9.</td><td><a href='https://news.ycombinator.com/item?id=47931470'>Scraping 241 UK council planning portals – 2.6M decisions so far</a></td><td>4 👍</td><td>0 💬</td></tr>
+<tr><td>10.</td><td><a href='https://nbelakovski.substack.com/p/how-i-learned-what-a-decoupling-capacitor'>How I leared what a decoupling capacitor is for, the hard way</a></td><td>78 👍</td><td>41 💬</td></tr>
 </table>
 
-<b>28 Apr 2026, 01:14 UTC</b>
+<sub>🕐 Last HN update: <b>28 Apr 2026, 07:39 UTC</b></sub>
 
 ---
 
@@ -204,20 +204,20 @@ fun_fact: "This README updates itself every day via GitHub Actions ⚡"
 
 ### 📖 Word of the Day
 
-> **Euphoria** · */juːˈfɔːɹi.ə/*
+> **Loquacious** · */ləʊˈkweɪʃəs/*
 >
-> *noun* — An excited state of joy; a feeling of intense happiness.
+> *adjective* — Talkative; chatty.
 >
-> 💬 *"The runner was in absolute euphoria after winning his first marathon."*
+> 💬 *"Today's word is 'loquacious' — try using it in conversation!"*
 
 </td>
 <td width="50%">
 
 ### 🏛️ Philosopher's Quote
 
-> *"I'm an optimist by choice not by stupidity."*
+> *"Self-knowledge is the beginning of self-correction."*
 >
-> — **Yanni**
+> — **Norman Vincent Peale**
 
 </td>
 </tr>
@@ -233,11 +233,11 @@ fun_fact: "This README updates itself every day via GitHub Actions ⚡"
 
 ### 🌙 Moon Phase
 
-> 🌓 First Quarter
+> 🌔 Waxing Gibbous
 
-### 📜 On This Day (April 27)
+### 📜 On This Day (April 28)
 
-> **2012** — Unknown perpetrators carried out a series of four bombings in Dnipropetrovsk, Ukraine.
+> **1945** — World War II: Benito Mussolini, the deposed fascist dictator of Italy, was executed by partisans in Giulino.
 
 </td>
 </tr>
@@ -250,16 +250,16 @@ fun_fact: "This README updates itself every day via GitHub Actions ⚡"
 
 | 🎉 Event | 📅 Days Left |
 |-----------|-------------|
-| 🎆 New Year | `███████░░░░░░░░░░░░░` **248** days |
-| 💝 Valentine's Day | `████░░░░░░░░░░░░░░░░` **292** days |
-| 🥧 Pi Day | `███░░░░░░░░░░░░░░░░░` **320** days |
-| 🍀 St. Patrick's Day | `███░░░░░░░░░░░░░░░░░` **323** days |
-| 🌍 Earth Day | `█░░░░░░░░░░░░░░░░░░░` **359** days |
-| ⚔️ Star Wars Day | `████████████████████` **6** days |
-| ☀️ Summer Solstice | `██████████████████░░` **53** days |
-| 🎃 Halloween | `██████████░░░░░░░░░░` **186** days |
-| 🎄 Christmas | `███████░░░░░░░░░░░░░` **241** days |
-| 🎊 New Year's Eve | `███████░░░░░░░░░░░░░` **247** days |
+| 🎆 New Year | `███████░░░░░░░░░░░░░` **247** days |
+| 💝 Valentine's Day | `█████░░░░░░░░░░░░░░░` **291** days |
+| 🥧 Pi Day | `███░░░░░░░░░░░░░░░░░` **319** days |
+| 🍀 St. Patrick's Day | `███░░░░░░░░░░░░░░░░░` **322** days |
+| 🌍 Earth Day | `█░░░░░░░░░░░░░░░░░░░` **358** days |
+| ⚔️ Star Wars Day | `████████████████████` **5** days |
+| ☀️ Summer Solstice | `██████████████████░░` **52** days |
+| 🎃 Halloween | `██████████░░░░░░░░░░` **185** days |
+| 🎄 Christmas | `███████░░░░░░░░░░░░░` **240** days |
+| 🎊 New Year's Eve | `███████░░░░░░░░░░░░░` **246** days |
 
 ---
 
