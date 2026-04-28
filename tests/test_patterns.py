@@ -54,7 +54,7 @@ class TestWeatherPatterns:
         assert not re.search(WEATHER_TIMESTAMP, text, FLAGS)
 
     def test_timestamp_does_not_match_hn_timestamp(self):
-        text = "<sub>🕐 Last HN update: <b>27 Apr 2025, 09:00 UTC</b></sub>"
+        text = "<sub>🕐 Last news update: <b>27 Apr 2025, 09:00 UTC</b> · Data from Hacker News</sub>"
         assert not re.search(WEATHER_TIMESTAMP, text, FLAGS)
 
 
@@ -123,7 +123,7 @@ class TestHackerNewsPatterns:
         assert not re.search(HACKERNEWS_SECTION_HEADER, html, FLAGS)
 
     def test_end_matches_standard_closing(self):
-        text = "</table>\n\n<sub>🕐 Last HN update:"
+        text = "</table>\n\n<sub>🕐 Last news update:"
         assert re.search(HACKERNEWS_SECTION_END, text, FLAGS)
 
     def test_end_does_not_match_weather_closing(self):
@@ -131,7 +131,7 @@ class TestHackerNewsPatterns:
         assert not re.search(HACKERNEWS_SECTION_END, text, FLAGS)
 
     def test_timestamp_matches_full_tag(self):
-        text = "<sub>🕐 Last HN update: <b>27 Apr 2025, 09:00 UTC</b></sub>"
+        text = "<sub>🕐 Last news update: <b>27 Apr 2025, 09:00 UTC</b> · Data from Hacker News</sub>"
         assert re.search(HACKERNEWS_TIMESTAMP, text, FLAGS)
 
     def test_timestamp_does_not_match_weather_timestamp(self):

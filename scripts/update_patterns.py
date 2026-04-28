@@ -84,5 +84,5 @@ STOCKS_TIMESTAMP = r"<sub>🕐 Last market update: <b>.*?</b>"
 # Matches the multiline header row that contains the "📌 Rank" column heading.
 HACKERNEWS_SECTION_HEADER = r"<tr>\s*<th>📌 Rank</th>.*?</tr>"
 # Includes the start of the timestamp sub-tag to prevent matching other </table> tags.
-HACKERNEWS_SECTION_END = r"</table>\s*\n\n<sub>🕐 Last HN update:"
-HACKERNEWS_TIMESTAMP = r"<sub>🕐 Last HN update: <b>.*?</b></sub>"
+HACKERNEWS_SECTION_END = r"</table>\s*\n\n<sub>🕐 Last news update:"
+HACKERNEWS_TIMESTAMP = r"<sub>🕐 Last news update: <b>.*?</b> · Data from Hacker News</sub>"

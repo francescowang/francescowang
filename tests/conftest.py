@@ -63,7 +63,7 @@ SAMPLE_README = """\
 <tr><td>1.</td><td><a href='https://example.com'>Old Story</a></td><td>50 👍</td><td>10 💬</td></tr>
 </table>
 
-<sub>🕐 Last HN update: <b>26 Apr 2025, 09:00 UTC</b></sub>
+<sub>🕐 Last news update: <b>26 Apr 2025, 09:00 UTC</b> · Data from Hacker News</sub>
 """
 
 

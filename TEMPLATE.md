@@ -159,7 +159,7 @@ fun_fact: "This README updates itself every day via GitHub Actions ⚡"
 {{hackernews_rows}}
 </table>
 
-<sub>🕐 Last HN update: <b>{{hackernews_update_time}}</b></sub>
+<sub>🕐 Last news update: <b>{{hackernews_update_time}}</b> · Data from Hacker News</sub>
 
 ---
 
