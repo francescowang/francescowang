@@ -179,19 +179,19 @@ fun_fact: "This README updates itself every day via GitHub Actions ⚡"
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai'>Microsoft and OpenAI end their exclusive and revenue-sharing deal</a></td><td>543 👍</td><td>474 💬</td></tr>
-<tr><td>2.</td><td><a href='https://unitedwizardsofthecoast.com/news/announcing-united-wizards-coast-cwa'>United Wizards of the Coast</a></td><td>119 👍</td><td>62 💬</td></tr>
-<tr><td>3.</td><td><a href='https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html'>China blocks Meta's acquisition of AI startup Manus</a></td><td>57 👍</td><td>25 💬</td></tr>
-<tr><td>4.</td><td><a href='https://github.com/Hanqaqa/Easyduino'>Open-Source KiCad PCBs for Common Arduino, ESP32, RP2040 Boards</a></td><td>81 👍</td><td>6 💬</td></tr>
-<tr><td>5.</td><td><a href='https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html'>“Why not just use Lean?”</a></td><td>198 👍</td><td>116 💬</td></tr>
-<tr><td>6.</td><td><a href='https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27/'>Networking changes coming in macOS 27</a></td><td>134 👍</td><td>109 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.githubstatus.com'>GitHub is having issues now</a></td><td>206 👍</td><td>72 💬</td></tr>
-<tr><td>8.</td><td><a href='https://zsnes.com/'>Super ZSNES – GPU Powered SNES Emulator</a></td><td>91 👍</td><td>19 💬</td></tr>
-<tr><td>9.</td><td><a href='https://app.oravys.com/blog/mercor-breach-2026'>4TB of voice samples just stolen from 40k AI contractors at Mercor</a></td><td>345 👍</td><td>129 💬</td></tr>
-<tr><td>10.</td><td><a href='https://atempleton.bearblog.dev/quiet-resurgence-of-rf-engineering/'>The Quiet Resurgence of RF Engineering</a></td><td>26 👍</td><td>8 💬</td></tr>
+<tr><td>1.</td><td><a href='https://vivianvoss.net/blog/integrated-by-design-launch'>New Integrated by Design FreeBSD Book</a></td><td>47 👍</td><td>11 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai'>Microsoft and OpenAI end their exclusive and revenue-sharing deal</a></td><td>739 👍</td><td>650 💬</td></tr>
+<tr><td>3.</td><td><a href='https://talkie-lm.com/introducing-talkie'>Talkie: a 13B vintage language model from 1930</a></td><td>66 👍</td><td>19 💬</td></tr>
+<tr><td>4.</td><td><a href='https://www.mooreds.com/wordpress/archives/3734'>Meetings Are Forcing Functions</a></td><td>28 👍</td><td>9 💬</td></tr>
+<tr><td>5.</td><td><a href='https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/'>Three men are facing charges in Toronto SMS Blaster arrests</a></td><td>79 👍</td><td>43 💬</td></tr>
+<tr><td>6.</td><td><a href='https://ismy.blue/'>Is my blue your blue?</a></td><td>314 👍</td><td>214 💬</td></tr>
+<tr><td>7.</td><td><a href='https://sboots.ca/2026/03/11/generative-ai-vegetarianism/'>Generative AI Vegetarianism</a></td><td>16 👍</td><td>14 💬</td></tr>
+<tr><td>8.</td><td><a href='https://github.com/Hanqaqa/Easyduino'>Easyduino: Open Source PCB Devboards for KiCad</a></td><td>168 👍</td><td>24 💬</td></tr>
+<tr><td>9.</td><td><a href='https://atempleton.bearblog.dev/quiet-resurgence-of-rf-engineering/'>The quiet resurgence of RF engineering</a></td><td>126 👍</td><td>69 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.theguardian.com/science/2026/apr/15/hidden-treasures-spanish-archaeologists-discover-trove-of-ancient-shipwrecks-in-bay-of-gibraltar'>Spanish archaeologists discover trove of ancient shipwrecks in Bay ...</a></td><td>79 👍</td><td>9 💬</td></tr>
 </table>
 
-<sub>🕐 Last HN update: <b>27 Apr 2026, 19:48 UTC</b></sub>
+<b>28 Apr 2026, 01:14 UTC</b>
 
 ---
 
