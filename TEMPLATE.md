@@ -116,20 +116,11 @@ fun_fact: "This README updates itself every day via GitHub Actions ⚡"
 <!-- LIVE WEATHER DASHBOARD -->
 ## 🌤️ World Weather Dashboard
 
-> *Live weather across major cities — updated daily via GitHub Actions*
+> *Live weather across major cities, organized by continent*
 
-<table>
-<tr>
-<th>🏙️ City</th>
-<th>🌡️ Temp</th>
-<th>💧 Humidity</th>
-<th>🌬️ Wind</th>
-<th>☁️ Conditions</th>
-</tr>
 {{weather_rows}}
-</table>
 
-<sub>🕐 Last weather update: <b>{{weather_update_time}}</b></sub>
+<sub>🕐 Last weather update: <b>{{weather_update_time}}</b> · Data from OpenWeatherMap</sub>
 
 ---
 

@@ -21,9 +21,16 @@ from scripts.update_patterns import (
 # Concrete test double for UpdateScriptBase
 # ---------------------------------------------------------------------------
 
+# New weather row with continent structure
 NEW_WEATHER_ROW = (
-    "<tr><td>🇬🇧 <b>London</b></td>"
-    "<td>25°C</td><td>60%</td><td>10 km/h</td><td>☀️ Sunny</td></tr>"
+    "<details open>\n<summary><b>Europe</b></summary>\n\n<table>\n"
+    "<tr>\n<th>🏙️ City</th>\n<th>🌡️ Temp</th>\n<th>💧 Humidity</th>\n<th>🌬️ Wind</th>\n<th>☁️ Conditions</th>\n</tr>\n"
+    "<tr><td>🇬🇧 <b>London</b></td><td>25°C</td><td>60%</td><td>10 km/h</td><td>☀️ Sunny</td></tr>\n"
+    "</table>\n\n</details>\n\n"
+    "<details open>\n<summary><b>Asia</b></summary>\n\n<table>\n"
+    "<tr>\n<th>🏙️ City</th>\n<th>🌡️ Temp</th>\n<th>💧 Humidity</th>\n<th>🌬️ Wind</th>\n<th>☁️ Conditions</th>\n</tr>\n"
+    "<tr><td>🇨🇳 <b>Beijing</b></td><td>20°C</td><td>40%</td><td>8 km/h</td><td>☀️ Clear</td></tr>\n"
+    "</table>\n\n</details>"
 )
 
 NEW_STOCKS_ROW = (

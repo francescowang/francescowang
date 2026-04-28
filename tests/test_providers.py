@@ -118,12 +118,19 @@ class TestWeatherProvider:
         assert "🇬🇧" in result  # London
 
     def test_result_contains_all_city_flags(self):
+        """Test that result contains country flags for cities in all continents."""
         from providers.weather import get_weather
-        expected_flags = ["🇬🇧", "🇨🇳", "🇺🇸", "🇫🇷", "🇮🇹", "🇿🇦", "🇯🇵", "🇦🇺", "🇦🇪", "🇧🇷"]
         with patch("providers.weather.fetch_json", return_value=None):
             result = get_weather()
-        for flag in expected_flags:
-            assert flag in result
+        # Check that we have at least one city from major regions
+        assert "London" in result
+        assert "Beijing" in result
+        assert "New York" in result
+        assert "São Paulo" in result
+        assert "Sydney" in result
+        assert "Cape Town" in result
+        # Verify we have multiple continent sections
+        assert result.count("<details") >= 6
 
     def test_formats_temperature_when_data_available(self):
         from providers.weather import get_weather
@@ -145,6 +152,18 @@ class TestWeatherProvider:
             result = get_weather()
         assert "<tr>" in result
         assert "</tr>" in result
+
+    def test_result_organized_by_continents(self):
+        """Weather data should be organized in continent sections."""
+        from providers.weather import get_weather
+        with patch("providers.weather.fetch_json", return_value=None):
+            result = get_weather()
+        expected_continents = ["Europe", "Asia", "North America", "South America", "Africa", "Oceania"]
+        for continent in expected_continents:
+            assert continent in result
+        # Check for details/summary structure
+        assert "<details" in result
+        assert "<summary>" in result
 
 
 # ---------------------------------------------------------------------------

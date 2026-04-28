@@ -45,16 +45,37 @@ def _fetch_city_weather(city: str, info: dict) -> str:
 
 
 def get_weather() -> str:
-    """Fetch current weather for all cities concurrently from Open-Meteo."""
-    city_rows: dict[str, str] = {}
-    with ThreadPoolExecutor(max_workers=len(CITIES)) as executor:
-        future_to_city = {
-            executor.submit(_fetch_city_weather, city, info): city
-            for city, info in CITIES.items()
+    """Fetch current weather for all cities concurrently from Open-Meteo, organized by continent."""
+    # Flatten all cities and fetch concurrently
+    all_cities = {}
+    continent_cities = {}
+    
+    for continent, cities in CITIES.items():
+        continent_cities[continent] = {}
+        for city, info in cities.items():
+            all_cities[(continent, city)] = info
+    
+    city_rows = {}
+    with ThreadPoolExecutor(max_workers=len(all_cities)) as executor:
+        future_to_key = {
+            executor.submit(_fetch_city_weather, city, info): (continent, city)
+            for (continent, city), info in all_cities.items()
         }
-        for future in as_completed(future_to_city):
-            city = future_to_city[future]
-            city_rows[city] = future.result()
+        for future in as_completed(future_to_key):
+            continent, city = future_to_key[future]
+            city_rows[(continent, city)] = future.result()
 
-    # Return rows in original config order
-    return "\n".join(city_rows[city] for city in CITIES if city in city_rows)
+    # Build HTML output organized by continent
+    result_html = ""
+    for continent in CITIES.keys():
+        result_html += f"<details open>\n<summary><b>{continent}</b></summary>\n\n<table>\n"
+        result_html += "<tr>\n<th>🏙️ City</th>\n<th>🌡️ Temp</th>\n<th>💧 Humidity</th>\n<th>🌬️ Wind</th>\n<th>☁️ Conditions</th>\n</tr>\n"
+        
+        # Add rows for this continent
+        for city in CITIES[continent].keys():
+            if (continent, city) in city_rows:
+                result_html += city_rows[(continent, city)] + "\n"
+        
+        result_html += "</table>\n\n</details>\n\n"
+    
+    return result_html.rstrip()

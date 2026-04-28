@@ -116,7 +116,10 @@ fun_fact: "This README updates itself every day via GitHub Actions ⚡"
 <!-- LIVE WEATHER DASHBOARD -->
 ## 🌤️ World Weather Dashboard
 
-> *Live weather across major cities — updated daily via GitHub Actions*
+> *Live weather across major cities, organized by continent*
+
+<details open>
+<summary><b>Europe</b></summary>
 
 <table>
 <tr>
@@ -126,19 +129,112 @@ fun_fact: "This README updates itself every day via GitHub Actions ⚡"
 <th>🌬️ Wind</th>
 <th>☁️ Conditions</th>
 </tr>
-<tr><td>🇬🇧 <b>London</b></td><td>9.8°C</td><td>81%</td><td>17.6 km/h</td><td>☁️ Overcast</td></tr>
-<tr><td>🇨🇳 <b>Beijing</b></td><td>21.4°C</td><td>14%</td><td>7.4 km/h</td><td>⛅ Partly cloudy</td></tr>
-<tr><td>🇺🇸 <b>New York</b></td><td>7.8°C</td><td>76%</td><td>5.4 km/h</td><td>☀️ Clear sky</td></tr>
-<tr><td>🇫🇷 <b>Paris</b></td><td>11.8°C</td><td>57%</td><td>11.5 km/h</td><td>☁️ Overcast</td></tr>
-<tr><td>🇮🇹 <b>Milan</b></td><td>18.8°C</td><td>54%</td><td>10.0 km/h</td><td>☁️ Overcast</td></tr>
-<tr><td>🇿🇦 <b>Cape Town</b></td><td>13.5°C</td><td>86%</td><td>4.0 km/h</td><td>🌤️ Mainly clear</td></tr>
-<tr><td>🇯🇵 <b>Tokyo</b></td><td>22.3°C</td><td>59%</td><td>10.0 km/h</td><td>☀️ Clear sky</td></tr>
-<tr><td>🇦🇺 <b>Sydney</b></td><td>19.5°C</td><td>67%</td><td>9.9 km/h</td><td>☀️ Clear sky</td></tr>
-<tr><td>🇦🇪 <b>Dubai</b></td><td>34.2°C</td><td>36%</td><td>9.7 km/h</td><td>☁️ Overcast</td></tr>
-<tr><td>🇧🇷 <b>São Paulo</b></td><td>19.0°C</td><td>97%</td><td>5.4 km/h</td><td>☁️ Overcast</td></tr>
+<tr><td>🇬🇧 <b>London</b></td><td>10.1°C</td><td>80%</td><td>18.0 km/h</td><td>☁️ Overcast</td></tr>
+<tr><td>🇫🇷 <b>Paris</b></td><td>16.8°C</td><td>46%</td><td>12.2 km/h</td><td>🌤️ Mainly clear</td></tr>
+<tr><td>🇮🇹 <b>Milan</b></td><td>21.2°C</td><td>48%</td><td>11.5 km/h</td><td>☁️ Overcast</td></tr>
+<tr><td>🇩🇪 <b>Berlin</b></td><td>12.7°C</td><td>24%</td><td>13.5 km/h</td><td>☀️ Clear sky</td></tr>
+<tr><td>🇷🇺 <b>Moscow</b></td><td>1.7°C</td><td>84%</td><td>17.3 km/h</td><td>🌨️ Light snow</td></tr>
+<tr><td>🇳🇱 <b>Amsterdam</b></td><td>14.2°C</td><td>46%</td><td>23.8 km/h</td><td>☁️ Overcast</td></tr>
 </table>
 
-<b>28 Apr 2026, 09:50 UTC</b>
+</details>
+
+<details open>
+<summary><b>Asia</b></summary>
+
+<table>
+<tr>
+<th>🏙️ City</th>
+<th>🌡️ Temp</th>
+<th>💧 Humidity</th>
+<th>🌬️ Wind</th>
+<th>☁️ Conditions</th>
+</tr>
+<tr><td>🇨🇳 <b>Beijing</b></td><td>20.2°C</td><td>15%</td><td>5.6 km/h</td><td>☀️ Clear sky</td></tr>
+<tr><td>🇯🇵 <b>Tokyo</b></td><td>19.4°C</td><td>67%</td><td>8.6 km/h</td><td>☀️ Clear sky</td></tr>
+<tr><td>🇦🇪 <b>Dubai</b></td><td>36.2°C</td><td>30%</td><td>10.2 km/h</td><td>☀️ Clear sky</td></tr>
+<tr><td>🇭🇰 <b>Hong Kong</b></td><td>24.5°C</td><td>91%</td><td>10.9 km/h</td><td>☁️ Overcast</td></tr>
+<tr><td>🇸🇬 <b>Singapore</b></td><td>29.5°C</td><td>73%</td><td>3.9 km/h</td><td>☁️ Overcast</td></tr>
+<tr><td>🇹🇭 <b>Bangkok</b></td><td>32.0°C</td><td>59%</td><td>11.7 km/h</td><td>🌤️ Mainly clear</td></tr>
+<tr><td>🇰🇷 <b>Seoul</b></td><td>13.5°C</td><td>66%</td><td>2.8 km/h</td><td>🌤️ Mainly clear</td></tr>
+</table>
+
+</details>
+
+<details open>
+<summary><b>North America</b></summary>
+
+<table>
+<tr>
+<th>🏙️ City</th>
+<th>🌡️ Temp</th>
+<th>💧 Humidity</th>
+<th>🌬️ Wind</th>
+<th>☁️ Conditions</th>
+</tr>
+<tr><td>🇺🇸 <b>New York</b></td><td colspan='4'>Data unavailable</td></tr>
+<tr><td>🇺🇸 <b>Los Angeles</b></td><td>10.5°C</td><td>83%</td><td>6.4 km/h</td><td>🌤️ Mainly clear</td></tr>
+<tr><td>🇨🇦 <b>Toronto</b></td><td>10.7°C</td><td>54%</td><td>5.1 km/h</td><td>☁️ Overcast</td></tr>
+<tr><td>🇲🇽 <b>Mexico City</b></td><td>17.3°C</td><td>50%</td><td>1.3 km/h</td><td>☀️ Clear sky</td></tr>
+</table>
+
+</details>
+
+<details open>
+<summary><b>South America</b></summary>
+
+<table>
+<tr>
+<th>🏙️ City</th>
+<th>🌡️ Temp</th>
+<th>💧 Humidity</th>
+<th>🌬️ Wind</th>
+<th>☁️ Conditions</th>
+</tr>
+<tr><td>🇧🇷 <b>São Paulo</b></td><td>19.3°C</td><td>94%</td><td>8.2 km/h</td><td>☁️ Overcast</td></tr>
+<tr><td>🇦🇷 <b>Buenos Aires</b></td><td>8.8°C</td><td>63%</td><td>10.2 km/h</td><td>☁️ Overcast</td></tr>
+<tr><td>🇵🇪 <b>Lima</b></td><td>18.6°C</td><td>77%</td><td>5.8 km/h</td><td>☀️ Clear sky</td></tr>
+</table>
+
+</details>
+
+<details open>
+<summary><b>Africa</b></summary>
+
+<table>
+<tr>
+<th>🏙️ City</th>
+<th>🌡️ Temp</th>
+<th>💧 Humidity</th>
+<th>🌬️ Wind</th>
+<th>☁️ Conditions</th>
+</tr>
+<tr><td>🇿🇦 <b>Cape Town</b></td><td>16.8°C</td><td>64%</td><td>11.8 km/h</td><td>🌤️ Mainly clear</td></tr>
+<tr><td>🇪🇬 <b>Cairo</b></td><td>28.1°C</td><td>37%</td><td>7.5 km/h</td><td>🌤️ Mainly clear</td></tr>
+<tr><td>🇳🇬 <b>Lagos</b></td><td>30.6°C</td><td>67%</td><td>9.0 km/h</td><td>🌧️ Showers</td></tr>
+</table>
+
+</details>
+
+<details open>
+<summary><b>Oceania</b></summary>
+
+<table>
+<tr>
+<th>🏙️ City</th>
+<th>🌡️ Temp</th>
+<th>💧 Humidity</th>
+<th>🌬️ Wind</th>
+<th>☁️ Conditions</th>
+</tr>
+<tr><td>🇦🇺 <b>Sydney</b></td><td>18.5°C</td><td>76%</td><td>9.8 km/h</td><td>☀️ Clear sky</td></tr>
+<tr><td>🇦🇺 <b>Melbourne</b></td><td>18.6°C</td><td>69%</td><td>4.5 km/h</td><td>☁️ Overcast</td></tr>
+<tr><td>🇳🇿 <b>Auckland</b></td><td>13.9°C</td><td>91%</td><td>1.8 km/h</td><td>⛅ Partly cloudy</td></tr>
+</table>
+
+</details>
+
+<sub>🕐 Last weather update: <b>28 Apr 2026, 10:36 UTC</b> · Data from OpenWeatherMap</sub>
 
 ---
 
@@ -155,15 +251,15 @@ fun_fact: "This README updates itself every day via GitHub Actions ⚡"
 <th>📊 % Change</th>
 <th>📅 As Of</th>
 </tr>
-<tr><td><b>VUAG.L</b></td><td>102.14</td><td>🟢 +0.42</td><td>+0.41%</td><td>28 Apr 2026, 07:39 UTC</td></tr>
-<tr><td><b>VWRL.L</b></td><td>129.79</td><td>🟢 +0.35</td><td>+0.27%</td><td>28 Apr 2026, 07:39 UTC</td></tr>
-<tr><td><b>SPY</b></td><td>715.17</td><td>🟢 +1.16</td><td>+0.16%</td><td>28 Apr 2026, 07:39 UTC</td></tr>
-<tr><td><b>QQQ</b></td><td>664.23</td><td>🟢 +0.58</td><td>+0.09%</td><td>28 Apr 2026, 07:39 UTC</td></tr>
-<tr><td><b>ARKK</b></td><td>76.55</td><td>🔴 -0.10</td><td>-0.13%</td><td>28 Apr 2026, 07:39 UTC</td></tr>
-<tr><td><b>VTI</b></td><td>352.53</td><td>🟢 +0.20</td><td>+0.06%</td><td>28 Apr 2026, 07:39 UTC</td></tr>
+<tr><td><b>VUAG.L</b></td><td>102.30</td><td>🟢 +0.58</td><td>+0.57%</td><td>28 Apr 2026, 10:36 UTC</td></tr>
+<tr><td><b>VWRL.L</b></td><td>129.98</td><td>🟢 +0.54</td><td>+0.42%</td><td>28 Apr 2026, 10:36 UTC</td></tr>
+<tr><td><b>SPY</b></td><td>715.17</td><td>🔴 -1.09</td><td>-0.15%</td><td>28 Apr 2026, 10:36 UTC</td></tr>
+<tr><td><b>QQQ</b></td><td>664.23</td><td>🔴 -1.11</td><td>-0.17%</td><td>28 Apr 2026, 10:36 UTC</td></tr>
+<tr><td><b>ARKK</b></td><td>76.55</td><td>🔴 -0.26</td><td>-0.34%</td><td>28 Apr 2026, 10:36 UTC</td></tr>
+<tr><td><b>VTI</b></td><td>352.53</td><td>🔴 -0.58</td><td>-0.16%</td><td>28 Apr 2026, 10:36 UTC</td></tr>
 </table>
 
-<sub>🕐 Last market update: <b>28 Apr 2026, 07:39 UTC</b> · Data from Yahoo Finance</sub>
+<sub>🕐 Last market update: <b>28 Apr 2026, 10:36 UTC</b> · Data from Yahoo Finance</sub>
 
 ---
 
@@ -179,19 +275,19 @@ fun_fact: "This README updates itself every day via GitHub Actions ⚡"
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://gtfobins.org/'>GTFOBins</a></td><td>65 👍</td><td>21 💬</td></tr>
-<tr><td>2.</td><td><a href='https://talkie-lm.com/introducing-talkie'>Talkie: a 13B vintage language model from 1930</a></td><td>306 👍</td><td>101 💬</td></tr>
-<tr><td>3.</td><td><a href='https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai'>Microsoft and OpenAI end their exclusive and revenue-sharing deal</a></td><td>852 👍</td><td>729 💬</td></tr>
-<tr><td>4.</td><td><a href='https://ismy.blue/'>Is my blue your blue?</a></td><td>487 👍</td><td>327 💬</td></tr>
-<tr><td>5.</td><td><a href='https://github.com/pgcentralfoundation/pgrx'>Pgrx: Build Postgres Extensions with Rust</a></td><td>61 👍</td><td>3 💬</td></tr>
-<tr><td>6.</td><td><a href='https://fabiensanglard.net/curse/'>Mo RAM, Mo Problems (2025)</a></td><td>109 👍</td><td>14 💬</td></tr>
-<tr><td>7.</td><td><a href='https://gitperf.com/'>High Performance Git</a></td><td>104 👍</td><td>12 💬</td></tr>
-<tr><td>8.</td><td><a href='https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/'>Three men are facing charges in Toronto SMS Blaster arrests</a></td><td>148 👍</td><td>68 💬</td></tr>
-<tr><td>9.</td><td><a href='https://news.ycombinator.com/item?id=47931470'>Scraping 241 UK council planning portals – 2.6M decisions so far</a></td><td>4 👍</td><td>0 💬</td></tr>
-<tr><td>10.</td><td><a href='https://nbelakovski.substack.com/p/how-i-learned-what-a-decoupling-capacitor'>How I leared what a decoupling capacitor is for, the hard way</a></td><td>78 👍</td><td>41 💬</td></tr>
+<tr><td>1.</td><td><a href='https://gtfobins.org/'>GTFOBins</a></td><td>201 👍</td><td>56 💬</td></tr>
+<tr><td>2.</td><td><a href='https://talkie-lm.com/introducing-talkie'>Talkie: a 13B vintage language model from 1930</a></td><td>376 👍</td><td>133 💬</td></tr>
+<tr><td>3.</td><td><a href='https://worksinprogress.co/issue/the-worlds-most-complex-machine/'>The World's Most Complex Machine</a></td><td>50 👍</td><td>10 💬</td></tr>
+<tr><td>4.</td><td><a href='https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai'>Microsoft and OpenAI end their exclusive and revenue-sharing deal</a></td><td>886 👍</td><td>762 💬</td></tr>
+<tr><td>5.</td><td><a href='https://ismy.blue/'>Is my blue your blue?</a></td><td>556 👍</td><td>377 💬</td></tr>
+<tr><td>6.</td><td><a href='https://apod.nasa.gov/apod/ap260427.html'>Can You Find the Comet?</a></td><td>43 👍</td><td>12 💬</td></tr>
+<tr><td>7.</td><td><a href='https://github.com/pgcentralfoundation/pgrx'>Pgrx: Build Postgres Extensions with Rust</a></td><td>98 👍</td><td>5 💬</td></tr>
+<tr><td>8.</td><td><a href='https://purplesyringa.moe/blog/wasm-is-not-quite-a-stack-machine/'>WASM is not quite a stack machine</a></td><td>46 👍</td><td>14 💬</td></tr>
+<tr><td>9.</td><td><a href='https://gitperf.com/'>High Performance Git</a></td><td>152 👍</td><td>31 💬</td></tr>
+<tr><td>10.</td><td><a href='https://fabiensanglard.net/curse/'>Mo RAM, Mo Problems (2025)</a></td><td>139 👍</td><td>22 💬</td></tr>
 </table>
 
-<sub>🕐 Last HN update: <b>28 Apr 2026, 07:39 UTC</b></sub>
+<sub>🕐 Last HN update: <b>28 Apr 2026, 10:36 UTC</b></sub>
 
 ---
 
@@ -226,7 +322,7 @@ fun_fact: "This README updates itself every day via GitHub Actions ⚡"
 
 ### 🧠 Fun Fact
 
-> Butterflies taste with their hind feet.
+> A Czech man, Jan Honza Zampa, holds the record for drinking one liter of beer in 4.11 seconds.
 
 </td>
 <td>

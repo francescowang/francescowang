@@ -14,12 +14,27 @@ SAMPLE_README = """\
 
 ## 🌤️ Live Weather
 
+<details open>
+<summary><b>Europe</b></summary>
+
 <table>
-<tr><th>🏙️ City</th><th>🌡️ Temp</th><th>💧 Humidity</th><th>🌬️ Wind</th><th>🌤️ Conditions</th></tr>
+<tr><th>🏙️ City</th><th>🌡️ Temp</th><th>💧 Humidity</th><th>🌬️ Wind</th><th>☁️ Conditions</th></tr>
 <tr><td>🇬🇧 <b>London</b></td><td>15°C</td><td>80%</td><td>20 km/h</td><td>☀️ Clear sky</td></tr>
 </table>
 
-<sub>🕐 Last weather update: <b>26 Apr 2025, 09:00 UTC</b></sub>
+</details>
+
+<details open>
+<summary><b>Asia</b></summary>
+
+<table>
+<tr><th>🏙️ City</th><th>🌡️ Temp</th><th>💧 Humidity</th><th>🌬️ Wind</th><th>☁️ Conditions</th></tr>
+<tr><td>🇨🇳 <b>Beijing</b></td><td>18°C</td><td>50%</td><td>10 km/h</td><td>☀️ Clear sky</td></tr>
+</table>
+
+</details>
+
+<sub>🕐 Last weather update: <b>26 Apr 2025, 09:00 UTC</b> · Data from OpenWeatherMap</sub>
 
 ## 📈 Live Markets
 
@@ -34,7 +49,7 @@ SAMPLE_README = """\
 <tr><td><b>SPY</b></td><td>450.00</td><td>🟢 +1.00</td><td>+0.22%</td><td>26 Apr 2025</td></tr>
 </table>
 
-<sub>🕐 Last market update: <b>26 Apr 2025, 09:00 UTC</b>
+<sub>🕐 Last market update: <b>26 Apr 2025, 09:00 UTC</b> · Data from Yahoo Finance</sub>
 
 ## 📰 Hacker News Top 10
 

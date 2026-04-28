@@ -26,11 +26,11 @@ FLAGS = re.DOTALL
 
 class TestWeatherPatterns:
     def test_header_matches_full_row(self):
-        html = "<tr><th>🏙️ City</th><th>🌡️ Temp</th><th>💧 Humidity</th><th>🌬️ Wind</th><th>🌤️ Conditions</th></tr>"
+        html = "<details open>\n<summary><b>Europe</b></summary>"
         assert re.search(WEATHER_SECTION_HEADER, html, FLAGS)
 
     def test_header_matches_minimal_row(self):
-        html = "<tr><th>🏙️ City</th></tr>"
+        html = "<details open>"
         assert re.search(WEATHER_SECTION_HEADER, html, FLAGS)
 
     def test_header_does_not_match_stocks_header(self):
@@ -38,7 +38,7 @@ class TestWeatherPatterns:
         assert not re.search(WEATHER_SECTION_HEADER, html, FLAGS)
 
     def test_end_matches_standard_closing(self):
-        text = "</table>\n\n<sub>🕐 Last weather update:"
+        text = "</details>\n\n<sub>🕐 Last weather update:"
         assert re.search(WEATHER_SECTION_END, text, FLAGS)
 
     def test_end_does_not_match_stocks_closing(self):
@@ -46,11 +46,11 @@ class TestWeatherPatterns:
         assert not re.search(WEATHER_SECTION_END, text, FLAGS)
 
     def test_timestamp_matches_full_tag(self):
-        text = "<sub>🕐 Last weather update: <b>27 Apr 2025, 09:00 UTC</b></sub>"
+        text = "<sub>🕐 Last weather update: <b>27 Apr 2025, 09:00 UTC</b> · Data from OpenWeatherMap</sub>"
         assert re.search(WEATHER_TIMESTAMP, text, FLAGS)
 
     def test_timestamp_does_not_match_stocks_timestamp(self):
-        text = "<sub>🕐 Last market update: <b>27 Apr 2025, 09:00 UTC</b></sub>"
+        text = "<sub>🕐 Last market update: <b>27 Apr 2025, 09:00 UTC</b> · Data from Yahoo Finance</sub>"
         assert not re.search(WEATHER_TIMESTAMP, text, FLAGS)
 
     def test_timestamp_does_not_match_hn_timestamp(self):
