@@ -14,6 +14,7 @@ SAMPLE_README = """\
 
 ## 🌤️ Live Weather
 
+<!-- WEATHER START -->
 <details open>
 <summary><b>Europe</b></summary>
 
@@ -33,6 +34,7 @@ SAMPLE_README = """\
 </table>
 
 </details>
+<!-- WEATHER END -->
 
 <sub>🕐 Last weather update: <b>26 Apr 2025, 09:00 UTC</b> · Data from OpenWeatherMap</sub>
 

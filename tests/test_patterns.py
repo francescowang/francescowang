@@ -26,11 +26,11 @@ FLAGS = re.DOTALL
 
 class TestWeatherPatterns:
     def test_header_matches_full_row(self):
-        html = "<details open>\n<summary><b>Europe</b></summary>"
+        html = "<!-- WEATHER START -->"
         assert re.search(WEATHER_SECTION_HEADER, html, FLAGS)
 
     def test_header_matches_minimal_row(self):
-        html = "<details open>"
+        html = "<!-- WEATHER START -->"
         assert re.search(WEATHER_SECTION_HEADER, html, FLAGS)
 
     def test_header_does_not_match_stocks_header(self):
@@ -38,7 +38,7 @@ class TestWeatherPatterns:
         assert not re.search(WEATHER_SECTION_HEADER, html, FLAGS)
 
     def test_end_matches_standard_closing(self):
-        text = "</details>\n\n<sub>🕐 Last weather update:"
+        text = "</details>\n<!-- WEATHER END -->"
         assert re.search(WEATHER_SECTION_END, text, FLAGS)
 
     def test_end_does_not_match_stocks_closing(self):

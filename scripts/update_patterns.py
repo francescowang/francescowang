@@ -65,12 +65,14 @@ Source structure in README (simplified):
 """
 
 # WEATHER SECTION PATTERNS
-# Matches the opening <details open> tag that starts each continent block.
-# re.DOTALL lets (.*?) in update_section span across all continent <details> blocks
-# up to the FINAL </details> before the timestamp.
-WEATHER_SECTION_HEADER = r"<details open>"
-WEATHER_SECTION_END = r"</details>"
-WEATHER_TIMESTAMP = r"<sub>🕐 Last weather update: <b>.*?</b> · Data from OpenWeatherMap</sub>"
+# Uses unique HTML comment markers that only appear in the weather section,
+# preventing accidental matches with other <details open> blocks (e.g. Tech Stack).
+# re.DOTALL lets (.*?) in update_section span across all continent <details> blocks.
+WEATHER_SECTION_HEADER = r"<!-- WEATHER START -->"
+WEATHER_SECTION_END = r"<!-- WEATHER END -->"
+# Lookbehind matches only the <b>DATE</b> part so update_base's replacement
+# of just "<b>new_time</b>" leaves the surrounding <sub>...</sub> intact.
+WEATHER_TIMESTAMP = r"(?<=Last weather update: )<b>.*?</b>"
 
 # STOCKS SECTION PATTERNS
 # Matches the multiline header row that contains the "📊 Ticker" column heading.

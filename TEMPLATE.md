@@ -118,7 +118,9 @@ fun_fact: "This README updates itself every day via GitHub Actions ⚡"
 
 > *Live weather across major cities, organized by continent*
 
+<!-- WEATHER START -->
 {{weather_rows}}
+<!-- WEATHER END -->
 
 <sub>🕐 Last weather update: <b>{{weather_update_time}}</b> · Data from OpenWeatherMap</sub>
 
