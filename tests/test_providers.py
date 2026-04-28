@@ -16,35 +16,37 @@ from unittest.mock import patch, MagicMock
 class TestHackerNewsProvider:
     def test_returns_fallback_on_connection_error(self):
         from providers.hackernews import get_hackernews_top10
-        with patch("providers.hackernews.requests.get", side_effect=ConnectionError("down")):
+        with patch("urllib.request.urlopen", side_effect=ConnectionError("down")):
             result = get_hackernews_top10()
         assert "Unable to fetch Hacker News stories" in result
 
     def test_fallback_is_valid_html_row(self):
         from providers.hackernews import get_hackernews_top10
-        with patch("providers.hackernews.requests.get", side_effect=Exception("fail")):
+        with patch("urllib.request.urlopen", side_effect=Exception("fail")):
             result = get_hackernews_top10()
         assert result.startswith("<tr>")
 
     def test_title_truncated_when_over_70_chars(self):
+        import json
         from providers.hackernews import get_hackernews_top10
 
         long_title = "A" * 80
 
-        mock_ids = MagicMock()
-        mock_ids.json.return_value = [42]
-        mock_ids.raise_for_status.return_value = None
+        # Mock context manager responses
+        ids_cm = MagicMock()
+        ids_cm.__enter__.return_value.read.return_value = json.dumps([42]).encode()
+        ids_cm.__exit__.return_value = None
 
-        mock_story = MagicMock()
-        mock_story.json.return_value = {
+        story_cm = MagicMock()
+        story_cm.__enter__.return_value.read.return_value = json.dumps({
             "title": long_title,
             "score": 100,
             "descendants": 20,
             "url": "https://example.com",
-        }
-        mock_story.raise_for_status.return_value = None
+        }).encode()
+        story_cm.__exit__.return_value = None
 
-        with patch("providers.hackernews.requests.get", side_effect=[mock_ids, mock_story]):
+        with patch("urllib.request.urlopen", side_effect=[ids_cm, story_cm]):
             result = get_hackernews_top10()
 
         assert "..." in result
@@ -52,24 +54,26 @@ class TestHackerNewsProvider:
         assert match and len(match.group(1)) <= 70
 
     def test_title_not_truncated_when_under_70_chars(self):
+        import json
         from providers.hackernews import get_hackernews_top10
 
         short_title = "Short title"
 
-        mock_ids = MagicMock()
-        mock_ids.json.return_value = [1]
-        mock_ids.raise_for_status.return_value = None
+        # Mock context manager responses
+        ids_cm = MagicMock()
+        ids_cm.__enter__.return_value.read.return_value = json.dumps([1]).encode()
+        ids_cm.__exit__.return_value = None
 
-        mock_story = MagicMock()
-        mock_story.json.return_value = {
+        story_cm = MagicMock()
+        story_cm.__enter__.return_value.read.return_value = json.dumps({
             "title": short_title,
             "score": 50,
             "descendants": 5,
             "url": "https://example.com",
-        }
-        mock_story.raise_for_status.return_value = None
+        }).encode()
+        story_cm.__exit__.return_value = None
 
-        with patch("providers.hackernews.requests.get", side_effect=[mock_ids, mock_story]):
+        with patch("urllib.request.urlopen", side_effect=[ids_cm, story_cm]):
             result = get_hackernews_top10()
 
         assert "..." not in result
@@ -77,22 +81,24 @@ class TestHackerNewsProvider:
         assert result.startswith("<tr>")
 
     def test_output_contains_score_and_comments(self):
+        import json
         from providers.hackernews import get_hackernews_top10
 
-        mock_ids = MagicMock()
-        mock_ids.json.return_value = [7]
-        mock_ids.raise_for_status.return_value = None
+        # Mock context manager responses
+        ids_cm = MagicMock()
+        ids_cm.__enter__.return_value.read.return_value = json.dumps([7]).encode()
+        ids_cm.__exit__.return_value = None
 
-        mock_story = MagicMock()
-        mock_story.json.return_value = {
+        story_cm = MagicMock()
+        story_cm.__enter__.return_value.read.return_value = json.dumps({
             "title": "Test Story",
             "score": 999,
             "descendants": 42,
             "url": "https://example.com",
-        }
-        mock_story.raise_for_status.return_value = None
+        }).encode()
+        story_cm.__exit__.return_value = None
 
-        with patch("providers.hackernews.requests.get", side_effect=[mock_ids, mock_story]):
+        with patch("urllib.request.urlopen", side_effect=[ids_cm, story_cm]):
             result = get_hackernews_top10()
 
         assert "999" in result
@@ -267,24 +273,27 @@ class TestHackerNewsTitleBoundary:
 
     def _mock_hn(self, title: str):
         """Helper: mock one HN story with the given title."""
-        mock_ids = MagicMock()
-        mock_ids.json.return_value = [99]
-        mock_ids.raise_for_status.return_value = None
+        import json
+        
+        ids_cm = MagicMock()
+        ids_cm.__enter__.return_value.read.return_value = json.dumps([99]).encode()
+        ids_cm.__exit__.return_value = None
 
-        mock_story = MagicMock()
-        mock_story.json.return_value = {
+        story_cm = MagicMock()
+        story_cm.__enter__.return_value.read.return_value = json.dumps({
             "title": title,
             "score": 1,
             "descendants": 0,
             "url": "https://example.com",
-        }
-        mock_story.raise_for_status.return_value = None
-        return [mock_ids, mock_story]
+        }).encode()
+        story_cm.__exit__.return_value = None
+        
+        return [ids_cm, story_cm]
 
     def test_title_at_exactly_70_chars_is_not_truncated(self):
         from providers.hackernews import get_hackernews_top10
         title = "X" * 70
-        with patch("providers.hackernews.requests.get", side_effect=self._mock_hn(title)):
+        with patch("urllib.request.urlopen", side_effect=self._mock_hn(title)):
             result = get_hackernews_top10()
         assert "..." not in result
         assert title in result
@@ -292,7 +301,7 @@ class TestHackerNewsTitleBoundary:
     def test_title_at_71_chars_is_truncated(self):
         from providers.hackernews import get_hackernews_top10
         title = "X" * 71
-        with patch("providers.hackernews.requests.get", side_effect=self._mock_hn(title)):
+        with patch("urllib.request.urlopen", side_effect=self._mock_hn(title)):
             result = get_hackernews_top10()
         assert "..." in result
 
@@ -300,33 +309,33 @@ class TestHackerNewsTitleBoundary:
         """Titles with non-ASCII characters should be truncated/kept correctly."""
         from providers.hackernews import get_hackernews_top10
         title = "こんにちは世界 " * 5  # well under 70 chars total
-        with patch("providers.hackernews.requests.get", side_effect=self._mock_hn(title)):
+        with patch("urllib.request.urlopen", side_effect=self._mock_hn(title)):
             result = get_hackernews_top10()
         assert "<tr>" in result
 
     def test_individual_story_fetch_failure_is_skipped(self):
         """If a single story detail fetch raises, that story is omitted gracefully."""
+        import json
         from providers.hackernews import get_hackernews_top10
 
-        mock_ids = MagicMock()
-        mock_ids.json.return_value = [1, 2]
-        mock_ids.raise_for_status.return_value = None
+        ids_cm = MagicMock()
+        ids_cm.__enter__.return_value.read.return_value = json.dumps([1, 2]).encode()
+        ids_cm.__exit__.return_value = None
 
-        mock_good = MagicMock()
-        mock_good.json.return_value = {
+        good_cm = MagicMock()
+        good_cm.__enter__.return_value.read.return_value = json.dumps({
             "title": "Good Story",
             "score": 50,
             "descendants": 5,
             "url": "https://example.com",
-        }
-        mock_good.raise_for_status.return_value = None
+        }).encode()
+        good_cm.__exit__.return_value = None
 
         # Second story fetch raises
-        mock_bad = MagicMock()
-        mock_bad.raise_for_status.side_effect = Exception("network error")
+        bad_cm = MagicMock()
+        bad_cm.__enter__.side_effect = Exception("network error")
 
-        with patch("providers.hackernews.requests.get",
-                   side_effect=[mock_ids, mock_good, mock_bad]):
+        with patch("urllib.request.urlopen", side_effect=[ids_cm, good_cm, bad_cm]):
             result = get_hackernews_top10()
 
         assert "Good Story" in result

@@ -5,9 +5,10 @@ Uses the official Hacker News API: https://github.com/HackerNews/API
 Stories are fetched concurrently to reduce total latency from ~30s to ~3s.
 """
 
+import json
 import logging
-
-import requests
+import urllib.request
+import urllib.error
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from typing import Optional
 
@@ -17,9 +18,13 @@ logger = logging.getLogger(__name__)
 def _fetch_story(story_id: int) -> Optional[dict]:
     """Fetch a single story's details from the Hacker News API."""
     story_url = f"https://hacker-news.firebaseio.com/v0/item/{story_id}.json"
-    story_response = requests.get(story_url, timeout=10)
-    story_response.raise_for_status()
-    return story_response.json()
+    try:
+        req = urllib.request.Request(story_url, headers={"User-Agent": "GitHubProfileBot/1.0"})
+        with urllib.request.urlopen(req, timeout=10) as resp:
+            return json.loads(resp.read().decode())
+    except (urllib.error.URLError, json.JSONDecodeError, OSError) as e:
+        logger.warning("Failed to fetch story %s: %s", story_id, e)
+        return None
 
 
 def get_hackernews_top10() -> str:
@@ -27,10 +32,9 @@ def get_hackernews_top10() -> str:
     try:
         # Get top story IDs
         url = "https://hacker-news.firebaseio.com/v0/topstories.json"
-        response = requests.get(url, timeout=10)
-        response.raise_for_status()
-
-        top_story_ids = response.json()[:10]
+        req = urllib.request.Request(url, headers={"User-Agent": "GitHubProfileBot/1.0"})
+        with urllib.request.urlopen(req, timeout=10) as resp:
+            top_story_ids = json.loads(resp.read().decode())[:10]
 
         # Fetch all story details concurrently instead of sequentially
         stories: dict[int, Optional[dict]] = {}
