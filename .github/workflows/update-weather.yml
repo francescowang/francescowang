@@ -9,18 +9,19 @@ on:
     paths:
       - "scripts/update_weather_only.py"
       - "scripts/update_base.py"
-      - "providers/weather.py"
 concurrency:
   group: readme-push
   cancel-in-progress: false
 jobs:
   test:
+    if: github.event_name != 'schedule'
     name: Run test suite
     uses: ./.github/workflows/run-tests.yml
 
   update-weather:
     name: Update weather section
     needs: [test]
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch' || success()
     runs-on: ubuntu-latest
     permissions:
       contents: write

@@ -9,18 +9,19 @@ on:
     paths:
       - "scripts/update_stocks_only.py"
       - "scripts/update_base.py"
-      - "providers/stocks.py"
 concurrency:
   group: readme-push
   cancel-in-progress: false
 jobs:
   test:
+    if: github.event_name != 'schedule'
     name: Run test suite
     uses: ./.github/workflows/run-tests.yml
 
   update-stocks:
     name: Update stocks section
     needs: [test]
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch' || success()
     runs-on: ubuntu-latest
     permissions:
       contents: write
