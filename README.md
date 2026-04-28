@@ -1512,19 +1512,19 @@ fun_fact: "This README updates itself every day via GitHub Actions ⚡"
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://github.blog/news-insights/company-news/an-update-on-github-availability/'>An Update on GitHub Availability</a></td><td>87 👍</td><td>39 💬</td></tr>
-<tr><td>2.</td><td><a href='https://www.theideasletter.org/essay/the-social-edge-of-intelligence/'>The Social Edge of Intelligence: Individual Gain, Collective Loss</a></td><td>19 👍</td><td>8 💬</td></tr>
-<tr><td>3.</td><td><a href='https://talkie-lm.com/introducing-talkie'>Talkie: a 13B vintage language model from 1930</a></td><td>393 👍</td><td>142 💬</td></tr>
-<tr><td>4.</td><td><a href='https://worksinprogress.co/issue/the-worlds-most-complex-machine/'>The World's Most Complex Machine</a></td><td>64 👍</td><td>20 💬</td></tr>
-<tr><td>5.</td><td><a href='https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai'>Microsoft and OpenAI end their exclusive and revenue-sharing deal</a></td><td>892 👍</td><td>764 💬</td></tr>
-<tr><td>6.</td><td><a href='https://gtfobins.org/'>GTFOBins</a></td><td>231 👍</td><td>64 💬</td></tr>
-<tr><td>7.</td><td><a href='https://ismy.blue/'>Is my blue your blue?</a></td><td>576 👍</td><td>387 💬</td></tr>
-<tr><td>8.</td><td><a href='https://apod.nasa.gov/apod/ap260427.html'>Can You Find the Comet?</a></td><td>54 👍</td><td>17 💬</td></tr>
-<tr><td>9.</td><td><a href='https://purplesyringa.moe/blog/wasm-is-not-quite-a-stack-machine/'>WASM is not quite a stack machine</a></td><td>58 👍</td><td>16 💬</td></tr>
-<tr><td>10.</td><td><a href='https://gitperf.com/'>High Performance Git</a></td><td>158 👍</td><td>36 💬</td></tr>
+<tr><td>1.</td><td><a href='https://github.com/localsend/localsend'>Localsend: An open-source cross-platform alternative to AirDrop</a></td><td>114 👍</td><td>38 💬</td></tr>
+<tr><td>2.</td><td><a href='https://github.com/microsoft/VibeVoice'>Microsoft VibeVoice: Open-Source Frontier Voice AI</a></td><td>37 👍</td><td>9 💬</td></tr>
+<tr><td>3.</td><td><a href='https://worksinprogress.co/issue/the-worlds-most-complex-machine/'>The World's Most Complex Machine</a></td><td>137 👍</td><td>64 💬</td></tr>
+<tr><td>4.</td><td><a href='https://talkie-lm.com/introducing-talkie'>Talkie: a 13B vintage language model from 1930</a></td><td>447 👍</td><td>167 💬</td></tr>
+<tr><td>5.</td><td><a href='https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai'>Microsoft and OpenAI end their exclusive and revenue-sharing deal</a></td><td>915 👍</td><td>777 💬</td></tr>
+<tr><td>6.</td><td><a href='https://apod.nasa.gov/apod/ap260427.html'>Can You Find the Comet?</a></td><td>81 👍</td><td>36 💬</td></tr>
+<tr><td>7.</td><td><a href='https://algassert.com/post/2601'>The predictable failure of the QDay Prize</a></td><td>13 👍</td><td>0 💬</td></tr>
+<tr><td>8.</td><td><a href='https://ismy.blue/'>Is my blue your blue? (2024)</a></td><td>613 👍</td><td>405 💬</td></tr>
+<tr><td>9.</td><td><a href='https://femtechdesigndesk.substack.com/p/your-period-tracking-app-has-been'>Period tracking app has been yapping about your flow to Meta</a></td><td>51 👍</td><td>44 💬</td></tr>
+<tr><td>10.</td><td><a href='https://purplesyringa.moe/blog/wasm-is-not-quite-a-stack-machine/'>WASM is not quite a stack machine</a></td><td>89 👍</td><td>31 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>28 Apr 2026, 11:21 UTC</b> · Data from Hacker News</sub>
+<b>28 Apr 2026, 13:04 UTC</b>
 
 ---
 
