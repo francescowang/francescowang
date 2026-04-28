@@ -11,9 +11,12 @@ by providing a common pattern for:
 
 import os
 import re
+import logging
 from abc import ABC, abstractmethod
 from datetime import datetime, timezone
 from pathlib import Path
+
+logger = logging.getLogger(__name__)
 
 
 class UpdateScriptBase(ABC):
@@ -79,7 +82,7 @@ class UpdateScriptBase(ABC):
         updated = re.sub(pattern, replacement, readme, flags=re.DOTALL)
         
         if updated == readme:
-            print(f"⚠️  Warning: No changes made for {self.get_section_name()} section")
+            logger.warning("No changes made for %s section", self.get_section_name())
         
         return updated
 
@@ -103,17 +106,17 @@ class UpdateScriptBase(ABC):
     def run(self) -> None:
         """Execute the update workflow."""
         section_name = self.get_section_name()
-        print(f"📚 Reading README...")
+        logger.info("Reading README...")
         readme = self.read_readme()
 
-        print(f"📡 Fetching {section_name} data...")
+        logger.info("Fetching %s data...", section_name)
         new_content = self.fetch_data()
 
-        print(f"📝 Updating {section_name} section...")
+        logger.info("Updating %s section...", section_name)
         readme = self.update_section(readme, new_content)
         readme = self.update_timestamp(readme)
 
-        print(f"💾 Writing changes...")
+        logger.info("Writing changes...")
         self.write_readme(readme)
 
-        print(f"✅ {section_name.capitalize()} updated at {self.now.strftime('%Y-%m-%d %H:%M UTC')}")
+        logger.info("%s updated at %s", section_name.capitalize(), self.now.strftime('%Y-%m-%d %H:%M UTC'))

@@ -93,3 +93,49 @@ MOON_PHASES = [
     "🌗 Last Quarter",
     "🌘 Waning Crescent",
 ]
+
+
+# ---------------------------------------------------------------------------
+# Config validation — runs on import to catch misconfiguration early
+# ---------------------------------------------------------------------------
+
+_REQUIRED_CITY_FIELDS = {"lat", "lon", "flag"}
+
+
+def validate_config() -> None:
+    """Validate all configuration values — raises ValueError on misconfiguration.
+
+    Checks performed:
+    - Every city in CITIES has the required fields: lat, lon, flag
+    - lat and lon are numeric (int or float)
+    - flag is a non-empty string
+    - Each continent has at least one city
+    - ETFS is a non-empty list of strings
+    """
+    for continent, cities in CITIES.items():
+        if not cities:
+            raise ValueError(f"Continent '{continent}' has no cities in CITIES config")
+        for city, info in cities.items():
+            missing = _REQUIRED_CITY_FIELDS - set(info.keys())
+            if missing:
+                raise ValueError(
+                    f"City '{city}' in '{continent}' is missing required fields: {missing}"
+                )
+            if not isinstance(info["lat"], (int, float)):
+                raise ValueError(
+                    f"City '{city}' lat must be numeric, got {type(info['lat']).__name__}"
+                )
+            if not isinstance(info["lon"], (int, float)):
+                raise ValueError(
+                    f"City '{city}' lon must be numeric, got {type(info['lon']).__name__}"
+                )
+            if not isinstance(info["flag"], str) or not info["flag"]:
+                raise ValueError(
+                    f"City '{city}' flag must be a non-empty string"
+                )
+
+    if not ETFS or not all(isinstance(e, str) and e for e in ETFS):
+        raise ValueError("ETFS must be a non-empty list of non-empty strings")
+
+
+validate_config()

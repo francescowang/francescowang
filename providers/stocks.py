@@ -3,9 +3,12 @@ Stock/ETF provider — yfinance library (Yahoo Finance, free, no key required).
 https://pypi.org/project/yfinance/
 """
 
+import logging
 from datetime import datetime, timezone
 
 from .config import ETFS
+
+logger = logging.getLogger(__name__)
 
 try:
     import yfinance as yf
@@ -15,9 +18,9 @@ except ImportError:
 
 
 def get_stocks() -> str:
-    """Fetch ETF quotes using yfinance library."""
+    """Fetch ETF quotes using yfinance and return HTML table rows."""
     if not HAS_YFINANCE:
-        print(" yfinance not installed, using fallback")
+        logger.warning("yfinance not installed, using fallback")
         return _stock_fallback()
 
     rows = []
@@ -60,7 +63,7 @@ def get_stocks() -> str:
                     f"</tr>"
                 )
             except Exception as exc:
-                print(f"Failed to fetch {symbol}: {exc}")
+                logger.warning("Failed to fetch %s: %s", symbol, exc)
                 rows.append(
                     f"<tr>"
                     f"<td><b>{symbol}</b></td>"
@@ -68,13 +71,13 @@ def get_stocks() -> str:
                     f"</tr>"
                 )
     except Exception as exc:
-        print(f"Failed to fetch stock data: {exc}")
+        logger.error("Failed to fetch stock data: %s", exc)
         return _stock_fallback()
     return "\n".join(rows) if rows else _stock_fallback()
 
 
 def _stock_fallback() -> str:
-    """Return fallback rows when stock APIs are unavailable."""
+    """Return one fallback <tr> row per ETF when stock APIs are unavailable."""
     rows = []
     for ticker in ETFS:
         rows.append(

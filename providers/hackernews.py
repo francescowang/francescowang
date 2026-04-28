@@ -5,9 +5,13 @@ Uses the official Hacker News API: https://github.com/HackerNews/API
 Stories are fetched concurrently to reduce total latency from ~30s to ~3s.
 """
 
+import logging
+
 import requests
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from typing import Optional
+
+logger = logging.getLogger(__name__)
 
 
 def _fetch_story(story_id: int) -> Optional[dict]:
@@ -69,5 +73,5 @@ def get_hackernews_top10() -> str:
         return "\n".join(rows)
 
     except Exception as e:
-        print(f"⚠️ Error fetching Hacker News: {e}")
+        logger.warning("Error fetching Hacker News: %s", e)
         return "<tr><td colspan='4'><em>Unable to fetch Hacker News stories</em></td></tr>"

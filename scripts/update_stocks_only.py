@@ -6,6 +6,8 @@ Runs every 6 hours via GitHub Actions.
 Inherits from UpdateScriptBase for common functionality.
 """
 
+import logging
+
 from .update_base import UpdateScriptBase
 from .update_patterns import STOCKS_SECTION_HEADER, STOCKS_SECTION_END, STOCKS_TIMESTAMP
 from providers.stocks import get_stocks
@@ -29,6 +31,11 @@ class StocksUpdateScript(UpdateScriptBase):
 
 def main():
     """Run the stocks update script."""
+    logging.basicConfig(
+        level=logging.INFO,
+        format="%(asctime)s [%(levelname)s] %(message)s",
+        datefmt="%H:%M:%S",
+    )
     script = StocksUpdateScript()
     script.run()
 

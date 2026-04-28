@@ -4,9 +4,12 @@ Shared utilities: HTTP fetching and deterministic daily selection.
 
 import json
 import hashlib
+import logging
 import urllib.request
 import urllib.error
 from datetime import datetime
+
+logger = logging.getLogger(__name__)
 
 
 def fetch_json(url: str, timeout: int = 15) -> dict | None:
@@ -16,7 +19,7 @@ def fetch_json(url: str, timeout: int = 15) -> dict | None:
         with urllib.request.urlopen(req, timeout=timeout) as resp:
             return json.loads(resp.read().decode())
     except (urllib.error.URLError, json.JSONDecodeError, OSError) as exc:
-        print(f"Failed to fetch {url}: {exc}")
+        logger.warning("Failed to fetch %s: %s", url, exc)
         return None
 
 

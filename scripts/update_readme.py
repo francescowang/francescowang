@@ -8,6 +8,7 @@ Runs daily via GitHub Actions.
 
 """
 
+import logging
 import os
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timezone
@@ -26,6 +27,8 @@ from providers.daily_content import (
     get_days_until_events,
 )
 
+logger = logging.getLogger(__name__)
+
 
 def main():
     script_dir = os.path.dirname(os.path.abspath(__file__))
@@ -38,7 +41,7 @@ def main():
 
     now = datetime.now(timezone.utc)
 
-    print("🚀 Fetching all provider data concurrently...")
+    logger.info("Fetching all provider data concurrently...")
     with ThreadPoolExecutor(max_workers=7) as executor:
         f_weather = executor.submit(get_weather)
         f_stocks = executor.submit(get_stocks)
@@ -85,14 +88,19 @@ def main():
         "countdowns": countdowns,
     }
 
-    print("📝 Rendering README with Jinja2...")
+    logger.info("Rendering README with Jinja2...")
     readme = template.render(context)
 
     with open(output_path, "w", encoding="utf-8") as f:
         f.write(readme)
 
-    print(f"✅ README.md updated at {now.strftime('%Y-%m-%d %H:%M UTC')}")
+    logger.info("README.md updated at %s", now.strftime('%Y-%m-%d %H:%M UTC'))
 
 
 if __name__ == "__main__":
+    logging.basicConfig(
+        level=logging.INFO,
+        format="%(asctime)s [%(levelname)s] %(message)s",
+        datefmt="%H:%M:%S",
+    )
     main()

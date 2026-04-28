@@ -9,12 +9,13 @@ All APIs are free and require no API keys:
 """
 
 from datetime import datetime, timezone
+from typing import Any
 
 from .config import INTERESTING_WORDS, MOON_PHASES
 from providers.utils import fetch_json, pick_daily
 
 
-def get_philosopher_quote() -> dict:
+def get_philosopher_quote() -> dict[str, str]:
     """Fetch quote of the day from ZenQuotes API (free, no key).
 
     API docs: https://zenquotes.io/
@@ -29,7 +30,7 @@ def get_philosopher_quote() -> dict:
     return {"quote": "The only true wisdom is in knowing you know nothing.", "author": "Socrates"}
 
 
-def get_fun_fact() -> dict:
+def get_fun_fact() -> dict[str, str]:
     """Fetch today's fun fact from Useless Facts API (free, no key).
 
     API docs: https://uselessfacts.jsph.pl/
@@ -44,7 +45,7 @@ def get_fun_fact() -> dict:
     return {"emoji": "🧠", "fact": "Honey never spoils — archaeologists found 3,000-year-old honey still edible."}
 
 
-def get_word_of_the_day(now: datetime) -> dict:
+def get_word_of_the_day(now: datetime) -> dict[str, str]:
     """Pick a daily word and fetch its definition from Free Dictionary API (free, no key).
 
     API docs: https://dictionaryapi.dev/
@@ -85,7 +86,7 @@ def get_word_of_the_day(now: datetime) -> dict:
     }
 
 
-def get_on_this_day(now: datetime) -> dict:
+def get_on_this_day(now: datetime) -> dict[str, str]:
     """Fetch a historical event from Wikimedia On This Day API (free, no key).
 
     API docs: https://api.wikimedia.org/wiki/Feed_API/Reference/On_this_day

@@ -256,3 +256,200 @@ class TestEventCountdown:
         now = datetime(2025, 12, 25, tzinfo=timezone.utc)
         result = get_days_until_events(now)
         assert "TODAY" in result
+
+
+# ---------------------------------------------------------------------------
+# Edge case tests — HN title length boundary
+# ---------------------------------------------------------------------------
+
+class TestHackerNewsTitleBoundary:
+    """Verify the 70-char truncation boundary precisely."""
+
+    def _mock_hn(self, title: str):
+        """Helper: mock one HN story with the given title."""
+        mock_ids = MagicMock()
+        mock_ids.json.return_value = [99]
+        mock_ids.raise_for_status.return_value = None
+
+        mock_story = MagicMock()
+        mock_story.json.return_value = {
+            "title": title,
+            "score": 1,
+            "descendants": 0,
+            "url": "https://example.com",
+        }
+        mock_story.raise_for_status.return_value = None
+        return [mock_ids, mock_story]
+
+    def test_title_at_exactly_70_chars_is_not_truncated(self):
+        from providers.hackernews import get_hackernews_top10
+        title = "X" * 70
+        with patch("providers.hackernews.requests.get", side_effect=self._mock_hn(title)):
+            result = get_hackernews_top10()
+        assert "..." not in result
+        assert title in result
+
+    def test_title_at_71_chars_is_truncated(self):
+        from providers.hackernews import get_hackernews_top10
+        title = "X" * 71
+        with patch("providers.hackernews.requests.get", side_effect=self._mock_hn(title)):
+            result = get_hackernews_top10()
+        assert "..." in result
+
+    def test_title_with_unicode_is_handled(self):
+        """Titles with non-ASCII characters should be truncated/kept correctly."""
+        from providers.hackernews import get_hackernews_top10
+        title = "こんにちは世界 " * 5  # well under 70 chars total
+        with patch("providers.hackernews.requests.get", side_effect=self._mock_hn(title)):
+            result = get_hackernews_top10()
+        assert "<tr>" in result
+
+    def test_individual_story_fetch_failure_is_skipped(self):
+        """If a single story detail fetch raises, that story is omitted gracefully."""
+        from providers.hackernews import get_hackernews_top10
+
+        mock_ids = MagicMock()
+        mock_ids.json.return_value = [1, 2]
+        mock_ids.raise_for_status.return_value = None
+
+        mock_good = MagicMock()
+        mock_good.json.return_value = {
+            "title": "Good Story",
+            "score": 50,
+            "descendants": 5,
+            "url": "https://example.com",
+        }
+        mock_good.raise_for_status.return_value = None
+
+        # Second story fetch raises
+        mock_bad = MagicMock()
+        mock_bad.raise_for_status.side_effect = Exception("network error")
+
+        with patch("providers.hackernews.requests.get",
+                   side_effect=[mock_ids, mock_good, mock_bad]):
+            result = get_hackernews_top10()
+
+        assert "Good Story" in result
+
+
+# ---------------------------------------------------------------------------
+# Edge case tests — weather provider partial data
+# ---------------------------------------------------------------------------
+
+class TestWeatherEdgeCases:
+    def test_weather_with_missing_individual_fields_shows_na(self):
+        """When 'current' exists but a field is missing, get() returns N/A."""
+        from providers.weather import get_weather
+        # 'current' key present but completely empty — all .get() calls return N/A
+        mock_data = {"current": {}}
+        with patch("providers.weather.fetch_json", return_value=mock_data):
+            result = get_weather()
+        assert "N/A" in result
+
+    def test_weather_unicode_city_name_renders(self):
+        """São Paulo (non-ASCII city name) must appear in the output."""
+        from providers.weather import get_weather
+        with patch("providers.weather.fetch_json", return_value=None):
+            result = get_weather()
+        assert "São Paulo" in result
+
+    def test_weather_output_has_correct_continent_count(self):
+        """Exactly 6 continents should be present in the output."""
+        from providers.weather import get_weather
+        with patch("providers.weather.fetch_json", return_value=None):
+            result = get_weather()
+        assert result.count("<details") == 6
+        assert result.count("</details>") == 6
+
+
+# ---------------------------------------------------------------------------
+# Edge case tests — stocks fallback row count
+# ---------------------------------------------------------------------------
+
+class TestStocksEdgeCases:
+    def test_fallback_returns_one_row_per_etf(self):
+        """_stock_fallback must produce exactly one <tr> per ETF ticker."""
+        from providers.stocks import _stock_fallback
+        from providers.config import ETFS
+        result = _stock_fallback()
+        assert result.count("<tr>") == len(ETFS)
+
+    def test_fallback_contains_all_ticker_symbols(self):
+        from providers.stocks import _stock_fallback
+        from providers.config import ETFS
+        result = _stock_fallback()
+        for ticker in ETFS:
+            assert ticker in result
+
+    def test_get_stocks_returns_fallback_when_yfinance_missing(self):
+        """When HAS_YFINANCE is False, get_stocks() returns fallback content."""
+        from providers import stocks as stocks_module
+        original = stocks_module.HAS_YFINANCE
+        try:
+            stocks_module.HAS_YFINANCE = False
+            result = stocks_module.get_stocks()
+            assert "Market data temporarily unavailable" in result
+        finally:
+            stocks_module.HAS_YFINANCE = original
+
+
+# ---------------------------------------------------------------------------
+# Config validation tests
+# ---------------------------------------------------------------------------
+
+class TestConfigValidation:
+    def test_valid_config_passes(self):
+        """The real config must pass validation without raising."""
+        from providers.config import validate_config
+        validate_config()  # should not raise
+
+    def test_missing_lat_raises(self):
+        from providers.config import validate_config, CITIES
+        import providers.config as cfg_module
+
+        bad = {"Europe": {"FakeCity": {"lon": 0.0, "flag": "🏳️"}}}
+        original = cfg_module.CITIES
+        try:
+            cfg_module.CITIES = bad
+            with pytest.raises(ValueError, match="missing required fields"):
+                validate_config()
+        finally:
+            cfg_module.CITIES = original
+
+    def test_non_numeric_lat_raises(self):
+        from providers.config import validate_config
+        import providers.config as cfg_module
+
+        bad = {"Europe": {"FakeCity": {"lat": "not-a-number", "lon": 0.0, "flag": "🏳️"}}}
+        original = cfg_module.CITIES
+        try:
+            cfg_module.CITIES = bad
+            with pytest.raises(ValueError, match="lat must be numeric"):
+                validate_config()
+        finally:
+            cfg_module.CITIES = original
+
+    def test_empty_etfs_raises(self):
+        from providers.config import validate_config
+        import providers.config as cfg_module
+
+        original = cfg_module.ETFS
+        try:
+            cfg_module.ETFS = []
+            with pytest.raises(ValueError, match="ETFS must be"):
+                validate_config()
+        finally:
+            cfg_module.ETFS = original
+
+    def test_empty_continent_raises(self):
+        from providers.config import validate_config
+        import providers.config as cfg_module
+
+        original = cfg_module.CITIES
+        try:
+            cfg_module.CITIES = {"EmptyContinent": {}}
+            with pytest.raises(ValueError, match="has no cities"):
+                validate_config()
+        finally:
+            cfg_module.CITIES = original
+

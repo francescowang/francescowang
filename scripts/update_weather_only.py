@@ -6,6 +6,8 @@ Runs every 3 hours via GitHub Actions.
 Inherits from UpdateScriptBase for common functionality.
 """
 
+import logging
+
 from .update_base import UpdateScriptBase
 from .update_patterns import WEATHER_SECTION_HEADER, WEATHER_SECTION_END, WEATHER_TIMESTAMP
 from providers.weather import get_weather
@@ -29,6 +31,11 @@ class WeatherUpdateScript(UpdateScriptBase):
 
 def main():
     """Run the weather update script."""
+    logging.basicConfig(
+        level=logging.INFO,
+        format="%(asctime)s [%(levelname)s] %(message)s",
+        datefmt="%H:%M:%S",
+    )
     script = WeatherUpdateScript()
     script.run()
 

@@ -121,13 +121,14 @@ class TestUpdateSection:
         # Stocks section must be untouched
         assert "450.00" in updated
 
-    def test_returns_original_when_no_match(self, temp_readme_path, capsys):
+    def test_returns_original_when_no_match(self, temp_readme_path, caplog):
         """Warns and returns original content when the pattern finds nothing."""
+        import logging
         script = ConcreteWeatherScript(readme_path=temp_readme_path)
-        updated = script.update_section("no matching content here", "new data")
+        with caplog.at_level(logging.WARNING):
+            updated = script.update_section("no matching content here", "new data")
         assert updated == "no matching content here"
-        captured = capsys.readouterr()
-        assert "Warning" in captured.out or "warning" in captured.out.lower()
+        assert any("No changes" in r.message or "warning" in r.message.lower() for r in caplog.records)
 
 
 class TestUpdateTimestamp:
