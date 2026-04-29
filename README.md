@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://mitchellh.com/writing/ghostty-leaving-github'>Ghostty is leaving GitHub</a></td><td>2486 👍</td><td>724 💬</td></tr>
-<tr><td>2.</td><td><a href='https://corrode.dev/blog/bugs-rust-wont-catch/'>Bugs Rust won't catch</a></td><td>251 👍</td><td>97 💬</td></tr>
-<tr><td>3.</td><td><a href='https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle'>HardenedBSD Is Now Officially on Radicle</a></td><td>52 👍</td><td>6 💬</td></tr>
-<tr><td>4.</td><td><a href='https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/'>How ChatGPT serves ads</a></td><td>313 👍</td><td>214 💬</td></tr>
-<tr><td>5.</td><td><a href='https://lucumr.pocoo.org/2026/4/28/before-github/'>Before GitHub</a></td><td>457 👍</td><td>130 💬</td></tr>
-<tr><td>6.</td><td><a href='https://github.com/rocky-data/rocky'>Show HN: Rocky – Rust SQL engine with branches, replay, column lineage</a></td><td>44 👍</td><td>1 💬</td></tr>
-<tr><td>7.</td><td><a href='https://news.ycombinator.com/item?id=47945522'>Tell HN: An update from the new Tindie team</a></td><td>5 👍</td><td>0 💬</td></tr>
-<tr><td>8.</td><td><a href='https://github.com/FeSens/auto-arch-tournament/blob/main/docs/auto-arch-tournament-blog-post.md'>Show HN: Auto-Architecture: Karpathy's Loop, pointed at a CPU</a></td><td>140 👍</td><td>27 💬</td></tr>
-<tr><td>9.</td><td><a href='https://ontherow.substack.com/p/withnails-coat-and-i'>Withnail's Coat and I</a></td><td>59 👍</td><td>2 💬</td></tr>
-<tr><td>10.</td><td><a href='https://dl.acm.org/doi/abs/10.1145/3767295.3803591'>Low-Compilation-Cost Register Allocation in LLVM-Based Binary Trans...</a></td><td>22 👍</td><td>0 💬</td></tr>
+<tr><td>1.</td><td><a href='https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/'>He asked AI to count carbs 27000 times. It couldn't give the same a...</a></td><td>64 👍</td><td>56 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/'>Soft launch of open-source code platform for government</a></td><td>242 👍</td><td>77 💬</td></tr>
+<tr><td>3.</td><td><a href='https://mitchellh.com/writing/ghostty-leaving-github'>Ghostty is leaving GitHub</a></td><td>2845 👍</td><td>842 💬</td></tr>
+<tr><td>4.</td><td><a href='https://corrode.dev/blog/bugs-rust-wont-catch/'>Bugs Rust won't catch</a></td><td>398 👍</td><td>200 💬</td></tr>
+<tr><td>5.</td><td><a href='https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/'>HashiCorp co-founder says GitHub 'no longer a place for serious work'</a></td><td>113 👍</td><td>52 💬</td></tr>
+<tr><td>6.</td><td><a href='https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/'>How ChatGPT serves ads</a></td><td>392 👍</td><td>264 💬</td></tr>
+<tr><td>7.</td><td><a href='https://lucumr.pocoo.org/2026/4/28/before-github/'>Before GitHub</a></td><td>528 👍</td><td>168 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.ycombinator.com/companies/stardex/jobs/6GCK1HC-founding-customer-success-lead'>Stardex Is Hiring a Founding Customer Success Lead</a></td><td>1 👍</td><td>0 💬</td></tr>
+<tr><td>9.</td><td><a href='https://lawvm.org/why-law-is-law-shaped/'>Why Law Is Law-Shaped</a></td><td>59 👍</td><td>35 💬</td></tr>
+<tr><td>10.</td><td><a href='https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle'>HardenedBSD Is Now Officially on Radicle</a></td><td>98 👍</td><td>22 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>29 Apr 2026, 08:48 UTC</b> · Data from Hacker News</sub>
+<b>29 Apr 2026, 13:03 UTC</b>
 
 ---
 
