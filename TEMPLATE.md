@@ -20,16 +20,17 @@
 
 ```yaml
 name: Frankie
-role: Platform Engineer
+role: Senior DevOps Engineer
 location: 🌍 Earth
 focus:
-  - Cloud-native infrastructure
-  - Developer experience & platform engineering
-  - Reliability & observability at scale
   - Infrastructure as Code
-motto: "Automate everything. Monitor the rest."
-currently_learning: [ "eBPF", "WebAssembly", "Nix" ]
-fun_fact: "This README updates itself every day via GitHub Actions ⚡"
+  - Developer Experience and Tooling
+  - Security and Compliance
+  - Observability and Monitoring
+
+motto: "Automate everything within reason. Monitor what's truly important."
+currently_learning: [ "CUDA", "C++", "Distributed Systems" ]
+fun_fact: "This README updates itself regularly via GitHub Actions."
 ```
 
 ---
