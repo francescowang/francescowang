@@ -277,19 +277,19 @@ fun_fact: "This README updates itself every day via GitHub Actions ⚡"
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers'>AI uncovers 38 vulnerabilities in largest open source medical recor...</a></td><td>61 👍</td><td>49 💬</td></tr>
-<tr><td>2.</td><td><a href='https://github.com/localsend/localsend'>Localsend: An open-source cross-platform alternative to AirDrop</a></td><td>491 👍</td><td>172 💬</td></tr>
-<tr><td>3.</td><td><a href='https://github.com/microsoft/VibeVoice'>Microsoft VibeVoice: Open-Source Frontier Voice AI</a></td><td>208 👍</td><td>134 💬</td></tr>
-<tr><td>4.</td><td><a href='https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal'>Google and Pentagon reportedly agree on deal for 'any lawful' use o...</a></td><td>125 👍</td><td>99 💬</td></tr>
-<tr><td>5.</td><td><a href='https://poolside.ai/blog/laguna-a-deeper-dive'>Laguna XS.2 and M.1</a></td><td>26 👍</td><td>8 💬</td></tr>
-<tr><td>6.</td><td><a href='https://keepandroidopen.org/en/'>Your phone is about to stop being yours</a></td><td>274 👍</td><td>145 💬</td></tr>
-<tr><td>7.</td><td><a href='https://jobs.ashbyhq.com/infisical/782b9da8-20e1-48b2-919e-6c5430c58628'>Infisical (YC W23) Is Hiring Full Stack Software Engineers (Remote)</a></td><td>1 👍</td><td>0 💬</td></tr>
-<tr><td>8.</td><td><a href='https://www.lumara-space.app/'>Show HN: Live Sun and Moon Dashboard with NASA Footage</a></td><td>86 👍</td><td>20 💬</td></tr>
-<tr><td>9.</td><td><a href='https://deadline.com/2026/04/paramount-fcc-request-wbd-merger-middle-east-1236873732/'>FCC Funding Application Notes Paramount Will Be 49.5% Foreign-Owned...</a></td><td>67 👍</td><td>25 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.blender.org/press/anthropic-joins-the-blender-development-fund-as-corporate-patron/'>Anthropic Joins the Blender Development Fund as Corporate Patron</a></td><td>147 👍</td><td>118 💬</td></tr>
+<tr><td>1.</td><td><a href='https://mitchellh.com/writing/ghostty-leaving-github'>Ghostty is leaving GitHub</a></td><td>1600 👍</td><td>512 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/'>ChatGPT serves ads. Here's the full attribution loop</a></td><td>98 👍</td><td>42 💬</td></tr>
+<tr><td>3.</td><td><a href='https://github.com/anthropics/claude-code/issues/49363'>Claude system prompt bug wastes user money and bricks managed agents</a></td><td>49 👍</td><td>13 💬</td></tr>
+<tr><td>4.</td><td><a href='https://lucumr.pocoo.org/2026/4/28/before-github/'>Before GitHub</a></td><td>246 👍</td><td>65 💬</td></tr>
+<tr><td>5.</td><td><a href='https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/'>OpenAI models coming to Amazon Bedrock: Interview with OpenAI and A...</a></td><td>174 👍</td><td>66 💬</td></tr>
+<tr><td>6.</td><td><a href='https://dustri.org/b/carrot-disclosure-forgejo.html'>Carrot Disclosure: Forgejo</a></td><td>90 👍</td><td>29 💬</td></tr>
+<tr><td>7.</td><td><a href='https://www.anthropic.com/news/claude-for-creative-work'>Claude for Creative Work</a></td><td>24 👍</td><td>19 💬</td></tr>
+<tr><td>8.</td><td><a href='https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/'>I won a championship that doesn't exist</a></td><td>75 👍</td><td>53 💬</td></tr>
+<tr><td>9.</td><td><a href='https://www.pugetsystems.com/labs/articles/intel-arc-pro-b70-review/'>Intel Arc Pro B70 Review</a></td><td>105 👍</td><td>61 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.quantamagazine.org/a-new-type-of-neuroplasticity-rewires-the-brain-after-a-single-experience-20260424/'>Behavioral timescale synaptic plasticity rewires the brain after an...</a></td><td>54 👍</td><td>0 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>28 Apr 2026, 17:21 UTC</b> · Data from Hacker News</sub>
+<b>29 Apr 2026, 01:14 UTC</b>
 
 ---
 
