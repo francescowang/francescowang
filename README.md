@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://openai.com/index/where-the-goblins-came-from/'>Where the goblins came from</a></td><td>448 👍</td><td>231 💬</td></tr>
-<tr><td>2.</td><td><a href='https://www.noctua.at/en/3d-cad-models'>Noctua releases official 3D CAD models for its cooling fans</a></td><td>146 👍</td><td>26 💬</td></tr>
-<tr><td>3.</td><td><a href='https://zed.dev/blog/zed-1-0'>Zed 1.0</a></td><td>1776 👍</td><td>573 💬</td></tr>
-<tr><td>4.</td><td><a href='https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79'>Craig Venter has died</a></td><td>209 👍</td><td>35 💬</td></tr>
-<tr><td>5.</td><td><a href='https://github.com/cauchy221/Alignment-Whack-a-Mole-Code'>Alignment whack-a-mole: Finetuning activates recall of copyrighted ...</a></td><td>109 👍</td><td>74 💬</td></tr>
-<tr><td>6.</td><td><a href='https://simonwillison.net/2026/Apr/30/zig-anti-ai/'>The Zig project's rationale for their firm anti-AI contribution policy</a></td><td>174 👍</td><td>81 💬</td></tr>
-<tr><td>7.</td><td><a href='https://scottaaronson.blog/?p=9718'>Scott Aaronson on quantum: "Will you heed my warnings NOW?"</a></td><td>28 👍</td><td>12 💬</td></tr>
-<tr><td>8.</td><td><a href='https://copy.fail/'>Copy Fail</a></td><td>870 👍</td><td>329 💬</td></tr>
-<tr><td>9.</td><td><a href='https://burrito.bio/essays/biology-is-a-burrito'>Biology is a Burrito: A text- and visual-based journey through a li...</a></td><td>73 👍</td><td>11 💬</td></tr>
-<tr><td>10.</td><td><a href='https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html'>Functional programmers need to take a look at Zig</a></td><td>85 👍</td><td>53 💬</td></tr>
+<tr><td>1.</td><td><a href='https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/'>Belgium stops decommissioning nuclear power plants</a></td><td>62 👍</td><td>18 💬</td></tr>
+<tr><td>2.</td><td><a href='https://firethering.com/granite-4-1-ibm-open-source-model-family/'>Granite 4.1: IBM's 8B Model Matching 32B MoE</a></td><td>137 👍</td><td>73 💬</td></tr>
+<tr><td>3.</td><td><a href='https://bidprowl.com'>I aggregated 28 US Government auction sites into one search</a></td><td>16 👍</td><td>5 💬</td></tr>
+<tr><td>4.</td><td><a href='https://github.com/mozilla/standards-positions/issues/1213'>Mozilla's Opposition to Chrome's Prompt API</a></td><td>234 👍</td><td>97 💬</td></tr>
+<tr><td>5.</td><td><a href='https://openai.com/index/where-the-goblins-came-from/'>Where the goblins came from</a></td><td>779 👍</td><td>463 💬</td></tr>
+<tr><td>6.</td><td><a href='https://www.noctua.at/en/3d-cad-models'>Noctua releases official 3D CAD models for its cooling fans</a></td><td>335 👍</td><td>79 💬</td></tr>
+<tr><td>7.</td><td><a href='https://zed.dev/blog/zed-1-0'>Zed 1.0</a></td><td>1946 👍</td><td>617 💬</td></tr>
+<tr><td>8.</td><td><a href='https://simonwillison.net/2026/Apr/30/zig-anti-ai/'>The Zig project's rationale for their anti-AI contribution policy</a></td><td>395 👍</td><td>202 💬</td></tr>
+<tr><td>9.</td><td><a href='https://copy.fail/'>Copy Fail</a></td><td>1121 👍</td><td>404 💬</td></tr>
+<tr><td>10.</td><td><a href='https://gcc.gnu.org/gcc-16/changes.html'>GCC 16 has been released</a></td><td>65 👍</td><td>5 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>30 Apr 2026, 07:38 UTC</b> · Data from Hacker News</sub>
+<b>30 Apr 2026, 13:03 UTC</b>
 
 ---
 
