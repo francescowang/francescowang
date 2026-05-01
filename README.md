@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/'>How Mark Klein told the EFF about Room 641A [book excerpt]</a></td><td>553 👍</td><td>183 💬</td></tr>
-<tr><td>2.</td><td><a href='https://www.tcd.ie/news_events/articles/2026/caedmons-hymn-discovery/'>New copy of earliest poem in English, written 1,3k years ago, disco...</a></td><td>37 👍</td><td>2 💬</td></tr>
-<tr><td>3.</td><td><a href='https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously'>Opus 4.7 knows the real Kelsey</a></td><td>313 👍</td><td>164 💬</td></tr>
-<tr><td>4.</td><td><a href='https://www.openwall.com/lists/oss-security/2026/04/30/10'>For Linux kernel vulnerabilities, there is no heads-up to distribut...</a></td><td>464 👍</td><td>347 💬</td></tr>
-<tr><td>5.</td><td><a href='https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/'>Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Trainin...</a></td><td>386 👍</td><td>131 💬</td></tr>
-<tr><td>6.</td><td><a href='https://spectrum.ieee.org/roboticist-turned-teacher-eniac-replica'>Roboticist-Turned-Teacher Built a Life-Size Replica of Eniac</a></td><td>24 👍</td><td>5 💬</td></tr>
-<tr><td>7.</td><td><a href='https://herbertlui.net/maladaptive-frugality/'>Maladaptive Frugality</a></td><td>83 👍</td><td>56 💬</td></tr>
-<tr><td>8.</td><td><a href='https://idlemachines.co.uk/essays/softmax'>Softmax, can you derive the Jacobian? And should you care?</a></td><td>20 👍</td><td>1 💬</td></tr>
-<tr><td>9.</td><td><a href='https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/'>CPanel and WHM Authentication Bypass – CVE-2026-41940</a></td><td>88 👍</td><td>28 💬</td></tr>
-<tr><td>10.</td><td><a href='https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle'>Can I disable all data collection from my vehicle?</a></td><td>604 👍</td><td>243 💬</td></tr>
+<tr><td>1.</td><td><a href='https://websmith.studio/blog/your-website-is-not-for-you/'>Your Website Is Not for You</a></td><td>63 👍</td><td>33 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.pagetable.com/?p=1854'>Running Adobe's 1991 PostScript Interpreter in the Browser</a></td><td>12 👍</td><td>1 💬</td></tr>
+<tr><td>3.</td><td><a href='https://news.ycombinator.com/item?id=47972888'>Show HN: Perfect Bluetooth MIDI for Windows</a></td><td>49 👍</td><td>8 💬</td></tr>
+<tr><td>4.</td><td><a href='https://sitemogging.com'>Show HN: Site Mogging</a></td><td>11 👍</td><td>5 💬</td></tr>
+<tr><td>5.</td><td><a href='https://xcancel.com/aaronp613/status/2049986504617820551'>Apple accidentally left Claude.md files Apple Support app</a></td><td>61 👍</td><td>26 💬</td></tr>
+<tr><td>6.</td><td><a href='https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/'>How Mark Klein told the EFF about Room 641A [book excerpt]</a></td><td>630 👍</td><td>213 💬</td></tr>
+<tr><td>7.</td><td><a href='https://github.com/darrylmorley/whatcable'>Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables</a></td><td>175 👍</td><td>60 💬</td></tr>
+<tr><td>8.</td><td><a href='https://docs.x.ai/developers/models/grok-4.3'>Grok 4.3</a></td><td>153 👍</td><td>207 💬</td></tr>
+<tr><td>9.</td><td><a href='https://www.tcd.ie/news_events/articles/2026/caedmons-hymn-discovery/'>New copy of earliest poem in English, written 1,3k years ago, disco...</a></td><td>94 👍</td><td>59 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.openwall.com/lists/oss-security/2026/04/30/10'>For Linux kernel vulnerabilities, there is no heads-up to distribut...</a></td><td>531 👍</td><td>427 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>01 May 2026, 07:36 UTC</b> · Data from Hacker News</sub>
+<b>01 May 2026, 12:48 UTC</b>
 
 ---
 
