@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions'>Why does it take so long to release black fan versions?</a></td><td>85 👍</td><td>23 💬</td></tr>
-<tr><td>2.</td><td><a href='https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/'>Job Postings for Software Engineers Are Rapidly Rising</a></td><td>144 👍</td><td>78 💬</td></tr>
-<tr><td>3.</td><td><a href='https://www.spiritrestructuring.com/'>Spirit Airlines Is Winding Down All Operations</a></td><td>16 👍</td><td>15 💬</td></tr>
-<tr><td>4.</td><td><a href='https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo'>Ti-84 Evo</a></td><td>416 👍</td><td>368 💬</td></tr>
-<tr><td>5.</td><td><a href='https://www.ask.com/'>Ask.com has closed</a></td><td>202 👍</td><td>103 💬</td></tr>
-<tr><td>6.</td><td><a href='https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003'>Artemis II Photo Timeline</a></td><td>166 👍</td><td>12 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we'>New research suggests people can communicate and practice skills wh...</a></td><td>314 👍</td><td>179 💬</td></tr>
-<tr><td>8.</td><td><a href='https://e360.yale.edu/digest/atoll-islands-sea-level-rise-fungi'>To Restore an Island Paradise, Add Fungi</a></td><td>48 👍</td><td>6 💬</td></tr>
-<tr><td>9.</td><td><a href='https://www.liquid.ai/blog/lfm2-24b-a2b'>LFM2-24B-A2B: Scaling Up the LFM2 Architecture</a></td><td>22 👍</td><td>4 💬</td></tr>
-<tr><td>10.</td><td><a href='https://github.com/rancher/k3k'>K3k: Kubernetes in Kubernetes</a></td><td>28 👍</td><td>14 💬</td></tr>
+<tr><td>1.</td><td><a href='https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/'>How fast is a macOS VM, and how small could it be?</a></td><td>65 👍</td><td>17 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions'>Why does it take so long to release black fan versions?</a></td><td>341 👍</td><td>159 💬</td></tr>
+<tr><td>3.</td><td><a href='https://devblogs.microsoft.com/oldnewthing/20150417-00/?p=44213'>Why are there both TMP and TEMP environment variables? (2015)</a></td><td>71 👍</td><td>36 💬</td></tr>
+<tr><td>4.</td><td><a href='https://github.com/bruin-data/dac'>Show HN: DAC – open-source dashboard as code tool for agents and hu...</a></td><td>36 👍</td><td>7 💬</td></tr>
+<tr><td>5.</td><td><a href='https://github.com/dotcl/dotcl'>Dotcl: Common Lisp Implementation on .NET</a></td><td>47 👍</td><td>4 💬</td></tr>
+<tr><td>6.</td><td><a href='https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo'>Ti-84 Evo</a></td><td>478 👍</td><td>405 💬</td></tr>
+<tr><td>7.</td><td><a href='https://iesna.eu/?wasm=skyglow_demo'>Show HN: Browser-based light pollution simulator using real photome...</a></td><td>22 👍</td><td>6 💬</td></tr>
+<tr><td>8.</td><td><a href='https://danieltan.weblog.lol/2026/05/the-century-long-pause-in-fundamental-physics'>The Century-Long Pause in Fundamental Physics</a></td><td>4 👍</td><td>0 💬</td></tr>
+<tr><td>9.</td><td><a href='https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en'>Show HN: Filling PDF forms with AI using client-side tool calling</a></td><td>22 👍</td><td>13 💬</td></tr>
+<tr><td>10.</td><td><a href='https://piruet.app'>Show HN: Piruetas – A self-hosted diary app I built for my girlfriend</a></td><td>24 👍</td><td>26 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>02 May 2026, 07:15 UTC</b> · Data from Hacker News</sub>
+<b>02 May 2026, 12:48 UTC</b>
 
 ---
 
