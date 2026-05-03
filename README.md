@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://acai.sh/blog/specsmaxxing'>Specsmaxxing – On overcoming AI psychosis, and why I write specs in...</a></td><td>11 👍</td><td>3 💬</td></tr>
-<tr><td>2.</td><td><a href='https://blog.haskell.org/a-couple-million-lines-of-haskell/'>A Couple Million Lines of Haskell: Production Engineering at Mercury</a></td><td>170 👍</td><td>63 💬</td></tr>
-<tr><td>3.</td><td><a href='https://ladybird.org/newsletter/2026-04-30/'>This Month in Ladybird - April 2026</a></td><td>275 👍</td><td>47 💬</td></tr>
-<tr><td>4.</td><td><a href='https://blogs.windows.com/windows-insider/2026/05/01/windows-quality-update-progress-weve-made-since-march/'>Windows quality update: Progress we've made since March</a></td><td>28 👍</td><td>18 💬</td></tr>
-<tr><td>5.</td><td><a href='https://research.ibm.com/blog/granite-4-1-ai-foundation-models'>The IBM Granite 4.1 family of models</a></td><td>60 👍</td><td>7 💬</td></tr>
-<tr><td>6.</td><td><a href='https://code.videolan.org/videolan/dav2d'>Dav2d</a></td><td>442 👍</td><td>122 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/'>Six Years Perfecting Maps on WatchOS</a></td><td>260 👍</td><td>59 💬</td></tr>
-<tr><td>8.</td><td><a href='https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago'>Neanderthals ran 'fat factories' 125,000 years ago (2025)</a></td><td>166 👍</td><td>58 💬</td></tr>
-<tr><td>9.</td><td><a href='https://donottrack.sh/'>Do_not_track</a></td><td>282 👍</td><td>93 💬</td></tr>
-<tr><td>10.</td><td><a href='https://github.com/microsoft/vscode/pull/310226'>VS Code inserting 'Co-Authored-by Copilot' into commits regardless ...</a></td><td>1087 👍</td><td>513 💬</td></tr>
+<tr><td>1.</td><td><a href='https://github.com/bring-shrubbery/ml-sharp-web'>Show HN: Apple's Sharp Running in the Browser via ONNX Runtime Web</a></td><td>44 👍</td><td>4 💬</td></tr>
+<tr><td>2.</td><td><a href='https://blog.haskell.org/a-couple-million-lines-of-haskell/'>A couple million lines of Haskell: Production engineering at Mercury</a></td><td>293 👍</td><td>125 💬</td></tr>
+<tr><td>3.</td><td><a href='https://ladybird.org/newsletter/2026-04-30/'>This Month in Ladybird – April 2026</a></td><td>381 👍</td><td>89 💬</td></tr>
+<tr><td>4.</td><td><a href='https://code.videolan.org/videolan/dav2d'>Dav2d</a></td><td>512 👍</td><td>146 💬</td></tr>
+<tr><td>5.</td><td><a href='https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/'>Six Years Perfecting Maps on WatchOS</a></td><td>343 👍</td><td>82 💬</td></tr>
+<tr><td>6.</td><td><a href='https://blogs.windows.com/windows-insider/2026/05/01/windows-quality-update-progress-weve-made-since-march/'>Windows quality update: Progress we've made since March</a></td><td>75 👍</td><td>173 💬</td></tr>
+<tr><td>7.</td><td><a href='https://med.stanford.edu/news/all-news/2026/04/brain-scans-individual-versus-group.html'>Group averages obscure how an individual's brain controls behavior:...</a></td><td>27 👍</td><td>3 💬</td></tr>
+<tr><td>8.</td><td><a href='https://donottrack.sh/'>Do_not_track</a></td><td>387 👍</td><td>120 💬</td></tr>
+<tr><td>9.</td><td><a href='https://osec.io/blog/2026-04-30-unverified-evaluations-dusk-plonk/'>Unverified Evaluations in Dusk's PLONK</a></td><td>27 👍</td><td>3 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago'>Neanderthals ran 'fat factories' 125,000 years ago (2025)</a></td><td>220 👍</td><td>107 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>03 May 2026, 07:29 UTC</b> · Data from Hacker News</sub>
+<b>03 May 2026, 12:48 UTC</b>
 
 ---
 
