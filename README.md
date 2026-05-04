@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.firgelli.com/pages/humanoid-robot-actuators'>Humanoid Robot Actuators</a></td><td>96 👍</td><td>18 💬</td></tr>
-<tr><td>2.</td><td><a href='https://samcollins.blog/underdrawings/'>Using "underdrawings" for accurate text and numbers</a></td><td>175 👍</td><td>46 💬</td></tr>
-<tr><td>3.</td><td><a href='https://partyon.xyz/@nullagent/116499715071759135'>BYOMesh – New LoRa mesh radio offers 100x the bandwidth</a></td><td>347 👍</td><td>113 💬</td></tr>
-<tr><td>4.</td><td><a href='https://github.com/aattaran/deepclaude'>DeepClaude – Claude Code agent loop with DeepSeek V4 Pro</a></td><td>397 👍</td><td>147 💬</td></tr>
-<tr><td>5.</td><td><a href='https://blog.stuffedcow.net/2019/09/hard-disk-geometry-microbenchmarking/'>Discovering hard disk physical geometry through microbenchmarking (...</a></td><td>64 👍</td><td>3 💬</td></tr>
-<tr><td>6.</td><td><a href='https://jdgr.net/the-hidden-costs-of-great-abstractions'>The 'Hidden' Costs of Great Abstractions</a></td><td>147 👍</td><td>51 💬</td></tr>
-<tr><td>7.</td><td><a href='https://astian.org/midori-en/performance-adblock-and-more-in-midori-11-7-1/'>Midori, the first browser to offer a VPN with Mesh technology</a></td><td>6 👍</td><td>0 💬</td></tr>
-<tr><td>8.</td><td><a href='https://isene.org/2026/05/Audience-of-One.html'>A desktop made for one</a></td><td>314 👍</td><td>140 💬</td></tr>
-<tr><td>9.</td><td><a href='https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html'>Southwest Headquarters Tour</a></td><td>233 👍</td><td>72 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses'>OpenAI's o1 correctly diagnosed 67% of ER patients vs. 50-55% by tr...</a></td><td>378 👍</td><td>317 💬</td></tr>
+<tr><td>1.</td><td><a href='https://www.bbc.co.uk/news/articles/cn0p8yled1do'>GameStop makes $55.5B takeover offer for eBay</a></td><td>246 👍</td><td>190 💬</td></tr>
+<tr><td>2.</td><td><a href='https://thienantran.com/talking-to-35-strangers-at-the-gym/'>Talking to 35 Strangers at the Gym</a></td><td>78 👍</td><td>25 💬</td></tr>
+<tr><td>3.</td><td><a href='https://www.siliconimist.com/p/asmls-best-selling-product'>ASML's Best Selling Product Isn't What You Think It Is</a></td><td>82 👍</td><td>29 💬</td></tr>
+<tr><td>4.</td><td><a href='https://notepad-plus-plus.org/news/npp-trademark-infringement/'>Trademark violation: Fake Notepad++ for Mac</a></td><td>285 👍</td><td>112 💬</td></tr>
+<tr><td>5.</td><td><a href='https://www.youtube.com/watch?v=wr9YLGbhxng'>World's biggest RC A380 [video]</a></td><td>45 👍</td><td>10 💬</td></tr>
+<tr><td>6.</td><td><a href='https://samcollins.blog/underdrawings/'>Using “underdrawings” for accurate text and numbers</a></td><td>290 👍</td><td>92 💬</td></tr>
+<tr><td>7.</td><td><a href='https://www3.nhk.or.jp/nhkworld/en/shows/texico/'>Texico: Learn the principles of programming without even touching a...</a></td><td>89 👍</td><td>4 💬</td></tr>
+<tr><td>8.</td><td><a href='https://partyon.xyz/@nullagent/116499715071759135'>BYOMesh – New LoRa mesh radio offers 100x the bandwidth</a></td><td>406 👍</td><td>131 💬</td></tr>
+<tr><td>9.</td><td><a href='https://github.com/aattaran/deepclaude'>DeepClaude – Claude Code agent loop with DeepSeek V4 Pro</a></td><td>530 👍</td><td>219 💬</td></tr>
+<tr><td>10.</td><td><a href='https://reiner.org/neural-net-ciphers'>Why are neural networks and cryptographic ciphers so similar? (2025)</a></td><td>25 👍</td><td>4 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>04 May 2026, 07:44 UTC</b> · Data from Hacker News</sub>
+<b>04 May 2026, 13:03 UTC</b>
 
 ---
 
