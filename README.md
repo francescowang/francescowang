@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://github.com/angelos-p/llm-from-scratch'>Train Your Own LLM from Scratch</a></td><td>149 👍</td><td>18 💬</td></tr>
-<tr><td>2.</td><td><a href='https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5'>Bun is being ported from Zig to Rust</a></td><td>432 👍</td><td>296 💬</td></tr>
-<tr><td>3.</td><td><a href='https://sethmlarson.dev/hand-drawn-qr-codes'>Hand Drawn QR Codes</a></td><td>52 👍</td><td>3 💬</td></tr>
-<tr><td>4.</td><td><a href='https://walzr.com/empty-screenings'>About 10% of AMC movie showings sell zero tickets. This site finds ...</a></td><td>121 👍</td><td>92 💬</td></tr>
-<tr><td>5.</td><td><a href='https://nobodyaskedforthis.lol/posts/connected-car/'>The Car That Watches You Back: The Advertising Infrastructure of Mo...</a></td><td>73 👍</td><td>51 💬</td></tr>
-<tr><td>6.</td><td><a href='https://openai.com/index/delivering-low-latency-voice-ai-at-scale/'>How OpenAI delivers low-latency voice AI at scale</a></td><td>385 👍</td><td>120 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/'>CVE-2026-31431: Copy Fail vs. rootless containers</a></td><td>76 👍</td><td>24 💬</td></tr>
-<tr><td>8.</td><td><a href='https://addyosmani.com/blog/agent-skills/'>Agent Skills</a></td><td>227 👍</td><td>99 💬</td></tr>
-<tr><td>9.</td><td><a href='https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html'>Lessons for Agentic Coding: What should we do when code is cheap?</a></td><td>3 👍</td><td>0 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.nature.com/articles/s43016-025-01173-4'>Gaps in national food production, worldwide</a></td><td>48 👍</td><td>22 💬</td></tr>
+<tr><td>1.</td><td><a href='https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/'>iOS 27 is adding a 'Create a Pass' button to Apple Wallet</a></td><td>30 👍</td><td>7 💬</td></tr>
+<tr><td>2.</td><td><a href='https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state'>Async Rust never left the MVP state</a></td><td>253 👍</td><td>128 💬</td></tr>
+<tr><td>3.</td><td><a href='https://distr.sh/blog/running-docker-in-production/'>Should I Run Plain Docker Compose in Production in 2026?</a></td><td>120 👍</td><td>94 💬</td></tr>
+<tr><td>4.</td><td><a href='https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5'>Bun is being ported from Zig to Rust</a></td><td>586 👍</td><td>416 💬</td></tr>
+<tr><td>5.</td><td><a href='https://walzr.com/empty-screenings'>Empty Screenings – Finds AMC movie screenings with few or no ticket...</a></td><td>191 👍</td><td>161 💬</td></tr>
+<tr><td>6.</td><td><a href='https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html'>Lessons for Agentic Coding: What should we do when code is cheap?</a></td><td>112 👍</td><td>91 💬</td></tr>
+<tr><td>7.</td><td><a href='https://sethmlarson.dev/hand-drawn-qr-codes'>Hand Drawn QR Codes (2025)</a></td><td>144 👍</td><td>25 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/'>When everyone has AI and the company still learns nothing</a></td><td>82 👍</td><td>50 💬</td></tr>
+<tr><td>9.</td><td><a href='https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/'>Google Chrome silently installs a 4 GB AI model on your device with...</a></td><td>427 👍</td><td>408 💬</td></tr>
+<tr><td>10.</td><td><a href='https://wordtrak.com/blog/2026-05-05-I-built-a-new-word-game'>Show HN: I built a new word game, Wordtrak</a></td><td>5 👍</td><td>0 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>05 May 2026, 07:29 UTC</b> · Data from Hacker News</sub>
+<b>05 May 2026, 12:55 UTC</b>
 
 ---
 
