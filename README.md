@@ -131,12 +131,12 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>🌬️ Wind</th>
 <th>☁️ Conditions</th>
 </tr>
-<tr><td>🇬🇧 <b>London</b></td><td>16.7°C</td><td>45%</td><td>9.4 km/h</td><td>☁️ Overcast</td></tr>
-<tr><td>🇫🇷 <b>Paris</b></td><td>13.6°C</td><td>83%</td><td>12.2 km/h</td><td>🌧️ Light rain</td></tr>
-<tr><td>🇮🇹 <b>Milan</b></td><td>16.1°C</td><td>73%</td><td>7.1 km/h</td><td>☁️ Overcast</td></tr>
-<tr><td>🇩🇪 <b>Berlin</b></td><td>17.6°C</td><td>69%</td><td>11.4 km/h</td><td>☁️ Overcast</td></tr>
-<tr><td>🇷🇺 <b>Moscow</b></td><td>23.0°C</td><td>39%</td><td>6.8 km/h</td><td>☁️ Overcast</td></tr>
-<tr><td>🇳🇱 <b>Amsterdam</b></td><td>15.7°C</td><td>47%</td><td>19.4 km/h</td><td>☁️ Overcast</td></tr>
+<tr><td>🇬🇧 <b>London</b></td><td>14.6°C</td><td>62%</td><td>12.6 km/h</td><td>☁️ Overcast</td></tr>
+<tr><td>🇫🇷 <b>Paris</b></td><td>13.0°C</td><td>84%</td><td>8.4 km/h</td><td>🌧️ Light rain</td></tr>
+<tr><td>🇮🇹 <b>Milan</b></td><td>15.0°C</td><td>84%</td><td>6.3 km/h</td><td>☁️ Overcast</td></tr>
+<tr><td>🇩🇪 <b>Berlin</b></td><td>14.8°C</td><td>81%</td><td>12.5 km/h</td><td>☁️ Overcast</td></tr>
+<tr><td>🇷🇺 <b>Moscow</b></td><td>20.4°C</td><td>47%</td><td>1.1 km/h</td><td>☀️ Clear sky</td></tr>
+<tr><td>🇳🇱 <b>Amsterdam</b></td><td>11.9°C</td><td>61%</td><td>21.2 km/h</td><td>☁️ Overcast</td></tr>
 </table>
 
 </details>
@@ -152,13 +152,13 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>🌬️ Wind</th>
 <th>☁️ Conditions</th>
 </tr>
-<tr><td>🇨🇳 <b>Beijing</b></td><td>23.2°C</td><td>49%</td><td>13.9 km/h</td><td>☁️ Overcast</td></tr>
-<tr><td>🇯🇵 <b>Tokyo</b></td><td>14.4°C</td><td>73%</td><td>4.1 km/h</td><td>☁️ Overcast</td></tr>
-<tr><td>🇦🇪 <b>Dubai</b></td><td>29.2°C</td><td>76%</td><td>9.5 km/h</td><td>⛈️ Thunderstorm</td></tr>
-<tr><td>🇭🇰 <b>Hong Kong</b></td><td>21.0°C</td><td>92%</td><td>14.3 km/h</td><td>☁️ Overcast</td></tr>
-<tr><td>🇸🇬 <b>Singapore</b></td><td>25.1°C</td><td>98%</td><td>1.5 km/h</td><td>☁️ Overcast</td></tr>
-<tr><td>🇹🇭 <b>Bangkok</b></td><td>29.8°C</td><td>76%</td><td>4.0 km/h</td><td>⛈️ Thunderstorm</td></tr>
-<tr><td>🇰🇷 <b>Seoul</b></td><td>9.9°C</td><td>66%</td><td>4.3 km/h</td><td>☀️ Clear sky</td></tr>
+<tr><td>🇨🇳 <b>Beijing</b></td><td>21.1°C</td><td>52%</td><td>6.1 km/h</td><td>☁️ Overcast</td></tr>
+<tr><td>🇯🇵 <b>Tokyo</b></td><td>12.9°C</td><td>77%</td><td>3.8 km/h</td><td>⛅ Partly cloudy</td></tr>
+<tr><td>🇦🇪 <b>Dubai</b></td><td>28.5°C</td><td>74%</td><td>7.2 km/h</td><td>☀️ Clear sky</td></tr>
+<tr><td>🇭🇰 <b>Hong Kong</b></td><td>21.2°C</td><td>91%</td><td>14.3 km/h</td><td>☁️ Overcast</td></tr>
+<tr><td>🇸🇬 <b>Singapore</b></td><td>25.0°C</td><td>97%</td><td>2.2 km/h</td><td>☁️ Overcast</td></tr>
+<tr><td>🇹🇭 <b>Bangkok</b></td><td>28.5°C</td><td>80%</td><td>3.5 km/h</td><td>⛈️ Thunderstorm</td></tr>
+<tr><td>🇰🇷 <b>Seoul</b></td><td>8.6°C</td><td>70%</td><td>3.6 km/h</td><td>☀️ Clear sky</td></tr>
 </table>
 
 </details>
@@ -174,10 +174,10 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>🌬️ Wind</th>
 <th>☁️ Conditions</th>
 </tr>
-<tr><td>🇺🇸 <b>New York</b></td><td>24.5°C</td><td>42%</td><td>17.4 km/h</td><td>🌤️ Mainly clear</td></tr>
-<tr><td>🇺🇸 <b>Los Angeles</b></td><td>15.8°C</td><td>63%</td><td>10.1 km/h</td><td>☀️ Clear sky</td></tr>
-<tr><td>🇨🇦 <b>Toronto</b></td><td>18.1°C</td><td>61%</td><td>27.1 km/h</td><td>☁️ Overcast</td></tr>
-<tr><td>🇲🇽 <b>Mexico City</b></td><td>21.5°C</td><td>45%</td><td>3.8 km/h</td><td>☀️ Clear sky</td></tr>
+<tr><td>🇺🇸 <b>New York</b></td><td>28.2°C</td><td>31%</td><td>23.1 km/h</td><td>☀️ Clear sky</td></tr>
+<tr><td>🇺🇸 <b>Los Angeles</b></td><td>19.1°C</td><td>52%</td><td>16.0 km/h</td><td>🌤️ Mainly clear</td></tr>
+<tr><td>🇨🇦 <b>Toronto</b></td><td>19.0°C</td><td>43%</td><td>24.5 km/h</td><td>☁️ Overcast</td></tr>
+<tr><td>🇲🇽 <b>Mexico City</b></td><td>27.4°C</td><td>25%</td><td>3.7 km/h</td><td>☀️ Clear sky</td></tr>
 </table>
 
 </details>
@@ -193,9 +193,9 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>🌬️ Wind</th>
 <th>☁️ Conditions</th>
 </tr>
-<tr><td>🇧🇷 <b>São Paulo</b></td><td>27.0°C</td><td>50%</td><td>1.5 km/h</td><td>🌤️ Mainly clear</td></tr>
-<tr><td>🇦🇷 <b>Buenos Aires</b></td><td>21.0°C</td><td>72%</td><td>6.8 km/h</td><td>🌤️ Mainly clear</td></tr>
-<tr><td>🇵🇪 <b>Lima</b></td><td>23.2°C</td><td>71%</td><td>10.0 km/h</td><td>☀️ Clear sky</td></tr>
+<tr><td>🇧🇷 <b>São Paulo</b></td><td>26.9°C</td><td>48%</td><td>3.4 km/h</td><td>🌤️ Mainly clear</td></tr>
+<tr><td>🇦🇷 <b>Buenos Aires</b></td><td>22.2°C</td><td>70%</td><td>5.1 km/h</td><td>⛅ Partly cloudy</td></tr>
+<tr><td>🇵🇪 <b>Lima</b></td><td>23.5°C</td><td>68%</td><td>12.0 km/h</td><td>☁️ Overcast</td></tr>
 </table>
 
 </details>
@@ -211,9 +211,9 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>🌬️ Wind</th>
 <th>☁️ Conditions</th>
 </tr>
-<tr><td>🇿🇦 <b>Cape Town</b></td><td>14.6°C</td><td>82%</td><td>4.5 km/h</td><td>☀️ Clear sky</td></tr>
-<tr><td>🇪🇬 <b>Cairo</b></td><td>22.8°C</td><td>30%</td><td>13.3 km/h</td><td>⛅ Partly cloudy</td></tr>
-<tr><td>🇳🇬 <b>Lagos</b></td><td>29.5°C</td><td>76%</td><td>14.8 km/h</td><td>🌦️ Light drizzle</td></tr>
+<tr><td>🇿🇦 <b>Cape Town</b></td><td>12.2°C</td><td>90%</td><td>1.6 km/h</td><td>☀️ Clear sky</td></tr>
+<tr><td>🇪🇬 <b>Cairo</b></td><td>18.6°C</td><td>43%</td><td>10.2 km/h</td><td>🌤️ Mainly clear</td></tr>
+<tr><td>🇳🇬 <b>Lagos</b></td><td>27.9°C</td><td>83%</td><td>14.2 km/h</td><td>☁️ Overcast</td></tr>
 </table>
 
 </details>
@@ -229,15 +229,15 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>🌬️ Wind</th>
 <th>☁️ Conditions</th>
 </tr>
-<tr><td>🇦🇺 <b>Sydney</b></td><td>13.1°C</td><td>72%</td><td>8.8 km/h</td><td>🌤️ Mainly clear</td></tr>
-<tr><td>🇦🇺 <b>Melbourne</b></td><td>11.9°C</td><td>77%</td><td>6.3 km/h</td><td>☀️ Clear sky</td></tr>
-<tr><td>🇳🇿 <b>Auckland</b></td><td>15.9°C</td><td>90%</td><td>8.9 km/h</td><td>⛅ Partly cloudy</td></tr>
+<tr><td>🇦🇺 <b>Sydney</b></td><td>12.1°C</td><td>76%</td><td>6.3 km/h</td><td>☀️ Clear sky</td></tr>
+<tr><td>🇦🇺 <b>Melbourne</b></td><td>10.9°C</td><td>75%</td><td>7.2 km/h</td><td>🌤️ Mainly clear</td></tr>
+<tr><td>🇳🇿 <b>Auckland</b></td><td>16.1°C</td><td>91%</td><td>8.0 km/h</td><td>⛅ Partly cloudy</td></tr>
 </table>
 
 </details>
 <!-- WEATHER END -->
 
-<sub>🕐 Last weather update: <b>05 May 2026, 15:38 UTC</b> · Data from OpenWeatherMap</sub>
+<sub>🕐 Last weather update: <b>05 May 2026, 18:33 UTC</b> · Data from OpenWeatherMap</sub>
 
 ---
 
