@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://blog.cloudflare.com/agents-stripe-projects/'>Agents can now create Cloudflare accounts, buy domains, and deploy</a></td><td>240 👍</td><td>133 💬</td></tr>
-<tr><td>2.</td><td><a href='https://www.aaedmusa.com/projects/cara2'>CARA 2.0 – “I Built a Better Robot Dog”</a></td><td>80 👍</td><td>5 💬</td></tr>
-<tr><td>3.</td><td><a href='https://us.starlabs.systems/pages/starfighter'>StarFighter 16-Inch</a></td><td>239 👍</td><td>136 💬</td></tr>
-<tr><td>4.</td><td><a href='https://dnssec-analyzer.verisignlabs.com/nic.de'>.de TLD offline due to DNSSEC?</a></td><td>639 👍</td><td>310 💬</td></tr>
-<tr><td>5.</td><td><a href='https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now'>245TB Micron 6600 ION Data Center SSD Now Shipping</a></td><td>61 👍</td><td>43 💬</td></tr>
-<tr><td>6.</td><td><a href='https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63'>Telus Uses AI to Alter Call-Agent Accents</a></td><td>129 👍</td><td>84 💬</td></tr>
-<tr><td>7.</td><td><a href='https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/'>Accelerating Gemma 4: faster inference with multi-token prediction ...</a></td><td>541 👍</td><td>251 💬</td></tr>
-<tr><td>8.</td><td><a href='https://openrss.org/blog/youtube-your-feeds-are-broken'>YouTube, your RSS feeds are broken</a></td><td>92 👍</td><td>32 💬</td></tr>
-<tr><td>9.</td><td><a href='https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026'>Write some software, give it away for free</a></td><td>248 👍</td><td>157 💬</td></tr>
-<tr><td>10.</td><td><a href='https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/'>Computer Use is 45x more expensive than structured APIs</a></td><td>382 👍</td><td>218 💬</td></tr>
+<tr><td>1.</td><td><a href='https://red-squares.cian.lol/'>Show HN: Red Squares – GitHub outages as contributions</a></td><td>336 👍</td><td>69 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.thetypicalset.com/blog/thoughts-on-coding-agents'>The bottleneck was never the code</a></td><td>80 👍</td><td>42 💬</td></tr>
+<tr><td>3.</td><td><a href='https://catstret.ch/202605/srss-hipster202510/'>Setting up a Sun Ray server on OpenIndiana Hipster 2025.10</a></td><td>37 👍</td><td>5 💬</td></tr>
+<tr><td>4.</td><td><a href='https://blog.cloudflare.com/agents-stripe-projects/'>Agents can now create Cloudflare accounts, buy domains, and deploy</a></td><td>435 👍</td><td>229 💬</td></tr>
+<tr><td>5.</td><td><a href='https://us.starlabs.systems/pages/starfighter'>StarFighter 16-Inch</a></td><td>450 👍</td><td>225 💬</td></tr>
+<tr><td>6.</td><td><a href='https://www.aaedmusa.com/projects/cara2'>CARA 2.0 – “I Built a Better Robot Dog”</a></td><td>250 👍</td><td>27 💬</td></tr>
+<tr><td>7.</td><td><a href='https://katedaviesdesigns.com/2026/04/29/knitting-bullshit/'>Knitting bullshit</a></td><td>178 👍</td><td>83 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.coveragecat.com/careers/engineering/fractional-growth-engineer'>Cat (YC S22) Seeks Fractional Engineer to Build AI-Native Growth To...</a></td><td>1 👍</td><td>0 💬</td></tr>
+<tr><td>9.</td><td><a href='https://coe.gatech.edu/news/2026/04/batteries-not-included-or-required-these-smart-home-sensors'>Batteries Not Included, or Required, for These Smart Home Sensors</a></td><td>90 👍</td><td>28 💬</td></tr>
+<tr><td>10.</td><td><a href='https://draxinar.github.io/articles/2026-05-01-uodemo-reverse-engineering.html'>Reverse-engineering the 1998 Ultima Online demo server</a></td><td>101 👍</td><td>21 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>06 May 2026, 07:41 UTC</b> · Data from Hacker News</sub>
+<b>06 May 2026, 13:05 UTC</b>
 
 ---
 
