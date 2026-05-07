@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license'>Valve releases Steam Controller CAD files under Creative Commons li...</a></td><td>1333 👍</td><td>406 💬</td></tr>
-<tr><td>2.</td><td><a href='https://nooneshappy.com/article/appearing-productive-in-the-workplace/'>Appearing productive in the workplace</a></td><td>1039 👍</td><td>392 💬</td></tr>
-<tr><td>3.</td><td><a href='https://permacomputing.net/principles/'>Permacomputing Principles</a></td><td>107 👍</td><td>39 💬</td></tr>
-<tr><td>4.</td><td><a href='https://aniket.foo/posts/20260505-netboot/'>Diskless Linux boot using ZFS, iSCSI and PXE</a></td><td>68 👍</td><td>25 💬</td></tr>
-<tr><td>5.</td><td><a href='https://sqlite.org/locrsf.html'>SQLite Is a Library of Congress Recommended Storage Format</a></td><td>181 👍</td><td>45 💬</td></tr>
-<tr><td>6.</td><td><a href='https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/'>Vibe coding and agentic engineering are getting closer than I'd like</a></td><td>562 👍</td><td>596 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.chevrolet.com/performance-parts/crate-engines/ecrate'>Chevrolet Performance eCrate package (400v/200hp)</a></td><td>22 👍</td><td>6 💬</td></tr>
-<tr><td>8.</td><td><a href='https://arxiv.org/abs/2605.03546'>ProgramBench: Can Language Models Rebuild Programs from Scratch?</a></td><td>28 👍</td><td>18 💬</td></tr>
-<tr><td>9.</td><td><a href='https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/'>RSS Feeds Send Me More Traffic Than Google</a></td><td>68 👍</td><td>14 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.vatican.va/latin/latin_index.html'>The Vatican's Website in Latin</a></td><td>131 👍</td><td>72 💬</td></tr>
+<tr><td>1.</td><td><a href='https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license'>Valve releases Steam Controller CAD files under Creative Commons li...</a></td><td>1538 👍</td><td>510 💬</td></tr>
+<tr><td>2.</td><td><a href='https://ahk.cardor.dev'>Agent-harness-kit scaffolding for multi-agent workflows (MCP, provi...</a></td><td>33 👍</td><td>5 💬</td></tr>
+<tr><td>3.</td><td><a href='https://www.itsnicethat.com/features/the-view-from-mumbai-matchbook-graphic-design-130426'>Indian matchbox labels as a visual archive</a></td><td>35 👍</td><td>8 💬</td></tr>
+<tr><td>4.</td><td><a href='https://www.ticalc.org/programming/columns/83plus-bas/cherny/'>Boris Cherny: TI-83 Plus Basic Programming Tutorial (2004)</a></td><td>68 👍</td><td>28 💬</td></tr>
+<tr><td>5.</td><td><a href='https://nooneshappy.com/article/appearing-productive-in-the-workplace/'>Appearing productive in the workplace</a></td><td>1326 👍</td><td>527 💬</td></tr>
+<tr><td>6.</td><td><a href='https://sqlite.org/locrsf.html'>SQLite Is a Library of Congress Recommended Storage Format</a></td><td>371 👍</td><td>107 💬</td></tr>
+<tr><td>7.</td><td><a href='https://paulkrugman.substack.com/p/grand-theft-oil-futures'>Grand Theft Oil Futures: Insider traders keep making a killing at o...</a></td><td>75 👍</td><td>43 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.ycombinator.com/companies/governgpt/jobs/hRyltS0-backend-engineer-thinking-systems'>GovernGPT (YC W24) Is Hiring Engineers to Build Thinking Systems in...</a></td><td>1 👍</td><td>0 💬</td></tr>
+<tr><td>9.</td><td><a href='https://firethering.com/zaya1-8b-open-source-math-coding-model/'>ZAYA1-8B: An 8B Moe Model with 760M Active Params Matching DeepSeek...</a></td><td>47 👍</td><td>39 💬</td></tr>
+<tr><td>10.</td><td><a href='https://permacomputing.net/principles/'>Permacomputing Principles</a></td><td>184 👍</td><td>90 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>07 May 2026, 07:43 UTC</b> · Data from Hacker News</sub>
+<b>07 May 2026, 13:07 UTC</b>
 
 ---
 
