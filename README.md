@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.theverge.com/tech/926458/canvas-shinyhunters-breach'>Canvas is down as ShinyHunters threatens to leak schools’ data</a></td><td>548 👍</td><td>341 💬</td></tr>
-<tr><td>2.</td><td><a href='https://xeiaso.net/blog/2026/abstain-from-install/'>Maybe you shouldn't install new software for a bit</a></td><td>415 👍</td><td>210 💬</td></tr>
-<tr><td>3.</td><td><a href='https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/'>Cloudflare to cut about 20% workforce</a></td><td>599 👍</td><td>355 💬</td></tr>
-<tr><td>4.</td><td><a href='https://www.openwall.com/lists/oss-security/2026/05/07/8'>Dirtyfrag: Universal Linux LPE</a></td><td>580 👍</td><td>230 💬</td></tr>
-<tr><td>5.</td><td><a href='https://storica.club/blog/pinocchio-in-italian/'>Pinocchio is weirder than you remembered</a></td><td>114 👍</td><td>40 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.not-ship.com/burning-man-moop/'>The map that keeps Burning Man honest</a></td><td>617 👍</td><td>309 💬</td></tr>
-<tr><td>7.</td><td><a href='https://github.com/graemeg/blaise'>Blaise – A modern self-hosting zero-legacy Object Pascal compiler t...</a></td><td>29 👍</td><td>4 💬</td></tr>
-<tr><td>8.</td><td><a href='https://ivanpleshkov.dev/blog/polynomial-autoencoder/'>A polynomial autoencoder beats PCA on transformer embeddings</a></td><td>17 👍</td><td>2 💬</td></tr>
-<tr><td>9.</td><td><a href='https://bsuh.bearblog.dev/agents-need-control-flow/'>Agents need control flow, not more prompts</a></td><td>435 👍</td><td>212 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.historytoday.com/archive/history-matters/inventing-cyrillic'>Inventing Cyrillic</a></td><td>18 👍</td><td>1 💬</td></tr>
+<tr><td>1.</td><td><a href='https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa'>Poland is now among the 20 largest economies. How it happened</a></td><td>62 👍</td><td>31 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.theverge.com/tech/926458/canvas-shinyhunters-breach'>Canvas is down as ShinyHunters threatens to leak schools’ data</a></td><td>754 👍</td><td>467 💬</td></tr>
+<tr><td>3.</td><td><a href='https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/'>Cloudflare to cut about 20% workforce</a></td><td>914 👍</td><td>613 💬</td></tr>
+<tr><td>4.</td><td><a href='https://www.nintendo.co.jp/corporate/release/en/2026/260508.html'>Nintendo announces price increases for Nintendo Switch 2</a></td><td>113 👍</td><td>87 💬</td></tr>
+<tr><td>5.</td><td><a href='https://xeiaso.net/blog/2026/abstain-from-install/'>Maybe you shouldn't install new software for a bit</a></td><td>617 👍</td><td>338 💬</td></tr>
+<tr><td>6.</td><td><a href='https://geojson.org/'>GeoJSON</a></td><td>35 👍</td><td>14 💬</td></tr>
+<tr><td>7.</td><td><a href='https://clojurescript.org/news/2026-05-07-release'>ClojureScript Gets Async/Await</a></td><td>123 👍</td><td>38 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.openwall.com/lists/oss-security/2026/05/07/8'>Dirtyfrag: Universal Linux LPE</a></td><td>691 👍</td><td>280 💬</td></tr>
+<tr><td>9.</td><td><a href='https://meshtastic.org/docs/introduction/'>An Introduction to Meshtastic</a></td><td>15 👍</td><td>7 💬</td></tr>
+<tr><td>10.</td><td><a href='https://news.ycombinator.com/item?id=48037336'>Rumors of my death are slightly exaggerated</a></td><td>410 👍</td><td>59 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>08 May 2026, 07:15 UTC</b> · Data from Hacker News</sub>
+<b>08 May 2026, 12:57 UTC</b>
 
 ---
 
