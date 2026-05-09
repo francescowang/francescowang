@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/'>A recent experience with ChatGPT 5.5 Pro</a></td><td>182 👍</td><td>78 💬</td></tr>
-<tr><td>2.</td><td><a href='https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users'>Google broke reCAPTCHA for de-googled Android users</a></td><td>905 👍</td><td>296 💬</td></tr>
-<tr><td>3.</td><td><a href='https://twitter.com/trq212/status/2052809885763747935'>Using Claude Code: The unreasonable effectiveness of HTML</a></td><td>81 👍</td><td>41 💬</td></tr>
-<tr><td>4.</td><td><a href='https://moq.dev/blog/webrtc-is-the-problem/'>OpenAI's WebRTC problem</a></td><td>256 👍</td><td>65 💬</td></tr>
-<tr><td>5.</td><td><a href='https://martinfowler.com/bliki/MythicalManMonth.html'>Mythical Man Month</a></td><td>117 👍</td><td>87 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.quantamagazine.org/what-causes-lightning-the-answer-keeps-getting-more-interesting-20260506/'>What Causes Lightning? The Answer Keeps Getting More Interesting</a></td><td>18 👍</td><td>0 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures'>AI is breaking two vulnerability cultures</a></td><td>312 👍</td><td>130 💬</td></tr>
-<tr><td>8.</td><td><a href='https://www.bbc.com/news/articles/cp3pww9g0p5o'>David Attenborough's 100th Birthday</a></td><td>580 👍</td><td>112 💬</td></tr>
-<tr><td>9.</td><td><a href='https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/'>EU calls VPNs "a loophole that needs closing" in age verification push</a></td><td>73 👍</td><td>29 💬</td></tr>
-<tr><td>10.</td><td><a href='https://lachlan.nz/blog/the-react2shell-story/'>The React2Shell Story</a></td><td>122 👍</td><td>5 💬</td></tr>
+<tr><td>1.</td><td><a href='https://internetarchive.ch/'>Internet Archive Switzerland</a></td><td>43 👍</td><td>11 💬</td></tr>
+<tr><td>2.</td><td><a href='https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/'>A recent experience with ChatGPT 5.5 Pro</a></td><td>403 👍</td><td>237 💬</td></tr>
+<tr><td>3.</td><td><a href='https://dillo-browser.org/lab/web-fork/'>Forking the Web</a></td><td>17 👍</td><td>7 💬</td></tr>
+<tr><td>4.</td><td><a href='https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users'>Google broke reCAPTCHA for de-googled Android users</a></td><td>1152 👍</td><td>401 💬</td></tr>
+<tr><td>5.</td><td><a href='https://twitter.com/trq212/status/2052809885763747935'>Using Claude Code: The unreasonable effectiveness of HTML</a></td><td>210 👍</td><td>121 💬</td></tr>
+<tr><td>6.</td><td><a href='https://moq.dev/blog/webrtc-is-the-problem/'>OpenAI’s WebRTC problem</a></td><td>355 👍</td><td>87 💬</td></tr>
+<tr><td>7.</td><td><a href='https://flow.byu.edu/posts/julia-c++'>Making Julia as Fast as C++ (2019)</a></td><td>23 👍</td><td>11 💬</td></tr>
+<tr><td>8.</td><td><a href='https://apnews.com/projects/pfas-forever-stained/'>America's carpet capital: an empire and its toxic legacy</a></td><td>45 👍</td><td>20 💬</td></tr>
+<tr><td>9.</td><td><a href='https://www.bbc.com/news/articles/cp3pww9g0p5o'>David Attenborough's 100th Birthday</a></td><td>703 👍</td><td>139 💬</td></tr>
+<tr><td>10.</td><td><a href='https://martinfowler.com/bliki/MythicalManMonth.html'>Mythical Man Month</a></td><td>195 👍</td><td>138 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>09 May 2026, 07:26 UTC</b> · Data from Hacker News</sub>
+<b>09 May 2026, 12:48 UTC</b>
 
 ---
 
