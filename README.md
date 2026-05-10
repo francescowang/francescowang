@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://github.com/imtomt/ymawky'>Show HN: Building a web server in assembly to give my life (a lack ...</a></td><td>206 👍</td><td>91 💬</td></tr>
-<tr><td>2.</td><td><a href='https://twitter.com/jarredsumner/status/2053047748191232310'>Bun's experimental Rust rewrite hits 99.8% test compatibility on Li...</a></td><td>525 👍</td><td>483 💬</td></tr>
-<tr><td>3.</td><td><a href='https://www.amusingplanet.com/2026/05/emerich-juettner-one-dollar.html'>The One Dollar Counterfeiter</a></td><td>79 👍</td><td>18 💬</td></tr>
-<tr><td>4.</td><td><a href='https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/'>Gemini API File Search is now multimodal</a></td><td>64 👍</td><td>8 💬</td></tr>
-<tr><td>5.</td><td><a href='https://lemire.me/blog/2025/12/04/we-see-something-that-works-and-then-we-understand-it/'>We see something that works, and then we understand it</a></td><td>57 👍</td><td>18 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.casio.com/jp/basic-calculators/premium/en-s100x-jc1-u/'>Casio S100X Japanese Lacquer Edition (JP Page Only)</a></td><td>95 👍</td><td>35 💬</td></tr>
-<tr><td>7.</td><td><a href='https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/'>Internet Archive Switzerland</a></td><td>593 👍</td><td>91 💬</td></tr>
-<tr><td>8.</td><td><a href='https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html'>Debian must ship reproducible packages</a></td><td>66 👍</td><td>13 💬</td></tr>
-<tr><td>9.</td><td><a href='https://chrismorgan.info/no-query-strings'>I’ve banned query strings</a></td><td>363 👍</td><td>205 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc'>Local privilege escalation via execve()</a></td><td>135 👍</td><td>72 💬</td></tr>
+<tr><td>1.</td><td><a href='https://brennan.io/2026/05/09/pinball-and-escrow/'>Space Cadet Pinball on Linux</a></td><td>66 👍</td><td>17 💬</td></tr>
+<tr><td>2.</td><td><a href='http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html'>I returned to AWS, and was reminded why I left</a></td><td>52 👍</td><td>14 💬</td></tr>
+<tr><td>3.</td><td><a href='https://blog.dochia.dev/blog/idempotency/'>Idempotency Is Easy Until the Second Request Is Different</a></td><td>127 👍</td><td>59 💬</td></tr>
+<tr><td>4.</td><td><a href='https://twitter.com/jarredsumner/status/2053047748191232310'>Bun's experimental Rust rewrite hits 99.8% test compatibility on Li...</a></td><td>609 👍</td><td>584 💬</td></tr>
+<tr><td>5.</td><td><a href='https://www.amusingplanet.com/2026/05/emerich-juettner-one-dollar.html'>The One Dollar Counterfeiter</a></td><td>189 👍</td><td>62 💬</td></tr>
+<tr><td>6.</td><td><a href='https://github.com/imtomt/ymawky'>Show HN: Building a web server in assembly to give my life (a lack ...</a></td><td>319 👍</td><td>148 💬</td></tr>
+<tr><td>7.</td><td><a href='https://www.casio.com/jp/basic-calculators/premium/en-s100x-jc1-u/'>Casio S100X Japanese Lacquer Edition (JP Page Only)</a></td><td>180 👍</td><td>78 💬</td></tr>
+<tr><td>8.</td><td><a href='https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q'>9 Mothers (YC P26) Is Hiring</a></td><td>1 👍</td><td>0 💬</td></tr>
+<tr><td>9.</td><td><a href='https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/'>Internet Archive Switzerland</a></td><td>633 👍</td><td>104 💬</td></tr>
+<tr><td>10.</td><td><a href='https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/'>Gemini API File Search is now multimodal</a></td><td>119 👍</td><td>20 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>10 May 2026, 07:35 UTC</b> · Data from Hacker News</sub>
+<b>10 May 2026, 12:48 UTC</b>
 
 ---
 
