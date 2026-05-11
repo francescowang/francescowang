@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://grapheneos.social/@GrapheneOS/116550899908879585'>Hardware Attestation as Monopoly Enabler</a></td><td>1397 👍</td><td>459 💬</td></tr>
-<tr><td>2.</td><td><a href='https://unix.foo/posts/local-ai-needs-to-be-norm/'>Local AI needs to be the norm</a></td><td>1019 👍</td><td>441 💬</td></tr>
-<tr><td>3.</td><td><a href='https://www.openculture.com/2024/10/the-greatest-shot-in-television.html'>The Greatest Shot in Television: James Burke Had One Chance to Nail...</a></td><td>130 👍</td><td>52 💬</td></tr>
-<tr><td>4.</td><td><a href='https://jola.dev/posts/running-local-models-on-m4'>Running local models on an M4 with 24GB memory</a></td><td>275 👍</td><td>84 💬</td></tr>
-<tr><td>5.</td><td><a href='https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/'>I'm going back to writing code by hand</a></td><td>299 👍</td><td>120 💬</td></tr>
-<tr><td>6.</td><td><a href='https://matt.might.net/articles/implementing-a-programming-language/'>7 lines of code, 3 minutes: Implement a programming language (2010)</a></td><td>40 👍</td><td>10 💬</td></tr>
-<tr><td>7.</td><td><a href='https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/'>Obsidian plugin was abused to deploy a remote access trojan</a></td><td>186 👍</td><td>92 💬</td></tr>
-<tr><td>8.</td><td><a href='https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs'>An AI coding agent, used to write code, needs to reduce your mainte...</a></td><td>139 👍</td><td>34 💬</td></tr>
-<tr><td>9.</td><td><a href='https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html'>Incident Report: CVE-2024-YIKES</a></td><td>499 👍</td><td>127 💬</td></tr>
-<tr><td>10.</td><td><a href='https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/'>Mythos Finds a Curl Vulnerability</a></td><td>47 👍</td><td>12 💬</td></tr>
+<tr><td>1.</td><td><a href='https://ratty-term.org/'>Ratty – A terminal emulator with inline 3D graphics</a></td><td>213 👍</td><td>67 💬</td></tr>
+<tr><td>2.</td><td><a href='https://grapheneos.social/@GrapheneOS/116550899908879585'>Hardware Attestation as Monopoly Enabler</a></td><td>1787 👍</td><td>591 💬</td></tr>
+<tr><td>3.</td><td><a href='https://unix.foo/posts/local-ai-needs-to-be-norm/'>Local AI needs to be the norm</a></td><td>1386 👍</td><td>551 💬</td></tr>
+<tr><td>4.</td><td><a href='https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/'>I'm going back to writing code by hand</a></td><td>562 👍</td><td>277 💬</td></tr>
+<tr><td>5.</td><td><a href='https://www.openculture.com/2024/10/the-greatest-shot-in-television.html'>The greatest shot in television: James Burke had one chance to nail...</a></td><td>232 👍</td><td>109 💬</td></tr>
+<tr><td>6.</td><td><a href='https://jola.dev/posts/running-local-models-on-m4'>Running local models on an M4 with 24GB memory</a></td><td>403 👍</td><td>125 💬</td></tr>
+<tr><td>7.</td><td><a href='https://www.wired.com/story/mexican-science-transforms-scorpion-venom-and-habanero-chile-into-antibiotics-against-resistant-bacteria/'>Venom and Hot Peppers Offer a Key to Killing Resistant Bacteria</a></td><td>32 👍</td><td>1 💬</td></tr>
+<tr><td>8.</td><td><a href='https://tautme.github.io/phone-sensors/accel-tuner.html'>Guitar tuner that uses phone accelerometer</a></td><td>69 👍</td><td>30 💬</td></tr>
+<tr><td>9.</td><td><a href='https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/'>Obsidian plugin was abused to deploy a remote access trojan</a></td><td>266 👍</td><td>149 💬</td></tr>
+<tr><td>10.</td><td><a href='https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082'>Gmail registration now requires scanning a QR code and sending a te...</a></td><td>67 👍</td><td>39 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>11 May 2026, 08:00 UTC</b> · Data from Hacker News</sub>
+<b>11 May 2026, 13:28 UTC</b>
 
 ---
 
