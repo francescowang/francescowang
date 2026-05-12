@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://tanstack.com/blog/npm-supply-chain-compromise-postmortem'>Postmortem: TanStack NPM supply-chain compromise</a></td><td>769 👍</td><td>290 💬</td></tr>
-<tr><td>2.</td><td><a href='https://github.com/davmlaw/they_live_adblocker'>They Live (1988) inspired Adblocker</a></td><td>174 👍</td><td>43 💬</td></tr>
-<tr><td>3.</td><td><a href='https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055'>If AI writes your code, why use Python?</a></td><td>419 👍</td><td>435 💬</td></tr>
-<tr><td>4.</td><td><a href='https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage'>UCLA discovers first stroke rehabilitation drug to repair brain dam...</a></td><td>314 👍</td><td>65 💬</td></tr>
-<tr><td>5.</td><td><a href='https://claude.com/blog/claude-platform-on-aws'>Claude Platform on AWS</a></td><td>119 👍</td><td>53 💬</td></tr>
-<tr><td>6.</td><td><a href='https://computer.rip/2026-05-09-extremely-low-frequencies.html'>Extremely Low Frequencies</a></td><td>43 👍</td><td>0 💬</td></tr>
-<tr><td>7.</td><td><a href='https://eatonphil.com/bookclub.html'>Software Internals Book Club</a></td><td>78 👍</td><td>13 💬</td></tr>
-<tr><td>8.</td><td><a href='http://www.typewritten.org/Media/'>Screenshots of Old Desktop OSes</a></td><td>64 👍</td><td>16 💬</td></tr>
-<tr><td>9.</td><td><a href='https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html'>Google says criminal hackers used AI to find a major software flaw</a></td><td>166 👍</td><td>126 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.newscientist.com/article/2524042-a-lost-ancient-script-reveals-how-writing-as-we-know-it-really-began/'>A lost ancient script reveals how writing as we know it began</a></td><td>55 👍</td><td>18 💬</td></tr>
+<tr><td>1.</td><td><a href='https://matklad.github.io/2026/05/12/software-architecture.html'>Learning Software Architecture</a></td><td>204 👍</td><td>32 💬</td></tr>
+<tr><td>2.</td><td><a href='http://www.typewritten.org/Media/'>Screenshots of Old Desktop OSes</a></td><td>339 👍</td><td>149 💬</td></tr>
+<tr><td>3.</td><td><a href='https://tanstack.com/blog/npm-supply-chain-compromise-postmortem'>Postmortem: TanStack NPM supply-chain compromise</a></td><td>913 👍</td><td>382 💬</td></tr>
+<tr><td>4.</td><td><a href='https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html'>EU to crack down on TikTok, Instagram's 'addictive design' targetin...</a></td><td>133 👍</td><td>78 💬</td></tr>
+<tr><td>5.</td><td><a href='https://news.ycombinator.com/item?id=48104663'>A HN post with negative points – how?</a></td><td>41 👍</td><td>24 💬</td></tr>
+<tr><td>6.</td><td><a href='https://bogomolov.work/blog/posts/wasm-vs-docker/'>Docker images are MB; a full game engine compiles to 35MB WASM</a></td><td>42 👍</td><td>36 💬</td></tr>
+<tr><td>7.</td><td><a href='https://github.com/davmlaw/they_live_adblocker'>They Live (1988) inspired Adblocker</a></td><td>349 👍</td><td>106 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.ycombinator.com/companies/text-blaze/jobs/P4CCN62-the-blaze-no-ai-summer-internship'>Text Blaze (YC W21) Is Hiring for a No-AI Summer Internship</a></td><td>1 👍</td><td>0 💬</td></tr>
+<tr><td>9.</td><td><a href='https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055'>If AI writes your code, why use Python?</a></td><td>611 👍</td><td>638 💬</td></tr>
+<tr><td>10.</td><td><a href='https://aresluna.org/seesaws-for-giants/'>Chasing Chicago's movable bridges (2014)</a></td><td>11 👍</td><td>2 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>12 May 2026, 07:43 UTC</b> · Data from Hacker News</sub>
+<b>12 May 2026, 13:12 UTC</b>
 
 ---
 
