@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://arxiv.org/abs/2605.08419'>Deterministic Fully-Static Whole-Binary Translation Without Heuristics</a></td><td>123 👍</td><td>23 💬</td></tr>
-<tr><td>2.</td><td><a href='https://github.com/FULU-Foundation/OrcaSlicer-bambulab'>Restore full BambuNetwork support for Bambu Lab printers</a></td><td>374 👍</td><td>164 💬</td></tr>
-<tr><td>3.</td><td><a href='https://lpar.ATH0.com/posts/2026/05/the-vi-family/'>The vi family</a></td><td>122 👍</td><td>56 💬</td></tr>
-<tr><td>4.</td><td><a href='https://googlebook.google/'>Googlebook</a></td><td>745 👍</td><td>1241 💬</td></tr>
-<tr><td>5.</td><td><a href='https://github.com/cactus-compute/needle'>Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model</a></td><td>419 👍</td><td>144 💬</td></tr>
-<tr><td>6.</td><td><a href='https://aluminium-os.com/'>AluminiumOS, by Google: Android Reimagined for the Desktop</a></td><td>6 👍</td><td>2 💬</td></tr>
-<tr><td>7.</td><td><a href='https://typesetinthefuture.com/2016/02/18/futuristic/'>How to make your text look futuristic (2016)</a></td><td>315 👍</td><td>36 💬</td></tr>
-<tr><td>8.</td><td><a href='https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem'>Kraftwerk's radical 1976 track</a></td><td>135 👍</td><td>67 💬</td></tr>
-<tr><td>9.</td><td><a href='https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html'>CERT is releasing six CVEs for serious security vulnerabilities in ...</a></td><td>301 👍</td><td>143 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise'>Why senior developers fail to communicate their expertise</a></td><td>529 👍</td><td>225 💬</td></tr>
+<tr><td>1.</td><td><a href='https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/'>I Moved My Digital Stack to Europe</a></td><td>243 👍</td><td>153 💬</td></tr>
+<tr><td>2.</td><td><a href='https://jorijn.com/en/blog/leaving-github-for-forgejo/'>Why I'm leaving GitHub for Forgejo</a></td><td>24 👍</td><td>5 💬</td></tr>
+<tr><td>3.</td><td><a href='https://dmitry.gr/?r=05.Projects&proj=37.%20Pixter'>Preserving Fisher-Price Pixter</a></td><td>70 👍</td><td>6 💬</td></tr>
+<tr><td>4.</td><td><a href='https://www.sciencedaily.com/releases/2026/05/260510030950.htm'>New stainless steel can survive conditions for hydrogen production ...</a></td><td>130 👍</td><td>47 💬</td></tr>
+<tr><td>5.</td><td><a href='https://github.com/FULU-Foundation/OrcaSlicer-bambulab'>Restore full BambuNetwork support for Bambu Lab printers</a></td><td>519 👍</td><td>231 💬</td></tr>
+<tr><td>6.</td><td><a href='https://arxiv.org/abs/2605.08419'>Deterministic Fully-Static Whole-Binary Translation Without Heuristics</a></td><td>234 👍</td><td>54 💬</td></tr>
+<tr><td>7.</td><td><a href='http://wii.sjmulder.nl/'>Web Server on a Nintendo Wii</a></td><td>36 👍</td><td>2 💬</td></tr>
+<tr><td>8.</td><td><a href='https://googlebook.google/'>Googlebook</a></td><td>836 👍</td><td>1368 💬</td></tr>
+<tr><td>9.</td><td><a href='https://www.ycombinator.com/companies/substrate/jobs/T2fMBhD-technical-success-manager'>Substrate (YC S24) Is Hiring a Technical Success Manager</a></td><td>1 👍</td><td>0 💬</td></tr>
+<tr><td>10.</td><td><a href='https://github.com/cactus-compute/needle'>Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model</a></td><td>525 👍</td><td>157 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>13 May 2026, 07:45 UTC</b> · Data from Hacker News</sub>
+<b>13 May 2026, 13:16 UTC</b>
 
 ---
 
