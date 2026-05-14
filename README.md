@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.anthropic.com/news/claude-for-small-business'>Claude for Small Business</a></td><td>179 👍</td><td>106 💬</td></tr>
-<tr><td>2.</td><td><a href='http://www.scorch2000.com/web/'>Scorched Earth 2000 – Web</a></td><td>221 👍</td><td>84 💬</td></tr>
-<tr><td>3.</td><td><a href='https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/'>Linux gaming is faster because Windows APIs are becoming Linux kern...</a></td><td>670 👍</td><td>438 💬</td></tr>
-<tr><td>4.</td><td><a href='https://zknill.io/posts/llms-are-breaking-20-year-old-system-design/'>LLMs are breaking 20 year old system design</a></td><td>16 👍</td><td>6 💬</td></tr>
-<tr><td>5.</td><td><a href='https://mayerwin.github.io/AI-Arena-History/'>Arena AI Model ELO History</a></td><td>45 👍</td><td>23 💬</td></tr>
-<tr><td>6.</td><td><a href='https://blogs.cisco.com/news/our-path-forward'>Cisco workforce reductions</a></td><td>175 👍</td><td>143 💬</td></tr>
-<tr><td>7.</td><td><a href='https://fredchan.org/blog/locality-domains-guide/'>Setting up a free *.city.state.us locality domain (2025)</a></td><td>552 👍</td><td>172 💬</td></tr>
-<tr><td>8.</td><td><a href='https://text.marvinborner.de/2026-04-09-17.html'>Extraordinary Ordinals</a></td><td>17 👍</td><td>5 💬</td></tr>
-<tr><td>9.</td><td><a href='https://laurent.le-brun.eu/blog/a-history-of-ides-at-google'>A History of IDEs at Google</a></td><td>354 👍</td><td>238 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/'>MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble</a></td><td>193 👍</td><td>203 💬</td></tr>
+<tr><td>1.</td><td><a href='https://numa.rs/blog/posts/odoh-anonymous-dns-without-an-account.html'>Show HN: Running the second public ODoH relay</a></td><td>49 👍</td><td>16 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.anthropic.com/news/claude-for-small-business'>Claude for Small Business</a></td><td>349 👍</td><td>303 💬</td></tr>
+<tr><td>3.</td><td><a href='https://www.laphamsquarterly.org/roundtable/tree-house'>The Tree House: A voyage to the source of a backyard dream</a></td><td>17 👍</td><td>0 💬</td></tr>
+<tr><td>4.</td><td><a href='https://www.2uo.de/myths-about-urandom/'>Myths about /dev/urandom (2014)</a></td><td>16 👍</td><td>17 💬</td></tr>
+<tr><td>5.</td><td><a href='https://www.reuters.com/legal/government/new-york-california-pension-leaders-oppose-extreme-spacex-control-structure-2026-05-14/'>New York, California pension leaders oppose 'extreme' SpaceX contro...</a></td><td>25 👍</td><td>14 💬</td></tr>
+<tr><td>6.</td><td><a href='http://www.scorch2000.com/web/'>Scorched Earth 2000 – Web</a></td><td>302 👍</td><td>110 💬</td></tr>
+<tr><td>7.</td><td><a href='https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/'>Linux gaming is faster because Windows APIs are becoming Linux kern...</a></td><td>813 👍</td><td>516 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.eff.org/pages/leaving-physical-world'>Leaving the Physical World</a></td><td>57 👍</td><td>20 💬</td></tr>
+<tr><td>9.</td><td><a href='https://classic7.lol/'>Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7</a></td><td>106 👍</td><td>91 💬</td></tr>
+<tr><td>10.</td><td><a href='https://fredchan.org/blog/locality-domains-guide/'>Setting up a free *.city.state.us locality domain (2025)</a></td><td>580 👍</td><td>180 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>14 May 2026, 07:42 UTC</b> · Data from Hacker News</sub>
+<b>14 May 2026, 13:08 UTC</b>
 
 ---
 
