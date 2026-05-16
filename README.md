@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.gutenberg.org/'>Project Gutenberg – keeps getting better</a></td><td>887 👍</td><td>189 💬</td></tr>
-<tr><td>2.</td><td><a href='https://ploopy.co/shop/bean-pointing-stick/'>Ploopy Bean: a trackpoint for every computer</a></td><td>79 👍</td><td>31 💬</td></tr>
-<tr><td>3.</td><td><a href='https://analytics.fixelsmith.com/posts/sql-fraud-patterns/'>SQL patterns I use to catch transaction fraud</a></td><td>135 👍</td><td>34 💬</td></tr>
-<tr><td>4.</td><td><a href='https://twitter.com/mitchellh/status/2055380239711457578'>I believe there are entire companies right now under AI psychosis</a></td><td>1218 👍</td><td>567 💬</td></tr>
-<tr><td>5.</td><td><a href='https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/'>The bird eye was pushed to an evolutionary extreme</a></td><td>89 👍</td><td>22 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.nature.com/articles/s40494-026-02592-7'>Research on mildew contamination affecting the sound quality of ana...</a></td><td>15 👍</td><td>1 💬</td></tr>
-<tr><td>7.</td><td><a href='https://phoboslab.org/log/2026/05/n64-additive-blending'>Additive Blending on the Nintendo 64</a></td><td>89 👍</td><td>8 💬</td></tr>
-<tr><td>8.</td><td><a href='https://dynomight.net/p2p-meth/'>The main thing about P2P meth is that there's so much of it (2021)</a></td><td>108 👍</td><td>102 💬</td></tr>
-<tr><td>9.</td><td><a href='https://johncarlosbaez.wordpress.com/2026/05/14/naturally-occurring-quasicrystals/'>Naturally Occurring Quasicrystals</a></td><td>89 👍</td><td>9 💬</td></tr>
-<tr><td>10.</td><td><a href='https://zolairenergy.com/californias-battery-array-is-as-powerful-as-12-nuclear-power-plants-heres-whats-on-the-horizon/'>California's Battery Array Is as Powerful as 12 Nuclear Power Plants</a></td><td>13 👍</td><td>2 💬</td></tr>
+<tr><td>1.</td><td><a href='https://arxiv.org/abs/2605.12357'>Δ-Mem: Efficient Online Memory for Large Language Models</a></td><td>83 👍</td><td>14 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html'>Accelerando (2005)</a></td><td>35 👍</td><td>9 💬</td></tr>
+<tr><td>3.</td><td><a href='https://refractor.io/adhd-autism/fecal-transplants-for-autism-delivers-success-in-clinical-trials/'>Fecal transplants for autism deliver success in clinical trials</a></td><td>51 👍</td><td>26 💬</td></tr>
+<tr><td>4.</td><td><a href='https://futhark-lang.org/examples.html'>Futhark by Example</a></td><td>47 👍</td><td>12 💬</td></tr>
+<tr><td>5.</td><td><a href='https://www.gutenberg.org/'>Project Gutenberg – keeps getting better</a></td><td>1005 👍</td><td>206 💬</td></tr>
+<tr><td>6.</td><td><a href='https://www.theregister.com/systems/2026/05/16/europe-built-sovereign-clouds-to-escape-us-control-then-forgot-about-the-processors/5237735'>Europe built sovereign clouds to escape US control. Forgot about th...</a></td><td>47 👍</td><td>30 💬</td></tr>
+<tr><td>7.</td><td><a href='https://kabir.au/blog/the-ctf-scene-is-dead'>Frontier AI has broken the open CTF format</a></td><td>194 👍</td><td>161 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.ycombinator.com/companies/kyber/jobs/1rLQAro-founding-marketer-content-community'>Kyber (YC W23) Is Hiring a Founding Marketer</a></td><td>1 👍</td><td>0 💬</td></tr>
+<tr><td>9.</td><td><a href='https://twitter.com/steipete/status/2055346265869721905'>OpenClaw Creator Spent $1.3M on OpenAI Tokens in 30 Days</a></td><td>32 👍</td><td>35 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.openculture.com/2026/05/nearly-50-years-later-wkrp-in-cincinnati-becomes-a-real-radio-station.html'>Nearly 50 Years Later, WKRP in Cincinnati Becomes a Real Radio Station</a></td><td>25 👍</td><td>14 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>16 May 2026, 07:30 UTC</b> · Data from Hacker News</sub>
+<b>16 May 2026, 12:49 UTC</b>
 
 ---
 
