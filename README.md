@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://crates.io/crates/zerostack/1.0.0'>Zerostack – A Unix-inspired coding agent written in pure Rust</a></td><td>331 👍</td><td>136 💬</td></tr>
-<tr><td>2.</td><td><a href='https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project'>Colossus: The Forbin Project</a></td><td>85 👍</td><td>12 💬</td></tr>
-<tr><td>3.</td><td><a href='https://maurycyz.com/projects/mcusite/'>Hosting a website on an 8-bit microcontroller</a></td><td>106 👍</td><td>6 💬</td></tr>
-<tr><td>4.</td><td><a href='https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/'>Mozilla to UK regulators: VPNs are essential privacy and security t...</a></td><td>36 👍</td><td>2 💬</td></tr>
-<tr><td>5.</td><td><a href='https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock'>A nicer voltmeter clock</a></td><td>145 👍</td><td>22 💬</td></tr>
-<tr><td>6.</td><td><a href='https://lucisqr.substack.com/p/c26-shipped-a-simd-library-nobody'>C++26 Shipped a SIMD Library Nobody Asked For</a></td><td>99 👍</td><td>55 💬</td></tr>
-<tr><td>7.</td><td><a href='https://openai.com/index/malta-chatgpt-plus-partnership/'>OpenAI and Government of Malta partner to roll out ChatGPT Plus to ...</a></td><td>157 👍</td><td>169 💬</td></tr>
-<tr><td>8.</td><td><a href='https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/'>Moving away from Tailwind, and learning to structure my CSS</a></td><td>509 👍</td><td>309 💬</td></tr>
-<tr><td>9.</td><td><a href='https://nvlabs.github.io/Sana/WM/'>SANA-WM, a 2.6B open-source world model for 1-minute 720p video</a></td><td>328 👍</td><td>133 💬</td></tr>
-<tr><td>10.</td><td><a href='https://link.springer.com/article/10.1007/s42113-026-00271-1'>Illusions of Understanding in the Sciences</a></td><td>31 👍</td><td>7 💬</td></tr>
+<tr><td>1.</td><td><a href='https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/'>Native all the way, until you need text</a></td><td>46 👍</td><td>18 💬</td></tr>
+<tr><td>2.</td><td><a href='https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/'>I don't think AI will make your processes go faster</a></td><td>23 👍</td><td>5 💬</td></tr>
+<tr><td>3.</td><td><a href='https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html'>Apple Silicon costs more than OpenRouter</a></td><td>31 👍</td><td>13 💬</td></tr>
+<tr><td>4.</td><td><a href='https://www.thestateofbrand.com/news/ai-subscription-time-bomb'>Every AI Subscription Is a Ticking Time Bomb for Enterprise</a></td><td>7 👍</td><td>2 💬</td></tr>
+<tr><td>5.</td><td><a href='https://crates.io/crates/zerostack/1.0.0'>Zerostack – A Unix-inspired coding agent written in pure Rust</a></td><td>450 👍</td><td>223 💬</td></tr>
+<tr><td>6.</td><td><a href='https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/'>Mozilla to UK regulators: VPNs are essential privacy and security t...</a></td><td>334 👍</td><td>132 💬</td></tr>
+<tr><td>7.</td><td><a href='https://unplannedobsolescence.com/blog/prolog-basics-pokemon/'>Prolog Basics Explained with Pokémon</a></td><td>44 👍</td><td>5 💬</td></tr>
+<tr><td>8.</td><td><a href='https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock'>A nicer voltmeter clock</a></td><td>231 👍</td><td>29 💬</td></tr>
+<tr><td>9.</td><td><a href='https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project'>Colossus: The Forbin Project</a></td><td>131 👍</td><td>44 💬</td></tr>
+<tr><td>10.</td><td><a href='https://maurycyz.com/projects/mcusite/'>Hosting a website on an 8-bit microcontroller</a></td><td>160 👍</td><td>13 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>17 May 2026, 07:40 UTC</b> · Data from Hacker News</sub>
+<b>17 May 2026, 12:48 UTC</b>
 
 ---
 
