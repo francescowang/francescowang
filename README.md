@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://gencad.github.io/'>GenCAD</a></td><td>282 👍</td><td>66 💬</td></tr>
-<tr><td>2.</td><td><a href='https://github.com/tech4bot/rk3562deb'>I turned a $80 RK3562 Android tablet into a Debian Linux workstation</a></td><td>342 👍</td><td>154 💬</td></tr>
-<tr><td>3.</td><td><a href='https://askanastronaut.issinrealtime.org/'>Ask an Astronaut: 333 hours of Q&A footage with astronauts</a></td><td>125 👍</td><td>9 💬</td></tr>
-<tr><td>4.</td><td><a href='https://www.scientificamerican.com/article/strange-crystals-found-inside-wreckage-from-the-first-nuclear-bomb-test/'>Crystals found inside wreckage from the first nuclear bomb test</a></td><td>43 👍</td><td>7 💬</td></tr>
-<tr><td>5.</td><td><a href='https://www.metalevel.at/prolog/horror'>Prolog Coding Horror</a></td><td>127 👍</td><td>51 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/'>It is time to give up the dualism introduced by the debate on consc...</a></td><td>39 👍</td><td>114 💬</td></tr>
-<tr><td>7.</td><td><a href='https://jank-lang.org/blog/2026-05-08-optimization/'>Jank now has its own custom IR</a></td><td>116 👍</td><td>10 💬</td></tr>
-<tr><td>8.</td><td><a href='https://github.com/MinishLab/semble'>Show HN: Semble – Code search for agents that uses 98% fewer tokens...</a></td><td>304 👍</td><td>105 💬</td></tr>
-<tr><td>9.</td><td><a href='https://github.com/ERufian/ksharp'>kharp – k version 3 Language Interpreter in C#</a></td><td>9 👍</td><td>0 💬</td></tr>
-<tr><td>10.</td><td><a href='https://bartoszmilewski.com/2026/05/16/profunctor-equipment-in-haskell/'>Profunctor Equipment in Haskell</a></td><td>11 👍</td><td>1 💬</td></tr>
+<tr><td>1.</td><td><a href='https://github.com/stephenlthorn/auto-identity-remove'>I automated opt-outs for 500 data broker sites (open source)</a></td><td>194 👍</td><td>58 💬</td></tr>
+<tr><td>2.</td><td><a href='http://www.csl.sri.com/users/neumann/psos.pdf'>The foundations of a provably secure operating system (PSOS) (1979)...</a></td><td>70 👍</td><td>33 💬</td></tr>
+<tr><td>3.</td><td><a href='https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf'>Benedict Evans: AI eats the world (Spring 26) [pdf]</a></td><td>46 👍</td><td>15 💬</td></tr>
+<tr><td>4.</td><td><a href='https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633'>Linux security mailing list 'almost unmanageable'</a></td><td>56 👍</td><td>13 💬</td></tr>
+<tr><td>5.</td><td><a href='https://storica.club/blog/alice-is-math-jokes/'>Math Jokes in Alice in Wonderland</a></td><td>41 👍</td><td>12 💬</td></tr>
+<tr><td>6.</td><td><a href='https://github.com/ttsiodras/3D-on-a-ZX-Spectrum-48K/'>Writing Z80 assembly, 4 decades later:-)</a></td><td>29 👍</td><td>2 💬</td></tr>
+<tr><td>7.</td><td><a href='https://gencad.github.io/'>GenCAD</a></td><td>377 👍</td><td>102 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/'>It is time to give up the dualism introduced by the debate on consc...</a></td><td>175 👍</td><td>428 💬</td></tr>
+<tr><td>9.</td><td><a href='https://www.bbc.co.uk/news/articles/cvg0yy3gp71o'>'We mould trees to grow into the shape of chairs'</a></td><td>26 👍</td><td>8 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840'>Enough with the AI FOMO, go slow-mo, says Domo CDO</a></td><td>34 👍</td><td>13 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>18 May 2026, 08:11 UTC</b> · Data from Hacker News</sub>
+<b>18 May 2026, 13:47 UTC</b>
 
 ---
 
