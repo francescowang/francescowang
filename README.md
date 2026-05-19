@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://simonwillison.net/2026/May/19/5-minute-llms/'>The last six months in LLMs in five minutes</a></td><td>322 👍</td><td>199 💬</td></tr>
-<tr><td>2.</td><td><a href='https://www.kv4p.com/'>Turn your Android phone into a ham radio transceiver</a></td><td>65 👍</td><td>16 💬</td></tr>
-<tr><td>3.</td><td><a href='https://clickclickclick.click/'>Click (2016)</a></td><td>284 👍</td><td>70 💬</td></tr>
-<tr><td>4.</td><td><a href='https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html'>Peter Neumann has died</a></td><td>56 👍</td><td>2 💬</td></tr>
-<tr><td>5.</td><td><a href='https://pytorch.landscape2.io'>PyTorch Landscape</a></td><td>27 👍</td><td>3 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.anthropic.com/news/anthropic-acquires-stainless'>Anthropic acquires Stainless</a></td><td>434 👍</td><td>291 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html'>Pope Leo XIV’s first encyclical Magnifica humanitas to be published...</a></td><td>205 👍</td><td>115 💬</td></tr>
-<tr><td>8.</td><td><a href='https://cursor.com/blog/composer-2-5'>Cursor Introduces Composer 2.5</a></td><td>122 👍</td><td>74 💬</td></tr>
-<tr><td>9.</td><td><a href='https://nicholas.carlini.com/writing/2025/regex-chess.html'>Regex Chess: A 2-ply minimax chess engine in 84,688 regular express...</a></td><td>104 👍</td><td>21 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.abgeo.dev/blog/anyone-can-ring-your-doorbell'>Anyone on the Internet Can Ring Your Doorbell</a></td><td>91 👍</td><td>51 💬</td></tr>
+<tr><td>1.</td><td><a href='https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/'>New accessibility features powered by Apple Intelligence</a></td><td>130 👍</td><td>55 💬</td></tr>
+<tr><td>2.</td><td><a href='https://superspl.at/scene/84df8849'>Gaussian Splat of a Strawberry</a></td><td>202 👍</td><td>74 💬</td></tr>
+<tr><td>3.</td><td><a href='https://medium.com/@breid.at/ultra-pure-quantum-crystals-from-an-abandoned-mine-in-a-mysterious-desert-93cc87d12314'>I Found Ultra-Pure Quantum Crystals in an Abandoned Mine in the Ata...</a></td><td>133 👍</td><td>34 💬</td></tr>
+<tr><td>4.</td><td><a href='https://www.openbsd.org/79.html'>OpenBSD 7.9 Released</a></td><td>12 👍</td><td>0 💬</td></tr>
+<tr><td>5.</td><td><a href='https://github.com/status-im/nim-presto'>Nim-Presto – REST API Framework for Nim Language</a></td><td>19 👍</td><td>2 💬</td></tr>
+<tr><td>6.</td><td><a href='https://polypad.amplify.com/'>Polypad</a></td><td>125 👍</td><td>11 💬</td></tr>
+<tr><td>7.</td><td><a href='https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html'>Peter Neumann has died</a></td><td>206 👍</td><td>17 💬</td></tr>
+<tr><td>8.</td><td><a href='https://github.com/Diolinux/PhotoGIMP'>Photo GIMP – A Patch for GIMP 3 for Photoshop Users</a></td><td>98 👍</td><td>68 💬</td></tr>
+<tr><td>9.</td><td><a href='https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/'>Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised</a></td><td>172 👍</td><td>101 💬</td></tr>
+<tr><td>10.</td><td><a href='https://en.wikipedia.org/wiki/Colonization_of_Venus'>Colonization of Venus</a></td><td>28 👍</td><td>12 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>19 May 2026, 08:00 UTC</b> · Data from Hacker News</sub>
+<b>19 May 2026, 13:35 UTC</b>
 
 ---
 
