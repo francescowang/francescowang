@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html'>Everything in C is undefined behavior</a></td><td>112 👍</td><td>81 💬</td></tr>
-<tr><td>2.</td><td><a href='https://status.railway.com/?date=20260519'>Railway Blocked by Google Cloud</a></td><td>454 👍</td><td>211 💬</td></tr>
-<tr><td>3.</td><td><a href='https://fivethirtyeightindex.com/'>FiveThirtyEight articles on the Internet Archive</a></td><td>164 👍</td><td>39 💬</td></tr>
-<tr><td>4.</td><td><a href='https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/'>Gemini 3.5 Flash</a></td><td>749 👍</td><td>523 💬</td></tr>
-<tr><td>5.</td><td><a href='https://virtualosmuseum.org/'>I’ve built a virtual museum with nearly every operating system you ...</a></td><td>742 👍</td><td>165 💬</td></tr>
-<tr><td>6.</td><td><a href='https://kottke.org/26/05/theres-no-earthly-way-of-knowing-which-direction-we-are-going'>There's no earthly way of knowing which direction we are going</a></td><td>6 👍</td><td>0 💬</td></tr>
-<tr><td>7.</td><td><a href='https://github.com/wiltodelta/remove-ai-watermarks'>Remove–AI–Watermarks – CLI and library for removing AI watermarks f...</a></td><td>256 👍</td><td>140 💬</td></tr>
-<tr><td>8.</td><td><a href='https://blog.google/products-and-platforms/products/search/search-io-2026/'>Google changes its search box</a></td><td>504 👍</td><td>688 💬</td></tr>
-<tr><td>9.</td><td><a href='https://github.com/antoinezambelli/forge'>Show HN: Forge – Guardrails take an 8B model from 53% to 99% on age...</a></td><td>438 👍</td><td>170 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.nostalgickitscentral.com/'>Nostalgic Kits Central (2024)</a></td><td>18 👍</td><td>6 💬</td></tr>
+<tr><td>1.</td><td><a href='https://www.alqst.org/ar/posts/1190'>Meta blocks human rights accounts from reaching audiences in Arabia...</a></td><td>80 👍</td><td>20 💬</td></tr>
+<tr><td>2.</td><td><a href='https://mapofmetal.com/'>Map of Metal</a></td><td>143 👍</td><td>39 💬</td></tr>
+<tr><td>3.</td><td><a href='https://www.lesnumeriques.com/banque-en-ligne/adieu-visa-et-mastercard-130-millions-d-europeens-basculent-vers-un-paiement-100-souverain-des-2026-n250918.html'>Goodbye Visa and Mastercard: 130M Europeans switching to sovereign ...</a></td><td>14 👍</td><td>1 💬</td></tr>
+<tr><td>4.</td><td><a href='https://qwen.ai/blog?id=qwen3.7'>Qwen3.7-Max: The Agent Frontier</a></td><td>104 👍</td><td>43 💬</td></tr>
+<tr><td>5.</td><td><a href='https://www.youtube.com/watch?v=KnUFH5GX_fI'>Nobody understands the point of hybrid cars [video]</a></td><td>75 👍</td><td>25 💬</td></tr>
+<tr><td>6.</td><td><a href='https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html'>Everything in C is undefined behavior</a></td><td>306 👍</td><td>435 💬</td></tr>
+<tr><td>7.</td><td><a href='https://www.tomshardware.com/tech-industry/artificial-intelligence/college-students-drown-out-ai-praising-commencement-speeches-with-boos-deal-with-it-one-speaker-fires-back-as-students-heckle-positive-pitches-for-ais-role'>College students drown out AI-praising commencement speeches with boos</a></td><td>110 👍</td><td>61 💬</td></tr>
+<tr><td>8.</td><td><a href='https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/'>Gemini 3.5 Flash</a></td><td>864 👍</td><td>592 💬</td></tr>
+<tr><td>9.</td><td><a href='https://torrentfreak.com/annas-archive-hit-with-19-5m-default-judgment-and-global-domain-takedown-order/'>Anna's Archive Hit with $19.5M Default Judgment and Global Domain T...</a></td><td>51 👍</td><td>30 💬</td></tr>
+<tr><td>10.</td><td><a href='https://danieltan.weblog.lol/2026/05/americas-greatest-strategic-blunder-the-imprisonment-of-qian-xuesen'>America's Greatest Strategic Blunder: The Imprisonment of Qian Xuesen</a></td><td>3 👍</td><td>0 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>20 May 2026, 08:00 UTC</b> · Data from Hacker News</sub>
+<b>20 May 2026, 13:24 UTC</b>
 
 ---
 
