@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://openai.com/index/model-disproves-discrete-geometry-conjecture/'>An OpenAI model has disproved a central conjecture in discrete geom...</a></td><td>1067 👍</td><td>775 💬</td></tr>
-<tr><td>2.</td><td><a href='https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/'>GitHub confirms breach of 3,800 repos via malicious VSCode extension</a></td><td>777 👍</td><td>303 💬</td></tr>
-<tr><td>3.</td><td><a href='https://discourse.haskell.org/t/haskell-foundation-2026-update/14136'>Haskell Foundation 2026 Update</a></td><td>96 👍</td><td>21 💬</td></tr>
-<tr><td>4.</td><td><a href='https://github.com/kageroumado/phosphene'>Show HN: I reverse engineered Apple's video wallpapers</a></td><td>246 👍</td><td>44 💬</td></tr>
-<tr><td>5.</td><td><a href='https://vivaldi.com/blog/vivaldi-on-desktop-8-0/'>Vivaldi 8.0</a></td><td>39 👍</td><td>5 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.ycombinator.com/companies/typewise/jobs/HmCzfBK-ai-growth-engineer'>Typewise (YC S22) Is Hiring an AI Growth Engineer (Zurich or Remote)</a></td><td>1 👍</td><td>0 💬</td></tr>
-<tr><td>7.</td><td><a href='https://developers.redhat.com/articles/2026/04/28/gcc-16-improved-error-messages-sarif-output'>New features in GCC 16: Improved error messages and SARIF output</a></td><td>64 👍</td><td>10 💬</td></tr>
-<tr><td>8.</td><td><a href='https://dos.zone/'>DOS Zone</a></td><td>233 👍</td><td>43 💬</td></tr>
-<tr><td>9.</td><td><a href='https://gwern.net/doc/design/typography/1980-knuth.pdf'>The Letter S, by Donald Knuth (1980) [pdf]</a></td><td>141 👍</td><td>18 💬</td></tr>
-<tr><td>10.</td><td><a href='https://docs.flipper.net/one/general/tech-specs'>Flipper One Tech Specs</a></td><td>349 👍</td><td>126 💬</td></tr>
+<tr><td>1.</td><td><a href='https://blog.flipper.net/flipper-one-we-need-your-help/'>Flipper One – we need your help</a></td><td>325 👍</td><td>183 💬</td></tr>
+<tr><td>2.</td><td><a href='https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html'>Python 3.15: features that didn't make the headlines</a></td><td>103 👍</td><td>48 💬</td></tr>
+<tr><td>3.</td><td><a href='https://blog.google/products/ads-commerce/google-marketing-live-search-ads/'>Google officially announces that ads will be included in AI Mode se...</a></td><td>262 👍</td><td>251 💬</td></tr>
+<tr><td>4.</td><td><a href='https://gist.github.com/mkaramuk/44a44d83178e632ec0dd1f02186d822c'>Gemini randomly dumped its system prompt</a></td><td>40 👍</td><td>12 💬</td></tr>
+<tr><td>5.</td><td><a href='https://github.com/helvesec/rmux'>Show HN: Rmux – A programmable terminal multiplexer with a Playwrig...</a></td><td>109 👍</td><td>52 💬</td></tr>
+<tr><td>6.</td><td><a href='https://openai.com/index/model-disproves-discrete-geometry-conjecture/'>An OpenAI model has disproved a central conjecture in discrete geom...</a></td><td>1267 👍</td><td>922 💬</td></tr>
+<tr><td>7.</td><td><a href='https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/'>GitHub confirms breach of 3,800 repos via malicious VSCode extension</a></td><td>933 👍</td><td>396 💬</td></tr>
+<tr><td>8.</td><td><a href='https://spectrum.ieee.org/trinity-nuclear-test'>Lost Images from the 1945 Trinity Nuclear Test Restored</a></td><td>46 👍</td><td>13 💬</td></tr>
+<tr><td>9.</td><td><a href='https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us'>Cekura (YC F24) Is Hiring</a></td><td>1 👍</td><td>0 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.guitarworld.com/gear/electric-guitars/fender-cease-and-desist-lsl-instruments'>Fender escalates legal campaign against S-style guitars</a></td><td>64 👍</td><td>44 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>21 May 2026, 08:05 UTC</b> · Data from Hacker News</sub>
+<b>21 May 2026, 13:36 UTC</b>
 
 ---
 
