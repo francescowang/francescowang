@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://arxiv.org/abs/2605.19269'>CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs</a></td><td>49 👍</td><td>3 💬</td></tr>
-<tr><td>2.</td><td><a href='https://valhovey.github.io/gaia-mary/'>Project Hail Mary – Stellar Navigation Chart</a></td><td>837 👍</td><td>183 💬</td></tr>
-<tr><td>3.</td><td><a href='https://www.bbc.com/culture/article/20260518-helen-sharman-the-story-behind-the-first-british-person-in-space'>The surprising story behind the first British person in space</a></td><td>39 👍</td><td>3 💬</td></tr>
-<tr><td>4.</td><td><a href='https://slumber.lucaspickering.me'>Slumber a TUI HTTP Client</a></td><td>48 👍</td><td>21 💬</td></tr>
-<tr><td>5.</td><td><a href='https://www.mathworks.com/company/aboutus/founders/clevemoler.html'>Cleve Moler has died</a></td><td>70 👍</td><td>4 💬</td></tr>
-<tr><td>6.</td><td><a href='https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/'>Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD</a></td><td>261 👍</td><td>141 💬</td></tr>
-<tr><td>7.</td><td><a href='https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone'>The memory shortage is causing a repricing of consumer electronics</a></td><td>162 👍</td><td>166 💬</td></tr>
-<tr><td>8.</td><td><a href='https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/'>Was my $48K GPU server worth it?</a></td><td>422 👍</td><td>307 💬</td></tr>
-<tr><td>9.</td><td><a href='https://www.loopwerk.io/articles/2026/uv-ux-mess/'>Uv is fantastic, but its package management UX is a mess</a></td><td>184 👍</td><td>96 💬</td></tr>
-<tr><td>10.</td><td><a href='https://veroniiiica.com/using-kagi-search-with-low-vision/'>Using Kagi Search with Low Vision</a></td><td>188 👍</td><td>59 💬</td></tr>
+<tr><td>1.</td><td><a href='https://annas-archive.gl/blog/llms-txt.html'>If you're an LLM, please read this – Anna's Blog</a></td><td>195 👍</td><td>68 💬</td></tr>
+<tr><td>2.</td><td><a href='https://modelrift.com/blog/openscad-llm-benchmark/'>Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark</a></td><td>122 👍</td><td>53 💬</td></tr>
+<tr><td>3.</td><td><a href='https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt'>The Companies Cutting Headcount for AI Will Lose to the Ones Who Di...</a></td><td>47 👍</td><td>37 💬</td></tr>
+<tr><td>4.</td><td><a href='http://muratbuffalo.blogspot.com/2026/05/chess-invariants.html'>Chess Invariants</a></td><td>23 👍</td><td>12 💬</td></tr>
+<tr><td>5.</td><td><a href='https://valhovey.github.io/gaia-mary/'>Project Hail Mary – Stellar Navigation Chart</a></td><td>986 👍</td><td>208 💬</td></tr>
+<tr><td>6.</td><td><a href='https://slumber.lucaspickering.me'>Slumber a TUI HTTP Client</a></td><td>111 👍</td><td>40 💬</td></tr>
+<tr><td>7.</td><td><a href='https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone'>The memory shortage is causing a repricing of consumer electronics</a></td><td>281 👍</td><td>339 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5'>Steve Wozniak cheered after telling students they have AI – actual ...</a></td><td>259 👍</td><td>219 💬</td></tr>
+<tr><td>9.</td><td><a href='https://www.ycombinator.com/companies/circle-medical/jobs/onMKAG9-mobile-engineer-android'>Circle Medical (YC S15) Is Hiring a Mobile Engineer</a></td><td>1 👍</td><td>0 💬</td></tr>
+<tr><td>10.</td><td><a href='https://github.com/unprovable/ShadowCat'>Show HN: ShadowCat – file transfer through QR Codes in a Browser</a></td><td>25 👍</td><td>13 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>22 May 2026, 07:58 UTC</b> · Data from Hacker News</sub>
+<b>22 May 2026, 13:19 UTC</b>
 
 ---
 
