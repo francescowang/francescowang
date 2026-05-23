@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda'>Shipping a laptop to a refugee camp in Uganda</a></td><td>374 👍</td><td>124 💬</td></tr>
-<tr><td>2.</td><td><a href='https://davidoks.blog/p/why-japanese-companies-do-so-many'>Why Japanese companies do so many different things</a></td><td>628 👍</td><td>308 💬</td></tr>
-<tr><td>3.</td><td><a href='https://www.anthropic.com/research/glasswing-initial-update'>Project Glasswing: An Initial Update</a></td><td>411 👍</td><td>235 💬</td></tr>
-<tr><td>4.</td><td><a href='https://horses.extension.org/blood-pumping-mechanism-of-the-hoof/'>Blood Pumping Mechanism of the Hoof (2020)</a></td><td>71 👍</td><td>12 💬</td></tr>
-<tr><td>5.</td><td><a href='https://phys.org/news/2025-09-science-spaghetti-neutron-gluten-free.html'>Neutron scattering explains why gluten-free pasta falls apart (2025)</a></td><td>57 👍</td><td>14 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad'>Microsoft starts canceling Claude Code licenses</a></td><td>205 👍</td><td>143 💬</td></tr>
-<tr><td>7.</td><td><a href='https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug'>Sleep research led to a new sleep apnea drug</a></td><td>138 👍</td><td>87 💬</td></tr>
-<tr><td>8.</td><td><a href='https://devblogs.microsoft.com/oldnewthing/20260519-00/?p=112339'>What is the history of the ERROR_ARENA_TRASHED error code?</a></td><td>19 👍</td><td>5 💬</td></tr>
-<tr><td>9.</td><td><a href='https://fedemagnani.github.io/math/2026/04/08/the-quadratic-sandwich.html'>The Quadratic Sandwich</a></td><td>10 👍</td><td>0 💬</td></tr>
-<tr><td>10.</td><td><a href='https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/'>CISA tries to contain data leak</a></td><td>185 👍</td><td>46 💬</td></tr>
+<tr><td>1.</td><td><a href='https://www.reenigne.org/blog/80386-microcode-disassembled/'>80386 Microcode Disassembled</a></td><td>33 👍</td><td>3 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.mahl.me/blog/the-spell-that-wouldnt-leave/'>I Miss Terry Pratchett</a></td><td>14 👍</td><td>1 💬</td></tr>
+<tr><td>3.</td><td><a href='https://horace.io/brrr_intro.html'>Making Deep Learning Go Brrrr from First Principles</a></td><td>17 👍</td><td>7 💬</td></tr>
+<tr><td>4.</td><td><a href='https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/'>US tech firms share Dutch regulator officials' names with Senate</a></td><td>84 👍</td><td>46 💬</td></tr>
+<tr><td>5.</td><td><a href='https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda'>Shipping a laptop to a refugee camp in Uganda</a></td><td>539 👍</td><td>190 💬</td></tr>
+<tr><td>6.</td><td><a href='https://github.com/amatsuda/rubish'>Rubish: A Unix shell written in pure Ruby</a></td><td>73 👍</td><td>34 💬</td></tr>
+<tr><td>7.</td><td><a href='https://davidoks.blog/p/why-japanese-companies-do-so-many'>Why Japanese companies do so many different things</a></td><td>733 👍</td><td>343 💬</td></tr>
+<tr><td>8.</td><td><a href='https://xcancel.com/josefprusa/status/2054602354851254330'>BambuStudio has been violating PrusaSlicer AGPL license since their...</a></td><td>152 👍</td><td>45 💬</td></tr>
+<tr><td>9.</td><td><a href='https://www.cato.org/blog/dhs-quits-granting-green-cards-almost-entirely'>DHS Quits Granting Green Cards–Almost</a></td><td>30 👍</td><td>7 💬</td></tr>
+<tr><td>10.</td><td><a href='https://fedemagnani.github.io/math/2026/04/08/the-quadratic-sandwich.html'>The quadratic sandwich</a></td><td>74 👍</td><td>5 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>23 May 2026, 07:38 UTC</b> · Data from Hacker News</sub>
+<b>23 May 2026, 12:49 UTC</b>
 
 ---
 
