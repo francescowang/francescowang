@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.adventuresinoss.com/aws-four-years/'>Amazon Web Services – Four Years and Out</a></td><td>170 👍</td><td>41 💬</td></tr>
-<tr><td>2.</td><td><a href='https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/'>Microsoft open-sources "the earliest DOS source code discovered to ...</a></td><td>197 👍</td><td>39 💬</td></tr>
-<tr><td>3.</td><td><a href='https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US'>Why Is Vivado 2026.1 Dropping Linux Support for Free Tier?</a></td><td>98 👍</td><td>18 💬</td></tr>
-<tr><td>4.</td><td><a href='https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/'>Scammers are abusing an internal Microsoft account to send spam links</a></td><td>118 👍</td><td>32 💬</td></tr>
-<tr><td>5.</td><td><a href='https://hellmood.111mb.de/wake_up_16b_writeup.html'>Wake up! 16b</a></td><td>178 👍</td><td>11 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-20260520/'>Alexander Grothendieck Revolutionized 20th-Century Mathematics</a></td><td>43 👍</td><td>8 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.masswerk.at/nowgobang/2026/c64-dead-test-font'>The C64 Dead Test Font</a></td><td>24 👍</td><td>2 💬</td></tr>
-<tr><td>8.</td><td><a href='https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html'>Green card seekers must leave U.S. to apply, Trump administration says</a></td><td>817 👍</td><td>1395 💬</td></tr>
-<tr><td>9.</td><td><a href='https://veronicaexplains.net/my-first-writerdeck/'>Time to talk about my writerdeck</a></td><td>359 👍</td><td>206 💬</td></tr>
-<tr><td>10.</td><td><a href='https://onlinelibrary.wiley.com/doi/10.1002/spe.70079'>Converting an Integer to a Decimal String in Under Two Nanoseconds</a></td><td>7 👍</td><td>1 💬</td></tr>
+<tr><td>1.</td><td><a href='https://mastering.dyalog.com/README.html'>Mastering Dyalog APL</a></td><td>19 👍</td><td>1 💬</td></tr>
+<tr><td>2.</td><td><a href='https://fs.blog/knowledge-project-podcast/greg-brockman/'>Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI</a></td><td>68 👍</td><td>44 💬</td></tr>
+<tr><td>3.</td><td><a href='https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/'>Microsoft open-sources "the earliest DOS source code discovered to ...</a></td><td>314 👍</td><td>93 💬</td></tr>
+<tr><td>4.</td><td><a href='https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html'>I spent 50 hours drawing a line graph</a></td><td>109 👍</td><td>17 💬</td></tr>
+<tr><td>5.</td><td><a href='https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US'>Why is Vivado 2026.1 dropping Linux support for free tier?</a></td><td>213 👍</td><td>94 💬</td></tr>
+<tr><td>6.</td><td><a href='https://susam.net/childhood-computing.html'>Childhood Computing</a></td><td>9 👍</td><td>3 💬</td></tr>
+<tr><td>7.</td><td><a href='https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/'>Scammers are abusing an internal Microsoft account to send spam links</a></td><td>179 👍</td><td>86 💬</td></tr>
+<tr><td>8.</td><td><a href='https://hellmood.111mb.de/wake_up_16b_writeup.html'>Wake up! 16b</a></td><td>286 👍</td><td>19 💬</td></tr>
+<tr><td>9.</td><td><a href='https://github.com/ClickHouse/silk'>Silk: Open-source cooperative fiber scheduler</a></td><td>53 👍</td><td>5 💬</td></tr>
+<tr><td>10.</td><td><a href='https://lwn.net/SubscriberLink/1072657/394b87abd7cc215e/'>Swap tables, flash-friendly swap, swap_ops, and more</a></td><td>19 👍</td><td>0 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>24 May 2026, 07:45 UTC</b> · Data from Hacker News</sub>
+<b>24 May 2026, 12:50 UTC</b>
 
 ---
 
