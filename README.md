@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://seriot.ch/computation/jira.html'>Jira Is Turing-Complete</a></td><td>134 👍</td><td>47 💬</td></tr>
-<tr><td>2.</td><td><a href='https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/'>Didgeridoo playing as alternative treatment for obstructive sleep a...</a></td><td>81 👍</td><td>22 💬</td></tr>
-<tr><td>3.</td><td><a href='https://liquidbrain.net/blog/i-love-my-bluetooth-keyboard/'>I love my Bluetooth keyboard</a></td><td>60 👍</td><td>34 💬</td></tr>
-<tr><td>4.</td><td><a href='https://audiomass.co/?multitrack=1'>Show HN: Audiomass – a free, open-source multitrack audio editor fo...</a></td><td>332 👍</td><td>68 💬</td></tr>
-<tr><td>5.</td><td><a href='https://esengine.github.io/DeepSeek-Reasonix/'>DeepSeek reasonix, DeepSeek native coding agent with high caching a...</a></td><td>542 👍</td><td>227 💬</td></tr>
-<tr><td>6.</td><td><a href='https://corrode.dev/learn/migration-guides/go-to-rust/'>Migrating from Go to Rust</a></td><td>251 👍</td><td>232 💬</td></tr>
-<tr><td>7.</td><td><a href='https://ohwr.org/projects/white-rabbit/'>White Rabbit – sub-nanosecond synchronization for large distributed...</a></td><td>84 👍</td><td>21 💬</td></tr>
-<tr><td>8.</td><td><a href='https://phabricator.services.mozilla.com/D301917'>Bug 1950764: Work Around Crash on Intel Raptor Lake CPU</a></td><td>79 👍</td><td>22 💬</td></tr>
-<tr><td>9.</td><td><a href='https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/'>A fundamental principle of aeronautical engineering has been overtu...</a></td><td>152 👍</td><td>76 💬</td></tr>
-<tr><td>10.</td><td><a href='https://lospino.so/blog/c-constructs-that-still-dont-work-in-cpp/'>C constructs that still don't work in C++</a></td><td>52 👍</td><td>34 💬</td></tr>
+<tr><td>1.</td><td><a href='https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/'>Search engines alternatives now that Google isn't Google anymore</a></td><td>142 👍</td><td>101 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html'>Magnifica Humanitas (Encyclical Letter)</a></td><td>292 👍</td><td>96 💬</td></tr>
+<tr><td>3.</td><td><a href='http://androidessence.com/leave-me-behind/'>Leave Me Behind</a></td><td>71 👍</td><td>36 💬</td></tr>
+<tr><td>4.</td><td><a href='https://futurumgroup.com/insights/2-billion-chips-act-investment-in-quantum-bets-on-ibms-300mm-superconducting-silicon/'>IBM Spins Off the First Pure-Play Quantum Chip Foundry</a></td><td>44 👍</td><td>11 💬</td></tr>
+<tr><td>5.</td><td><a href='https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/'>Didgeridoo playing as alternative treatment for obstructive sleep a...</a></td><td>195 👍</td><td>88 💬</td></tr>
+<tr><td>6.</td><td><a href='https://audiomass.co/?multitrack=1'>Show HN: Audiomass – a free, open-source multitrack audio editor fo...</a></td><td>424 👍</td><td>89 💬</td></tr>
+<tr><td>7.</td><td><a href='https://www.tinyvolt.com/geomatic'>Show HN: Geomatic – a command-driven geometry studio enabled with a...</a></td><td>36 👍</td><td>9 💬</td></tr>
+<tr><td>8.</td><td><a href='https://esengine.github.io/DeepSeek-Reasonix/'>DeepSeek reasonix, DeepSeek native coding agent with high caching a...</a></td><td>612 👍</td><td>253 💬</td></tr>
+<tr><td>9.</td><td><a href='https://www.netmeister.org/blog/ai-errno.html'>AI errno(2) values</a></td><td>36 👍</td><td>7 💬</td></tr>
+<tr><td>10.</td><td><a href='https://corrode.dev/learn/migration-guides/go-to-rust/'>Migrating from Go to Rust</a></td><td>337 👍</td><td>334 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>25 May 2026, 08:13 UTC</b> · Data from Hacker News</sub>
+<b>25 May 2026, 13:41 UTC</b>
 
 ---
 
