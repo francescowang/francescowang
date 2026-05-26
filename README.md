@@ -131,10 +131,10 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>🌬️ Wind</th>
 <th>☁️ Conditions</th>
 </tr>
-<tr><td>🇬🇧 <b>London</b></td><td colspan='4'>Data unavailable</td></tr>
-<tr><td>🇫🇷 <b>Paris</b></td><td colspan='4'>Data unavailable</td></tr>
-<tr><td>🇮🇹 <b>Milan</b></td><td colspan='4'>Data unavailable</td></tr>
-<tr><td>🇩🇪 <b>Berlin</b></td><td colspan='4'>Data unavailable</td></tr>
+<tr><td>🇬🇧 <b>London</b></td><td>34.7°C</td><td>19%</td><td>11.5 km/h</td><td>☀️ Clear sky</td></tr>
+<tr><td>🇫🇷 <b>Paris</b></td><td>32.9°C</td><td>26%</td><td>9.7 km/h</td><td>☀️ Clear sky</td></tr>
+<tr><td>🇮🇹 <b>Milan</b></td><td>33.3°C</td><td>31%</td><td>9.4 km/h</td><td>☀️ Clear sky</td></tr>
+<tr><td>🇩🇪 <b>Berlin</b></td><td>29.6°C</td><td>32%</td><td>13.5 km/h</td><td>☀️ Clear sky</td></tr>
 <tr><td>🇷🇺 <b>Moscow</b></td><td colspan='4'>Data unavailable</td></tr>
 <tr><td>🇳🇱 <b>Amsterdam</b></td><td colspan='4'>Data unavailable</td></tr>
 </table>
@@ -154,7 +154,7 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 </tr>
 <tr><td>🇨🇳 <b>Beijing</b></td><td colspan='4'>Data unavailable</td></tr>
 <tr><td>🇯🇵 <b>Tokyo</b></td><td colspan='4'>Data unavailable</td></tr>
-<tr><td>🇦🇪 <b>Dubai</b></td><td colspan='4'>Data unavailable</td></tr>
+<tr><td>🇦🇪 <b>Dubai</b></td><td>30.0°C</td><td>79%</td><td>6.8 km/h</td><td>⛈️ Thunderstorm</td></tr>
 <tr><td>🇭🇰 <b>Hong Kong</b></td><td colspan='4'>Data unavailable</td></tr>
 <tr><td>🇸🇬 <b>Singapore</b></td><td colspan='4'>Data unavailable</td></tr>
 <tr><td>🇹🇭 <b>Bangkok</b></td><td colspan='4'>Data unavailable</td></tr>
@@ -237,7 +237,7 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 </details>
 <!-- WEATHER END -->
 
-<sub>🕐 Last weather update: <b>26 May 2026, 13:02 UTC</b> · Data from OpenWeatherMap</sub>
+<sub>🕐 Last weather update: <b>26 May 2026, 16:20 UTC</b> · Data from OpenWeatherMap</sub>
 
 ---
 
