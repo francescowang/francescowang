@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/'>Using AI to write better code more slowly</a></td><td>560 👍</td><td>212 💬</td></tr>
-<tr><td>2.</td><td><a href='https://pscanf.com/s/354/'>The User Is Visibly Frustrated</a></td><td>112 👍</td><td>69 💬</td></tr>
-<tr><td>3.</td><td><a href='https://www.apa.org/news/press/releases/2014/04/creativity-walk'>Taking a walk may lead to more creativity than sitting, study finds...</a></td><td>250 👍</td><td>83 💬</td></tr>
-<tr><td>4.</td><td><a href='https://dynip.dev/'>DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD</a></td><td>7 👍</td><td>3 💬</td></tr>
-<tr><td>5.</td><td><a href='https://earthiongame.com/'>Earthion: A New Mega Drive-Style Shoot-Em-Up</a></td><td>52 👍</td><td>18 💬</td></tr>
-<tr><td>6.</td><td><a href='https://news.ycombinator.com/item?id=48275508'>Ask HN: Is anyone working at least 4 hours daily on an Apple Vision...</a></td><td>76 👍</td><td>38 💬</td></tr>
-<tr><td>7.</td><td><a href='https://ente.com/blog/how-shamirs-secret-sharing-works/'>How Shamir's Secret Sharing Works</a></td><td>177 👍</td><td>27 💬</td></tr>
-<tr><td>8.</td><td><a href='https://www.bgr.com/2178211/japan-hypersonic-engine-ramjet-2-hour-flights-to-us/'>A successful Japanese trial of a ramjet engine designed for Mach‑5 ...</a></td><td>138 👍</td><td>108 💬</td></tr>
-<tr><td>9.</td><td><a href='https://www.ferrari.com/en-EN/auto/ferrari-luce'>Ferrari Luce</a></td><td>213 👍</td><td>440 💬</td></tr>
-<tr><td>10.</td><td><a href='https://jry.io/writing/use-boring-languages-with-llms/'>Use Boring Languages with LLMs</a></td><td>10 👍</td><td>2 💬</td></tr>
+<tr><td>1.</td><td><a href='https://www.githubstatus.com/?today'>GitHub Actions down again today</a></td><td>277 👍</td><td>154 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.seuros.com/blog/aws-fired-the-human-who-made-the-difference/'>AWS Fired the One Employee Who Gave a Damn</a></td><td>81 👍</td><td>20 💬</td></tr>
+<tr><td>3.</td><td><a href='https://dynip.dev/'>DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD</a></td><td>194 👍</td><td>84 💬</td></tr>
+<tr><td>4.</td><td><a href='https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/'>Using AI to write better code more slowly</a></td><td>815 👍</td><td>321 💬</td></tr>
+<tr><td>5.</td><td><a href='https://vllm.ai/blog/2026-05-26-eagle-3-1'>Eagle 3.1: Collaboration Between the EAGLE Team, vLLM Team, and Tor...</a></td><td>18 👍</td><td>5 💬</td></tr>
+<tr><td>6.</td><td><a href='https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/'>Netherlands blocks US takeover of vital digital supplier</a></td><td>86 👍</td><td>23 💬</td></tr>
+<tr><td>7.</td><td><a href='https://www.apa.org/news/press/releases/2014/04/creativity-walk'>Taking a walk may lead to more creativity than sitting, study finds...</a></td><td>397 👍</td><td>164 💬</td></tr>
+<tr><td>8.</td><td><a href='https://shmuplations.com/phantasystariv/'>Phantasy Star IV – 1993 Developer Interviews</a></td><td>54 👍</td><td>24 💬</td></tr>
+<tr><td>9.</td><td><a href='https://ente.com/blog/how-shamirs-secret-sharing-works/'>How Shamir's Secret Sharing Works</a></td><td>271 👍</td><td>46 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.githubstatus.com/incidents/gnftqj9htp0g'>Incident with Actions and Pages</a></td><td>27 👍</td><td>8 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>26 May 2026, 08:03 UTC</b> · Data from Hacker News</sub>
+<b>26 May 2026, 13:30 UTC</b>
 
 ---
 
