@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.diffuseai.pub/p/the-structural-barriers-to-ai-lawyers'>The Structural Barriers to AI Lawyers</a></td><td>26 👍</td><td>20 💬</td></tr>
-<tr><td>2.</td><td><a href='https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/'>The Melancholy of Slaying Monsters</a></td><td>28 👍</td><td>3 💬</td></tr>
-<tr><td>3.</td><td><a href='https://www.newyorker.com/culture/the-weekend-essay/what-jack-kerouac-left-behind'>What Gets Kept</a></td><td>19 👍</td><td>3 💬</td></tr>
-<tr><td>4.</td><td><a href='https://developers.cloudflare.com/flagship/'>Cloudflare Flagship</a></td><td>202 👍</td><td>96 💬</td></tr>
-<tr><td>5.</td><td><a href='https://badhost.org/'>BadHost – CVE-2026-48710: Starlette Host-Header Auth Bypass</a></td><td>32 👍</td><td>7 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.science.org/content/blog-post/methyl-methacrylate-tank'>That Methyl Methacrylate Tank</a></td><td>323 👍</td><td>124 💬</td></tr>
-<tr><td>7.</td><td><a href='https://github.com/0-AI-UG/cate'>Cate v1.0 is out: The Infinite canvas workspace for developers</a></td><td>27 👍</td><td>11 💬</td></tr>
-<tr><td>8.</td><td><a href='https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/'>A few interesting modern pixel fonts</a></td><td>337 👍</td><td>69 💬</td></tr>
-<tr><td>9.</td><td><a href='https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/'>I built a Git-tracked book production pipeline</a></td><td>231 👍</td><td>58 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.oliverio.dev/blog/the-worst-job-interview-i-had'>The worst job interview I ever had</a></td><td>244 👍</td><td>204 💬</td></tr>
+<tr><td>1.</td><td><a href='https://orchidfiles.com/im-tired-of-ai-generated-answers/'>I'm Tired of Talking to AI</a></td><td>666 👍</td><td>385 💬</td></tr>
+<tr><td>2.</td><td><a href='https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/'>Private Equity Bought America's Essential Services</a></td><td>121 👍</td><td>103 💬</td></tr>
+<tr><td>3.</td><td><a href='https://miniscript.org/MiniMicro/index.html#about'>Mini Micro Fantasy Computer</a></td><td>105 👍</td><td>45 💬</td></tr>
+<tr><td>4.</td><td><a href='https://www.githubstatus.com/incidents/xy1tt3hs572m'>Incident with Pull Requests, Issues, Git Operations and API Requests</a></td><td>114 👍</td><td>86 💬</td></tr>
+<tr><td>5.</td><td><a href='https://github.com/WilliamSmithEdward/xlide_vscode'>XLIDE: VBA without excel</a></td><td>14 👍</td><td>0 💬</td></tr>
+<tr><td>6.</td><td><a href='https://arxiv.org/abs/2605.22391'>All of human cooking compressed into 2 megabytes</a></td><td>106 👍</td><td>43 💬</td></tr>
+<tr><td>7.</td><td><a href='https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/'>The Melancholy of Slaying Monsters</a></td><td>166 👍</td><td>71 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.thonking.ai/p/strangely-matrix-multiplications'>Matrix Multiplications on GPUs Run Faster When Given "Predictable" ...</a></td><td>19 👍</td><td>2 💬</td></tr>
+<tr><td>9.</td><td><a href='https://github.com/golang/go/issues/77273'>Go: Support for Generic Methods</a></td><td>41 👍</td><td>30 💬</td></tr>
+<tr><td>10.</td><td><a href='https://padhye.org/raft-minority/'>Raft Consensus with a Minority of Nodes</a></td><td>74 👍</td><td>5 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>27 May 2026, 08:10 UTC</b> · Data from Hacker News</sub>
+<b>27 May 2026, 13:43 UTC</b>
 
 ---
 
