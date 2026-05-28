@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/'>A Eureka machine that thinks like nature and explores what AI cannot</a></td><td>30 👍</td><td>0 💬</td></tr>
-<tr><td>2.</td><td><a href='https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/'>YouTube to automatically label AI-generated videos</a></td><td>832 👍</td><td>485 💬</td></tr>
-<tr><td>3.</td><td><a href='https://drobinin.com/posts/am-i-a-bad-friend/'>I analysed 20 years of my chats</a></td><td>88 👍</td><td>25 💬</td></tr>
-<tr><td>4.</td><td><a href='https://hallucinate.site'>Hallucinate – Massively Multiplayer Online Rave</a></td><td>164 👍</td><td>66 💬</td></tr>
-<tr><td>5.</td><td><a href='https://simonwillison.net/2026/May/27/product-market-fit/'>I think Anthropic and OpenAI have found product-market fit</a></td><td>833 👍</td><td>961 💬</td></tr>
-<tr><td>6.</td><td><a href='https://almartis.xyz/gpu-free-datacenter.html'>AI Datacenters Were Built for GPUs. What Happens When You Remove th...</a></td><td>16 👍</td><td>3 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html'>SimCity 3k in 4k (2025)</a></td><td>354 👍</td><td>132 💬</td></tr>
-<tr><td>8.</td><td><a href='https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications'>What Apple and Google are doing to push notifications</a></td><td>264 👍</td><td>265 💬</td></tr>
-<tr><td>9.</td><td><a href='https://arxiv.org/abs/2601.16670'>The Green Side of the Lua</a></td><td>40 👍</td><td>25 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/'>I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum)</a></td><td>182 👍</td><td>58 💬</td></tr>
+<tr><td>1.</td><td><a href='https://lenz.io/research/llm-disagreement'>Five frontier LLMs disagree on 67% of 1k real-world fact-check claims</a></td><td>169 👍</td><td>109 💬</td></tr>
+<tr><td>2.</td><td><a href='https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/'>YouTube to automatically label AI-generated videos</a></td><td>1042 👍</td><td>622 💬</td></tr>
+<tr><td>3.</td><td><a href='https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/'>AMD pulls a bait-and-switch on Linux users with Vivado licensing ch...</a></td><td>168 👍</td><td>78 💬</td></tr>
+<tr><td>4.</td><td><a href='https://simonwillison.net/2026/May/27/product-market-fit/'>I think Anthropic and OpenAI have found product-market fit</a></td><td>964 👍</td><td>1073 💬</td></tr>
+<tr><td>5.</td><td><a href='https://hallucinate.site'>Hallucinate – Massively Multiplayer Online Rave</a></td><td>276 👍</td><td>117 💬</td></tr>
+<tr><td>6.</td><td><a href='https://drobinin.com/posts/am-i-a-bad-friend/'>I analysed 20 years of my chats</a></td><td>204 👍</td><td>85 💬</td></tr>
+<tr><td>7.</td><td><a href='https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/'>A Eureka machine that thinks like nature and explores what AI cannot</a></td><td>120 👍</td><td>34 💬</td></tr>
+<tr><td>8.</td><td><a href='https://github.com/begoon/rapira'>Rapira (Рапира) – Soviet programming language interpreter</a></td><td>58 👍</td><td>31 💬</td></tr>
+<tr><td>9.</td><td><a href='https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html'>SimCity 3k in 4k (2025)</a></td><td>411 👍</td><td>162 💬</td></tr>
+<tr><td>10.</td><td><a href='https://tanin.nanakorn.com/ruby-java-typescrip-claude-docx-plugin/'>Ruby vs. Java vs. TypeScript: my experience on building a Cowork DO...</a></td><td>27 👍</td><td>6 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>28 May 2026, 08:10 UTC</b> · Data from Hacker News</sub>
+<b>28 May 2026, 13:47 UTC</b>
 
 ---
 
