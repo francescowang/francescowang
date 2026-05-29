@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.anthropic.com/news/claude-opus-4-8'>Claude Opus 4.8</a></td><td>1471 👍</td><td>1156 💬</td></tr>
-<tr><td>2.</td><td><a href='https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967'>Volkswagen blocks Home Assistant by requiring client assertion</a></td><td>54 👍</td><td>15 💬</td></tr>
-<tr><td>3.</td><td><a href='https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection'>Bricks and Minifigs Stole a Man's $200k Lego Collection</a></td><td>885 👍</td><td>405 💬</td></tr>
-<tr><td>4.</td><td><a href='https://github.com/office233/Nexuscortex'>NexusCortex Just Beat Opus 4.8 – and It's Open Source</a></td><td>4 👍</td><td>0 💬</td></tr>
-<tr><td>5.</td><td><a href='https://nick.winans.io/blog/nice-nano/'>I made a million dollar product from my dorm room (2025)</a></td><td>361 👍</td><td>50 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse'>Cars collect a startling amount of data about you</a></td><td>294 👍</td><td>128 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.mpi.nl/news/italians-and-dutch-share-same-gestural-instinct-teaching'>Italians and Dutch share the same gestural instinct for teaching</a></td><td>45 👍</td><td>11 💬</td></tr>
-<tr><td>8.</td><td><a href='https://buildingbetter.tech/p/i-read-the-claude-code-source-code'>Claude Code – Everything You Can Configure That the Docs Don't Tell...</a></td><td>51 👍</td><td>10 💬</td></tr>
-<tr><td>9.</td><td><a href='https://www.noaa.gov/jetstream/clouds/ten-basic-clouds'>Ten Basic Clouds</a></td><td>101 👍</td><td>28 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/'>Nitpicking the shell history scene in 'Tron: Legacy'</a></td><td>234 👍</td><td>77 💬</td></tr>
+<tr><td>1.</td><td><a href='https://dutchreview.com/culture/tulip-mania-netherlands/'>Tulip mania: when a single flower was worth more than a house</a></td><td>42 👍</td><td>30 💬</td></tr>
+<tr><td>2.</td><td><a href='https://shkspr.mobi/blog/2026/05/the-uk-governments-low-value-purchase-system-is-a-waste-of-time/'>The UK Government's Low Value Purchase System Is a Waste of Time</a></td><td>50 👍</td><td>14 💬</td></tr>
+<tr><td>3.</td><td><a href='https://www.anthropic.com/news/claude-opus-4-8'>Claude Opus 4.8</a></td><td>1629 👍</td><td>1266 💬</td></tr>
+<tr><td>4.</td><td><a href='https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection'>Bricks and Minifigs Stole a Man's $200k Lego Collection</a></td><td>1101 👍</td><td>498 💬</td></tr>
+<tr><td>5.</td><td><a href='https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/'>We should be more tired than the model</a></td><td>54 👍</td><td>50 💬</td></tr>
+<tr><td>6.</td><td><a href='https://jamiehurst.co.uk/2026-05-24_ai-sustainable'>Is This Sustainable?</a></td><td>44 👍</td><td>31 💬</td></tr>
+<tr><td>7.</td><td><a href='https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/'>Real-time LLM Inference on Standard GPUs: 3k tokens/s per request</a></td><td>75 👍</td><td>39 💬</td></tr>
+<tr><td>8.</td><td><a href='https://newsletter.vickiboykis.com/archive/we-should-be-more-tired-than-the-model/'>We should be more tired than the model</a></td><td>7 👍</td><td>2 💬</td></tr>
+<tr><td>9.</td><td><a href='https://www.ycombinator.com/companies/cedana/jobs/d1vYocG-forward-deployed-engineer-ai-hpc'>Cedana (YC S23) Is Hiring</a></td><td>1 👍</td><td>0 💬</td></tr>
+<tr><td>10.</td><td><a href='https://buildingbetter.tech/p/i-read-the-claude-code-source-code'>Claude Code – Everything You Can Configure That the Docs Don't Tell...</a></td><td>209 👍</td><td>42 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>29 May 2026, 08:08 UTC</b> · Data from Hacker News</sub>
+<b>29 May 2026, 13:37 UTC</b>
 
 ---
 
