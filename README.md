@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/'>SQLite is all you need for durable workflows</a></td><td>492 👍</td><td>247 💬</td></tr>
-<tr><td>2.</td><td><a href='https://www.perryts.com/'>Perry Compiles TypeScript directly to executables using SWC and LLVM</a></td><td>73 👍</td><td>56 💬</td></tr>
-<tr><td>3.</td><td><a href='https://overreacted.io/algebraic-effects-for-the-rest-of-us/'>Algebraic Effects for the Rest of Us</a></td><td>13 👍</td><td>7 💬</td></tr>
-<tr><td>4.</td><td><a href='https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/'>Snowboard Kids 2 is 100% Decompiled</a></td><td>168 👍</td><td>57 💬</td></tr>
-<tr><td>5.</td><td><a href='https://koenvangilst.nl/lab/mistral-ai-now-summit'>Notes from the Mistral AI Now Summit</a></td><td>349 👍</td><td>137 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.quandri.io/engineering-blog/mcp-is-dead'>MCP is dead?</a></td><td>187 👍</td><td>168 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.nippon.com/en/japan-data/h02783/'>Naphtha shortages in Japan</a></td><td>99 👍</td><td>59 💬</td></tr>
-<tr><td>8.</td><td><a href='https://spectrum.ieee.org/floppy-disk-data-preservation-archives'>What It Takes to Preserve Floppy Disks</a></td><td>31 👍</td><td>5 💬</td></tr>
-<tr><td>9.</td><td><a href='https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/'>Print with dozens of colors: Our new open-source ColorMix for Prusa...</a></td><td>135 👍</td><td>26 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning'>Shift will clean homes for free to train future robots</a></td><td>126 👍</td><td>181 💬</td></tr>
+<tr><td>1.</td><td><a href='https://pandoc-templates.org/'>Pandoc Templates</a></td><td>115 👍</td><td>7 💬</td></tr>
+<tr><td>2.</td><td><a href='https://ziglang.org/devlog/2026/#2026-05-26'>Zig: Build System Reworked</a></td><td>151 👍</td><td>42 💬</td></tr>
+<tr><td>3.</td><td><a href='https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/'>Proposed new US funding rules: We can cancel any grant at any time</a></td><td>78 👍</td><td>31 💬</td></tr>
+<tr><td>4.</td><td><a href='https://helios.southlondonscientific.com/'>Show HN: Helios – what plug-in solar could generate for any address...</a></td><td>16 👍</td><td>3 💬</td></tr>
+<tr><td>5.</td><td><a href='https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/'>SQLite is all you need for durable workflows</a></td><td>584 👍</td><td>297 💬</td></tr>
+<tr><td>6.</td><td><a href='https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/'>Danish pension fund excludes SpaceX citing governance and valuation</a></td><td>265 👍</td><td>197 💬</td></tr>
+<tr><td>7.</td><td><a href='https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-technological-messianism'>Leo's first encyclical attacks technological messianism</a></td><td>19 👍</td><td>4 💬</td></tr>
+<tr><td>8.</td><td><a href='https://understand-anything.com/'>Understand Anything – Graphs that teach the codebase</a></td><td>13 👍</td><td>1 💬</td></tr>
+<tr><td>9.</td><td><a href='https://explosion-scratch.github.io/locusts/'>What Happened to the Locusts?</a></td><td>46 👍</td><td>6 💬</td></tr>
+<tr><td>10.</td><td><a href='https://asawicki.info/news_1802_floor_and_ceil_versus_denormals_on_cpu_and_gpu'>Floor and Ceil versus Denormals on CPU and GPU</a></td><td>23 👍</td><td>1 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>30 May 2026, 07:42 UTC</b> · Data from Hacker News</sub>
+<b>30 May 2026, 12:51 UTC</b>
 
 ---
 
