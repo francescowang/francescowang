@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://specification.website/'>The Website Specification</a></td><td>56 👍</td><td>14 💬</td></tr>
-<tr><td>2.</td><td><a href='https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/'>Domain expertise has always been the real moat</a></td><td>527 👍</td><td>311 💬</td></tr>
-<tr><td>3.</td><td><a href='https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf'>A Gentle Introduction to Lattice-Based Cryptography [pdf]</a></td><td>67 👍</td><td>1 💬</td></tr>
-<tr><td>4.</td><td><a href='http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html'>Ahoy, DECmate II the little PDP-8 that could</a></td><td>30 👍</td><td>2 💬</td></tr>
-<tr><td>5.</td><td><a href='https://shantellsans.com/process'>Shantell Sans (2023)</a></td><td>212 👍</td><td>18 💬</td></tr>
-<tr><td>6.</td><td><a href='https://arxiv.org/abs/1709.08492'>A pictorial introduction to differential geometry (2017)</a></td><td>20 👍</td><td>0 💬</td></tr>
-<tr><td>7.</td><td><a href='https://journals.biologists.com/jeb/article/229/10/jeb251935/371741/Associative-learning-switches-DEET-valence-from'>Associative learning turns DEET from aversive to appetitive in Aede...</a></td><td>28 👍</td><td>8 💬</td></tr>
-<tr><td>8.</td><td><a href='https://hi.telli.com/join-us'>Telli (YC F24) is hiring in engineering, design, and GTM [Berlin, o...</a></td><td>1 👍</td><td>0 💬</td></tr>
-<tr><td>9.</td><td><a href='https://github.com/marekkowalczyk/breathe-cli'>Show HN: Breathe CLI – Paced resonance breathing in the macOS terminal</a></td><td>6 👍</td><td>0 💬</td></tr>
-<tr><td>10.</td><td><a href='https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert#i-found-a-seashell-in-the-middle-of-the-desert'>I found a seashell in the middle of the desert</a></td><td>303 👍</td><td>78 💬</td></tr>
+<tr><td>1.</td><td><a href='https://jbkempf.com/blog/2026/dav2d/'>Dav2d</a></td><td>96 👍</td><td>19 💬</td></tr>
+<tr><td>2.</td><td><a href='https://specification.website/'>The Website Specification</a></td><td>248 👍</td><td>98 💬</td></tr>
+<tr><td>3.</td><td><a href='https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html'>London's Free Roof Terraces</a></td><td>129 👍</td><td>53 💬</td></tr>
+<tr><td>4.</td><td><a href='https://www.lucasfcosta.com/blog/backpressure-is-all-you-need'>Backpressure is all you need</a></td><td>12 👍</td><td>6 💬</td></tr>
+<tr><td>5.</td><td><a href='https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/'>Domain expertise has always been the real moat</a></td><td>684 👍</td><td>401 💬</td></tr>
+<tr><td>6.</td><td><a href='https://secret-archive.org/'>Security Envelope Pattern collection – S.E.C.R.E.T</a></td><td>30 👍</td><td>1 💬</td></tr>
+<tr><td>7.</td><td><a href='https://shantellsans.com/process'>Shantell Sans (2023)</a></td><td>293 👍</td><td>33 💬</td></tr>
+<tr><td>8.</td><td><a href='https://blog.nlnetlabs.nl/one-year-of-roto-the-compiled-scripting-language-for-rust/'>One year of Roto, a compiled scripting language for Rust</a></td><td>57 👍</td><td>11 💬</td></tr>
+<tr><td>9.</td><td><a href='https://arxiv.org/abs/1709.08492'>A pictorial introduction to differential geometry (2017)</a></td><td>73 👍</td><td>2 💬</td></tr>
+<tr><td>10.</td><td><a href='https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert#i-found-a-seashell-in-the-middle-of-the-desert'>I found a seashell in the middle of the desert</a></td><td>354 👍</td><td>97 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>31 May 2026, 07:57 UTC</b> · Data from Hacker News</sub>
+<b>31 May 2026, 12:59 UTC</b>
 
 ---
 
