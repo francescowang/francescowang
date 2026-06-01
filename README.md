@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://apnews.com/article/malaysia-social-media-ban-16-bfaa7b01163b61b5d53c4ecfa870d133'>Malaysia enforces ban on social media accounts for children younger...</a></td><td>92 👍</td><td>49 💬</td></tr>
-<tr><td>2.</td><td><a href='https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/'>Chuwi Minibook X</a></td><td>261 👍</td><td>191 💬</td></tr>
-<tr><td>3.</td><td><a href='https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting'>Cloudflare Turnstile requiring fingerprintable WebGL</a></td><td>655 👍</td><td>355 💬</td></tr>
-<tr><td>4.</td><td><a href='https://www.fisheries.noaa.gov/feature-story/decades-effort-restore-steelhead-and-salmon-passage-californias-alameda-creek'>Decades of Effort Restore Steelhead and Salmon Passage on Alameda C...</a></td><td>112 👍</td><td>13 💬</td></tr>
-<tr><td>5.</td><td><a href='https://point.free/blog/gemma-4-on-a-2016-xeon/'>A 10 year old Xeon is all you need (for 26B-A4B MTP Drafters withou...</a></td><td>21 👍</td><td>12 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/'>Rubin Tracks Skyscraper-Size Asteroids and Failed Supernovas</a></td><td>21 👍</td><td>4 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration'>ChatGPT for Google Sheets exfiltrates workbooks</a></td><td>206 👍</td><td>58 💬</td></tr>
-<tr><td>8.</td><td><a href='https://www.flatpanelshd.com/news.php?subaction=showfull&id=1779897602'>Sony Launches Bravia 9 II and Bravia 7 II with 'True RGB'</a></td><td>18 👍</td><td>1 💬</td></tr>
-<tr><td>9.</td><td><a href='https://prismml.com/news/bonsai-image-4b'>1-Bit Bonsai Image 4B Image Generation for Local Devices</a></td><td>381 👍</td><td>143 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.chiply.dev/post-ij-sierpinski'>Two Ways to Draw Infinite Jest's Sierpinski Gasket</a></td><td>14 👍</td><td>7 💬</td></tr>
+<tr><td>1.</td><td><a href='https://github.com/RedHatInsights/javascript-clients/issues/492'>NPM packages from RedHat have been compromised</a></td><td>277 👍</td><td>118 💬</td></tr>
+<tr><td>2.</td><td><a href='https://f055.net/technology/windows-gog-dos-games-on-m-series-macs/'>Windows GOG DOS Games on M-Series Macs</a></td><td>23 👍</td><td>9 💬</td></tr>
+<tr><td>3.</td><td><a href='https://github.com/NishantJoshi00/flipper-template'>Flipper Zero Zig Template</a></td><td>19 👍</td><td>0 💬</td></tr>
+<tr><td>4.</td><td><a href='https://point.free/blog/gemma-4-on-a-2016-xeon/'>A 10 year old Xeon is all you need</a></td><td>406 👍</td><td>175 💬</td></tr>
+<tr><td>5.</td><td><a href='https://lambdacreate.com/posts/sysadmining-like-its-2009'>Sysadmining Like It's 2009</a></td><td>17 👍</td><td>1 💬</td></tr>
+<tr><td>6.</td><td><a href='https://news.ycombinator.com/item?id=48356312'>Launch HN: Expanse (YC P26) – Unlock Wasted GPU Capacity</a></td><td>19 👍</td><td>0 💬</td></tr>
+<tr><td>7.</td><td><a href='https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096'>When AI Crosses the Line: The Matplotlib Incident</a></td><td>100 👍</td><td>76 💬</td></tr>
+<tr><td>8.</td><td><a href='https://lemire.me/blog/2026/05/22/only-17-of-all-64-bit-integers-are-products-of-two-32-bit-integers/'>Only 17% of all 64-bit Integers are products of two 32-bit integers</a></td><td>61 👍</td><td>19 💬</td></tr>
+<tr><td>9.</td><td><a href='https://www.wsj.com/lifestyle/careers/white-collar-workers-career-nyu-study-a81a7d9c'>No Raise, No Promotion: 1 in 4 White-Collar Workers Are Stalling Out</a></td><td>23 👍</td><td>2 💬</td></tr>
+<tr><td>10.</td><td><a href='https://blainsmith.com/articles/httptrace-with-go/'>Tracing HTTP Requests with Go's net/HTTP/httptrace</a></td><td>114 👍</td><td>8 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>01 Jun 2026, 08:41 UTC</b> · Data from Hacker News</sub>
+<b>01 Jun 2026, 14:34 UTC</b>
 
 ---
 
