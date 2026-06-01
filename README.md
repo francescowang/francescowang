@@ -254,15 +254,15 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>📊 % Change</th>
 <th>📅 As Of</th>
 </tr>
-<tr><td><b>VUAG.L</b></td><td>108.78</td><td>🟢 +0.22</td><td>+0.20%</td><td>01 Jun 2026, 08:41 UTC</td></tr>
-<tr><td><b>VWRL.L</b></td><td>138.01</td><td>🟢 +0.33</td><td>+0.24%</td><td>01 Jun 2026, 08:41 UTC</td></tr>
-<tr><td><b>SPY</b></td><td>756.48</td><td>🟢 +0.72</td><td>+0.10%</td><td>01 Jun 2026, 08:41 UTC</td></tr>
-<tr><td><b>QQQ</b></td><td>738.31</td><td>🟢 +0.33</td><td>+0.04%</td><td>01 Jun 2026, 08:41 UTC</td></tr>
-<tr><td><b>ARKK</b></td><td>81.95</td><td>🔴 -0.17</td><td>-0.21%</td><td>01 Jun 2026, 08:41 UTC</td></tr>
-<tr><td><b>VTI</b></td><td>372.54</td><td>🟢 +0.33</td><td>+0.09%</td><td>01 Jun 2026, 08:41 UTC</td></tr>
+<tr><td><b>VUAG.L</b></td><td>108.96</td><td>🟢 +0.40</td><td>+0.37%</td><td>01 Jun 2026, 14:23 UTC</td></tr>
+<tr><td><b>VWRL.L</b></td><td>137.93</td><td>🟢 +0.25</td><td>+0.18%</td><td>01 Jun 2026, 14:23 UTC</td></tr>
+<tr><td><b>SPY</b></td><td>756.41</td><td>🟢 +0.65</td><td>+0.09%</td><td>01 Jun 2026, 14:23 UTC</td></tr>
+<tr><td><b>QQQ</b></td><td>738.94</td><td>🟢 +0.96</td><td>+0.13%</td><td>01 Jun 2026, 14:23 UTC</td></tr>
+<tr><td><b>ARKK</b></td><td>80.39</td><td>🔴 -1.73</td><td>-2.11%</td><td>01 Jun 2026, 14:23 UTC</td></tr>
+<tr><td><b>VTI</b></td><td>372.28</td><td>🟢 +0.07</td><td>+0.02%</td><td>01 Jun 2026, 14:23 UTC</td></tr>
 </table>
 
-<sub>🕐 Last market update: <b>01 Jun 2026, 08:41 UTC</b> · Data from Yahoo Finance</sub>
+<b>01 Jun 2026, 14:23 UTC</b> · Data from Yahoo Finance</sub>
 
 ---
 
