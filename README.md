@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.0xsid.com/blog/meta-account-takeover-fiasco'>The newest Instagram “exploit” is the goofiest I've seen</a></td><td>1718 👍</td><td>388 💬</td></tr>
-<tr><td>2.</td><td><a href='https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/'>macOS needs its grid back</a></td><td>223 👍</td><td>123 💬</td></tr>
-<tr><td>3.</td><td><a href='https://categoricaldata.net/'>CQL: Categorical Databases</a></td><td>24 👍</td><td>2 💬</td></tr>
-<tr><td>4.</td><td><a href='https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai'>Can the stockmarket swallow Anthropic, SpaceX and OpenAI?</a></td><td>310 👍</td><td>547 💬</td></tr>
-<tr><td>5.</td><td><a href='https://github.com/cyberpapiii/chipotlai-max'>Chipotlai Max</a></td><td>199 👍</td><td>33 💬</td></tr>
-<tr><td>6.</td><td><a href='https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/'>OpenAI frontier models and Codex are now available on AWS</a></td><td>246 👍</td><td>90 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.zach.be/p/how-the-hell-is-groq-raising-more'>How is Groq raising more money?</a></td><td>99 👍</td><td>43 💬</td></tr>
-<tr><td>8.</td><td><a href='https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/'>Strace-ui, Bonsai_term, and the TUI renaissance</a></td><td>28 👍</td><td>9 💬</td></tr>
-<tr><td>9.</td><td><a href='https://debug.com/'>Debug Project</a></td><td>210 👍</td><td>82 💬</td></tr>
-<tr><td>10.</td><td><a href='https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md'>AI Agent Guidelines for CS336 at Stanford</a></td><td>398 👍</td><td>129 💬</td></tr>
+<tr><td>1.</td><td><a href='https://ianthehenry.com/posts/why-janet/'>Why Janet? (2023)</a></td><td>240 👍</td><td>111 💬</td></tr>
+<tr><td>2.</td><td><a href='https://blog.adafruit.com/'>Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behal...</a></td><td>234 👍</td><td>83 💬</td></tr>
+<tr><td>3.</td><td><a href='https://dan-webnotes.com/posts/2026-06-02-css-native-parallax-effect/'>CSS-Native Parallax Effect</a></td><td>63 👍</td><td>32 💬</td></tr>
+<tr><td>4.</td><td><a href='https://www.anthropic.com/news/expanding-project-glasswing'>Expanding Project Glasswing</a></td><td>9 👍</td><td>3 💬</td></tr>
+<tr><td>5.</td><td><a href='https://www.mitmllc.com/blog/apple-rejected-my-dictation-app/'>Apple rejected my dictation app for using the accessibility API</a></td><td>95 👍</td><td>59 💬</td></tr>
+<tr><td>6.</td><td><a href='https://www.0xsid.com/blog/meta-account-takeover-fiasco'>The newest Instagram “exploit” is the goofiest I've seen</a></td><td>1959 👍</td><td>442 💬</td></tr>
+<tr><td>7.</td><td><a href='https://blog.tjll.net/you-dont-love-systemd-timers-enough/'>You Don't Love Systemd Timers Enough</a></td><td>79 👍</td><td>40 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai'>Can the stockmarket swallow Anthropic, SpaceX and OpenAI?</a></td><td>487 👍</td><td>849 💬</td></tr>
+<tr><td>9.</td><td><a href='https://github.com/krauseler/muxcard'>Muxcard, a dyi credit card size computer</a></td><td>131 👍</td><td>39 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.ycombinator.com/companies/great-question/jobs/J5TNvQH-ai-engineer-intern'>Great Question (YC W21) Is Hiring Applied AI Interns</a></td><td>1 👍</td><td>0 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>02 Jun 2026, 08:17 UTC</b> · Data from Hacker News</sub>
+<b>02 Jun 2026, 13:49 UTC</b>
 
 ---
 
