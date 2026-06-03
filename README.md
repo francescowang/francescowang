@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://blog.ammaraskar.com/github-token-stealing/'>1-Click GitHub Token Stealing via a VSCode Bug</a></td><td>346 👍</td><td>54 💬</td></tr>
-<tr><td>2.</td><td><a href='https://github.com/s-macke/Test-Drive-3-Maps'>Show HN: I reverse-engineered the world maps of Test Drive III (199...</a></td><td>71 👍</td><td>14 💬</td></tr>
-<tr><td>3.</td><td><a href='https://github.com/c0dejedi/nbd-vram'>Use your Nvidia GPU's VRAM as swap space on Linux</a></td><td>283 👍</td><td>77 💬</td></tr>
-<tr><td>4.</td><td><a href='https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/'>The Unreasonable Redundancy of Nature's Protein Folds</a></td><td>82 👍</td><td>17 💬</td></tr>
-<tr><td>5.</td><td><a href='https://microsoft.ai/news/introducingmai-code-1-flash/'>MAI-Code-1-Flash</a></td><td>459 👍</td><td>204 💬</td></tr>
-<tr><td>6.</td><td><a href='https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/'>AI outperforms law professors in Stanford Law study</a></td><td>213 👍</td><td>168 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.lumafield.com/scan-of-the-month/byd'>CT scans of BYD car parts</a></td><td>367 👍</td><td>188 💬</td></tr>
-<tr><td>8.</td><td><a href='https://www.science.org/content/article/doubling-down-controversial-claims-microsoft-accelerates-quantum-computing-plans'>Microsoft Doubles Down on Controversial Quantum Computing Claims</a></td><td>19 👍</td><td>15 💬</td></tr>
-<tr><td>9.</td><td><a href='https://blog.roku.com/developer/roku-lt-os'>Roku LT Operating System open source distribution</a></td><td>70 👍</td><td>22 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.capstone-engine.org/'>Capstone – multi-platform, multi-architecture disassembly framework</a></td><td>48 👍</td><td>1 💬</td></tr>
+<tr><td>1.</td><td><a href='https://blog.nns.ee/2026/06/03/katana-badusb/'>Hacking your PC using your speaker without ever touching it</a></td><td>280 👍</td><td>54 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.bbc.com/news/articles/c93x0k194yno'>Meta workers can opt out of being tracked at work up to 30 min</a></td><td>136 👍</td><td>95 💬</td></tr>
+<tr><td>3.</td><td><a href='https://fzakaria.com/2026/06/01/every-byte-matters'>Every Byte Matters</a></td><td>108 👍</td><td>29 💬</td></tr>
+<tr><td>4.</td><td><a href='https://www.copetti.org/writings/consoles/playstation/'>PlayStation Architecture</a></td><td>85 👍</td><td>14 💬</td></tr>
+<tr><td>5.</td><td><a href='https://dl.acm.org/doi/pdf/10.1145/1995966.1996008'>Nabokov's pale fire: the lost 'father of all hypertext demos'? (2011)</a></td><td>53 👍</td><td>7 💬</td></tr>
+<tr><td>6.</td><td><a href='https://blog.ammaraskar.com/github-token-stealing/'>1-Click GitHub Token Stealing via a VSCode Bug</a></td><td>529 👍</td><td>79 💬</td></tr>
+<tr><td>7.</td><td><a href='https://blog.spotcrime.com/2026/06/take-action-lapd-removed-crime-location.html'>Take Action: LAPD Removed Crime Location Data. Here's Why It Matters</a></td><td>16 👍</td><td>6 💬</td></tr>
+<tr><td>8.</td><td><a href='https://handwritten.danieljanus.pl/2026-06-01-edsger.html'>Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2</a></td><td>125 👍</td><td>23 💬</td></tr>
+<tr><td>9.</td><td><a href='https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/'>Turkey Hacked the Hair Transplant Industry</a></td><td>42 👍</td><td>25 💬</td></tr>
+<tr><td>10.</td><td><a href='https://news.ycombinator.com/item?id=48382853'>Piramidal (YC W24) – Software Engineers – NYC Onsite</a></td><td>1 👍</td><td>0 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>03 Jun 2026, 08:31 UTC</b> · Data from Hacker News</sub>
+<b>03 Jun 2026, 14:08 UTC</b>
 
 ---
 
