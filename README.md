@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://maxleiter.com/blog/weights'>"They're made out of weights"</a></td><td>557 👍</td><td>197 💬</td></tr>
-<tr><td>2.</td><td><a href='https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/'>Elixir v1.20: Now a gradually typed language</a></td><td>728 👍</td><td>264 💬</td></tr>
-<tr><td>3.</td><td><a href='https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html'>Failing grades soar with AI usage, dwindling math skills in Berkele...</a></td><td>241 👍</td><td>184 💬</td></tr>
-<tr><td>4.</td><td><a href='https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/'>I built a vulnerable app and spent $1,500 seeing if LLMs could hack it</a></td><td>182 👍</td><td>75 💬</td></tr>
-<tr><td>5.</td><td><a href='https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/'>Gemma 4 12B: A unified, encoder-free multimodal model</a></td><td>814 👍</td><td>321 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/'>Artificial intelligence is not conscious – Ted Chiang</a></td><td>393 👍</td><td>695 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.anthropic.com/engineering/how-we-contain-claude'>The ways we contain Claude across products</a></td><td>114 👍</td><td>50 💬</td></tr>
-<tr><td>8.</td><td><a href='https://burntsushi.net/encephalitis/'>I was recently diagnosed with anti-NMDA receptor encephalitis</a></td><td>596 👍</td><td>181 💬</td></tr>
-<tr><td>9.</td><td><a href='https://fagnerbrack.com/learn-sql-once-use-it-for-30-years-9aceb0bdee03'>Learn SQL Once, Use It for 30 Years</a></td><td>61 👍</td><td>29 💬</td></tr>
-<tr><td>10.</td><td><a href='https://simonwillison.net/2026/Jun/3/uber-caps-usage/'>Uber's $1,500/month AI limit is a useful signal for AI tool pricing</a></td><td>466 👍</td><td>580 💬</td></tr>
+<tr><td>1.</td><td><a href='https://blog.cloudflare.com/voidzero-joins-cloudflare/'>VoidZero Is Joining Cloudflare</a></td><td>56 👍</td><td>20 💬</td></tr>
+<tr><td>2.</td><td><a href='https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/'>UK media fails to disclose defence sector links in nearly 60% of cases</a></td><td>244 👍</td><td>151 💬</td></tr>
+<tr><td>3.</td><td><a href='https://momentsingraphics.de/Siggraph2026.html'>Gaussian Point Splatting</a></td><td>81 👍</td><td>30 💬</td></tr>
+<tr><td>4.</td><td><a href='https://maxleiter.com/blog/weights'>They’re made out of weights</a></td><td>928 👍</td><td>355 💬</td></tr>
+<tr><td>5.</td><td><a href='https://en.wikipedia.org/wiki/U.S._Army_Corps_of_Engineers_Bay_Model'>U.S. Army Corps of Engineers Bay Model</a></td><td>63 👍</td><td>14 💬</td></tr>
+<tr><td>6.</td><td><a href='https://tomotama.com/kiki'>Kiki – a tiny homepage construction kit with a small footprint</a></td><td>43 👍</td><td>14 💬</td></tr>
+<tr><td>7.</td><td><a href='https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/'>Elixir v1.20: Now a gradually typed language</a></td><td>838 👍</td><td>314 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.france24.com/en/culture/20260604-french-iranian-author-marjane-satrapi-author-of-persepolis-dies-at-56'>French-Iranian author Marjane Satrapi, author of 'Persepolis', dies...</a></td><td>102 👍</td><td>21 💬</td></tr>
+<tr><td>9.</td><td><a href='https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus'>AccessOwl (YC S22) is hiring an AI TypeScript Engineer to connect 3...</a></td><td>1 👍</td><td>0 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.fieggen.com/shoelace/secureknot.htm'>Ian's Secure Shoelace Knot</a></td><td>27 👍</td><td>8 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>04 Jun 2026, 08:14 UTC</b> · Data from Hacker News</sub>
+<b>04 Jun 2026, 13:34 UTC</b>
 
 ---
 
