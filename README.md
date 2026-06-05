@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://herbsutter.com/2026/06/04/c-the-documentary-released-today/'>C++: The Documentary</a></td><td>103 👍</td><td>23 💬</td></tr>
-<tr><td>2.</td><td><a href='https://fb.watch/HxPu0fSyeH/'>Meta enables ADB on deprecated Portal devices [video]</a></td><td>204 👍</td><td>64 💬</td></tr>
-<tr><td>3.</td><td><a href='https://passo.uno/fine-tuning-docs-llm/'>Fine-tuning an LLM to write docs like it's 1995</a></td><td>36 👍</td><td>9 💬</td></tr>
-<tr><td>4.</td><td><a href='https://github.com/anthropics/defending-code-reference-harness'>Anthropic's open-source framework for AI-powered vulnerability disc...</a></td><td>399 👍</td><td>114 💬</td></tr>
-<tr><td>5.</td><td><a href='https://spectrum.ieee.org/faster-dna-synthesis-sidewinder'>Leap in DNA synthesis slashes time to build new genetic sequences</a></td><td>7 👍</td><td>0 💬</td></tr>
-<tr><td>6.</td><td><a href='https://isupmap.com/'>The IsUpMap lets you check the status of over 100 major sites at once</a></td><td>30 👍</td><td>16 💬</td></tr>
-<tr><td>7.</td><td><a href='https://github.com/alibaba/open-code-review'>Open Code Review – An AI-powered code review CLI tool</a></td><td>164 👍</td><td>39 💬</td></tr>
-<tr><td>8.</td><td><a href='https://arxiv.org/abs/2606.04032'>Do transformers need three projections? Systematic study of QKV var...</a></td><td>156 👍</td><td>32 💬</td></tr>
-<tr><td>9.</td><td><a href='https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/'>Azure Linux 4.0 is Microsoft's first general-purpose Linux</a></td><td>104 👍</td><td>73 💬</td></tr>
-<tr><td>10.</td><td><a href='https://emalliab.wordpress.com/2026/05/26/watching-a-z80-from-an-rp2350/'>Watching a Z80 from an RP2350</a></td><td>15 👍</td><td>0 💬</td></tr>
+<tr><td>1.</td><td><a href='https://ajph.aphapublications.org/doi/10.2105/AJPH.2026.308501'>US tobacco firms applied tobacco strategies to globalize ultra-proc...</a></td><td>155 👍</td><td>143 💬</td></tr>
+<tr><td>2.</td><td><a href='https://arxiv.org/abs/2606.03673'>Tracing a powerful GNSS interference source over Europe</a></td><td>183 👍</td><td>59 💬</td></tr>
+<tr><td>3.</td><td><a href='https://redis.io/blog/announcing-redis-8-8/'>Redis 8.8: New array data structure, rate limiter, performance impr...</a></td><td>67 👍</td><td>21 💬</td></tr>
+<tr><td>4.</td><td><a href='https://blog.plover.com/2026/03/09/#documentation-wins-2'>Programmers will document for Claude, but not for each other</a></td><td>14 👍</td><td>10 💬</td></tr>
+<tr><td>5.</td><td><a href='https://mouseless.click'>Mouseless – keyboard-driven control of macOS/Linux/Windows</a></td><td>33 👍</td><td>17 💬</td></tr>
+<tr><td>6.</td><td><a href='https://ladybird.org/posts/changing-how-we-develop-ladybird/'>Changing How We Develop Ladybird</a></td><td>488 👍</td><td>321 💬</td></tr>
+<tr><td>7.</td><td><a href='https://columnar.tech/blog/introducing-databow//'>databow: a Rust CLI to query any database with an ADBC driver</a></td><td>74 👍</td><td>16 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/'>Entanglement Builds Space-Time. Now "Magic" Gives It Gravity</a></td><td>68 👍</td><td>50 💬</td></tr>
+<tr><td>9.</td><td><a href='https://nango.dev/careers'>Nango (YC W23, dev infra) is hiring staff back end engineers</a></td><td>1 👍</td><td>0 💬</td></tr>
+<tr><td>10.</td><td><a href='https://fb.watch/HxPu0fSyeH/'>Meta enables ADB on deprecated Portal devices [video]</a></td><td>251 👍</td><td>95 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>05 Jun 2026, 08:11 UTC</b> · Data from Hacker News</sub>
+<b>05 Jun 2026, 13:32 UTC</b>
 
 ---
 
