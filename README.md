@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.0xkato.xyz/how-llms-actually-work/'>How LLMs work</a></td><td>216 👍</td><td>63 💬</td></tr>
-<tr><td>2.</td><td><a href='https://salvagedcircuitry.com/sigma-45mm.html'>The intracies of modern camera lens repair (2024)</a></td><td>145 👍</td><td>48 💬</td></tr>
-<tr><td>3.</td><td><a href='https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/'>Pre-Modern Armies for Worldbuilders, Part I: Why They Fight</a></td><td>52 👍</td><td>13 💬</td></tr>
-<tr><td>4.</td><td><a href='https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/'>S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic</a></td><td>256 👍</td><td>64 💬</td></tr>
-<tr><td>5.</td><td><a href='https://meetfranz.com/blog/ten-years-of-franz'>Ten Years of Franz</a></td><td>23 👍</td><td>11 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.bbc.com/news/live/c4g44ew3g1kt'>Astronauts told to return to ISS after sheltering over air leak rep...</a></td><td>382 👍</td><td>247 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/'>New method turns ocean water into drinking water, without waste</a></td><td>338 👍</td><td>148 💬</td></tr>
-<tr><td>8.</td><td><a href='https://github.com/microsoft/pg_durable'>pg_durable: Microsoft open sources in-database durable execution</a></td><td>382 👍</td><td>87 💬</td></tr>
-<tr><td>9.</td><td><a href='https://help.openai.com/en/articles/20001061-lockdown-mode'>Lockdown Mode</a></td><td>45 👍</td><td>21 💬</td></tr>
-<tr><td>10.</td><td><a href='https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391'>The back cover of C++: The Language raises questions not answered b...</a></td><td>73 👍</td><td>15 💬</td></tr>
+<tr><td>1.</td><td><a href='https://codeberg.org/ziglang/zig/commit/621844bde551ee1a9b8142d7d146d1fa804247a2'>Zig Zen Update</a></td><td>97 👍</td><td>32 💬</td></tr>
+<tr><td>2.</td><td><a href='https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/'>The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy</a></td><td>72 👍</td><td>14 💬</td></tr>
+<tr><td>3.</td><td><a href='https://microsoft.github.io/RustTraining/python-book/'>Introduction – Rust for Python Programmers</a></td><td>20 👍</td><td>6 💬</td></tr>
+<tr><td>4.</td><td><a href='https://www.0xkato.xyz/how-llms-actually-work/'>How LLMs work</a></td><td>452 👍</td><td>134 💬</td></tr>
+<tr><td>5.</td><td><a href='https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/'>Google will pay SpaceX $920M per month for compute</a></td><td>59 👍</td><td>52 💬</td></tr>
+<tr><td>6.</td><td><a href='https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/'>S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic</a></td><td>681 👍</td><td>226 💬</td></tr>
+<tr><td>7.</td><td><a href='https://salvagedcircuitry.com/sigma-45mm.html'>The intracies of modern camera lens repair (2024)</a></td><td>192 👍</td><td>65 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer'>Mbodi AI (YC P25) Is Hiring Founding Machine Learning Engineer (Rob...</a></td><td>1 👍</td><td>0 💬</td></tr>
+<tr><td>9.</td><td><a href='https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/'>Pre-Modern Armies for Worldbuilders, Part I: Why They Fight</a></td><td>104 👍</td><td>35 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/'>New method turns ocean water into drinking water, without waste</a></td><td>409 👍</td><td>173 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>06 Jun 2026, 07:43 UTC</b> · Data from Hacker News</sub>
+<b>06 Jun 2026, 12:54 UTC</b>
 
 ---
 
