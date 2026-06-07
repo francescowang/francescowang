@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.ioccc.org/2025/'>The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners</a></td><td>83 👍</td><td>10 💬</td></tr>
-<tr><td>2.</td><td><a href='https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/'>I design with Claude more than Figma now</a></td><td>102 👍</td><td>67 💬</td></tr>
-<tr><td>3.</td><td><a href='https://github.com/ValveSoftware/GameNetworkingSockets/issues/398'>Valve P2P networking broken for more than 2 months</a></td><td>125 👍</td><td>58 💬</td></tr>
-<tr><td>4.</td><td><a href='https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses'>Field of clones: How horse replicas came to dominate polo</a></td><td>72 👍</td><td>37 💬</td></tr>
-<tr><td>5.</td><td><a href='https://kristoff.it/blog/north-star/'>My Software North Star</a></td><td>40 👍</td><td>13 💬</td></tr>
-<tr><td>6.</td><td><a href='https://arxiv.org/abs/2601.14470'>Tokenomics: Quantifying Where Tokens Are Used in Agentic Software E...</a></td><td>89 👍</td><td>27 💬</td></tr>
-<tr><td>7.</td><td><a href='https://openai.com/index/harness-engineering/'>Harness engineering: Leveraging Codex in an agent-first world</a></td><td>180 👍</td><td>116 💬</td></tr>
-<tr><td>8.</td><td><a href='https://ntsc.rs/'>Ntsc-rs – open-source video emulation of analog TV and VHS artifacts</a></td><td>331 👍</td><td>87 💬</td></tr>
-<tr><td>9.</td><td><a href='https://symbolica.io/posts/symbolica_2_0_release/'>Symbolica 2.0: Programmable Symbols for Python and Rust</a></td><td>67 👍</td><td>6 💬</td></tr>
-<tr><td>10.</td><td><a href='https://pdimagearchive.org/'>Public Domain Image Archive</a></td><td>99 👍</td><td>16 💬</td></tr>
+<tr><td>1.</td><td><a href='https://www.ioccc.org/2025/'>The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners</a></td><td>239 👍</td><td>56 💬</td></tr>
+<tr><td>2.</td><td><a href='https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/'>LLMs are eroding my software engineering career and I don't know wh...</a></td><td>11 👍</td><td>1 💬</td></tr>
+<tr><td>3.</td><td><a href='http://www.os2museum.com/wp/win16-memory-management/'>Win16 Memory Management</a></td><td>65 👍</td><td>27 💬</td></tr>
+<tr><td>4.</td><td><a href='https://fergusfinn.com/blog/kv-entropy-coder/'>Speculative KV coding: losslessly compressing KV cache by up to ~4×</a></td><td>79 👍</td><td>12 💬</td></tr>
+<tr><td>5.</td><td><a href='https://theamphour.com/725-the-secret-life-of-circuits-with-lcamtuf-michal-zalewski/'>The Secret Life of Circuits with lcamtuf / Michał Zalewski (Audio I...</a></td><td>16 👍</td><td>2 💬</td></tr>
+<tr><td>6.</td><td><a href='https://yon-lang.org/'>Yon – a topos-oriented language with a content-addressed lattice heap</a></td><td>6 👍</td><td>0 💬</td></tr>
+<tr><td>7.</td><td><a href='https://wilsoniumite.com/2026/06/07/we-need-vat-and-ubi/'>We Need VAT and UBI</a></td><td>10 👍</td><td>9 💬</td></tr>
+<tr><td>8.</td><td><a href='https://9mothers.com/careers'>9 Mothers (YC P26) Is Hiring</a></td><td>1 👍</td><td>0 💬</td></tr>
+<tr><td>9.</td><td><a href='https://github.com/ValveSoftware/GameNetworkingSockets/issues/398'>Valve P2P networking broken for more than 2 months</a></td><td>207 👍</td><td>93 💬</td></tr>
+<tr><td>10.</td><td><a href='https://kristoff.it/blog/north-star/'>My Software North Star</a></td><td>119 👍</td><td>63 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>07 Jun 2026, 08:03 UTC</b> · Data from Hacker News</sub>
+<b>07 Jun 2026, 13:01 UTC</b>
 
 ---
 
