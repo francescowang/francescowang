@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://igerman.cc/blog/dopamine-fracking/'>Dopamine Fracking</a></td><td>228 👍</td><td>75 💬</td></tr>
-<tr><td>2.</td><td><a href='https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/'>1k Data Breaches Later, the Disclosure Lag Is Worse</a></td><td>126 👍</td><td>43 💬</td></tr>
-<tr><td>3.</td><td><a href='https://teenage.engineering/products/apc-2'>APC–2 – A professional record cutter for producing original playbac...</a></td><td>195 👍</td><td>96 💬</td></tr>
-<tr><td>4.</td><td><a href='https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony'>Building from zero after addiction, prison, and a felony</a></td><td>603 👍</td><td>268 💬</td></tr>
-<tr><td>5.</td><td><a href='https://ranpara.net/posts/perceptron-explained-from-scratch/'>The Smallest Brain You Can Build: A Perceptron in Python</a></td><td>180 👍</td><td>23 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.bbc.com/news/articles/c14yz5jg476o'>Richard Scolyer Has Died</a></td><td>38 👍</td><td>11 💬</td></tr>
-<tr><td>7.</td><td><a href='https://prestonbjensen.com/posts/playing-with-vision-embeddings'>Playing with Vision Embeddings</a></td><td>31 👍</td><td>2 💬</td></tr>
-<tr><td>8.</td><td><a href='https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision'>DeepSeek V4 Pro beats GPT-5.5 Pro on precision</a></td><td>237 👍</td><td>95 💬</td></tr>
-<tr><td>9.</td><td><a href='https://algorithmichiring.github.io/'>Algorithmic Monocultures in Hiring</a></td><td>78 👍</td><td>32 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08'>New drug 'functionally cures' many hepatitis B virus infections</a></td><td>154 👍</td><td>24 💬</td></tr>
+<tr><td>1.</td><td><a href='https://github.com/boringcollege/zig-by-example'>Zig by Example</a></td><td>54 👍</td><td>9 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social'>Anti-social: It's fads, not friends, which now dominate social medi...</a></td><td>70 👍</td><td>39 💬</td></tr>
+<tr><td>3.</td><td><a href='https://intunedhq.com'>Launch HN: Intuned (YC S22) – Build and run reliable browser automa...</a></td><td>18 👍</td><td>3 💬</td></tr>
+<tr><td>4.</td><td><a href='https://handson.money/blog/2026-06-06-horse-arse-and-design/'>Spanish traders set the standard forGnuCash database design</a></td><td>26 👍</td><td>10 💬</td></tr>
+<tr><td>5.</td><td><a href='https://www.cypherpunkbooks.com'>The Cypherpunk Library</a></td><td>177 👍</td><td>52 💬</td></tr>
+<tr><td>6.</td><td><a href='https://www.nber.org/papers/w35310'>The iPhone explains 33–52% of fertility decline among women aged 15–44</a></td><td>44 👍</td><td>14 💬</td></tr>
+<tr><td>7.</td><td><a href='https://reeserichardson.blog/2026/05/28/how-much-of-thermo-fishers-antibody-data-has-been-manipulated/'>How much of Thermo Fisher's antibody data has been manipulated?</a></td><td>148 👍</td><td>40 💬</td></tr>
+<tr><td>8.</td><td><a href='https://andreashohmann.com/zig-struct-of-arrays/'>Zig Structs of Arrays (2024)</a></td><td>57 👍</td><td>11 💬</td></tr>
+<tr><td>9.</td><td><a href='https://igerman.cc/blog/dopamine-fracking/'>Dopamine Fracking</a></td><td>525 👍</td><td>266 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/'>1k Data Breaches Later, the Disclosure Lag Is Worse</a></td><td>223 👍</td><td>80 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>08 Jun 2026, 08:28 UTC</b> · Data from Hacker News</sub>
+<b>08 Jun 2026, 13:54 UTC</b>
 
 ---
 
