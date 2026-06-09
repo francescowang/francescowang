@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/'>Apple reveals new AI architecture built around Google Gemini models</a></td><td>553 👍</td><td>425 💬</td></tr>
-<tr><td>2.</td><td><a href='https://blog.aheymans.xyz/post/thinkpad_x61/'>Porting the ThinkPad X61 to Coreboot</a></td><td>49 👍</td><td>14 💬</td></tr>
-<tr><td>3.</td><td><a href='https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/'>Microsoft's open source tools were hacked to steal passwords of AI ...</a></td><td>5 👍</td><td>0 💬</td></tr>
-<tr><td>4.</td><td><a href='https://oldavista.com/'>Old'aVista – The most powerful guide to the old Internet</a></td><td>88 👍</td><td>19 💬</td></tr>
-<tr><td>5.</td><td><a href='https://www.apple.com/apple-intelligence/'>Siri AI</a></td><td>547 👍</td><td>500 💬</td></tr>
-<tr><td>6.</td><td><a href='https://vorpus.github.io/performativeUI/'>Show HN: Performative-UI – A react component library of design tropes</a></td><td>948 👍</td><td>170 💬</td></tr>
-<tr><td>7.</td><td><a href='https://martinalderson.com/posts/xais-new-rental-business/'>xAI is looking more like a datacentre REIT than a frontier lab</a></td><td>540 👍</td><td>415 💬</td></tr>
-<tr><td>8.</td><td><a href='https://opencv.org/opencv-5/'>OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision</a></td><td>57 👍</td><td>12 💬</td></tr>
-<tr><td>9.</td><td><a href='https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices'>EU-banned pesticides found in rice, tea and spices</a></td><td>376 👍</td><td>148 💬</td></tr>
-<tr><td>10.</td><td><a href='https://mimo.xiaomi.com/blog/mimo-tilert-1000tps'>MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second</a></td><td>551 👍</td><td>405 💬</td></tr>
+<tr><td>1.</td><td><a href='https://github.com/luke8086/gentleos32'>GentleOS – Classic operating system with a lovely retro GUI</a></td><td>196 👍</td><td>44 💬</td></tr>
+<tr><td>2.</td><td><a href='https://staniks.github.io/articles/catlantean-3d-blog-1/'>Making Graphics Like it's 1993</a></td><td>138 👍</td><td>25 💬</td></tr>
+<tr><td>3.</td><td><a href='https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/'>Microsoft's open source tools were hacked to steal passwords of AI ...</a></td><td>305 👍</td><td>124 💬</td></tr>
+<tr><td>4.</td><td><a href='https://www.codingwithjesse.com/blog/rockstar-developers/'>Cleaning up after AI rockstar developers</a></td><td>76 👍</td><td>28 💬</td></tr>
+<tr><td>5.</td><td><a href='https://opencv.org/opencv-5/'>OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision</a></td><td>367 👍</td><td>59 💬</td></tr>
+<tr><td>6.</td><td><a href='https://omnia.sas.upenn.edu/story/biologist-scott-poethig-plants-never-age'>Forever Young: how one molecule can lock plants in a youthful state...</a></td><td>73 👍</td><td>31 💬</td></tr>
+<tr><td>7.</td><td><a href='https://arxiv.org/abs/1904.02539'>An introduction to functional analysis for science and engineering</a></td><td>41 👍</td><td>3 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/'>Apple reveals new AI architecture built around Google Gemini models</a></td><td>649 👍</td><td>497 💬</td></tr>
+<tr><td>9.</td><td><a href='https://www.ycombinator.com/companies/emerge-career/jobs/v0S1AEG-founding-growth-marketer'>Emerge Career (YC S22) Is Hiring a Founding Growth Marketer</a></td><td>1 👍</td><td>0 💬</td></tr>
+<tr><td>10.</td><td><a href='https://stratechery.com/2026/the-iphones-last-stand/'>The iPhone's Last Stand</a></td><td>43 👍</td><td>70 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>09 Jun 2026, 08:03 UTC</b> · Data from Hacker News</sub>
+<b>09 Jun 2026, 13:28 UTC</b>
 
 ---
 
