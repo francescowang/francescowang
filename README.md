@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://github.com/apple/container/blob/main/docs/container-machine.md'>macOS Container Machines</a></td><td>661 👍</td><td>241 💬</td></tr>
-<tr><td>2.</td><td><a href='https://www.anthropic.com/news/claude-fable-5-mythos-5'>Claude Fable 5</a></td><td>2156 👍</td><td>1663 💬</td></tr>
-<tr><td>3.</td><td><a href='https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/'>Upcoming breaking changes for npm v12</a></td><td>336 👍</td><td>119 💬</td></tr>
-<tr><td>4.</td><td><a href='https://arstechnica.com/cars/2026/05/how-do-you-design-a-30000-electric-pickup-inside-fords-skunkworks/'>How do you design a $30k electric pickup? Inside Ford's skunkworks</a></td><td>16 👍</td><td>6 💬</td></tr>
-<tr><td>5.</td><td><a href='https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/'>German ruling declares Google liable for false answers in AI Overviews</a></td><td>446 👍</td><td>244 💬</td></tr>
-<tr><td>6.</td><td><a href='https://twitter.com/RichardSSutton/status/2061216087744946656'>Rich Sutton on AI creativity and discovery</a></td><td>94 👍</td><td>50 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.ddmckinnon.com/2026/06/09/vibe-coding-my-way-to-a-healthy-family-introducing-gamow-labs/'>Vibe coding my way to a healthy family: Introducing Gamow Labs</a></td><td>82 👍</td><td>24 💬</td></tr>
-<tr><td>8.</td><td><a href='https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/'>RIP software hackathons. Long live the hardware hackathon</a></td><td>145 👍</td><td>62 💬</td></tr>
-<tr><td>9.</td><td><a href='https://aarushgupta.io/posts/kan-fpga/'>Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks</a></td><td>218 👍</td><td>30 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.bbc.com/culture/article/20260603-how-a-26-year-old-german-woman-made-the-worlds-oldest-surviving-animated-feature-film'>The oldest surviving animated feature film at 100</a></td><td>89 👍</td><td>11 💬</td></tr>
+<tr><td>1.</td><td><a href='https://danq.me/2026/06/09/fn-keys/'>I Hate (Most) Keyboard 'Fn' Keys</a></td><td>31 👍</td><td>5 💬</td></tr>
+<tr><td>2.</td><td><a href='https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf'>Mercedes‑Benz starts large‑scale production of electric axial flux ...</a></td><td>260 👍</td><td>138 💬</td></tr>
+<tr><td>3.</td><td><a href='https://jivx.com/eki'>All 9,300 Japanese train station, animated by the year it opened (1...</a></td><td>34 👍</td><td>18 💬</td></tr>
+<tr><td>4.</td><td><a href='https://sbbresale.ch/'>Buy a train, bridge or tracks from the Swiss Railway</a></td><td>57 👍</td><td>28 💬</td></tr>
+<tr><td>5.</td><td><a href='https://github.com/apple/container/blob/main/docs/container-machine.md'>macOS Container Machines</a></td><td>928 👍</td><td>333 💬</td></tr>
+<tr><td>6.</td><td><a href='https://mohkohn.co.uk/writing/html-first/'>Building an HTML-first site doubled our users overnight</a></td><td>27 👍</td><td>6 💬</td></tr>
+<tr><td>7.</td><td><a href='https://www.anthropic.com/news/claude-fable-5-mythos-5'>Claude Fable 5</a></td><td>2377 👍</td><td>1873 💬</td></tr>
+<tr><td>8.</td><td><a href='https://steveblank.com/2026/06/08/g-for-defense-stanford-2026-lessons-learned-presentations/'>Hacking for Defense Stanford 2026 – Lessons Learned Presentations</a></td><td>39 👍</td><td>17 💬</td></tr>
+<tr><td>9.</td><td><a href='https://paperswithcode.co/'>Reviving Papers with Code</a></td><td>95 👍</td><td>21 💬</td></tr>
+<tr><td>10.</td><td><a href='https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/'>Upcoming breaking changes for npm v12</a></td><td>422 👍</td><td>166 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>10 Jun 2026, 08:12 UTC</b> · Data from Hacker News</sub>
+<b>10 Jun 2026, 13:43 UTC</b>
 
 ---
 
