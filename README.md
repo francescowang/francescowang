@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/'>Pokémon Go Scans Trained the Navigation Tech for Military Drones</a></td><td>129 👍</td><td>50 💬</td></tr>
-<tr><td>2.</td><td><a href='https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/'>AI agent runs amok in Fedora and elsewhere</a></td><td>366 👍</td><td>126 💬</td></tr>
-<tr><td>3.</td><td><a href='https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/'>Cybersecurity researchers aren't happy about the guardrails on Anth...</a></td><td>406 👍</td><td>359 💬</td></tr>
-<tr><td>4.</td><td><a href='https://github.com/philipl/pifs'>πFS</a></td><td>721 👍</td><td>170 💬</td></tr>
-<tr><td>5.</td><td><a href='https://github.com/vanyapr/makaroshki'>Macaroni – a single HTML file messenger</a></td><td>27 👍</td><td>27 💬</td></tr>
-<tr><td>6.</td><td><a href='https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models'>Anthropic requires 30 day data retention for Fable and Mythos</a></td><td>390 👍</td><td>192 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.rifters.com/real/STARFISH.htm#prelude'>Starfish by Peter Watts (1999)</a></td><td>33 👍</td><td>5 💬</td></tr>
-<tr><td>8.</td><td><a href='https://blog.nns.ee/2026/02/20/katana-v2x-re/'>Reverse engineering the Creative Katana soundbar to control it from...</a></td><td>51 👍</td><td>2 💬</td></tr>
-<tr><td>9.</td><td><a href='https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/'>Sequoyah’s syllabary created a written language for the Cherokee</a></td><td>149 👍</td><td>91 💬</td></tr>
-<tr><td>10.</td><td><a href='https://news.ycombinator.com/item?id=48477135'>I'm Eric Ries, author of "The Lean Startup" and new book "Incorrupt...</a></td><td>642 👍</td><td>482 💬</td></tr>
+<tr><td>1.</td><td><a href='https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/'>Lines of Code Got a Better Publicist</a></td><td>92 👍</td><td>40 💬</td></tr>
+<tr><td>2.</td><td><a href='https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/'>Pokémon Go Scans Trained the Navigation Tech for Military Drones</a></td><td>461 👍</td><td>208 💬</td></tr>
+<tr><td>3.</td><td><a href='https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/'>AI agent runs amok in Fedora and elsewhere</a></td><td>474 👍</td><td>216 💬</td></tr>
+<tr><td>4.</td><td><a href='https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-long-task-planning-14e803f9bd6d'>Build a Basic AI Agent from Scratch: Long Task Planning</a></td><td>79 👍</td><td>25 💬</td></tr>
+<tr><td>5.</td><td><a href='https://vale.rocks/posts/game-console-browsers'>Web Browsers on Video Game Consoles</a></td><td>83 👍</td><td>44 💬</td></tr>
+<tr><td>6.</td><td><a href='https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/'>Cybersecurity researchers aren't happy about the guardrails on Anth...</a></td><td>512 👍</td><td>452 💬</td></tr>
+<tr><td>7.</td><td><a href='https://github.com/philipl/pifs'>πFS</a></td><td>849 👍</td><td>191 💬</td></tr>
+<tr><td>8.</td><td><a href='https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models'>Anthropic requires 30 day data retention for Fable and Mythos</a></td><td>521 👍</td><td>263 💬</td></tr>
+<tr><td>9.</td><td><a href='https://www.bls.gov/news.release/ppi.nr0.htm'>Core PPI up 9.6% annualized (0.8% MoM) in May</a></td><td>34 👍</td><td>2 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6'>Workers are spending over 6 hours a week botsitting AI, fueling job...</a></td><td>21 👍</td><td>2 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>11 Jun 2026, 08:23 UTC</b> · Data from Hacker News</sub>
+<b>11 Jun 2026, 13:49 UTC</b>
 
 ---
 
