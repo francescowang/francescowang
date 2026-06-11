@@ -5,7 +5,7 @@
 
 <!-- LIVE CLOCK -->
 <p>
-<img src="https://img.shields.io/badge/📅_Today-Wednesday, 10 June 2026-58a6ff?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/📅_Today-Thursday, 11 June 2026-58a6ff?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/☕_Visitors-welcome-f78166?style=for-the-badge&labelColor=0d1117" />
 </p>
 
@@ -193,7 +193,7 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>🌬️ Wind</th>
 <th>☁️ Conditions</th>
 </tr>
-<tr><td>🇧🇷 <b>São Paulo</b></td><td colspan='4'>Data unavailable</td></tr>
+<tr><td>🇧🇷 <b>São Paulo</b></td><td>15.8°C</td><td>98%</td><td>2.8 km/h</td><td>🌧️ Light rain</td></tr>
 <tr><td>🇦🇷 <b>Buenos Aires</b></td><td colspan='4'>Data unavailable</td></tr>
 <tr><td>🇵🇪 <b>Lima</b></td><td colspan='4'>Data unavailable</td></tr>
 </table>
@@ -237,7 +237,7 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 </details>
 <!-- WEATHER END -->
 
-<sub>🕐 Last weather update: <b>11 Jun 2026, 07:44 UTC</b> · Data from OpenWeatherMap</sub>
+<sub>🕐 Last weather update: <b>11 Jun 2026, 08:23 UTC</b> · Data from OpenWeatherMap</sub>
 
 ---
 
@@ -254,15 +254,15 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>📊 % Change</th>
 <th>📅 As Of</th>
 </tr>
-<tr><td><b>VUAG.L</b></td><td>105.76</td><td>🟢 +0.22</td><td>+0.21%</td><td>10 Jun 2026, 13:32 UTC</td></tr>
-<tr><td><b>VWRL.L</b></td><td>134.00</td><td>🟢 +0.15</td><td>+0.11%</td><td>10 Jun 2026, 13:32 UTC</td></tr>
-<tr><td><b>SPY</b></td><td>732.96</td><td>🔴 -2.74</td><td>-0.37%</td><td>10 Jun 2026, 13:32 UTC</td></tr>
-<tr><td><b>QQQ</b></td><td>701.58</td><td>🔴 -5.09</td><td>-0.72%</td><td>10 Jun 2026, 13:32 UTC</td></tr>
-<tr><td><b>ARKK</b></td><td>74.51</td><td>🔴 -0.28</td><td>-0.37%</td><td>10 Jun 2026, 13:32 UTC</td></tr>
-<tr><td><b>VTI</b></td><td>361.79</td><td>🔴 -1.40</td><td>-0.39%</td><td>10 Jun 2026, 13:32 UTC</td></tr>
+<tr><td><b>VUAG.L</b></td><td>105.66</td><td>🟢 +0.12</td><td>+0.11%</td><td>11 Jun 2026, 08:23 UTC</td></tr>
+<tr><td><b>VWRL.L</b></td><td>134.11</td><td>🟢 +0.19</td><td>+0.14%</td><td>11 Jun 2026, 08:23 UTC</td></tr>
+<tr><td><b>SPY</b></td><td>725.43</td><td>🟢 +2.57</td><td>+0.36%</td><td>11 Jun 2026, 08:23 UTC</td></tr>
+<tr><td><b>QQQ</b></td><td>693.69</td><td>🟢 +3.96</td><td>+0.57%</td><td>11 Jun 2026, 08:23 UTC</td></tr>
+<tr><td><b>ARKK</b></td><td>73.01</td><td>🟢 +0.58</td><td>+0.80%</td><td>11 Jun 2026, 08:23 UTC</td></tr>
+<tr><td><b>VTI</b></td><td>358.04</td><td>🟢 +0.75</td><td>+0.21%</td><td>11 Jun 2026, 08:23 UTC</td></tr>
 </table>
 
-<b>10 Jun 2026, 13:32 UTC</b> · Data from Yahoo Finance</sub>
+<sub>🕐 Last market update: <b>11 Jun 2026, 08:23 UTC</b> · Data from Yahoo Finance</sub>
 
 ---
 
@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://danq.me/2026/06/09/fn-keys/'>I Hate (Most) Keyboard 'Fn' Keys</a></td><td>31 👍</td><td>5 💬</td></tr>
-<tr><td>2.</td><td><a href='https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf'>Mercedes‑Benz starts large‑scale production of electric axial flux ...</a></td><td>260 👍</td><td>138 💬</td></tr>
-<tr><td>3.</td><td><a href='https://jivx.com/eki'>All 9,300 Japanese train station, animated by the year it opened (1...</a></td><td>34 👍</td><td>18 💬</td></tr>
-<tr><td>4.</td><td><a href='https://sbbresale.ch/'>Buy a train, bridge or tracks from the Swiss Railway</a></td><td>57 👍</td><td>28 💬</td></tr>
-<tr><td>5.</td><td><a href='https://github.com/apple/container/blob/main/docs/container-machine.md'>macOS Container Machines</a></td><td>928 👍</td><td>333 💬</td></tr>
-<tr><td>6.</td><td><a href='https://mohkohn.co.uk/writing/html-first/'>Building an HTML-first site doubled our users overnight</a></td><td>27 👍</td><td>6 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.anthropic.com/news/claude-fable-5-mythos-5'>Claude Fable 5</a></td><td>2377 👍</td><td>1873 💬</td></tr>
-<tr><td>8.</td><td><a href='https://steveblank.com/2026/06/08/g-for-defense-stanford-2026-lessons-learned-presentations/'>Hacking for Defense Stanford 2026 – Lessons Learned Presentations</a></td><td>39 👍</td><td>17 💬</td></tr>
-<tr><td>9.</td><td><a href='https://paperswithcode.co/'>Reviving Papers with Code</a></td><td>95 👍</td><td>21 💬</td></tr>
-<tr><td>10.</td><td><a href='https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/'>Upcoming breaking changes for npm v12</a></td><td>422 👍</td><td>166 💬</td></tr>
+<tr><td>1.</td><td><a href='https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/'>Pokémon Go Scans Trained the Navigation Tech for Military Drones</a></td><td>129 👍</td><td>50 💬</td></tr>
+<tr><td>2.</td><td><a href='https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/'>AI agent runs amok in Fedora and elsewhere</a></td><td>366 👍</td><td>126 💬</td></tr>
+<tr><td>3.</td><td><a href='https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/'>Cybersecurity researchers aren't happy about the guardrails on Anth...</a></td><td>406 👍</td><td>359 💬</td></tr>
+<tr><td>4.</td><td><a href='https://github.com/philipl/pifs'>πFS</a></td><td>721 👍</td><td>170 💬</td></tr>
+<tr><td>5.</td><td><a href='https://github.com/vanyapr/makaroshki'>Macaroni – a single HTML file messenger</a></td><td>27 👍</td><td>27 💬</td></tr>
+<tr><td>6.</td><td><a href='https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models'>Anthropic requires 30 day data retention for Fable and Mythos</a></td><td>390 👍</td><td>192 💬</td></tr>
+<tr><td>7.</td><td><a href='https://www.rifters.com/real/STARFISH.htm#prelude'>Starfish by Peter Watts (1999)</a></td><td>33 👍</td><td>5 💬</td></tr>
+<tr><td>8.</td><td><a href='https://blog.nns.ee/2026/02/20/katana-v2x-re/'>Reverse engineering the Creative Katana soundbar to control it from...</a></td><td>51 👍</td><td>2 💬</td></tr>
+<tr><td>9.</td><td><a href='https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/'>Sequoyah’s syllabary created a written language for the Cherokee</a></td><td>149 👍</td><td>91 💬</td></tr>
+<tr><td>10.</td><td><a href='https://news.ycombinator.com/item?id=48477135'>I'm Eric Ries, author of "The Lean Startup" and new book "Incorrupt...</a></td><td>642 👍</td><td>482 💬</td></tr>
 </table>
 
-<b>10 Jun 2026, 13:43 UTC</b>
+<sub>🕐 Last news update: <b>11 Jun 2026, 08:23 UTC</b> · Data from Hacker News</sub>
 
 ---
 
@@ -303,20 +303,20 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 
 ### 📖 Word of the Day
 
-> **Petrichor** · */ˈpɛtɹɪkɚ/*
+> **Eloquent** · */ˈɛl.əˌkwənt/*
 >
-> *noun* — The distinctive scent, caused by geosmin, which accompanies the first rain after a long, warm, dry spell.
+> *adjective* — Fluently persuasive and articulate
 >
-> 💬 *"Today's word is 'petrichor' — try using it in conversation!"*
+> 💬 *"Today's word is 'eloquent' — try using it in conversation!"*
 
 </td>
 <td width="50%">
 
 ### 🏛️ Philosopher's Quote
 
-> *"The only true wisdom is in knowing you know nothing."*
+> *"Every man desires to live long, but no man wishes to be old."*
 >
-> — **Socrates**
+> — **Jonathan Swift**
 
 </td>
 </tr>
@@ -325,18 +325,18 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 
 ### 🧠 Fun Fact
 
-> The U.S. Post Office handles 43 percent of the world’s mail.
+> The average person spends about two years on the phone in a lifetime.
 
 </td>
 <td>
 
 ### 🌙 Moon Phase
 
-> 🌗 Last Quarter
+> 🌘 Waning Crescent
 
-### 📜 On This Day (June 10)
+### 📜 On This Day (June 11)
 
-> **1838** — At least 28 unarmed Indigenous Australians were massacred at Myall Creek, New South Wales.
+> **1914** — Around 2,000 members of European society attended a ball at Kenwood House, England, in one of the last major social events before the outbreak of the First World War.
 
 </td>
 </tr>
@@ -349,16 +349,16 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 
 | 🎉 Event | 📅 Days Left |
 |-----------|-------------|
-| 🎆 New Year | `█████████░░░░░░░░░░░` **204** days |
-| 💝 Valentine's Day | `███████░░░░░░░░░░░░░` **248** days |
-| 🥧 Pi Day | `█████░░░░░░░░░░░░░░░` **276** days |
-| 🍀 St. Patrick's Day | `█████░░░░░░░░░░░░░░░` **279** days |
-| 🌍 Earth Day | `███░░░░░░░░░░░░░░░░░` **315** days |
-| ⚔️ Star Wars Day | `███░░░░░░░░░░░░░░░░░` **327** days |
-| ☀️ Summer Solstice | `████████████████████` **9** days |
-| 🎃 Halloween | `█████████████░░░░░░░` **142** days |
-| 🎄 Christmas | `██████████░░░░░░░░░░` **197** days |
-| 🎊 New Year's Eve | `█████████░░░░░░░░░░░` **203** days |
+| 🎆 New Year | `█████████░░░░░░░░░░░` **203** days |
+| 💝 Valentine's Day | `███████░░░░░░░░░░░░░` **247** days |
+| 🥧 Pi Day | `█████░░░░░░░░░░░░░░░` **275** days |
+| 🍀 St. Patrick's Day | `█████░░░░░░░░░░░░░░░` **278** days |
+| 🌍 Earth Day | `███░░░░░░░░░░░░░░░░░` **314** days |
+| ⚔️ Star Wars Day | `███░░░░░░░░░░░░░░░░░` **326** days |
+| ☀️ Summer Solstice | `████████████████████` **8** days |
+| 🎃 Halloween | `█████████████░░░░░░░` **141** days |
+| 🎄 Christmas | `██████████░░░░░░░░░░` **196** days |
+| 🎊 New Year's Eve | `█████████░░░░░░░░░░░` **202** days |
 
 ---
 
