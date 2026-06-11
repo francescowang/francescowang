@@ -193,7 +193,7 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>🌬️ Wind</th>
 <th>☁️ Conditions</th>
 </tr>
-<tr><td>🇧🇷 <b>São Paulo</b></td><td>15.8°C</td><td>98%</td><td>2.8 km/h</td><td>🌧️ Light rain</td></tr>
+<tr><td>🇧🇷 <b>São Paulo</b></td><td colspan='4'>Data unavailable</td></tr>
 <tr><td>🇦🇷 <b>Buenos Aires</b></td><td colspan='4'>Data unavailable</td></tr>
 <tr><td>🇵🇪 <b>Lima</b></td><td colspan='4'>Data unavailable</td></tr>
 </table>
@@ -237,7 +237,7 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 </details>
 <!-- WEATHER END -->
 
-<sub>🕐 Last weather update: <b>11 Jun 2026, 08:23 UTC</b> · Data from OpenWeatherMap</sub>
+<sub>🕐 Last weather update: <b>11 Jun 2026, 10:33 UTC</b> · Data from OpenWeatherMap</sub>
 
 ---
 
