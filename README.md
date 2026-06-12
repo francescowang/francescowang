@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/'>AI agent bankrupted their operator while trying to scan DN42</a></td><td>385 👍</td><td>124 💬</td></tr>
-<tr><td>2.</td><td><a href='https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf'>Nobody ever gets credit for fixing problems that never happened (20...</a></td><td>418 👍</td><td>141 💬</td></tr>
-<tr><td>3.</td><td><a href='https://tombedor.dev/human-attention-and-human-effort/'>If you are asking for human attention, demonstrate human effort</a></td><td>637 👍</td><td>199 💬</td></tr>
-<tr><td>4.</td><td><a href='https://www.korte.co/2026/06/11/digital-sovereignty-becomes-an-imparative-as-the-us-reads-dutch-emails/'>Digital Sovereignty Becomes an Imperative as the US Reads Dutch Emails</a></td><td>63 👍</td><td>52 💬</td></tr>
-<tr><td>5.</td><td><a href='https://brew.sh/2026/06/11/homebrew-6.0.0/'>Show HN: Homebrew 6.0.0</a></td><td>1183 👍</td><td>273 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.theguardian.com/culture/2026/jan/05/raiders-of-the-lost-ark-hit-video-game-prince-of-persia'>How we made hit video game Prince of Persia</a></td><td>92 👍</td><td>23 💬</td></tr>
-<tr><td>7.</td><td><a href='https://fablepool.com'>Show HN: FablePool – pool money behind a prompt, and Fable builds i...</a></td><td>382 👍</td><td>193 💬</td></tr>
-<tr><td>8.</td><td><a href='https://magicvinyldigital.net/2025/04/27/vinyl-succumbs-to-loudness-war-more-than-just-collateral-damage/'>Vinyl succumbs to Loudness War: more than just collateral damage (2...</a></td><td>56 👍</td><td>67 💬</td></tr>
-<tr><td>9.</td><td><a href='https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/'>Claude Fable is relentlessly proactive</a></td><td>388 👍</td><td>310 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail'>Anthropic apologizes for invisible Claude Fable guardrails</a></td><td>406 👍</td><td>373 💬</td></tr>
+<tr><td>1.</td><td><a href='https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/'>AI agent bankrupted their operator while trying to scan DN42</a></td><td>925 👍</td><td>343 💬</td></tr>
+<tr><td>2.</td><td><a href='https://arxiv.org/abs/2606.13473'>Maxproof</a></td><td>46 👍</td><td>1 💬</td></tr>
+<tr><td>3.</td><td><a href='https://tombedor.dev/human-attention-and-human-effort/'>If you are asking for human attention, demonstrate human effort</a></td><td>1034 👍</td><td>344 💬</td></tr>
+<tr><td>4.</td><td><a href='https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf'>Nobody ever gets credit for fixing problems that never happened (20...</a></td><td>565 👍</td><td>185 💬</td></tr>
+<tr><td>5.</td><td><a href='https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/'>Ryanair dark UX patterns summer 2026 refresher</a></td><td>119 👍</td><td>91 💬</td></tr>
+<tr><td>6.</td><td><a href='https://brew.sh/2026/06/11/homebrew-6.0.0/'>Show HN: Homebrew 6.0.0</a></td><td>1323 👍</td><td>317 💬</td></tr>
+<tr><td>7.</td><td><a href='https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci'>Hazel (YC W24) Is Hiring a Full Stack Engineer</a></td><td>1 👍</td><td>0 💬</td></tr>
+<tr><td>8.</td><td><a href='https://discourse.ifin.network/t/400-aur-packages-compromised-with-infostealer-and-rootkit/577'>AUR Packages Compromised with Infostealer and Rootkit</a></td><td>113 👍</td><td>50 💬</td></tr>
+<tr><td>9.</td><td><a href='https://huggingface.co/moonshotai/Kimi-K2.7-Code'>Kimi K2.7-Code: open-source coding model with better token efficiency</a></td><td>146 👍</td><td>63 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.theguardian.com/culture/2026/jan/05/raiders-of-the-lost-ark-hit-video-game-prince-of-persia'>How we made hit video game Prince of Persia</a></td><td>182 👍</td><td>69 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>12 Jun 2026, 08:15 UTC</b> · Data from Hacker News</sub>
+<b>12 Jun 2026, 13:40 UTC</b>
 
 ---
 
