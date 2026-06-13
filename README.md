@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://koenvangilst.nl/lab/claude-fable-shepherds-dog'>Shepherd's Dog: A Game by the Most Dangerous AI Model</a></td><td>46 👍</td><td>32 💬</td></tr>
-<tr><td>2.</td><td><a href='https://blog.unitedheroes.net/5751'>Leaving Mozilla</a></td><td>46 👍</td><td>0 💬</td></tr>
-<tr><td>3.</td><td><a href='https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow'>There is a shadow hanging over this Fable thing</a></td><td>173 👍</td><td>133 💬</td></tr>
-<tr><td>4.</td><td><a href='https://www.anthropic.com/news/fable-mythos-access'>Statement on US government directive to suspend access to Fable 5 a...</a></td><td>2038 👍</td><td>1498 💬</td></tr>
-<tr><td>5.</td><td><a href='https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/'>Electric motors with no rare earths</a></td><td>397 👍</td><td>101 💬</td></tr>
-<tr><td>6.</td><td><a href='https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/'>CRISPR tech selectively shreds cancer cells, including "undruggable...</a></td><td>797 👍</td><td>189 💬</td></tr>
-<tr><td>7.</td><td><a href='https://opensourceaimustwin.com/?share=v2'>Open source AI must win</a></td><td>792 👍</td><td>244 💬</td></tr>
-<tr><td>8.</td><td><a href='https://depthfirst.com/research/21-zero-days-in-ffmpeg'>Twenty One Zero-Days in FFmpeg</a></td><td>184 👍</td><td>112 💬</td></tr>
-<tr><td>9.</td><td><a href='https://putt.day/'>Show HN: Putt.day a daily mini golf game</a></td><td>150 👍</td><td>70 💬</td></tr>
-<tr><td>10.</td><td><a href='https://spectrum.ieee.org/computer-science-degree-isnt-dead'>The computer science degree isn’t dead</a></td><td>73 👍</td><td>51 💬</td></tr>
+<tr><td>1.</td><td><a href='https://hallucinate.site/gallery'>Show HN: 2 Weeks of Hallucinate – The Photo Gallery</a></td><td>23 👍</td><td>5 💬</td></tr>
+<tr><td>2.</td><td><a href='https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/'>A low-carbon computing platform from your retired phones</a></td><td>72 👍</td><td>30 💬</td></tr>
+<tr><td>3.</td><td><a href='https://blog.unitedheroes.net/5751'>Leaving Mozilla</a></td><td>303 👍</td><td>172 💬</td></tr>
+<tr><td>4.</td><td><a href='https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko'>An Interview with Intel's Kira Boyko: Xeon 6's Product Director</a></td><td>7 👍</td><td>0 💬</td></tr>
+<tr><td>5.</td><td><a href='https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/'>Electric motors with no rare earths</a></td><td>541 👍</td><td>158 💬</td></tr>
+<tr><td>6.</td><td><a href='https://areweguiyet.com/#ecosystem'>The state of building user interfaces in Rust</a></td><td>34 👍</td><td>16 💬</td></tr>
+<tr><td>7.</td><td><a href='https://www.anthropic.com/news/fable-mythos-access'>Statement on US government directive to suspend access to Fable 5 a...</a></td><td>2617 👍</td><td>1887 💬</td></tr>
+<tr><td>8.</td><td><a href='https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/'>CRISPR tech selectively shreds cancer cells, including "undruggable...</a></td><td>861 👍</td><td>194 💬</td></tr>
+<tr><td>9.</td><td><a href='https://github.com/Paca-AI/paca'>Show HN: Paca – Lightweight Jira alternative for human-AI collabora...</a></td><td>46 👍</td><td>21 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500'>Arch Linux Now Believes Malware Incident Under Control: More Than 1...</a></td><td>44 👍</td><td>5 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>13 Jun 2026, 08:01 UTC</b> · Data from Hacker News</sub>
+<b>13 Jun 2026, 13:02 UTC</b>
 
 ---
 
