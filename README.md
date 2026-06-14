@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows'>Don't trust large context windows</a></td><td>37 👍</td><td>23 💬</td></tr>
-<tr><td>2.</td><td><a href='https://juniperspring.org/posts/honda-evil-valet/'>Honda Civics and the Evil Valet</a></td><td>240 👍</td><td>39 💬</td></tr>
-<tr><td>3.</td><td><a href='https://phoenixframework.org/blog/phoenix-liveview-1-2-released'>Phoenix LiveView 1.2 Released</a></td><td>68 👍</td><td>10 💬</td></tr>
-<tr><td>4.</td><td><a href='https://news.ucr.edu/articles/2026/06/10/consciousness-likely-not-unique-earthlings-paper-says'>Consciousness likely not unique to earthlings, paper says</a></td><td>24 👍</td><td>24 💬</td></tr>
-<tr><td>5.</td><td><a href='https://sqltoerdiagram.com/'>Free SQL→ER diagram tool, runs in the browser, nothing uploaded</a></td><td>72 👍</td><td>16 💬</td></tr>
-<tr><td>6.</td><td><a href='https://twitter.com/jietang/status/2065784751345287314'>GLM 5.2 Is Out</a></td><td>539 👍</td><td>288 💬</td></tr>
-<tr><td>7.</td><td><a href='https://desfontain.es/blog/banning-noise.html'>Noise infusion banned from statistical products published by Census...</a></td><td>812 👍</td><td>507 💬</td></tr>
-<tr><td>8.</td><td><a href='http://tribblix.org/'>Tribblix: The retro Illumos distribution</a></td><td>28 👍</td><td>7 💬</td></tr>
-<tr><td>9.</td><td><a href='https://tonsky.me/blog/every-frame-perfect/'>Every Frame Perfect</a></td><td>676 👍</td><td>223 💬</td></tr>
-<tr><td>10.</td><td><a href='https://replicated.wiki/blog/uris.html'>Beagle: Git, URIs and all the dirty words</a></td><td>5 👍</td><td>0 💬</td></tr>
+<tr><td>1.</td><td><a href='https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript'>The Birth and Death of JavaScript (2014)</a></td><td>13 👍</td><td>4 💬</td></tr>
+<tr><td>2.</td><td><a href='https://sqltoerdiagram.com/'>Free SQL→ER diagram tool, runs in the browser, nothing uploaded</a></td><td>238 👍</td><td>44 💬</td></tr>
+<tr><td>3.</td><td><a href='https://juniperspring.org/posts/honda-evil-valet/'>Honda Civics and the Evil Valet</a></td><td>319 👍</td><td>68 💬</td></tr>
+<tr><td>4.</td><td><a href='https://twitter.com/jietang/status/2065784751345287314'>GLM 5.2 Is Out</a></td><td>657 👍</td><td>375 💬</td></tr>
+<tr><td>5.</td><td><a href='https://medium.com/@stassaf.uae/windows-1-0-and-the-winapi-40-years-later-abaf64832918'>Windows 1.0 and the WinAPI, 40 Years Later</a></td><td>24 👍</td><td>11 💬</td></tr>
+<tr><td>6.</td><td><a href='https://phys.org/news/2026-05-historic-monasteries-digital-countries.html'>500-year-old monasteries outperform at digital transformation (U. o...</a></td><td>46 👍</td><td>30 💬</td></tr>
+<tr><td>7.</td><td><a href='https://desfontain.es/blog/banning-noise.html'>Noise infusion banned from statistical products published by Census...</a></td><td>847 👍</td><td>531 💬</td></tr>
+<tr><td>8.</td><td><a href='https://tonsky.me/blog/every-frame-perfect/'>Every Frame Perfect</a></td><td>776 👍</td><td>249 💬</td></tr>
+<tr><td>9.</td><td><a href='https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows'>Don't trust large context windows</a></td><td>154 👍</td><td>109 💬</td></tr>
+<tr><td>10.</td><td><a href='https://screen.toys/firewood/'>Firewood Splitting Simulator</a></td><td>14 👍</td><td>2 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>14 Jun 2026, 08:13 UTC</b> · Data from Hacker News</sub>
+<b>14 Jun 2026, 13:06 UTC</b>
 
 ---
 
