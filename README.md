@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/'>Your ePub Is fine</a></td><td>553 👍</td><td>186 💬</td></tr>
-<tr><td>2.</td><td><a href='https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models'>Apple Foundation Models</a></td><td>91 👍</td><td>21 💬</td></tr>
-<tr><td>3.</td><td><a href='https://karthinks.com/software/even-more-batteries-included-with-emacs/'>Even more batteries included with Emacs</a></td><td>181 👍</td><td>35 💬</td></tr>
-<tr><td>4.</td><td><a href='https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/'>Curl will not accept vulnerability reports during July 2026</a></td><td>347 👍</td><td>97 💬</td></tr>
-<tr><td>5.</td><td><a href='https://github.com/tamnd/kage'>Show HN: Kage – Shadow any website to a single binary for offline v...</a></td><td>552 👍</td><td>108 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.fractalkitty.com/there-is-3-such-that/'>There Is(Ǝ) – Such That (∋)</a></td><td>26 👍</td><td>9 💬</td></tr>
-<tr><td>7.</td><td><a href='https://bitsy.org/'>Bitsy</a></td><td>187 👍</td><td>5 💬</td></tr>
-<tr><td>8.</td><td><a href='https://screen.toys/firewood/'>Firewood Splitting Simulator</a></td><td>806 👍</td><td>240 💬</td></tr>
-<tr><td>9.</td><td><a href='https://www.ycombinator.com/companies/dalus/jobs/5IDmKJt-senior-software-frontend-engineer-germany-office'>Dalus (YC W25) Is Hiring a Senior Software Engineer in Germany</a></td><td>1 👍</td><td>0 💬</td></tr>
-<tr><td>10.</td><td><a href='https://kottke.org/26/06/the-last-surviving-japanese-porsche-912-police-car'>The Last Surviving Japanese Porsche 912 Police Car</a></td><td>83 👍</td><td>28 💬</td></tr>
+<tr><td>1.</td><td><a href='https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL'>Salesforce to Acquire Fin (formerly Intercom) for $3.6BN</a></td><td>154 👍</td><td>95 💬</td></tr>
+<tr><td>2.</td><td><a href='https://crankgpt.com'>CrankGPT</a></td><td>37 👍</td><td>13 💬</td></tr>
+<tr><td>3.</td><td><a href='https://mrmarket.lol/what-the-fuck-happened-to-nerds/'>What the Fuck Happened to Nerds</a></td><td>585 👍</td><td>360 💬</td></tr>
+<tr><td>4.</td><td><a href='https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/'>Your ePub Is fine</a></td><td>768 👍</td><td>251 💬</td></tr>
+<tr><td>5.</td><td><a href='https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models'>Apple Foundation Models</a></td><td>299 👍</td><td>130 💬</td></tr>
+<tr><td>6.</td><td><a href='https://github.com/themartiano/luz'>Show HN: I wrote a C++ ray tracer from scratch without AI</a></td><td>84 👍</td><td>28 💬</td></tr>
+<tr><td>7.</td><td><a href='https://www.praf.me/it-used-to-be-hard'>It used to be hard</a></td><td>28 👍</td><td>16 💬</td></tr>
+<tr><td>8.</td><td><a href='https://prahladyeri.github.io/guides/applying-brevity-and-language-efficiency-to-prompt-engineering.html'>Applying Brevity and Language Efficiency in Prompt Engineering</a></td><td>22 👍</td><td>12 💬</td></tr>
+<tr><td>9.</td><td><a href='https://openrouter.ai/openrouter/fusion'>Openrouter Fusion API</a></td><td>119 👍</td><td>48 💬</td></tr>
+<tr><td>10.</td><td><a href='https://karthinks.com/software/even-more-batteries-included-with-emacs/'>Even more batteries included with Emacs</a></td><td>278 👍</td><td>81 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>15 Jun 2026, 08:45 UTC</b> · Data from Hacker News</sub>
+<b>15 Jun 2026, 14:37 UTC</b>
 
 ---
 
