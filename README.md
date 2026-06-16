@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419'>The time the x86 emulator team found code so bad they fixed it duri...</a></td><td>210 👍</td><td>59 💬</td></tr>
-<tr><td>2.</td><td><a href='https://roman.pt/posts/linkedin-backdoor/'>A backdoor in a LinkedIn job offer</a></td><td>1103 👍</td><td>204 💬</td></tr>
-<tr><td>3.</td><td><a href='https://twitter.com/ID_AA_Carmack/status/2064095424420487226'>John Carmack on Fabrice Bellard</a></td><td>198 👍</td><td>120 💬</td></tr>
-<tr><td>4.</td><td><a href='https://www.richardosgood.com/posts/banned-book-library/'>Banned Book Library in a Wi-Fi Smart Light Bulb</a></td><td>355 👍</td><td>186 💬</td></tr>
-<tr><td>5.</td><td><a href='https://www.iroh.computer/blog/v1'>Iroh 1.0</a></td><td>1148 👍</td><td>348 💬</td></tr>
-<tr><td>6.</td><td><a href='https://devblogs.microsoft.com/oldnewthing/20260611-00/?p=112415'>Understanding the rationale behind a rule when trying to circumvent it</a></td><td>15 👍</td><td>1 💬</td></tr>
-<tr><td>7.</td><td><a href='https://news.ycombinator.com/item?id=48542100'>Ask HN: Has anyone replaced Claude/GPT with a local model for daily...</a></td><td>945 👍</td><td>424 💬</td></tr>
-<tr><td>8.</td><td><a href='https://garden-of-flowers.heikkilotvonen.com/'>Show HN: Garden of Flowers – an archive of pictorial typography bef...</a></td><td>65 👍</td><td>11 💬</td></tr>
-<tr><td>9.</td><td><a href='https://tinywind.io'>TinyWind: A pixel pirate sailing game with real wind physics (380k+...</a></td><td>803 👍</td><td>152 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.youtube.com/watch?v=hPrtVGimBYs'>I hacked into the worst e-bike and fixed it [video]</a></td><td>82 👍</td><td>33 💬</td></tr>
+<tr><td>1.</td><td><a href='https://ciechanow.ski/mechanical-watch/'>Mechanical Watch (2022)</a></td><td>268 👍</td><td>40 💬</td></tr>
+<tr><td>2.</td><td><a href='https://tck.mn/blog/correlated-randomness-sts2/'>Correlated randomness in Slay the Spire 2</a></td><td>106 👍</td><td>40 💬</td></tr>
+<tr><td>3.</td><td><a href='https://twitter.com/ID_AA_Carmack/status/2064095424420487226'>John Carmack on Fabrice Bellard</a></td><td>512 👍</td><td>262 💬</td></tr>
+<tr><td>4.</td><td><a href='https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419'>The time the x86 emulator team found code so bad they fixed it duri...</a></td><td>390 👍</td><td>112 💬</td></tr>
+<tr><td>5.</td><td><a href='https://roman.pt/posts/linkedin-backdoor/'>A backdoor in a LinkedIn job offer</a></td><td>1373 👍</td><td>266 💬</td></tr>
+<tr><td>6.</td><td><a href='https://shadycharacters.co.uk/2026/06/ollie-wagner/'>An interview with an Apple emoji designer</a></td><td>14 👍</td><td>2 💬</td></tr>
+<tr><td>7.</td><td><a href='https://sighack.com/post/getting-creative-with-perlin-noise-fields'>Getting Creative with Perlin Noise Fields</a></td><td>84 👍</td><td>15 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.iroh.computer/blog/v1'>Iroh 1.0</a></td><td>1288 👍</td><td>398 💬</td></tr>
+<tr><td>9.</td><td><a href='https://www.unicorn-engine.org/'>Unicorn – The Ultimate CPU Emulator</a></td><td>16 👍</td><td>1 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827'>Feds freaked over Fable 5 after simple 'fix this code' prompt, not ...</a></td><td>277 👍</td><td>146 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>16 Jun 2026, 08:43 UTC</b> · Data from Hacker News</sub>
+<b>16 Jun 2026, 14:17 UTC</b>
 
 ---
 
