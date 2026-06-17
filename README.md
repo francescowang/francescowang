@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon'>GrapheneOS has been ported to Android 17</a></td><td>718 👍</td><td>323 💬</td></tr>
-<tr><td>2.</td><td><a href='https://claude.com/blog/the-founders-playbook'>The founder's playbook: Building an AI-native startup</a></td><td>51 👍</td><td>49 💬</td></tr>
-<tr><td>3.</td><td><a href='https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/'>Running local models is good now</a></td><td>1280 👍</td><td>497 💬</td></tr>
-<tr><td>4.</td><td><a href='https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/'>Humiliating IIS servers for fun and jail time</a></td><td>232 👍</td><td>54 💬</td></tr>
-<tr><td>5.</td><td><a href='https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/'>Wolfram Language and Mathematica version 15</a></td><td>159 👍</td><td>75 💬</td></tr>
-<tr><td>6.</td><td><a href='https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/'>TIL: You can make HTTP requests without curl using Bash /dev/TCP</a></td><td>398 👍</td><td>186 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.theguardian.com/science/2026/jun/11/arbuscular-mycorrhizal-fungi-plant-life-climate-global-mapping-study'>Subterranean fungi networks more than 100 quadrillion km in length</a></td><td>47 👍</td><td>5 💬</td></tr>
-<tr><td>8.</td><td><a href='https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of'>Calvin and Hobbes and the price of integrity</a></td><td>405 👍</td><td>176 💬</td></tr>
-<tr><td>9.</td><td><a href='https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/'>GPT‑NL: a sovereign language model for the Netherlands</a></td><td>204 👍</td><td>199 💬</td></tr>
-<tr><td>10.</td><td><a href='https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/'>Has AI already killed self-help nonfiction books?</a></td><td>279 👍</td><td>305 💬</td></tr>
+<tr><td>1.</td><td><a href='https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars'>Want your images back? Sure... That'll be $5!</a></td><td>92 👍</td><td>38 💬</td></tr>
+<tr><td>2.</td><td><a href='https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index'>GLM-5.2 is the new leading open weights model on Artificial Analysis</a></td><td>365 👍</td><td>187 💬</td></tr>
+<tr><td>3.</td><td><a href='https://wpvip.com/future-of-the-web-2026/'>Sixty percent of US consumers say 'AI' in brand messaging is a turnoff</a></td><td>280 👍</td><td>151 💬</td></tr>
+<tr><td>4.</td><td><a href='https://www.rfc-editor.org/info/rfc10008/'>RFC 10008: The new HTTP Query Method</a></td><td>111 👍</td><td>52 💬</td></tr>
+<tr><td>5.</td><td><a href='https://github.com/rxi/microui'>MicroUI – A tiny, portable, immediate-mode UI library written in AN...</a></td><td>28 👍</td><td>10 💬</td></tr>
+<tr><td>6.</td><td><a href='https://cells2pixels.github.io/'>Show HN: High-Res Neural Cellular Automata</a></td><td>109 👍</td><td>19 💬</td></tr>
+<tr><td>7.</td><td><a href='https://bubbles.town/'>Hacker News but for Independent Blogs</a></td><td>234 👍</td><td>78 💬</td></tr>
+<tr><td>8.</td><td><a href='https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon'>GrapheneOS has been ported to Android 17</a></td><td>878 👍</td><td>460 💬</td></tr>
+<tr><td>9.</td><td><a href='https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/'>Running local models is good now</a></td><td>1412 👍</td><td>546 💬</td></tr>
+<tr><td>10.</td><td><a href='https://airfields-freeman.com/'>Abandoned and Little-Known Airfields</a></td><td>38 👍</td><td>4 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>17 Jun 2026, 08:36 UTC</b> · Data from Hacker News</sub>
+<b>17 Jun 2026, 13:45 UTC</b>
 
 ---
 
