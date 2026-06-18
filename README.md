@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.midjourney.com/medical/blogpost'>Midjourney Medical</a></td><td>628 👍</td><td>439 💬</td></tr>
-<tr><td>2.</td><td><a href='https://chat.deepseek.com/'>DeepSeek Introduces Vision</a></td><td>79 👍</td><td>34 💬</td></tr>
-<tr><td>3.</td><td><a href='https://www.acma.gov.au/sms-sender-id-register'>The Australian Government to Require SMS/MMS Sender ID Registraion</a></td><td>57 👍</td><td>31 💬</td></tr>
-<tr><td>4.</td><td><a href='https://blog.alexellis.io/local-ai-is-not-opus/'>Local Qwen isn't a worse Opus, it's a different tool</a></td><td>165 👍</td><td>70 💬</td></tr>
-<tr><td>5.</td><td><a href='https://lore.org/'>Lore – Open source version control system designed for scalability</a></td><td>1113 👍</td><td>595 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/'>US holds off blacklisting DeepSeek, more than 100 firms deemed secu...</a></td><td>445 👍</td><td>497 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.horg.com/horg/?page_id=921'>Taxonomy of the Occlupanida (parasitoids on bread bag tags)</a></td><td>142 👍</td><td>34 💬</td></tr>
-<tr><td>8.</td><td><a href='https://tadaima.bearblog.dev/the-2-year-apartment-rule/'>The 2-Year Apartment Rule</a></td><td>11 👍</td><td>9 💬</td></tr>
-<tr><td>9.</td><td><a href='https://storiedcolors.com/'>Storied Colors – A catalogue of named colors</a></td><td>156 👍</td><td>35 💬</td></tr>
-<tr><td>10.</td><td><a href='https://conf.nim-lang.org/'>Nim Conf 2026 (Online, Sat June 20)</a></td><td>39 👍</td><td>6 💬</td></tr>
+<tr><td>1.</td><td><a href='https://www.rahuljuliato.com/posts/emacs-31-around-the-corner'>Emacs 31 Is Around the Corner: The Changes I'm Daily Driving</a></td><td>99 👍</td><td>12 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.realtor.com/advice/rent/wages-in-america-are-too-low-for-the-30-rule-to-work-for-renters-anymore/'>Wages in America Are Too Low for the 30% Rule to Work for Renters A...</a></td><td>55 👍</td><td>47 💬</td></tr>
+<tr><td>3.</td><td><a href='https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/'>Has W Social switched to closed source?</a></td><td>42 👍</td><td>15 💬</td></tr>
+<tr><td>4.</td><td><a href='https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost'>Hospitals and universities repurposing drugs at 90% lower cost</a></td><td>101 👍</td><td>39 💬</td></tr>
+<tr><td>5.</td><td><a href='https://www.midjourney.com/medical/blogpost'>Midjourney Medical</a></td><td>991 👍</td><td>685 💬</td></tr>
+<tr><td>6.</td><td><a href='https://orchidfiles.com/github-repositories-distributing-malware/'>I found 10k GitHub repositories distributing Trojan malware</a></td><td>45 👍</td><td>5 💬</td></tr>
+<tr><td>7.</td><td><a href='https://chat.deepseek.com/'>DeepSeek Introduces Vision</a></td><td>258 👍</td><td>104 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch'>We built a persistent agent memory layer on Elasticsearch with 0.89...</a></td><td>34 👍</td><td>6 💬</td></tr>
+<tr><td>9.</td><td><a href='https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/'>Advanced Compilers: The Self-Guided Online Course</a></td><td>34 👍</td><td>0 💬</td></tr>
+<tr><td>10.</td><td><a href='https://blog.alexellis.io/local-ai-is-not-opus/'>Local Qwen isn't a worse Opus, it's a different tool</a></td><td>316 👍</td><td>164 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>18 Jun 2026, 08:26 UTC</b> · Data from Hacker News</sub>
+<b>18 Jun 2026, 13:41 UTC</b>
 
 ---
 
