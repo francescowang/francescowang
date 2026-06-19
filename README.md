@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.jvm-weekly.com/p/project-valhalla-explained-how-a'>Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28</a></td><td>58 👍</td><td>25 💬</td></tr>
-<tr><td>2.</td><td><a href='https://www.greybeam.ai/blog/duckdb-internals-part-1'>DuckDB Internals: Why Is DuckDB Fast? (Part 1)</a></td><td>146 👍</td><td>53 💬</td></tr>
-<tr><td>3.</td><td><a href='https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610'>To study how chips work, MIT researchers built their own operating ...</a></td><td>169 👍</td><td>21 💬</td></tr>
-<tr><td>4.</td><td><a href='https://mnot.net/blog/2026/well_known_uris'>So You Want to Define a Well-Known URI</a></td><td>40 👍</td><td>19 💬</td></tr>
-<tr><td>5.</td><td><a href='https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning'>Zen and the Art of Machine Learning Research</a></td><td>41 👍</td><td>12 💬</td></tr>
-<tr><td>6.</td><td><a href='https://mickael.canouil.fr/posts/2026-06-15-gribouille-0-3/'>Gribouille 0.3.0: A Grammar of Graphics for Typst</a></td><td>68 👍</td><td>18 💬</td></tr>
-<tr><td>7.</td><td><a href='https://orchidfiles.com/github-repositories-distributing-malware/'>I found 10k GitHub repositories distributing Trojan malware</a></td><td>779 👍</td><td>202 💬</td></tr>
-<tr><td>8.</td><td><a href='https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/'>Zero-Touch OAuth for MCP</a></td><td>188 👍</td><td>65 💬</td></tr>
-<tr><td>9.</td><td><a href='https://arun.is/blog/jr-logo/'>How Japan's railways stayed one while splitting apart</a></td><td>86 👍</td><td>71 💬</td></tr>
-<tr><td>10.</td><td><a href='https://simonwillison.net/2026/Jun/18/datasette-apps/'>Datasette Apps: Host custom HTML applications inside Datasette</a></td><td>71 👍</td><td>25 💬</td></tr>
+<tr><td>1.</td><td><a href='https://www.jvm-weekly.com/p/project-valhalla-explained-how-a'>Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28</a></td><td>290 👍</td><td>143 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.jakeworth.com/posts/leave-a-trace'>Leave a Trace</a></td><td>19 👍</td><td>5 💬</td></tr>
+<tr><td>3.</td><td><a href='https://www.greybeam.ai/blog/duckdb-internals-part-1'>DuckDB Internals: Why Is DuckDB Fast? (Part 1)</a></td><td>265 👍</td><td>81 💬</td></tr>
+<tr><td>4.</td><td><a href='https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610'>To study how chips work, MIT researchers built their own operating ...</a></td><td>242 👍</td><td>35 💬</td></tr>
+<tr><td>5.</td><td><a href='https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning'>Zen and the Art of Machine Learning Research</a></td><td>116 👍</td><td>38 💬</td></tr>
+<tr><td>6.</td><td><a href='https://mnot.net/blog/2026/well_known_uris'>So You Want to Define a Well-Known URI</a></td><td>106 👍</td><td>49 💬</td></tr>
+<tr><td>7.</td><td><a href='https://clickhouse.com/blog/open-source-10'>Ten years of ClickHouse in open source</a></td><td>117 👍</td><td>27 💬</td></tr>
+<tr><td>8.</td><td><a href='https://orchidfiles.com/github-repositories-distributing-malware/'>I found 10k GitHub repositories distributing Trojan malware</a></td><td>853 👍</td><td>224 💬</td></tr>
+<tr><td>9.</td><td><a href='https://mickael.canouil.fr/posts/2026-06-15-gribouille-0-3/'>Gribouille 0.3.0: A Grammar of Graphics for Typst</a></td><td>130 👍</td><td>47 💬</td></tr>
+<tr><td>10.</td><td><a href='https://wilsoniumite.com/2026/06/19/the-room-the-economy-cant-see/'>The room the economy can't see</a></td><td>96 👍</td><td>64 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>19 Jun 2026, 08:39 UTC</b> · Data from Hacker News</sub>
+<b>19 Jun 2026, 13:43 UTC</b>
 
 ---
 
