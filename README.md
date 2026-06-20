@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/'>I Stored a Website in a Favicon</a></td><td>83 👍</td><td>27 💬</td></tr>
-<tr><td>2.</td><td><a href='https://mattmahoney.net/dc/dce.html'>Data Compression Explained (2012)</a></td><td>98 👍</td><td>8 💬</td></tr>
-<tr><td>3.</td><td><a href='https://overreacted.io/there-are-no-instances-in-atproto/'>There are no instances in ATProto</a></td><td>425 👍</td><td>220 💬</td></tr>
-<tr><td>4.</td><td><a href='https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/'>Where to Find the Colors Your Screen Can't Show You</a></td><td>42 👍</td><td>6 💬</td></tr>
-<tr><td>5.</td><td><a href='https://www.ibm.com/think/news/discovery-changed-how-scientists-think-about-memory-kavli-prize'>The discovery that changed how scientists think about memory</a></td><td>37 👍</td><td>6 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.not-ship.com/can-you-see-three-trees/'>Can you see three trees?</a></td><td>75 👍</td><td>18 💬</td></tr>
-<tr><td>7.</td><td><a href='https://brooker.co.za/blog/2020/08/06/erlang.html'>Surprising economics of load-balanced systems</a></td><td>100 👍</td><td>23 💬</td></tr>
-<tr><td>8.</td><td><a href='https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/'>Hyundai buys Boston Dynamics</a></td><td>788 👍</td><td>348 💬</td></tr>
-<tr><td>9.</td><td><a href='https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/'>Norway imposes near ban on AI in elementary school</a></td><td>621 👍</td><td>428 💬</td></tr>
-<tr><td>10.</td><td><a href='https://vocabowl-870366514258.us-west1.run.app/'>How many of the 170k English words do you know?</a></td><td>341 👍</td><td>432 💬</td></tr>
+<tr><td>1.</td><td><a href='https://cssquake.com/'>CSSQuake</a></td><td>91 👍</td><td>18 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/'>I Stored a Website in a Favicon</a></td><td>190 👍</td><td>73 💬</td></tr>
+<tr><td>3.</td><td><a href='https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/'>Where to Find the Colors Your Screen Can't Show You</a></td><td>211 👍</td><td>51 💬</td></tr>
+<tr><td>4.</td><td><a href='https://www.tomshardware.com/pc-components/ssds/16-year-old-sata-ii-ssd-survives-1-petabyte-of-writes-25x-over-the-drives-tbw-rating'>16-year-old SATA II SSD survives 1 petabyte of writes, 25x the driv...</a></td><td>29 👍</td><td>9 💬</td></tr>
+<tr><td>5.</td><td><a href='https://thereader.mitpress.mit.edu/the-cold-wars-accidental-whale-observatory/'>The Cold War's Accidental Whale Observatory</a></td><td>19 👍</td><td>1 💬</td></tr>
+<tr><td>6.</td><td><a href='https://mattmahoney.net/dc/dce.html'>Data Compression Explained (2012)</a></td><td>149 👍</td><td>21 💬</td></tr>
+<tr><td>7.</td><td><a href='https://www.not-ship.com/can-you-see-three-trees/'>Can you see three trees?</a></td><td>178 👍</td><td>91 💬</td></tr>
+<tr><td>8.</td><td><a href='https://overreacted.io/there-are-no-instances-in-atproto/'>There are no instances in ATProto</a></td><td>472 👍</td><td>245 💬</td></tr>
+<tr><td>9.</td><td><a href='https://arrowtsx.dev/bigger-models/'>GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2</a></td><td>279 👍</td><td>111 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.ibm.com/think/news/discovery-changed-how-scientists-think-about-memory-kavli-prize'>The discovery that changed how scientists think about memory</a></td><td>78 👍</td><td>25 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>20 Jun 2026, 08:00 UTC</b> · Data from Hacker News</sub>
+<b>20 Jun 2026, 13:02 UTC</b>
 
 ---
 
