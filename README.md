@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://github.com/namgyaaal/avoxelgame'>A 3D voxel game engine written in APL</a></td><td>7 👍</td><td>0 💬</td></tr>
-<tr><td>2.</td><td><a href='https://fosterelli.co/developers-dont-understand-cors'>Developers don't understand CORS (2019)</a></td><td>159 👍</td><td>75 💬</td></tr>
-<tr><td>3.</td><td><a href='https://zeux.io/2026/06/17/zigzag-decoding-avx512/'>Zigzag Decoding with AVX-512</a></td><td>59 👍</td><td>4 💬</td></tr>
-<tr><td>4.</td><td><a href='https://github.com/mysk-research/loupe'>Loupe – A iOS app that raises awareness about what native apps can see</a></td><td>250 👍</td><td>75 💬</td></tr>
-<tr><td>5.</td><td><a href='https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland'>Renting a sewing machine from the library</a></td><td>211 👍</td><td>107 💬</td></tr>
-<tr><td>6.</td><td><a href='https://martinfowler.com/articles/reliable-llm-bayer.html'>Building reliable agentic AI systems</a></td><td>78 👍</td><td>15 💬</td></tr>
-<tr><td>7.</td><td><a href='https://sibexi.co/posts/epoll-vs-io_uring/'>Epoll vs. io_uring in Linux</a></td><td>139 👍</td><td>37 💬</td></tr>
-<tr><td>8.</td><td><a href='https://lcamtuf.substack.com/p/the-100000-whys-of-ai'>The 100k Whys of AI</a></td><td>85 👍</td><td>32 💬</td></tr>
-<tr><td>9.</td><td><a href='https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9'>Slow breathing modulates brain function and risk behavior</a></td><td>171 👍</td><td>38 💬</td></tr>
-<tr><td>10.</td><td><a href='https://townsquare.cauenapier.com/'>Show HN: TownSquare, a tiny presence layer for websites</a></td><td>157 👍</td><td>80 💬</td></tr>
+<tr><td>1.</td><td><a href='https://www.beyondallreason.info'>Beyond All Reason (Free Total Annihilation Inspired RTS)</a></td><td>45 👍</td><td>17 💬</td></tr>
+<tr><td>2.</td><td><a href='https://alexkritchevsky.com/2024/02/28/geometric-algebra.html'>The case against geometric algebra (2024)</a></td><td>45 👍</td><td>15 💬</td></tr>
+<tr><td>3.</td><td><a href='https://github.com/namgyaaal/avoxelgame'>A 3D voxel game engine written in APL</a></td><td>81 👍</td><td>7 💬</td></tr>
+<tr><td>4.</td><td><a href='https://github.com/proteanthread/bcg'>David Ahl's Basic Computer Games Ported to C</a></td><td>8 👍</td><td>2 💬</td></tr>
+<tr><td>5.</td><td><a href='https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/'>Google Hits 50% IPv6</a></td><td>210 👍</td><td>199 💬</td></tr>
+<tr><td>6.</td><td><a href='https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_anthropic_to_require_identity/'>Anthropic to Require ID Verification for Certain Capabilities Start...</a></td><td>34 👍</td><td>20 💬</td></tr>
+<tr><td>7.</td><td><a href='https://github.com/mysk-research/loupe'>Loupe – A iOS app that raises awareness about what native apps can see</a></td><td>364 👍</td><td>151 💬</td></tr>
+<tr><td>8.</td><td><a href='https://taoofmac.com/space/blog/2026/06/18/1845'>Running MicroVMs in Proxmox VE, the Easy Way</a></td><td>108 👍</td><td>9 💬</td></tr>
+<tr><td>9.</td><td><a href='https://zeux.io/2026/06/17/zigzag-decoding-avx512/'>Zigzag Decoding with AVX-512</a></td><td>92 👍</td><td>18 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland'>Renting a sewing machine from the library</a></td><td>261 👍</td><td>151 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>21 Jun 2026, 08:18 UTC</b> · Data from Hacker News</sub>
+<b>21 Jun 2026, 13:14 UTC</b>
 
 ---
 
