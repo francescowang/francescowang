@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://docs.deno.com/runtime/desktop/'>Deno Desktop</a></td><td>278 👍</td><td>97 💬</td></tr>
-<tr><td>2.</td><td><a href='https://techstackups.com/comparisons/glm-5.2-vs-opus/'>GLM 5.2 vs. Opus</a></td><td>84 👍</td><td>53 💬</td></tr>
-<tr><td>3.</td><td><a href='https://lmao.center/blog/wiggle-accidents/'>Help I accidentally a wigglegram</a></td><td>200 👍</td><td>32 💬</td></tr>
-<tr><td>4.</td><td><a href='https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/'>Did my old job only exist because of fraud?</a></td><td>519 👍</td><td>228 💬</td></tr>
-<tr><td>5.</td><td><a href='https://apertvs.ai/'>Apertus – Open Foundation Model for Sovereign AI</a></td><td>362 👍</td><td>122 💬</td></tr>
-<tr><td>6.</td><td><a href='https://github.com/openai/codex/issues/28224'>Codex logging bug may write TBs to local SSDs</a></td><td>43 👍</td><td>22 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.marble.onl/posts/cancel_claude.html'>There is minimal downside to switching to open models</a></td><td>212 👍</td><td>159 💬</td></tr>
-<tr><td>8.</td><td><a href='https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html'>Munich 1991: The Roots of the Current AI Boom</a></td><td>32 👍</td><td>6 💬</td></tr>
-<tr><td>9.</td><td><a href='https://fil-c.org/inlineasm'>Memory Safe Inline Assembly</a></td><td>99 👍</td><td>19 💬</td></tr>
-<tr><td>10.</td><td><a href='https://sakana.ai/fugu/'>Sakana Fugu</a></td><td>117 👍</td><td>68 💬</td></tr>
+<tr><td>1.</td><td><a href='https://mitchellh.com/writing/zig-donation-2026'>Pledging Another $400k to the Zig Software Foundation</a></td><td>141 👍</td><td>15 💬</td></tr>
+<tr><td>2.</td><td><a href='https://nevergivethemyourface.com/'>Never Give Them Your Face</a></td><td>23 👍</td><td>1 💬</td></tr>
+<tr><td>3.</td><td><a href='https://docs.deno.com/runtime/desktop/'>Deno Desktop</a></td><td>703 👍</td><td>273 💬</td></tr>
+<tr><td>4.</td><td><a href='https://techstackups.com/comparisons/glm-5.2-vs-opus/'>GLM 5.2 vs. Opus</a></td><td>286 👍</td><td>213 💬</td></tr>
+<tr><td>5.</td><td><a href='https://github.com/openai/codex/issues/28224'>Codex logging bug may write TBs to local SSDs</a></td><td>254 👍</td><td>140 💬</td></tr>
+<tr><td>6.</td><td><a href='https://www.righto.com/2020/05/die-analysis-of-8087-math-coprocessors.html'>Die analysis of the 8087 math coprocessor's fast bit shifter</a></td><td>5 👍</td><td>1 💬</td></tr>
+<tr><td>7.</td><td><a href='https://lmao.center/blog/wiggle-accidents/'>Help I accidentally a wigglegram</a></td><td>368 👍</td><td>81 💬</td></tr>
+<tr><td>8.</td><td><a href='https://steveharrison.dev/showdirectorypicker-opens-up-a-whole-new-world/'>window.showDirectoryPicker opens up a whole new world</a></td><td>52 👍</td><td>47 💬</td></tr>
+<tr><td>9.</td><td><a href='https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/'>Did my old job only exist because of fraud?</a></td><td>692 👍</td><td>311 💬</td></tr>
+<tr><td>10.</td><td><a href='https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html'>Munich 1991: The Roots of the Current AI Boom</a></td><td>151 👍</td><td>60 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>22 Jun 2026, 08:45 UTC</b> · Data from Hacker News</sub>
+<b>22 Jun 2026, 14:19 UTC</b>
 
 ---
 
