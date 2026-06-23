@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://store.steampowered.com/news/group/45479024/view/685257114654870245'>Steam Machine launches today</a></td><td>1507 👍</td><td>1318 💬</td></tr>
-<tr><td>2.</td><td><a href='https://swelljoe.com/post/will-it-mythos/'>Will It Mythos?</a></td><td>135 👍</td><td>79 💬</td></tr>
-<tr><td>3.</td><td><a href='https://kreya.app/blog/new-http-query-method-explained/'>The new HTTP QUERY method explained</a></td><td>33 👍</td><td>4 💬</td></tr>
-<tr><td>4.</td><td><a href='https://arxiv.org/abs/2606.16140'>VibeThinker: 3B param model that beats Opus 4.5 on reasoning with n...</a></td><td>153 👍</td><td>50 💬</td></tr>
-<tr><td>5.</td><td><a href='https://unsloth.ai/docs/models/glm-5.2'>GLM-5.2 – How to Run Locally</a></td><td>347 👍</td><td>151 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2'>Polymarket has flooded social media with deceptive videos by paid c...</a></td><td>237 👍</td><td>181 💬</td></tr>
-<tr><td>7.</td><td><a href='https://jchri.st/blog/in-praise-of-memcached/'>In praise of memcached</a></td><td>134 👍</td><td>51 💬</td></tr>
-<tr><td>8.</td><td><a href='https://blog.roboflow.com/yolo26/'>An Introduction to YOLO26</a></td><td>60 👍</td><td>18 💬</td></tr>
-<tr><td>9.</td><td><a href='https://openai.com/index/daybreak-securing-the-world/'>OpenAI DayBreak – GPT-5.5-Cyber</a></td><td>66 👍</td><td>27 💬</td></tr>
-<tr><td>10.</td><td><a href='https://arxiv.org/abs/2606.03748'>Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models</a></td><td>36 👍</td><td>5 💬</td></tr>
+<tr><td>1.</td><td><a href='https://github.com/baidu/Unlimited-OCR'>Unlimited OCR: One-Shot Long-Horizon Parsing</a></td><td>107 👍</td><td>29 💬</td></tr>
+<tr><td>2.</td><td><a href='https://store.steampowered.com/news/group/45479024/view/685257114654870245'>Steam Machine launches today</a></td><td>1720 👍</td><td>1465 💬</td></tr>
+<tr><td>3.</td><td><a href='https://lucumr.pocoo.org/2026/6/23/the-coming-loop/'>The Coming Loop</a></td><td>77 👍</td><td>52 💬</td></tr>
+<tr><td>4.</td><td><a href='https://plotnine.org/'>Plotnine</a></td><td>110 👍</td><td>26 💬</td></tr>
+<tr><td>5.</td><td><a href='https://swelljoe.com/post/will-it-mythos/'>Will It Mythos?</a></td><td>199 👍</td><td>134 💬</td></tr>
+<tr><td>6.</td><td><a href='https://unsloth.ai/docs/models/glm-5.2'>GLM-5.2 – How to Run Locally</a></td><td>457 👍</td><td>208 💬</td></tr>
+<tr><td>7.</td><td><a href='https://www.stephendiehl.com/posts/bad_place_2026/'>Crypto in 2026: Oh, This Is the Bad Place</a></td><td>148 👍</td><td>157 💬</td></tr>
+<tr><td>8.</td><td><a href='https://arxiv.org/abs/2606.16140'>VibeThinker: 3B param model that beats Opus 4.5 on reasoning with n...</a></td><td>259 👍</td><td>111 💬</td></tr>
+<tr><td>9.</td><td><a href='https://en.wikipedia.org/wiki/User:Larry_Sanger'>Wikipedia cofounder Larry Sanger blocked from editing Wikipedia</a></td><td>62 👍</td><td>36 💬</td></tr>
+<tr><td>10.</td><td><a href='https://ex-vi.sourceforge.net/'>The Traditional Vi</a></td><td>28 👍</td><td>18 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>23 Jun 2026, 08:01 UTC</b> · Data from Hacker News</sub>
+<b>23 Jun 2026, 13:26 UTC</b>
 
 ---
 
