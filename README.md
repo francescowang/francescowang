@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://words.filippo.io/vuln-reports/'>Vulnerability reports are not special anymore</a></td><td>235 👍</td><td>124 💬</td></tr>
-<tr><td>2.</td><td><a href='https://gitlab.com/baiyibai/pico-usb-wifi'>Raspberry Pi Pico W as USB Wi-Fi Adapter</a></td><td>93 👍</td><td>24 💬</td></tr>
-<tr><td>3.</td><td><a href='https://glyphcss.com'>Show HN: An ASCII 3D Rendering Engine</a></td><td>86 👍</td><td>27 💬</td></tr>
-<tr><td>4.</td><td><a href='http://www.jerrysmap.com/the-map'>Jerry's Map</a></td><td>448 👍</td><td>51 💬</td></tr>
-<tr><td>5.</td><td><a href='https://swipe.futo.tech/'>FUTO Swipe – A new swipe typing model</a></td><td>499 👍</td><td>154 💬</td></tr>
-<tr><td>6.</td><td><a href='https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451'>In memory of the man who put red and green squiggles under words</a></td><td>344 👍</td><td>46 💬</td></tr>
-<tr><td>7.</td><td><a href='https://arxiv.org/abs/2606.24597'>Qwen-AgentWorld: Language World Models for General Agents</a></td><td>71 👍</td><td>18 💬</td></tr>
-<tr><td>8.</td><td><a href='https://www.ashbyhq.com/careers?ashby_jid=87b96eef-edc1-4de4-adb6-d460126d02f8&utm_source=hn'>Ashby (YC W19) Is Hiring EMEA Engineers Who Can Design</a></td><td>1 👍</td><td>0 💬</td></tr>
-<tr><td>9.</td><td><a href='https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf'>"Fix" MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10...</a></td><td>69 👍</td><td>26 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.patreon.com/DanyBittel/posts/printing-splats-161333338'>Printing Gaussian Splats</a></td><td>275 👍</td><td>30 💬</td></tr>
+<tr><td>1.</td><td><a href='https://paolino.me/founding-a-company-in-germany/'>Founding a company in Germany: €9600, 152 days and I still can't se...</a></td><td>60 👍</td><td>38 💬</td></tr>
+<tr><td>2.</td><td><a href='https://bunny.net/blog/were-making-bunny-dns-free/'>We're making Bunny DNS free: because a faster internet won't build ...</a></td><td>385 👍</td><td>124 💬</td></tr>
+<tr><td>3.</td><td><a href='https://www.krea.ai/blog/krea-2-technical-report'>Krea 2 Technical Report</a></td><td>47 👍</td><td>3 💬</td></tr>
+<tr><td>4.</td><td><a href='https://images.minimus.io/'>Minimus container images are now free</a></td><td>31 👍</td><td>15 💬</td></tr>
+<tr><td>5.</td><td><a href='https://rworks.dev/posts/too-many-R-packages/'>Too many R packages: CRAN is inundated with submissions</a></td><td>32 👍</td><td>13 💬</td></tr>
+<tr><td>6.</td><td><a href='https://kolistat.com/blog/the-stats-duck-v0-6-0/'>Statistics that live in your SQL</a></td><td>66 👍</td><td>9 💬</td></tr>
+<tr><td>7.</td><td><a href='https://haystack.deepset.ai/'>Haystack: Open-Source AI Framework for Production Ready Agents, RAG</a></td><td>16 👍</td><td>4 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.sciencenews.org/article/deadly-fungus-cats-people-spreading'>A deadly fungus that can infect cats and people is spreading</a></td><td>82 👍</td><td>51 💬</td></tr>
+<tr><td>9.</td><td><a href='https://words.filippo.io/vuln-reports/'>Vulnerability reports are not special anymore</a></td><td>325 👍</td><td>176 💬</td></tr>
+<tr><td>10.</td><td><a href='https://gitlab.com/baiyibai/pico-usb-wifi'>Raspberry Pi Pico W as USB Wi-Fi Adapter</a></td><td>180 👍</td><td>83 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>24 Jun 2026, 07:58 UTC</b> · Data from Hacker News</sub>
+<b>24 Jun 2026, 13:17 UTC</b>
 
 ---
 
