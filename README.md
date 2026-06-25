@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://hl2.slqnt.dev/'>Half-Life 2 in a Browser</a></td><td>138 👍</td><td>44 💬</td></tr>
-<tr><td>2.</td><td><a href='https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/'>Anthropic says Alibaba illicitly extracted Claude AI model capabili...</a></td><td>352 👍</td><td>596 💬</td></tr>
-<tr><td>3.</td><td><a href='https://utaw.tech/news/wikipedia-recognition'>Wikipedia Workers in Britain set global first by seeking union reco...</a></td><td>14 👍</td><td>4 💬</td></tr>
-<tr><td>4.</td><td><a href='https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/'>OpenAI unveils its first custom chip, built by Broadcom</a></td><td>671 👍</td><td>378 💬</td></tr>
-<tr><td>5.</td><td><a href='https://blog.cloudflare.com/oauth-for-all/'>Cloudflare launched self-managed OAuth for all</a></td><td>128 👍</td><td>51 💬</td></tr>
-<tr><td>6.</td><td><a href='https://markdy.com'>Markdy: Like Mermaid Diagrams, but for Motion</a></td><td>40 👍</td><td>4 💬</td></tr>
-<tr><td>7.</td><td><a href='https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/'>Blogging can just be stating the obvious</a></td><td>198 👍</td><td>68 💬</td></tr>
-<tr><td>8.</td><td><a href='https://github.com/BohemiaInteractive/CWR'>Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub</a></td><td>28 👍</td><td>3 💬</td></tr>
-<tr><td>9.</td><td><a href='https://github.com/LuaJIT/LuaJIT/issues/1475'>LuaJIT 3.0 proposed syntax extensions</a></td><td>137 👍</td><td>84 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.autodidacts.io/dostoyevsky-isnt-difficult/'>Dostoyevsky isn't difficult</a></td><td>139 👍</td><td>128 💬</td></tr>
+<tr><td>1.</td><td><a href='https://hl2.slqnt.dev/'>Half-Life 2 in a Browser</a></td><td>378 👍</td><td>146 💬</td></tr>
+<tr><td>2.</td><td><a href='https://dev.karltryggvason.com/you-cant-unit-test-for-taste/'>You can't unit test for taste</a></td><td>14 👍</td><td>2 💬</td></tr>
+<tr><td>3.</td><td><a href='https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/'>Anthropic says Alibaba illicitly extracted Claude AI model capabili...</a></td><td>540 👍</td><td>899 💬</td></tr>
+<tr><td>4.</td><td><a href='https://mullvad.net/en/why-privacy-matters/state-mass-surveillance'>Countries are competing to see which can carry out mass surveillanc...</a></td><td>4 👍</td><td>0 💬</td></tr>
+<tr><td>5.</td><td><a href='https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/'>LastPass notifies users of yet another data breach</a></td><td>116 👍</td><td>59 💬</td></tr>
+<tr><td>6.</td><td><a href='https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/'>OpenAI unveils its first custom chip, built by Broadcom</a></td><td>742 👍</td><td>426 💬</td></tr>
+<tr><td>7.</td><td><a href='https://blog.cloudflare.com/oauth-for-all/'>Cloudflare launched self-managed OAuth for all</a></td><td>239 👍</td><td>102 💬</td></tr>
+<tr><td>8.</td><td><a href='https://github.com/BohemiaInteractive/CWR'>Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub</a></td><td>122 👍</td><td>24 💬</td></tr>
+<tr><td>9.</td><td><a href='https://9to5mac.com/2026/06/25/apple-price-increases-mac-ipad-more/'>Apple announces significant price increases for MacBooks, iPads, more</a></td><td>19 👍</td><td>0 💬</td></tr>
+<tr><td>10.</td><td><a href='https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/'>Blogging can just be stating the obvious</a></td><td>304 👍</td><td>100 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>25 Jun 2026, 07:59 UTC</b> · Data from Hacker News</sub>
+<b>25 Jun 2026, 13:16 UTC</b>
 
 ---
 
