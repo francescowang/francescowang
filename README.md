@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://om.co/2026/06/24/1966-2026/'>Om Malik has died</a></td><td>832 👍</td><td>93 💬</td></tr>
-<tr><td>2.</td><td><a href='https://scrollprize.org/firstscroll'>An entire Herculaneum scroll has been read for the first time</a></td><td>1254 👍</td><td>261 💬</td></tr>
-<tr><td>3.</td><td><a href='https://graphicore.github.io/librebarcode/'>Libre Barcode Project</a></td><td>117 👍</td><td>9 💬</td></tr>
-<tr><td>4.</td><td><a href='https://akrites.org/letter/'>We All Depend on Open Source. We Will Defend It Together</a></td><td>37 👍</td><td>12 💬</td></tr>
-<tr><td>5.</td><td><a href='https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/'>Framework's 10G Ethernet module exposes USB-C's complexity</a></td><td>144 👍</td><td>72 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.fernandoi.cl/posts/hackmyclaw/'>What happened after 2k people tried to hack my AI assistant</a></td><td>119 👍</td><td>47 💬</td></tr>
-<tr><td>7.</td><td><a href='https://expression.fire.org/p/the-papers-please-era-of-the-internet'>The 'papers, please' era of the internet will decimate your privacy</a></td><td>652 👍</td><td>303 💬</td></tr>
-<tr><td>8.</td><td><a href='https://gchandbook.org/'>The Garbage Collection Handbook: The Art of Automatic Memory Manage...</a></td><td>127 👍</td><td>17 💬</td></tr>
-<tr><td>9.</td><td><a href='https://github.com/plbrault/youre-the-os'>A game where you're an OS and have to manage processes, memory and ...</a></td><td>186 👍</td><td>31 💬</td></tr>
-<tr><td>10.</td><td><a href='https://explorer.oxide.computer/'>Oxide computer 3D rack guided tour</a></td><td>357 👍</td><td>142 💬</td></tr>
+<tr><td>1.</td><td><a href='https://akrites.org/letter/'>We All Depend on Open Source. We Will Defend It Together</a></td><td>301 👍</td><td>146 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.experimental-history.com/p/reading-the-news-is-the-new-smoking'>Reading the news is the new smoking</a></td><td>8 👍</td><td>0 💬</td></tr>
+<tr><td>3.</td><td><a href='https://om.co/2026/06/24/1966-2026/'>Om Malik has died</a></td><td>1018 👍</td><td>121 💬</td></tr>
+<tr><td>4.</td><td><a href='https://scrollprize.org/firstscroll'>An entire Herculaneum scroll has been read for the first time</a></td><td>1411 👍</td><td>295 💬</td></tr>
+<tr><td>5.</td><td><a href='https://graphicore.github.io/librebarcode/'>Libre Barcode Project</a></td><td>203 👍</td><td>33 💬</td></tr>
+<tr><td>6.</td><td><a href='https://scottaaronson.blog/?p=9851'>Bipartite Matching Is in NC</a></td><td>31 👍</td><td>0 💬</td></tr>
+<tr><td>7.</td><td><a href='https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/'>Framework's 10G Ethernet module exposes USB-C's complexity</a></td><td>226 👍</td><td>116 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.fernandoi.cl/posts/hackmyclaw/'>What happened after 2k people tried to hack my AI assistant</a></td><td>225 👍</td><td>82 💬</td></tr>
+<tr><td>9.</td><td><a href='https://github.com/DDecoene/WebBaseIII'>Show HN: WebBase-III – dBASE III rebuilt in the browser with its ow...</a></td><td>14 👍</td><td>1 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.classicfm.com/composers/mozart/handwritten-notebook-discovered-major-paris/'>22-year-old Mozart's handwritten notebook unearthed in 'major disco...</a></td><td>106 👍</td><td>24 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>26 Jun 2026, 08:03 UTC</b> · Data from Hacker News</sub>
+<b>26 Jun 2026, 13:14 UTC</b>
 
 ---
 
