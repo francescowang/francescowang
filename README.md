@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1'>OpenTTD 16.0-Beta1</a></td><td>94 👍</td><td>11 💬</td></tr>
-<tr><td>2.</td><td><a href='https://openai.com/index/previewing-gpt-5-6-sol/'>Previewing GPT‑5.6 Sol: a next-generation model</a></td><td>967 👍</td><td>601 💬</td></tr>
-<tr><td>3.</td><td><a href='https://www.sfwriter.com/wordstar.htm'>WordStar: A Writer's Word Processor (1996)</a></td><td>68 👍</td><td>23 💬</td></tr>
-<tr><td>4.</td><td><a href='https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed'>Why does kinetic energy increase quadratically, not linearly, with ...</a></td><td>215 👍</td><td>101 💬</td></tr>
-<tr><td>5.</td><td><a href='https://github.com/schlae/IBM_MCGA'>IBM MCGA Gate Array Reverse Engineering</a></td><td>17 👍</td><td>4 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies'>U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organiza...</a></td><td>391 👍</td><td>391 💬</td></tr>
-<tr><td>7.</td><td><a href='https://popflame.quickish.space/hn-flipboard/'>Show HN: Hacker News on a train station-style flip board</a></td><td>60 👍</td><td>10 💬</td></tr>
-<tr><td>8.</td><td><a href='https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/'>MicroVMs: Run isolated sandboxes with full lifecycle control</a></td><td>317 👍</td><td>182 💬</td></tr>
-<tr><td>9.</td><td><a href='https://fusion-lang.org/'>Fusion Programming Language</a></td><td>51 👍</td><td>20 💬</td></tr>
-<tr><td>10.</td><td><a href='https://kirill.korins.ky/articles/hellishly-slow-level-13-deflate-compression/'>Hellishly Slow Level 13 Deflate Compression</a></td><td>44 👍</td><td>11 💬</td></tr>
+<tr><td>1.</td><td><a href='https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf'>DeepSeek open-sources inference optimizations with 60–85% faster ge...</a></td><td>454 👍</td><td>148 💬</td></tr>
+<tr><td>2.</td><td><a href='https://w.pitula.me/fintech-engineering-handbook/'>Fintech Engineering Handbook</a></td><td>119 👍</td><td>36 💬</td></tr>
+<tr><td>3.</td><td><a href='https://www.openra.net/'>OpenRA</a></td><td>19 👍</td><td>5 💬</td></tr>
+<tr><td>4.</td><td><a href='https://dervis.de/physical/'>If You Can't Hold It, You Don't Own It</a></td><td>17 👍</td><td>1 💬</td></tr>
+<tr><td>5.</td><td><a href='https://www.beercss.com'>Beer CSS – Build material design in record time</a></td><td>60 👍</td><td>16 💬</td></tr>
+<tr><td>6.</td><td><a href='https://openai.com/index/previewing-gpt-5-6-sol/'>Previewing GPT‑5.6 Sol: a next-generation model</a></td><td>1033 👍</td><td>653 💬</td></tr>
+<tr><td>7.</td><td><a href='https://www.economist.com/britain/2026/06/25/the-bbc-switches-off-its-oldest-service'>Long Wave radio era set to end with switch-off</a></td><td>69 👍</td><td>75 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer'>Nox Metals (YC S25) Is Hiring SWE</a></td><td>1 👍</td><td>0 💬</td></tr>
+<tr><td>9.</td><td><a href='https://www.fosslinux.com/158206/linux-on-older-hardware-revival-guide.htm'>Linux on Older Hardware: The Complete Revival Guide</a></td><td>92 👍</td><td>48 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.sfwriter.com/wordstar.htm'>WordStar: A Writer's Word Processor (1996)</a></td><td>114 👍</td><td>50 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>27 Jun 2026, 07:43 UTC</b> · Data from Hacker News</sub>
+<b>27 Jun 2026, 12:54 UTC</b>
 
 ---
 
