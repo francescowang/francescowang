@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep'>Marfa Public Radio Puts You to Sleep</a></td><td>186 👍</td><td>47 💬</td></tr>
-<tr><td>2.</td><td><a href='https://github.com/itsthelore/wayfinder-router'>Wayfinder Router: deterministic routing of queries between local an...</a></td><td>47 👍</td><td>8 💬</td></tr>
-<tr><td>3.</td><td><a href='https://github.com/cfenollosa/bashblog'>Bashblog – a single bash script to create blogs</a></td><td>22 👍</td><td>2 💬</td></tr>
-<tr><td>4.</td><td><a href='https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md'>AMD Strix Halo RDMA Cluster Setup Guide</a></td><td>117 👍</td><td>31 💬</td></tr>
-<tr><td>5.</td><td><a href='https://decomp-academy.dev'>Show HN: Decomp Academy – Learn to decompile GameCube games into ma...</a></td><td>110 👍</td><td>36 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.openra.net/'>OpenRA</a></td><td>678 👍</td><td>131 💬</td></tr>
-<tr><td>7.</td><td><a href='https://github.com/bikini/exploitarium'>Anonymous GitHub account mass-dropping undisclosed 0-days</a></td><td>785 👍</td><td>306 💬</td></tr>
-<tr><td>8.</td><td><a href='https://evilbit.de/dns-resolver-guide.html'>Choosing a Public DNS Resolver</a></td><td>140 👍</td><td>42 💬</td></tr>
-<tr><td>9.</td><td><a href='https://shapeofthesystem.com/posts/2026/02/03/bounded-cognition'>Engineering for Bounded Cognition</a></td><td>23 👍</td><td>3 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html'>Ford hired AI and sacked humans. It backfired badly</a></td><td>161 👍</td><td>86 💬</td></tr>
+<tr><td>1.</td><td><a href='https://github.com/openai/codex/issues/2847'>A way to exclude sensitive files issue still open for OpenAI Codex</a></td><td>8 👍</td><td>3 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep'>Marfa Public Radio Puts You to Sleep</a></td><td>297 👍</td><td>78 💬</td></tr>
+<tr><td>3.</td><td><a href='https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467'>DLL that was not present in memory despite not being formally unloaded</a></td><td>37 👍</td><td>5 💬</td></tr>
+<tr><td>4.</td><td><a href='https://github.com/cfenollosa/bashblog'>Bashblog – a single bash script to create blogs</a></td><td>70 👍</td><td>44 💬</td></tr>
+<tr><td>5.</td><td><a href='https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md'>AMD Strix Halo RDMA Cluster Setup Guide</a></td><td>168 👍</td><td>53 💬</td></tr>
+<tr><td>6.</td><td><a href='https://github.com/bikini/exploitarium'>Anonymous GitHub account mass-dropping undisclosed 0-days</a></td><td>856 👍</td><td>331 💬</td></tr>
+<tr><td>7.</td><td><a href='https://github.com/itsthelore/wayfinder-router'>Wayfinder Router: deterministic routing of queries between local an...</a></td><td>84 👍</td><td>35 💬</td></tr>
+<tr><td>8.</td><td><a href='https://decomp-academy.dev'>Show HN: Decomp Academy – Learn to decompile GameCube games into ma...</a></td><td>150 👍</td><td>58 💬</td></tr>
+<tr><td>9.</td><td><a href='https://evilbit.de/dns-resolver-guide.html'>Choosing a Public DNS Resolver</a></td><td>199 👍</td><td>75 💬</td></tr>
+<tr><td>10.</td><td><a href='https://napkins.mtmn.name/posts/stray-jay.html'>A stray "j" ruined my evening</a></td><td>30 👍</td><td>14 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>28 Jun 2026, 08:03 UTC</b> · Data from Hacker News</sub>
+<b>28 Jun 2026, 12:59 UTC</b>
 
 ---
 
