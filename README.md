@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://danunparsed.com/p/hackerrank-open-source-ats'>HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 7...</a></td><td>333 👍</td><td>109 💬</td></tr>
-<tr><td>2.</td><td><a href='https://danielcordova.me/blog/debian-openrc/'>Replacing Systemd with OpenRC in Debian</a></td><td>30 👍</td><td>24 💬</td></tr>
-<tr><td>3.</td><td><a href='https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/'>GLM 5.2 beats Claude in our benchmarks</a></td><td>797 👍</td><td>373 💬</td></tr>
-<tr><td>4.</td><td><a href='https://schamper.dev/dissecting-apples-sparse-image-format-asif/'>Dissecting Apple's Sparse Image Format (ASIF)</a></td><td>56 👍</td><td>0 💬</td></tr>
-<tr><td>5.</td><td><a href='https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026'>Age verification is just a precursor to automated attribution of sp...</a></td><td>386 👍</td><td>210 💬</td></tr>
-<tr><td>6.</td><td><a href='https://github.com/ogulcancelik/herdr'>Herdr: Agent multiplexer that lives in your terminal</a></td><td>55 👍</td><td>19 💬</td></tr>
-<tr><td>7.</td><td><a href='https://github.com/itsthelore/rac-core'>Lore – Give your coding agent the decisions your team made</a></td><td>29 👍</td><td>27 💬</td></tr>
-<tr><td>8.</td><td><a href='https://www.ti.com/product/MSPM0C1104'>1.38 Millimeter Microcontroller</a></td><td>17 👍</td><td>8 💬</td></tr>
-<tr><td>9.</td><td><a href='https://dam.stanford.edu/memory-prices.html'>Historical memory prices 1960-2026</a></td><td>285 👍</td><td>106 💬</td></tr>
-<tr><td>10.</td><td><a href='https://pudding.cool/2026/06/menu-story/'>5k menus from the New York Public Library’s Buttolph Collection (18...</a></td><td>363 👍</td><td>94 💬</td></tr>
+<tr><td>1.</td><td><a href='https://tidal.com/ai-policy'>Tidal AI Policy</a></td><td>47 👍</td><td>20 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/'>Sandia National Labs SA3000 8085 CPU</a></td><td>78 👍</td><td>18 💬</td></tr>
+<tr><td>3.</td><td><a href='https://exploring-better-ways.bellroy.com/haskell-koan-type-checked-non-empty-strings.html'>Type-checked non-empty strings</a></td><td>17 👍</td><td>3 💬</td></tr>
+<tr><td>4.</td><td><a href='https://danunparsed.com/p/hackerrank-open-source-ats'>HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 7...</a></td><td>684 👍</td><td>290 💬</td></tr>
+<tr><td>5.</td><td><a href='https://voxelmanip.se/2026/06/28/building-principia-for-windows-xp/'>Building Principia for Windows XP</a></td><td>6 👍</td><td>1 💬</td></tr>
+<tr><td>6.</td><td><a href='https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/'>Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and ...</a></td><td>510 👍</td><td>72 💬</td></tr>
+<tr><td>7.</td><td><a href='https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/'>GLM 5.2 beats Claude in our benchmarks</a></td><td>963 👍</td><td>450 💬</td></tr>
+<tr><td>8.</td><td><a href='https://thomasdullien.github.io/guides/entrepreneurship/'>Halvar's Guide to Entrepreneurship</a></td><td>67 👍</td><td>14 💬</td></tr>
+<tr><td>9.</td><td><a href='https://alexwlchan.net/2026/computer-room/'>Rebuilding the Computer Room</a></td><td>24 👍</td><td>10 💬</td></tr>
+<tr><td>10.</td><td><a href='https://edera.dev/stories/numa-part-1-cores-memory-and-the-distance-between-them'>NUMA: Cores, memory, and the distance between them</a></td><td>68 👍</td><td>10 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>29 Jun 2026, 08:30 UTC</b> · Data from Hacker News</sub>
+<b>29 Jun 2026, 13:54 UTC</b>
 
 ---
 
