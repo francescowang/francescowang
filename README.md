@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://quesma.com/blog/qwen-36-is-awesome/'>Qwen 3.6 27B is the sweet spot for local development</a></td><td>878 👍</td><td>597 💬</td></tr>
-<tr><td>2.</td><td><a href='https://opensourcelowtech.org/'>Open Source Low Tech</a></td><td>65 👍</td><td>13 💬</td></tr>
-<tr><td>3.</td><td><a href='https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/'>.self: A new top-level domain designed to support self-hosting</a></td><td>480 👍</td><td>272 💬</td></tr>
-<tr><td>4.</td><td><a href='https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/'>Free the Icons</a></td><td>412 👍</td><td>112 💬</td></tr>
-<tr><td>5.</td><td><a href='https://longcat.chat/blog/longcat-2.0/'>LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active</a></td><td>118 👍</td><td>34 💬</td></tr>
-<tr><td>6.</td><td><a href='https://fil-c.org/context_switches'>Memory Safe Context Switching</a></td><td>108 👍</td><td>23 💬</td></tr>
-<tr><td>7.</td><td><a href='http://occ.sdf.org/'>Old Computer Challenge</a></td><td>55 👍</td><td>15 💬</td></tr>
-<tr><td>8.</td><td><a href='https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/'>The end of the AArch64 desktop experiment</a></td><td>26 👍</td><td>7 💬</td></tr>
-<tr><td>9.</td><td><a href='https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully'>Rocketlab acquires Iridium</a></td><td>401 👍</td><td>262 💬</td></tr>
-<tr><td>10.</td><td><a href='https://obsolescence.dev/pdp1-lisp-introduction.html'>Exploring PDP-1 Lisp (1960)</a></td><td>57 👍</td><td>16 💬</td></tr>
+<tr><td>1.</td><td><a href='https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting'>The US ambassador had Belgian police stop our reporting</a></td><td>219 👍</td><td>66 💬</td></tr>
+<tr><td>2.</td><td><a href='https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/'>European digital ID wallets rely on safety services of Google and A...</a></td><td>342 👍</td><td>141 💬</td></tr>
+<tr><td>3.</td><td><a href='https://cekrem.github.io/posts/parse-dont-validate-typescript/'>Parse, Don't Validate – In a Language That Doesn't Want You To</a></td><td>48 👍</td><td>26 💬</td></tr>
+<tr><td>4.</td><td><a href='https://karolina.mgdubiel.com/drone/'>Building a custom octocopter from scratch with no prior hardware ex...</a></td><td>114 👍</td><td>33 💬</td></tr>
+<tr><td>5.</td><td><a href='https://opensourcelowtech.org/'>Open Source Low Tech</a></td><td>373 👍</td><td>75 💬</td></tr>
+<tr><td>6.</td><td><a href='https://arstechnica.com/gadgets/2026/06/sony-erases-digital-content-from-libraries-were-reminded-we-dont-own-what-we-buy/'>Sony erases digital content from libraries; reminded we don't own w...</a></td><td>146 👍</td><td>55 💬</td></tr>
+<tr><td>7.</td><td><a href='https://quesma.com/blog/qwen-36-is-awesome/'>Qwen 3.6 27B is the sweet spot for local development</a></td><td>998 👍</td><td>648 💬</td></tr>
+<tr><td>8.</td><td><a href='https://antaresindustries.com/updates/antares-achieves-criticality'>Antares Achieves Criticality of Mark-0 Reactor</a></td><td>49 👍</td><td>38 💬</td></tr>
+<tr><td>9.</td><td><a href='https://www.maturitas.org/article/S0378-5122(25)00571-7/fulltext'>Exercise intensity influences body composition in healthy older adu...</a></td><td>69 👍</td><td>62 💬</td></tr>
+<tr><td>10.</td><td><a href='https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/'>.self: A new top-level domain designed to support self-hosting</a></td><td>559 👍</td><td>327 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>30 Jun 2026, 08:03 UTC</b> · Data from Hacker News</sub>
+<b>30 Jun 2026, 13:12 UTC</b>
 
 ---
 
