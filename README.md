@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://thereallo.dev/blog/claude-code-prompt-steganography'>Claude Code is steganographically marking requests</a></td><td>1883 👍</td><td>536 💬</td></tr>
-<tr><td>2.</td><td><a href='https://www.anthropic.com/news/claude-sonnet-5'>Claude Sonnet 5</a></td><td>1094 👍</td><td>630 💬</td></tr>
-<tr><td>3.</td><td><a href='https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells'>The first early human eggs from stem cells</a></td><td>81 👍</td><td>26 💬</td></tr>
-<tr><td>4.</td><td><a href='https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/'>ArXiv's Next Chapter</a></td><td>79 👍</td><td>16 💬</td></tr>
-<tr><td>5.</td><td><a href='https://github.com/google/copybara'>Google copybara: moving code between repositories</a></td><td>190 👍</td><td>30 💬</td></tr>
-<tr><td>6.</td><td><a href='https://twitter.com/AnthropicAI/status/2072106151890809341'>Department of Commerce has lifted export controls on Claude Fable 5...</a></td><td>637 👍</td><td>347 💬</td></tr>
-<tr><td>7.</td><td><a href='https://claude.com/product/claude-science'>Claude Science</a></td><td>474 👍</td><td>143 💬</td></tr>
-<tr><td>8.</td><td><a href='https://deepmind.google/models/gemini-image/flash-lite/'>Nano Banana 2 Lite</a></td><td>364 👍</td><td>145 💬</td></tr>
-<tr><td>9.</td><td><a href='https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/'>Matrix Orthogonalization Improves Memory in Recurrent Models</a></td><td>28 👍</td><td>2 💬</td></tr>
-<tr><td>10.</td><td><a href='https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06'>Leanstral 1.5</a></td><td>203 👍</td><td>54 💬</td></tr>
+<tr><td>1.</td><td><a href='https://asahilinux.org/2026/06/progress-report-7-1/'>Asahi Linux 7.1 Progress Report</a></td><td>283 👍</td><td>65 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.thefocalpoints.com/p/new-study-frog-derived-gut-bacterium'>Single Dose of Frog-Derived Gut Bacterium Eradicates 100% of Tumors...</a></td><td>165 👍</td><td>76 💬</td></tr>
+<tr><td>3.</td><td><a href='https://thereallo.dev/blog/claude-code-prompt-steganography'>Claude Code is steganographically marking requests</a></td><td>2217 👍</td><td>645 💬</td></tr>
+<tr><td>4.</td><td><a href='https://phys.org/news/2026-06-newly-australian-ballista-spider-snare.html'>Newly discovered spider builds spring loaded snare to catch ants</a></td><td>134 👍</td><td>28 💬</td></tr>
+<tr><td>5.</td><td><a href='https://cleberg.net/blog/internet.html'>The Internet I Grew Up with Doesn't Exist Anymore</a></td><td>120 👍</td><td>91 💬</td></tr>
+<tr><td>6.</td><td><a href='https://www.ycombinator.com/companies/manufact/jobs/4cyWd6S-developer-advocate-partnerships-devrel'>Manufact (YC S25) Is Hiring a Developer Advocate in SF</a></td><td>1 👍</td><td>0 💬</td></tr>
+<tr><td>7.</td><td><a href='https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/'>Nintendo has raised its employees base salary by 10%</a></td><td>89 👍</td><td>25 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.anthropic.com/news/claude-sonnet-5'>Claude Sonnet 5</a></td><td>1173 👍</td><td>709 💬</td></tr>
+<tr><td>9.</td><td><a href='https://vitalik.eth.limo/general/2026/06/29/obfuscation1.html'>Obfuscation: Building the final boss of cryptography (Part I)</a></td><td>26 👍</td><td>0 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/'>Godot will no longer accept AI-authored code contributions</a></td><td>358 👍</td><td>218 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>01 Jul 2026, 08:12 UTC</b> · Data from Hacker News</sub>
+<b>01 Jul 2026, 13:24 UTC</b>
 
 ---
 
