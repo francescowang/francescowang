@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/'>Kimi K2.7 Code is generally available in GitHub Copilot</a></td><td>85 👍</td><td>21 💬</td></tr>
-<tr><td>2.</td><td><a href='https://zcode.z.ai/en'>ZCode – Harness for GLM-5.2</a></td><td>366 👍</td><td>284 💬</td></tr>
-<tr><td>3.</td><td><a href='https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/'>Oomwoo, an open-source robot vacuum you build yourself</a></td><td>241 👍</td><td>41 💬</td></tr>
-<tr><td>4.</td><td><a href='https://f-droid.org/2026/07/01/adv-malware.html'>A new Android malware from Google</a></td><td>194 👍</td><td>76 💬</td></tr>
-<tr><td>5.</td><td><a href='https://tedium.co/2026/07/01/online-web-forums-retrospective/'>Bring back crappy forums</a></td><td>206 👍</td><td>124 💬</td></tr>
-<tr><td>6.</td><td><a href='https://cursor.com/evals'>CursorBench 3.1</a></td><td>34 👍</td><td>15 💬</td></tr>
-<tr><td>7.</td><td><a href='https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/'>What to learn to be a graphics programmer</a></td><td>320 👍</td><td>164 💬</td></tr>
-<tr><td>8.</td><td><a href='https://github.com/Key-wxh/market-fish'>MarketFish – Simulate a market with 128 AI consumers before you launch</a></td><td>5 👍</td><td>0 💬</td></tr>
-<tr><td>9.</td><td><a href='https://hydrogenaudio.org/index.php/topic,129691.0.html'>FFmpeg 9.1's new AAC encoder</a></td><td>359 👍</td><td>109 💬</td></tr>
-<tr><td>10.</td><td><a href='https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/'>Opening up 'Zero-Knowledge Proof' technology to promote privacy in ...</a></td><td>142 👍</td><td>125 💬</td></tr>
+<tr><td>1.</td><td><a href='https://f-droid.org/2026/07/01/adv-malware.html'>Android Developer Verification: Threat masquerading as Protection</a></td><td>1075 👍</td><td>439 💬</td></tr>
+<tr><td>2.</td><td><a href='https://mathstodon.xyz/@mjd/115096720350507897'>Many people misunderstand the purpose of code review</a></td><td>78 👍</td><td>52 💬</td></tr>
+<tr><td>3.</td><td><a href='https://www.zerofs.net/'>Show HN: ZeroFS – A log-structured filesystem for S3</a></td><td>36 👍</td><td>15 💬</td></tr>
+<tr><td>4.</td><td><a href='https://arxiv.org/abs/2607.01232'>Is One Layer Enough? A Single Transformer Layer Matches Full-Parame...</a></td><td>36 👍</td><td>9 💬</td></tr>
+<tr><td>5.</td><td><a href='https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/'>Kimi K2.7 Code is generally available in GitHub Copilot</a></td><td>274 👍</td><td>112 💬</td></tr>
+<tr><td>6.</td><td><a href='https://www.smithsonianmag.com/smithsonian-institution/how-one-german-button-maker-searched-the-rivers-of-the-american-midwest-for-the-shells-that-could-make-him-a-fortune-180989012/'>German Button Maker Searched Rivers of American Midwest for Valuabl...</a></td><td>21 👍</td><td>1 💬</td></tr>
+<tr><td>7.</td><td><a href='https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy'>The fall of the theorem economy</a></td><td>137 👍</td><td>56 💬</td></tr>
+<tr><td>8.</td><td><a href='https://voidzero.dev/posts/announcing-vite-plus-beta'>Vite+ Beta</a></td><td>129 👍</td><td>77 💬</td></tr>
+<tr><td>9.</td><td><a href='https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci'>Hazel (YC W24) Is Hiring for Our Largest Government Contract</a></td><td>1 👍</td><td>0 💬</td></tr>
+<tr><td>10.</td><td><a href='https://github.com/rafal-qa/slopo'>Show HN: CLI tool for detecting non-exact code duplication with emb...</a></td><td>3 👍</td><td>1 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>02 Jul 2026, 07:53 UTC</b> · Data from Hacker News</sub>
+<b>02 Jul 2026, 14:37 UTC</b>
 
 ---
 
