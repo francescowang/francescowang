@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data'>Virginia bans sale of geolocation data</a></td><td>768 👍</td><td>124 💬</td></tr>
-<tr><td>2.</td><td><a href='https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts'>CarPlay Is Additive</a></td><td>298 👍</td><td>364 💬</td></tr>
-<tr><td>3.</td><td><a href='https://righttointelligence.org/'>Right to Local Intelligence</a></td><td>246 👍</td><td>84 💬</td></tr>
-<tr><td>4.</td><td><a href='https://weli.dev/blog/half-baked-product/'>Half-Baked Product</a></td><td>15 👍</td><td>5 💬</td></tr>
-<tr><td>5.</td><td><a href='https://github.com/FractalFir/crustc'>crustc: entirety of `rustc`, translated to C</a></td><td>277 👍</td><td>55 💬</td></tr>
-<tr><td>6.</td><td><a href='https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/'>The Safari MCP server for web developers</a></td><td>93 👍</td><td>15 💬</td></tr>
-<tr><td>7.</td><td><a href='https://mathstodon.xyz/@iblech/116769502749142438'>Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys f...</a></td><td>468 👍</td><td>203 💬</td></tr>
-<tr><td>8.</td><td><a href='https://iinteractive.com/resources/blog/read-only'>How working with a blind client revealed invisible accessibility gaps</a></td><td>11 👍</td><td>5 💬</td></tr>
-<tr><td>9.</td><td><a href='https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/'>Alibaba to ban Claude Code in workplace over alleged backdoor risks...</a></td><td>38 👍</td><td>16 💬</td></tr>
-<tr><td>10.</td><td><a href='https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail'>Reality has a surprising amount of detail (2017)</a></td><td>265 👍</td><td>99 💬</td></tr>
+<tr><td>1.</td><td><a href='https://weli.dev/blog/half-baked-product/'>Half-Baked Product</a></td><td>674 👍</td><td>187 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit'>PostgreSQL and the OOM Killer: Why We Use Strict Memory Overcommit</a></td><td>39 👍</td><td>9 💬</td></tr>
+<tr><td>3.</td><td><a href='https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/'>Valve open source the Steam Machine e-ink screen so you can make yo...</a></td><td>109 👍</td><td>16 💬</td></tr>
+<tr><td>4.</td><td><a href='https://wordgard.net/'>Wordgard: The new in-browser rich-text editor from the creator of P...</a></td><td>102 👍</td><td>51 💬</td></tr>
+<tr><td>5.</td><td><a href='https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater'>Please stop the AI confidence theater</a></td><td>120 👍</td><td>70 💬</td></tr>
+<tr><td>6.</td><td><a href='https://righttointelligence.org/'>Right to Local Intelligence</a></td><td>370 👍</td><td>127 💬</td></tr>
+<tr><td>7.</td><td><a href='https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts'>CarPlay Is Additive</a></td><td>427 👍</td><td>577 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.construction-physics.com/p/the-fall-and-rise-of-screwworm'>The Fall and Rise of Screwworm</a></td><td>9 👍</td><td>4 💬</td></tr>
+<tr><td>9.</td><td><a href='https://iinteractive.com/resources/blog/read-only'>How working with a blind client revealed invisible accessibility gaps</a></td><td>49 👍</td><td>35 💬</td></tr>
+<tr><td>10.</td><td><a href='https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/'>The Safari MCP server for web developers</a></td><td>160 👍</td><td>47 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>03 Jul 2026, 09:46 UTC</b> · Data from Hacker News</sub>
+<b>03 Jul 2026, 14:39 UTC</b>
 
 ---
 
