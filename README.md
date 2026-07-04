@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/'>The bottleneck might be the air in the room</a></td><td>171 👍</td><td>94 💬</td></tr>
-<tr><td>2.</td><td><a href='https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post'>Agentic coding notes from Galapagos Island</a></td><td>82 👍</td><td>30 💬</td></tr>
-<tr><td>3.</td><td><a href='https://mistral.ai/news/leanstral-1-5/'>Leanstral 1.5: Proof abundance for all</a></td><td>223 👍</td><td>54 💬</td></tr>
-<tr><td>4.</td><td><a href='https://www.wafer.ai/blog/glm52-amd'>Performance per dollar is getting faster and cheaper</a></td><td>235 👍</td><td>77 💬</td></tr>
-<tr><td>5.</td><td><a href='https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/'>Giant trees have no trouble pumping water to top branches: new rese...</a></td><td>192 👍</td><td>89 💬</td></tr>
-<tr><td>6.</td><td><a href='https://mirtitles.org'>Mir Books – Books from the Soviet Era</a></td><td>59 👍</td><td>25 💬</td></tr>
-<tr><td>7.</td><td><a href='https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/'>Synthesis is harder than analysis</a></td><td>79 👍</td><td>19 💬</td></tr>
-<tr><td>8.</td><td><a href='https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage'>Postgres data stored in Parquet on S3: LTAP architecture explained</a></td><td>13 👍</td><td>4 💬</td></tr>
-<tr><td>9.</td><td><a href='https://mrbruh.com/msicenter/'>MSI Center – How to gain SYSTEM privileges in seconds</a></td><td>83 👍</td><td>27 💬</td></tr>
-<tr><td>10.</td><td><a href='https://github.com/FossPrime/Steam-Controller-Auto-Charge'>Steam Controller Auto-Charge – pilot to magnetic charging puck usin...</a></td><td>132 👍</td><td>28 💬</td></tr>
+<tr><td>1.</td><td><a href='https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/'>Astrophysicists Puzzle over Webb’s New Universe</a></td><td>89 👍</td><td>41 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.cbc.ca/news/world/vespa-italy-postwar-design-9.7252641'>The Vespa at 80: Why the Italian scooter remains the coolest thing ...</a></td><td>55 👍</td><td>45 💬</td></tr>
+<tr><td>3.</td><td><a href='https://en.wikipedia.org/wiki/Night_Witches'>Night Witches – all-female Soviet aviator regiment WW2</a></td><td>29 👍</td><td>6 💬</td></tr>
+<tr><td>4.</td><td><a href='https://peteris.rocks/blog/htop/'>Explanation of everything you can see in htop/top on Linux</a></td><td>12 👍</td><td>1 💬</td></tr>
+<tr><td>5.</td><td><a href='https://www.marginalia.nu/log/a_135_learn/'>Maybe you should learn something</a></td><td>212 👍</td><td>96 💬</td></tr>
+<tr><td>6.</td><td><a href='https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage'>Postgres data stored in Parquet on S3: LTAP architecture explained</a></td><td>76 👍</td><td>23 💬</td></tr>
+<tr><td>7.</td><td><a href='https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/'>The bottleneck might be the air in the room</a></td><td>493 👍</td><td>304 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.wafer.ai/blog/glm52-amd'>Performance per dollar is getting faster and cheaper</a></td><td>292 👍</td><td>107 💬</td></tr>
+<tr><td>9.</td><td><a href='https://mistral.ai/news/leanstral-1-5/'>Leanstral 1.5: Proof abundance for all</a></td><td>291 👍</td><td>83 💬</td></tr>
+<tr><td>10.</td><td><a href='https://phenomenalworld.org/analysis/the-anti-amazon/'>Costco is the anti-Amazon</a></td><td>458 👍</td><td>417 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>04 Jul 2026, 09:10 UTC</b> · Data from Hacker News</sub>
+<b>04 Jul 2026, 14:08 UTC</b>
 
 ---
 
