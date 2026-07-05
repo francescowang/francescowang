@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://ui.shadcn.com/docs/changelog'>Shadcn/UI now defaults to Base UI instead of Radix</a></td><td>118 👍</td><td>35 💬</td></tr>
-<tr><td>2.</td><td><a href='https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/'>If you're a button, you have one job</a></td><td>203 👍</td><td>99 💬</td></tr>
-<tr><td>3.</td><td><a href='https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main'>Command and Conquer Generals natively ported to macOS, iPhone, iPad...</a></td><td>563 👍</td><td>230 💬</td></tr>
-<tr><td>4.</td><td><a href='https://0dd.company/galleries/triumph/1.html'>Apocketlypse</a></td><td>10 👍</td><td>1 💬</td></tr>
-<tr><td>5.</td><td><a href='https://pandoc.org/lua-filters.html'>Pandoc Lua Filters</a></td><td>65 👍</td><td>2 💬</td></tr>
-<tr><td>6.</td><td><a href='https://github.com/openai/codex/issues/30364'>GPT-5.5 Codex reasoning-token clustering may be leading to degraded...</a></td><td>270 👍</td><td>101 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.devever.net/~hl/webcrypto'>Web-based cryptography is always snake oil</a></td><td>11 👍</td><td>7 💬</td></tr>
-<tr><td>8.</td><td><a href='https://jacob.gold/posts/programmers-need-to-start-meditating-now/'>Programmers need to start meditating now</a></td><td>10 👍</td><td>2 💬</td></tr>
-<tr><td>9.</td><td><a href='https://computer.rip/2026-07-04-microwave-and-power.html'>Megawatts by Microwave</a></td><td>22 👍</td><td>2 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets'>Jellyfish can heal wounds in minutes. Scientists want their secrets</a></td><td>121 👍</td><td>25 💬</td></tr>
+<tr><td>1.</td><td><a href='https://phosh.mobi/releases/rel-0.56.0/'>Phosh 0.56.0</a></td><td>48 👍</td><td>6 💬</td></tr>
+<tr><td>2.</td><td><a href='https://dthain.github.io/books/compiler/'>Introduction to Compilers and Language Design</a></td><td>61 👍</td><td>5 💬</td></tr>
+<tr><td>3.</td><td><a href='https://airplaneboneyards.com/airplane-boneyards-list-and-map.htm'>Airplane Boneyards List and Map</a></td><td>11 👍</td><td>0 💬</td></tr>
+<tr><td>4.</td><td><a href='https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/'>If you're a button, you have one job</a></td><td>358 👍</td><td>178 💬</td></tr>
+<tr><td>5.</td><td><a href='https://ui.shadcn.com/docs/changelog'>Shadcn/UI now defaults to Base UI instead of Radix</a></td><td>202 👍</td><td>86 💬</td></tr>
+<tr><td>6.</td><td><a href='https://demo.pcbjam.com/'>Show HN: KiCad in the Browser</a></td><td>23 👍</td><td>6 💬</td></tr>
+<tr><td>7.</td><td><a href='https://www.economist.com/middle-east-and-africa/2026/06/25/medieval-style-fortifications-are-back-in-the-sahel'>Medieval-style fortifications are back in the Sahel</a></td><td>13 👍</td><td>6 💬</td></tr>
+<tr><td>8.</td><td><a href='https://pandoc.org/lua-filters.html'>Pandoc Lua Filters</a></td><td>97 👍</td><td>8 💬</td></tr>
+<tr><td>9.</td><td><a href='https://www.formaly.io/blog/knowledge-should-not-be-gated'>Knowledge Should Not Be Gated</a></td><td>44 👍</td><td>25 💬</td></tr>
+<tr><td>10.</td><td><a href='https://craigmod.com/essays/fast_software/'>Fast Software, the Best Software (2019)</a></td><td>72 👍</td><td>35 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>05 Jul 2026, 09:32 UTC</b> · Data from Hacker News</sub>
+<b>05 Jul 2026, 14:15 UTC</b>
 
 ---
 
