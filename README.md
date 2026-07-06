@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.map.signalbox.io'>Real-time map of Great Britain's rail network</a></td><td>94 👍</td><td>36 💬</td></tr>
-<tr><td>2.</td><td><a href='https://twitter.com/thsottiaux/status/2073933490513752151'>GPT-5.6 Sol Ultra will be in Codex</a></td><td>306 👍</td><td>249 💬</td></tr>
-<tr><td>3.</td><td><a href='https://iamwillwang.com/notes/has-not-been-viewed-much/'>Has_not_been_viewed_much</a></td><td>330 👍</td><td>85 💬</td></tr>
-<tr><td>4.</td><td><a href='https://organicmaps.app/'>Organic Maps</a></td><td>1031 👍</td><td>320 💬</td></tr>
-<tr><td>5.</td><td><a href='https://learngenomics.dev/docs/biological-foundations/cells-genomes-dna-chromosomes/'>Introduction to Genomics for Engineers</a></td><td>40 👍</td><td>0 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support'>Building relationships with customers through support didn't turn o...</a></td><td>161 👍</td><td>101 💬</td></tr>
-<tr><td>7.</td><td><a href='https://popcar.bearblog.dev/its-about-ownership/'>It's not about physical vs. digital games, it's about ownership</a></td><td>533 👍</td><td>390 💬</td></tr>
-<tr><td>8.</td><td><a href='https://www.opentools.studio/'>OpenPrinter</a></td><td>900 👍</td><td>226 💬</td></tr>
-<tr><td>9.</td><td><a href='https://www.youtube.com/watch?v=4nzzpUKhj1M'>Behind the scenes with the Midjourney scanner [video]</a></td><td>38 👍</td><td>13 💬</td></tr>
-<tr><td>10.</td><td><a href='https://kyrall.com/'>Generate parametric, manufacturable 3D models in seconds</a></td><td>42 👍</td><td>32 💬</td></tr>
+<tr><td>1.</td><td><a href='https://dernocua.github.io/notes/aluminum-foil.html'>Aluminum foil (2021)</a></td><td>88 👍</td><td>29 💬</td></tr>
+<tr><td>2.</td><td><a href='https://elm-lang.org/news/faster-builds'>Road to Elm 1.0</a></td><td>180 👍</td><td>80 💬</td></tr>
+<tr><td>3.</td><td><a href='https://postgresisenough.dev/'>Do you really need separate systems when you already have Postgres?</a></td><td>31 👍</td><td>9 💬</td></tr>
+<tr><td>4.</td><td><a href='https://andonlabs.com/blog/fable5-vending-bench'>Fable 5 On Vending-Bench: Misbehaving, With Plausible Deniability</a></td><td>80 👍</td><td>33 💬</td></tr>
+<tr><td>5.</td><td><a href='https://www.map.signalbox.io'>Real-time map of Great Britain's rail network</a></td><td>296 👍</td><td>112 💬</td></tr>
+<tr><td>6.</td><td><a href='https://fens2026.abstractserver.com/program/#/details/presentations/5474'>Multilingual Experience Linked to Delayed Aging in Populations and ...</a></td><td>10 👍</td><td>0 💬</td></tr>
+<tr><td>7.</td><td><a href='https://www.publicnotice.co/p/kalshi-cnn-cnbc'>How Kalshi Infects the News</a></td><td>66 👍</td><td>40 💬</td></tr>
+<tr><td>8.</td><td><a href='https://clojure.org/news/2026/07/02/clojure-1-13-alpha1'>Clojure 1.13 adds support for checked keys</a></td><td>89 👍</td><td>8 💬</td></tr>
+<tr><td>9.</td><td><a href='https://writingclub.world/1picture1000words'>1k Words: A Writing Contest</a></td><td>13 👍</td><td>2 💬</td></tr>
+<tr><td>10.</td><td><a href='https://spectrum.ieee.org/stochastic-parrot'>Emily Bender Sets the Record Straight on "Stochastic Parrots"</a></td><td>78 👍</td><td>73 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>06 Jul 2026, 11:17 UTC</b> · Data from Hacker News</sub>
+<b>06 Jul 2026, 15:58 UTC</b>
 
 ---
 
