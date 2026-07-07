@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://openwrt.org/toh/openwrt/one'>OpenWrt One – Open Hardware Router</a></td><td>629 👍</td><td>246 💬</td></tr>
-<tr><td>2.</td><td><a href='https://www.comaps.app/'>CoMaps – FOSS Offline Maps</a></td><td>572 👍</td><td>124 💬</td></tr>
-<tr><td>3.</td><td><a href='https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/'>GLM 5.2 and the coming AI margin collapse</a></td><td>428 👍</td><td>260 💬</td></tr>
-<tr><td>4.</td><td><a href='https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home'>How to sequence your own DNA at home</a></td><td>223 👍</td><td>82 💬</td></tr>
-<tr><td>5.</td><td><a href='https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals'>Small AI Models Gain Traction In places with unreliable networks</a></td><td>146 👍</td><td>51 💬</td></tr>
-<tr><td>6.</td><td><a href='https://thisbugslife.com/2021/11/21/dolosse-a-south-african-invention-used-over-the-world/'>Dolosse – a South African invention used over the world</a></td><td>48 👍</td><td>14 💬</td></tr>
-<tr><td>7.</td><td><a href='https://github.com/MaximeRivest/Riddle'>Fable turned reMarkable into Tom Riddle's diary from Harry Potter</a></td><td>470 👍</td><td>293 💬</td></tr>
-<tr><td>8.</td><td><a href='https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device'>Microsoft Can Track Users via a Windows Device ID</a></td><td>62 👍</td><td>12 💬</td></tr>
-<tr><td>9.</td><td><a href='https://jobs.ashbyhq.com/lago'>Lago (YC S21) Is Hiring for Our GTM Team</a></td><td>1 👍</td><td>0 💬</td></tr>
-<tr><td>10.</td><td><a href='https://ternlight-demo.vercel.app/'>Ternlight – 7 MB embedding model that runs in browser (WASM)</a></td><td>227 👍</td><td>52 💬</td></tr>
+<tr><td>1.</td><td><a href='https://streetcomplete.app/'>StreetComplete: Fixing OpenStreetMap, one tiny quest at a time</a></td><td>242 👍</td><td>48 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.youtube.com/watch?v=3R0Lp86GEBk'>A better way to tie your gym shorts. (Or any drawstring) [video]</a></td><td>181 👍</td><td>73 💬</td></tr>
+<tr><td>3.</td><td><a href='https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html'>The Revenge of the Philosophy Majors</a></td><td>27 👍</td><td>10 💬</td></tr>
+<tr><td>4.</td><td><a href='https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/'>98% Isn't Much</a></td><td>246 👍</td><td>196 💬</td></tr>
+<tr><td>5.</td><td><a href='https://ciphercue.com/blog/european-web-hosting-vendor-share-2026'>Europe's company websites are mostly served by US vendors</a></td><td>146 👍</td><td>110 💬</td></tr>
+<tr><td>6.</td><td><a href='https://www.nwo.nl/nieuws/eerste-internationale-wetenschappers-via-het-tulp-fonds-naar-nederland'>Top researchers leave USA for the Netherlands (in Dutch)</a></td><td>214 👍</td><td>180 💬</td></tr>
+<tr><td>7.</td><td><a href='https://openwrt.org/toh/openwrt/one'>OpenWrt One – Open Hardware Router</a></td><td>751 👍</td><td>284 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.comaps.app/'>CoMaps – FOSS Offline Maps</a></td><td>699 👍</td><td>171 💬</td></tr>
+<tr><td>9.</td><td><a href='https://9mothers.com/careers'>9 Mothers (YC P26) Is Hiring in Austin, TX</a></td><td>1 👍</td><td>0 💬</td></tr>
+<tr><td>10.</td><td><a href='https://nekrozqliphort.github.io/posts/membarrier/'>C++ Details of Asymmetric Fences</a></td><td>20 👍</td><td>0 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>07 Jul 2026, 10:15 UTC</b> · Data from Hacker News</sub>
+<b>07 Jul 2026, 15:24 UTC</b>
 
 ---
 
