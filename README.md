@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/'>GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos</a></td><td>157 👍</td><td>52 💬</td></tr>
-<tr><td>2.</td><td><a href='https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/'>How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)</a></td><td>182 👍</td><td>109 💬</td></tr>
-<tr><td>3.</td><td><a href='https://kb.cert.org/vuls/id/213560'>Tenda firmware (multiple versions) contains hidden authentication b...</a></td><td>201 👍</td><td>58 💬</td></tr>
-<tr><td>4.</td><td><a href='https://www.digipres.org/the-floppy-guide/'>Copy That Floppy – Cambridge guide for preserving data from fragile...</a></td><td>67 👍</td><td>16 💬</td></tr>
-<tr><td>5.</td><td><a href='https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/'>Structure and Interpretation of Computer Programs Video Lectures (1...</a></td><td>164 👍</td><td>16 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.gao.gov/products/gao-26-108193'>GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclea...</a></td><td>199 👍</td><td>96 💬</td></tr>
-<tr><td>7.</td><td><a href='https://fightchatcontrol.eu/chat-control-overview'>Chat Control 1.0 and 2.0 Explained</a></td><td>638 👍</td><td>234 💬</td></tr>
-<tr><td>8.</td><td><a href='https://www.cbc.ca/news/canada/montreal/canada-s-only-watchmaking-school-9.7254211'>Canada's only watchmaking school still ticking after 80 years</a></td><td>136 👍</td><td>66 💬</td></tr>
-<tr><td>9.</td><td><a href='https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/'>Decoding the obfuscated bash script on a Uniqlo t-shirt</a></td><td>4 👍</td><td>0 💬</td></tr>
-<tr><td>10.</td><td><a href='https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/'>Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro</a></td><td>400 👍</td><td>78 💬</td></tr>
+<tr><td>1.</td><td><a href='https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/'>Decoding the obfuscated bash script on a Uniqlo t-shirt</a></td><td>798 👍</td><td>146 💬</td></tr>
+<tr><td>2.</td><td><a href='https://mistral.ai/news/robostral-navigate/'>Mistral's Robostral Navigate: a state of the art robotics navigatio...</a></td><td>33 👍</td><td>1 💬</td></tr>
+<tr><td>3.</td><td><a href='https://blog.cloudflare.com/meerkat-introduction/'>Cloudflare Meerkat - Globally distributed consensus</a></td><td>38 👍</td><td>7 💬</td></tr>
+<tr><td>4.</td><td><a href='https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/'>GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos</a></td><td>358 👍</td><td>141 💬</td></tr>
+<tr><td>5.</td><td><a href='https://www.theguardian.com/us-news/2026/jul/08/us-food-and-drug-administration-rejects-petition-to-set-pfas-limits-in-food'>US Food and Drug Administration rejects petition to set PFAS limits...</a></td><td>113 👍</td><td>61 💬</td></tr>
+<tr><td>6.</td><td><a href='https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/'>Apple to increase spend with Broadcom to produce billions more U.S....</a></td><td>156 👍</td><td>118 💬</td></tr>
+<tr><td>7.</td><td><a href='https://nvd.nist.gov/vuln/detail/cve-2026-57589'>OpenBSD has a use-after-free allowing local privilege escalation to...</a></td><td>19 👍</td><td>0 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why'>EVE Online's Carbon engine is now open source: Fenris Creations exp...</a></td><td>182 👍</td><td>60 💬</td></tr>
+<tr><td>9.</td><td><a href='https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/'>How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)</a></td><td>266 👍</td><td>178 💬</td></tr>
+<tr><td>10.</td><td><a href='https://manualmeida.dev/articles/noiselang/'>NoiseLang: Where N = 5 is a Dirac delta</a></td><td>52 👍</td><td>24 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>08 Jul 2026, 09:16 UTC</b> · Data from Hacker News</sub>
+<b>08 Jul 2026, 14:54 UTC</b>
 
 ---
 
