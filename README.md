@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02'>John Deere owners will get the right to repair equipment under FTC ...</a></td><td>845 👍</td><td>158 💬</td></tr>
-<tr><td>2.</td><td><a href='https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming'>Spider venom kills varroa mites without harming honeybees</a></td><td>123 👍</td><td>52 💬</td></tr>
-<tr><td>3.</td><td><a href='https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/'>Why developers are ditching GitHub for Codeberg and self-hosting al...</a></td><td>96 👍</td><td>58 💬</td></tr>
-<tr><td>4.</td><td><a href='https://www.networkworld.com/article/4192827/meta-reuses-old-ram-in-new-servers-with-custom-bridge-chip.html'>Meta reuses old RAM in new servers with custom bridge chip</a></td><td>28 👍</td><td>4 💬</td></tr>
-<tr><td>5.</td><td><a href='https://nexte.st/'>Cargo-nextest: 3x faster than cargo test, per-test isolation, first...</a></td><td>100 👍</td><td>29 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.theautopian.com/i-bet-my-company-on-an-impossible-jeep-build-then-a-miracle-happened/'>I Built the Only 2026 WWII Jeep</a></td><td>43 👍</td><td>10 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.cloudflare.com/drop/'>Cloudflare Drop</a></td><td>437 👍</td><td>235 💬</td></tr>
-<tr><td>8.</td><td><a href='https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase'>Benchmarking coding agents on Databricks' multi-million line codebase</a></td><td>89 👍</td><td>34 💬</td></tr>
-<tr><td>9.</td><td><a href='https://openai.com/index/separating-signal-from-noise-coding-evaluations/'>Separating signal from noise in coding evaluations</a></td><td>218 👍</td><td>76 💬</td></tr>
-<tr><td>10.</td><td><a href='https://dfarq.homeip.net/how-donkey-kong-toppled-atari/'>How Donkey Kong Toppled Atari</a></td><td>21 👍</td><td>4 💬</td></tr>
+<tr><td>1.</td><td><a href='https://18words.com/'>Show HN: 18 Words</a></td><td>356 👍</td><td>148 💬</td></tr>
+<tr><td>2.</td><td><a href='https://datacenter.iers.org/data/latestVersion/bulletinC.txt'>No leap second will be introduced at the end of December 2026</a></td><td>78 👍</td><td>55 💬</td></tr>
+<tr><td>3.</td><td><a href='https://github.com/PostHog/posthog-foss'>PostHog Open Sourced</a></td><td>44 👍</td><td>22 💬</td></tr>
+<tr><td>4.</td><td><a href='https://www.context.dev'>Launch HN: Context.dev (YC S26) – API to get structured data from a...</a></td><td>6 👍</td><td>0 💬</td></tr>
+<tr><td>5.</td><td><a href='https://www.dailymail.com/sciencetech/article-15962981/mark-zuckerberg-meta-wyoming-ai-data-center-bacteria.html'>Deadly bacteria found in city's wastewater system tied to Meta data...</a></td><td>10 👍</td><td>0 💬</td></tr>
+<tr><td>6.</td><td><a href='https://tuxnet.dev/posts/tls-for-internal-services/'>TLS certificates for internal services done right</a></td><td>16 👍</td><td>9 💬</td></tr>
+<tr><td>7.</td><td><a href='https://analog.watch'>Show HN: Analog Watch</a></td><td>24 👍</td><td>23 💬</td></tr>
+<tr><td>8.</td><td><a href='https://github.com/ronak-create/FableCut'>Show HN: FableCut – A browser video editor AI agents can drive (zer...</a></td><td>59 👍</td><td>39 💬</td></tr>
+<tr><td>9.</td><td><a href='https://www.lastshelf.ai/'>Show HN: LastShelf – an emergency map of your family's documents bi...</a></td><td>8 👍</td><td>2 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.networkworld.com/article/4192827/meta-reuses-old-ram-in-new-servers-with-custom-bridge-chip.html'>Meta reuses old RAM in new servers with custom bridge chip</a></td><td>196 👍</td><td>116 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>09 Jul 2026, 10:15 UTC</b> · Data from Hacker News</sub>
+<b>09 Jul 2026, 15:40 UTC</b>
 
 ---
 
