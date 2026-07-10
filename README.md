@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://openai.com/index/gpt-5-6/'>GPT-5.6</a></td><td>1281 👍</td><td>911 💬</td></tr>
-<tr><td>2.</td><td><a href='https://github.com/JustVugg/colibri'>Show HN: Getting GLM 5.2 running on my slow computer</a></td><td>686 👍</td><td>164 💬</td></tr>
-<tr><td>3.</td><td><a href='http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html'>In Emacs, Everything Looks Like a Service</a></td><td>15 👍</td><td>0 💬</td></tr>
-<tr><td>4.</td><td><a href='https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/'>EU Parliament greenlights Chat Control 1.0</a></td><td>1400 👍</td><td>657 💬</td></tr>
-<tr><td>5.</td><td><a href='https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429'>Train sim created by just one person is being called the best ever ...</a></td><td>609 👍</td><td>218 💬</td></tr>
-<tr><td>6.</td><td><a href='https://18words.com/'>Show HN: 18 Words</a></td><td>997 👍</td><td>318 💬</td></tr>
-<tr><td>7.</td><td><a href='https://nevo-project.epfl.ch/'>AI-generated videos to maximally drive a target brain region</a></td><td>59 👍</td><td>54 💬</td></tr>
-<tr><td>8.</td><td><a href='https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/'>Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future</a></td><td>76 👍</td><td>85 💬</td></tr>
-<tr><td>9.</td><td><a href='https://github.com/malisper/pgrust'>Postgres rewritten in Rust, now passing 100% of the Postgres regres...</a></td><td>665 👍</td><td>566 💬</td></tr>
-<tr><td>10.</td><td><a href='https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/'>Interview with Mitchell Hashimoto about Ghostty and Zig</a></td><td>256 👍</td><td>117 💬</td></tr>
+<tr><td>1.</td><td><a href='https://unstack.io/write-code-like-a-human-will-maintain-it'>Write code like a human will maintain it</a></td><td>115 👍</td><td>76 💬</td></tr>
+<tr><td>2.</td><td><a href='https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/'>Late Bronze Age Collapse</a></td><td>131 👍</td><td>49 💬</td></tr>
+<tr><td>3.</td><td><a href='https://ianreppel.org/how-successful-companies-go-blind/'>Successful Companies Go Blind</a></td><td>32 👍</td><td>14 💬</td></tr>
+<tr><td>4.</td><td><a href='https://openai.com/index/gpt-5-6/'>GPT-5.6</a></td><td>1435 👍</td><td>1009 💬</td></tr>
+<tr><td>5.</td><td><a href='https://benjamin.piouffle.com/blog/burner-email-blocklists/'>My burner email blocklist blocked me</a></td><td>12 👍</td><td>4 💬</td></tr>
+<tr><td>6.</td><td><a href='https://mappingignorance.org/2026/06/30/sagrada-familia/'>The mathematical secrets of Barcelona's Sagrada Familia</a></td><td>54 👍</td><td>8 💬</td></tr>
+<tr><td>7.</td><td><a href='http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html'>In Emacs, Everything Looks Like a Service</a></td><td>101 👍</td><td>55 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/'>Good Tools Are Invisible</a></td><td>118 👍</td><td>87 💬</td></tr>
+<tr><td>9.</td><td><a href='https://github.com/JustVugg/colibri'>Show HN: Getting GLM 5.2 running on my slow computer</a></td><td>787 👍</td><td>192 💬</td></tr>
+<tr><td>10.</td><td><a href='https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429'>Train sim created by just one person is being called the best ever ...</a></td><td>743 👍</td><td>300 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>10 Jul 2026, 10:11 UTC</b> · Data from Hacker News</sub>
+<b>10 Jul 2026, 15:10 UTC</b>
 
 ---
 
