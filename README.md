@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity'>Einstein's relativity rules chemical bonds in heavy elements, new r...</a></td><td>217 👍</td><td>78 💬</td></tr>
-<tr><td>2.</td><td><a href='https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/'>QuadRF can spot drones and see WiFi through my wall</a></td><td>556 👍</td><td>191 💬</td></tr>
-<tr><td>3.</td><td><a href='https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/'>Apple sues OpenAI, accuses ex-employees of stealing trade secrets</a></td><td>994 👍</td><td>506 💬</td></tr>
-<tr><td>4.</td><td><a href='https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/'>The vintage beauty of Soviet control rooms (2018)</a></td><td>66 👍</td><td>21 💬</td></tr>
-<tr><td>5.</td><td><a href='https://www.iroh.computer/blog/an-iroh-powered-smart-fan'>An iroh powered smart fan</a></td><td>94 👍</td><td>20 💬</td></tr>
-<tr><td>6.</td><td><a href='https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/'>An update on residential proxies and the scraper situation</a></td><td>183 👍</td><td>177 💬</td></tr>
-<tr><td>7.</td><td><a href='https://gerireid.com/blog/organising-documentation-for-humans-and-ai/'>Documentation is still in your Mum's filing cabinet</a></td><td>14 👍</td><td>4 💬</td></tr>
-<tr><td>8.</td><td><a href='https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/'>SpaceX wants to launch 100k more Starlink satellites for 100x the b...</a></td><td>172 👍</td><td>543 💬</td></tr>
-<tr><td>9.</td><td><a href='https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/'>Good Tools Are Invisible</a></td><td>416 👍</td><td>194 💬</td></tr>
-<tr><td>10.</td><td><a href='https://ai-2040.com/'>AI 2040: Plan A</a></td><td>246 👍</td><td>248 💬</td></tr>
+<tr><td>1.</td><td><a href='https://fazamhd.com/mental-models/networking/'>Networking and the Internet, from First Principles</a></td><td>79 👍</td><td>36 💬</td></tr>
+<tr><td>2.</td><td><a href='https://tiki.li/blog/lucky_code.html'>Your code is fast – if you're lucky</a></td><td>55 👍</td><td>17 💬</td></tr>
+<tr><td>3.</td><td><a href='https://bart.degoe.de/semantic-search-in-your-browser/'>Semantic/Hybrid Search in the Browser</a></td><td>6 👍</td><td>0 💬</td></tr>
+<tr><td>4.</td><td><a href='https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity'>Einstein's relativity rules chemical bonds in heavy elements, new r...</a></td><td>305 👍</td><td>123 💬</td></tr>
+<tr><td>5.</td><td><a href='https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/'>QuadRF can spot drones and see WiFi through my wall</a></td><td>640 👍</td><td>210 💬</td></tr>
+<tr><td>6.</td><td><a href='https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties'>Google Search lets creators know more about their reach</a></td><td>42 👍</td><td>24 💬</td></tr>
+<tr><td>7.</td><td><a href='https://alexandrepoupeau.com/otary/learn/'>Otary – Image and Geometry Python Library Now Has Tutorials</a></td><td>50 👍</td><td>1 💬</td></tr>
+<tr><td>8.</td><td><a href='https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/'>Apple sues OpenAI, accuses ex-employees of stealing trade secrets</a></td><td>1258 👍</td><td>678 💬</td></tr>
+<tr><td>9.</td><td><a href='https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html'>FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry</a></td><td>33 👍</td><td>20 💬</td></tr>
+<tr><td>10.</td><td><a href='https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/'>An update on residential proxies and the scraper situation</a></td><td>244 👍</td><td>245 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>11 Jul 2026, 08:30 UTC</b> · Data from Hacker News</sub>
+<b>11 Jul 2026, 13:59 UTC</b>
 
 ---
 
