@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://github.com/cosmtrek/mindwalk'>Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of you...</a></td><td>26 👍</td><td>5 💬</td></tr>
-<tr><td>2.</td><td><a href='https://www.iroh.computer/blog/mesh-llm'>Mesh LLM: distributed AI computing on iroh</a></td><td>243 👍</td><td>52 💬</td></tr>
-<tr><td>3.</td><td><a href='https://buf.build/blog/protobuf-py'>Protobuf-py: Protobuf for Python, without compromises</a></td><td>33 👍</td><td>2 💬</td></tr>
-<tr><td>4.</td><td><a href='https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/'>Vint Cerf, a “father of the Internet”, is retiring</a></td><td>45 👍</td><td>19 💬</td></tr>
-<tr><td>5.</td><td><a href='https://antjs.org'>Show HN: Ant – A JavaScript runtime and ecosystem</a></td><td>260 👍</td><td>111 💬</td></tr>
-<tr><td>6.</td><td><a href='https://thebeach.dev/posts/lisp-agent/'>An agent in 100 lines of Lisp</a></td><td>139 👍</td><td>18 💬</td></tr>
-<tr><td>7.</td><td><a href='https://hlnet.notion.site/text-art-tools'>Text art tools</a></td><td>29 👍</td><td>10 💬</td></tr>
-<tr><td>8.</td><td><a href='https://github.com/Wren6991/RISCBoy'>RISCBoy is an open-source portable games console, designed from scr...</a></td><td>135 👍</td><td>19 💬</td></tr>
-<tr><td>9.</td><td><a href='https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom'>Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the...</a></td><td>251 👍</td><td>86 💬</td></tr>
-<tr><td>10.</td><td><a href='https://triapul.cz/automa/i_did_not_kill_stanley_lieber'>I Did Not Kill Stanley Lieber: How to Draw (With 9front)</a></td><td>64 👍</td><td>19 💬</td></tr>
+<tr><td>1.</td><td><a href='https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/'>Old and new apps, via modern coding agents by Terry Tao</a></td><td>132 👍</td><td>31 💬</td></tr>
+<tr><td>2.</td><td><a href='https://app.ilograph.com/demo.ilograph.yt-dlp/Download%2520a%2520YouTube%2520Video'>Yt-Dlp Sequence Diagrams</a></td><td>59 👍</td><td>9 💬</td></tr>
+<tr><td>3.</td><td><a href='https://odinbook.com/'>Understanding the Odin Programming Language</a></td><td>34 👍</td><td>2 💬</td></tr>
+<tr><td>4.</td><td><a href='https://dakra.github.io/ghostel/'>Ghostel.el: Terminal emulator powered by libghostty</a></td><td>85 👍</td><td>5 💬</td></tr>
+<tr><td>5.</td><td><a href='https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/'>Vint Cerf, a “father of the Internet”, is retiring</a></td><td>174 👍</td><td>98 💬</td></tr>
+<tr><td>6.</td><td><a href='https://github.com/cosmtrek/mindwalk'>Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of you...</a></td><td>106 👍</td><td>46 💬</td></tr>
+<tr><td>7.</td><td><a href='https://mrbruh.com/motorola/'>Unauthenticated RCE in Motorola's MR2600 Router</a></td><td>14 👍</td><td>0 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.iroh.computer/blog/mesh-llm'>Mesh LLM: distributed AI computing on iroh</a></td><td>293 👍</td><td>69 💬</td></tr>
+<tr><td>9.</td><td><a href='https://buf.build/blog/protobuf-py'>Protobuf-py: Protobuf for Python, without compromises</a></td><td>88 👍</td><td>22 💬</td></tr>
+<tr><td>10.</td><td><a href='https://mamoniem.com/xbox-og-adventures/'>Xbox 'OG' Adventures</a></td><td>23 👍</td><td>2 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>12 Jul 2026, 08:55 UTC</b> · Data from Hacker News</sub>
+<b>12 Jul 2026, 14:02 UTC</b>
 
 ---
 
