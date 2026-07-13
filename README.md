@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://raymyers.org/post/zed-creator-calls-spade-a-spade/'>Zig Creator Calls Spade a Spade, Anthropic Blows Smoke</a></td><td>148 👍</td><td>82 💬</td></tr>
-<tr><td>2.</td><td><a href='https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/'>Interrail: 6,379Km and 13 Countries over 7 weeks</a></td><td>44 👍</td><td>36 💬</td></tr>
-<tr><td>3.</td><td><a href='https://mmapped.blog/posts/52-backtrack-free-cursive'>Backtrack-Free Cursive</a></td><td>84 👍</td><td>37 💬</td></tr>
-<tr><td>4.</td><td><a href='https://andiroberts.com/citizenship/the-social-physics-of-conversation-citizenship-leadership'>The social physics of conversation: Communication patterns matter</a></td><td>38 👍</td><td>5 💬</td></tr>
-<tr><td>5.</td><td><a href='https://github.com/schlae/BeavisUltrasound'>Beavis Ultrasound PnP ISA Sound Card Replica</a></td><td>60 👍</td><td>21 💬</td></tr>
-<tr><td>6.</td><td><a href='https://nebusec.ai/research/ionstack-part-2/'>GhostLock, a stack-UAF that has existed in all Linux distributions ...</a></td><td>269 👍</td><td>113 💬</td></tr>
-<tr><td>7.</td><td><a href='https://shellzine.net/cyberpunk-comics/'>Cyberpunk Comics, Manga and Graphic Novels</a></td><td>190 👍</td><td>61 💬</td></tr>
-<tr><td>8.</td><td><a href='https://floooh.github.io/tiny8bit-preview/index.html'>Tiny Emulators</a></td><td>254 👍</td><td>22 💬</td></tr>
-<tr><td>9.</td><td><a href='https://frieve-a.github.io/sound_toolbox/vinyl_explained/vinyl_explained.html'>Frieve Vinyl Explained – Microscopic stylus/groove physics simulation</a></td><td>12 👍</td><td>1 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.susanrigetti.com/physics'>So you want to learn physics (second edition, 2021)</a></td><td>224 👍</td><td>39 💬</td></tr>
+<tr><td>1.</td><td><a href='https://blog.cloudflare.com/introducing-precursor/'>Precursor</a></td><td>34 👍</td><td>15 💬</td></tr>
+<tr><td>2.</td><td><a href='https://jivx.com/densha'>A voxel Tokyo in real Japan time – ride the Yamanote line and study...</a></td><td>165 👍</td><td>16 💬</td></tr>
+<tr><td>3.</td><td><a href='https://fabiensanglard.net/silpheed/index.html'>The art and engineering of Sega CD Silpheed</a></td><td>14 👍</td><td>0 💬</td></tr>
+<tr><td>4.</td><td><a href='https://twitter.com/a_green_being/status/2076598897779020159'>Grok uploaded my user directory to xAI's servers</a></td><td>220 👍</td><td>97 💬</td></tr>
+<tr><td>5.</td><td><a href='https://github.com/floodtide/dom-docx'>Show HN: DOM-docx – HTML to native, editable Word docs (MIT)</a></td><td>65 👍</td><td>22 💬</td></tr>
+<tr><td>6.</td><td><a href='https://twitter.com/i/status/2076598897779020159'>Grok CLI uploaded the whole home directory to GCS</a></td><td>144 👍</td><td>50 💬</td></tr>
+<tr><td>7.</td><td><a href='https://github.com/clawkwork/clawk'>Show HN: Clawk – Give coding agents a disposable Linux VM, not your...</a></td><td>70 👍</td><td>71 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.bbc.com/news/articles/cwye0dlzgejo'>The 'absolute magic' of Morse code that still connects people globally</a></td><td>45 👍</td><td>14 💬</td></tr>
+<tr><td>9.</td><td><a href='https://mmapped.blog/posts/52-backtrack-free-cursive'>Backtrack-Free Cursive</a></td><td>178 👍</td><td>76 💬</td></tr>
+<tr><td>10.</td><td><a href='https://andiroberts.com/citizenship/the-social-physics-of-conversation-citizenship-leadership'>The social physics of conversation: Communication patterns matter</a></td><td>118 👍</td><td>23 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>13 Jul 2026, 10:01 UTC</b> · Data from Hacker News</sub>
+<b>13 Jul 2026, 15:20 UTC</b>
 
 ---
 
