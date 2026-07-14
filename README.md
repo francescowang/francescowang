@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/'>Japan develops a method to recover up to 90% of lithium from used E...</a></td><td>429 👍</td><td>105 💬</td></tr>
-<tr><td>2.</td><td><a href='https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/'>Alternative(s) to run CUDA on non-Nvidia hardware</a></td><td>13 👍</td><td>2 💬</td></tr>
-<tr><td>3.</td><td><a href='https://github.com/JetBrains/youtrackdb'>YouTrackDB is a general-use object-oriented graph database</a></td><td>107 👍</td><td>30 💬</td></tr>
-<tr><td>4.</td><td><a href='https://lalitm.com/post/git-history/'>The git history command</a></td><td>274 👍</td><td>157 💬</td></tr>
-<tr><td>5.</td><td><a href='https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/'>Australian energy retailers must provide three hours of free daytim...</a></td><td>65 👍</td><td>79 💬</td></tr>
-<tr><td>6.</td><td><a href='https://web.stanford.edu/~dntse/wireless_book.html'>Fundamentals of Wireless Communication (2005)</a></td><td>126 👍</td><td>4 💬</td></tr>
-<tr><td>7.</td><td><a href='https://blinry.org/lcd-clock/'>How to build a circular LCD clock</a></td><td>76 👍</td><td>26 💬</td></tr>
-<tr><td>8.</td><td><a href='https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/'>Building and shipping Mac and iOS apps without opening Xcode</a></td><td>461 👍</td><td>196 💬</td></tr>
-<tr><td>9.</td><td><a href='https://elasticity.institute/rsi-paper.pdf'>The Economics of Recursive Self-Improvement [pdf]</a></td><td>92 👍</td><td>28 💬</td></tr>
-<tr><td>10.</td><td><a href='https://max-amb.github.io/blog/zero_knowledge_tolstoyan_art/'>Zero Knowledge Tolstoyan Art</a></td><td>13 👍</td><td>4 💬</td></tr>
+<tr><td>1.</td><td><a href='https://github.com/openai/codex/issues/28058'>Codex starts encrypting sub-agent prompts</a></td><td>267 👍</td><td>163 💬</td></tr>
+<tr><td>2.</td><td><a href='https://phemex.com/news/article/2026-fields-medal-winners-list-leaked-includes-two-peking-university-alumni-92948'>Codex scraped the ICM website and discovered 2026 Fields Medal winn...</a></td><td>103 👍</td><td>72 💬</td></tr>
+<tr><td>3.</td><td><a href='https://jacobfilipp.com/care/'>Proof of Care in the Age of A.I</a></td><td>55 👍</td><td>26 💬</td></tr>
+<tr><td>4.</td><td><a href='https://ryanjk5.github.io/posts/rjk-duck/'>Beautiful Type Erasure with C++26 Reflection</a></td><td>35 👍</td><td>12 💬</td></tr>
+<tr><td>5.</td><td><a href='https://github.com/Danau5tin/ai-trains-ai'>Show HN: I RL-trained an agent that trains models with RL (for –$1.3k)</a></td><td>37 👍</td><td>13 💬</td></tr>
+<tr><td>6.</td><td><a href='https://arxiv.org/abs/2607.05188'>Coding agents think ahead of time</a></td><td>40 👍</td><td>29 💬</td></tr>
+<tr><td>7.</td><td><a href='https://heatherburns.tech/2026/07/08/the-kids-with-phones-are-alright/'>Kids (With Phones) Are Alright</a></td><td>31 👍</td><td>24 💬</td></tr>
+<tr><td>8.</td><td><a href='https://zserge.com/posts/tensor/'>Tensor Is the Might</a></td><td>18 👍</td><td>6 💬</td></tr>
+<tr><td>9.</td><td><a href='https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/'>Japan develops a method to recover up to 90% of lithium from used E...</a></td><td>648 👍</td><td>172 💬</td></tr>
+<tr><td>10.</td><td><a href='https://adi.bio/reality'>Punch Yourself in the Face with Reality</a></td><td>66 👍</td><td>28 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>14 Jul 2026, 08:56 UTC</b> · Data from Hacker News</sub>
+<b>14 Jul 2026, 14:22 UTC</b>
 
 ---
 
