@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://fabiensanglard.net/jurrasic_park_computers/index.html'>Jurassic Park computers in excruciating detail</a></td><td>395 👍</td><td>94 💬</td></tr>
-<tr><td>2.</td><td><a href='https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/'>RISC-V Is Inevitable: State of the Union Keynote Argues</a></td><td>49 👍</td><td>34 💬</td></tr>
-<tr><td>3.</td><td><a href='https://www.ayush.digital/blog/the-memory-heist'>I tricked Claude into leaking your deepest, darkest secrets</a></td><td>227 👍</td><td>97 💬</td></tr>
-<tr><td>4.</td><td><a href='https://vpd.ca/'>Vancouver PD website features Quick Escape button that wipes itself...</a></td><td>259 👍</td><td>102 💬</td></tr>
-<tr><td>5.</td><td><a href='https://tailscale.com/security-bulletins'>TS-2026-009: Insecure argument handling in Tailscale SSH permitted ...</a></td><td>146 👍</td><td>68 💬</td></tr>
-<tr><td>6.</td><td><a href='https://prismml.com/news/bonsai-27b'>Bonsai 27B: A 27B-Class model that runs on a phone</a></td><td>580 👍</td><td>208 💬</td></tr>
-<tr><td>7.</td><td><a href='https://righteousit.com/2009/03/12/never-argue-with-your-boss/'>Never argue with your boss (2009)</a></td><td>18 👍</td><td>9 💬</td></tr>
-<tr><td>8.</td><td><a href='https://blog.apnic.net/2026/07/15/whos-running-all-those-tiny-rpki-servers/'>Who's running all those tiny RPKI servers?</a></td><td>12 👍</td><td>0 💬</td></tr>
-<tr><td>9.</td><td><a href='https://en.wikipedia.org/wiki/Andon_(manufacturing)'>Andon (manufacturing)</a></td><td>49 👍</td><td>11 💬</td></tr>
-<tr><td>10.</td><td><a href='https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/'>The Tower Keeps Rising</a></td><td>458 👍</td><td>220 💬</td></tr>
+<tr><td>1.</td><td><a href='https://academic.oup.com/sleep/article/47/1/zsad253/7280269'>Sleep regularity is a stronger predictor of mortality risk than sle...</a></td><td>264 👍</td><td>122 💬</td></tr>
+<tr><td>2.</td><td><a href='https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence'>The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence</a></td><td>41 👍</td><td>21 💬</td></tr>
+<tr><td>3.</td><td><a href='https://dev.moe/en/3025'>Mysteries of Telegram Data Centers</a></td><td>32 👍</td><td>4 💬</td></tr>
+<tr><td>4.</td><td><a href='https://fabiensanglard.net/jurrasic_park_computers/index.html'>Jurassic Park computers in excruciating detail</a></td><td>673 👍</td><td>166 💬</td></tr>
+<tr><td>5.</td><td><a href='https://snapsafe.org/incidents.html'>Privacy Incidents – Real-world examples of why your photos need pro...</a></td><td>32 👍</td><td>1 💬</td></tr>
+<tr><td>6.</td><td><a href='https://www.ft.com/content/3a023b95-66c3-41e1-b0ce-df752a499541'>SpaceX bond worth 10% less than issue price – heading for junk bond...</a></td><td>135 👍</td><td>40 💬</td></tr>
+<tr><td>7.</td><td><a href='https://briarproject.org/news/2026-maintenance-mode/'>Briar Is in Maintenance Mode</a></td><td>31 👍</td><td>6 💬</td></tr>
+<tr><td>8.</td><td><a href='https://ramones.dev/posts/mental-health/'>Prioritize mental health, and why communication is so important</a></td><td>80 👍</td><td>58 💬</td></tr>
+<tr><td>9.</td><td><a href='https://github.com/Michael-Manning/E-Paper-Climate-Logger'>Weathergotchi – an open-source climate Tamagotchi</a></td><td>46 👍</td><td>13 💬</td></tr>
+<tr><td>10.</td><td><a href='https://fitelson.org/seminar/dawid.pdf'>The well-calibrated Bayesian [pdf]</a></td><td>4 👍</td><td>1 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>15 Jul 2026, 09:01 UTC</b> · Data from Hacker News</sub>
+<b>15 Jul 2026, 14:18 UTC</b>
 
 ---
 
