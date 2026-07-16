@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming'>The lost joy of music piracy</a></td><td>273 👍</td><td>135 💬</td></tr>
-<tr><td>2.</td><td><a href='https://thinkingmachines.ai/news/introducing-inkling/'>Inkling: Our Open-Weights Model</a></td><td>955 👍</td><td>236 💬</td></tr>
-<tr><td>3.</td><td><a href='https://madcampos.dev/blog/2026/07/accessibility-from-scratch/'>If you want to create a button from scratch, you must first create ...</a></td><td>111 👍</td><td>51 💬</td></tr>
-<tr><td>4.</td><td><a href='https://blog.cloudflare.com/whats-the-story-behind-the-names-of-cloudflares-name-servers/'>What's the story behind the names of Cloudflare's name servers? (2013)</a></td><td>27 👍</td><td>25 💬</td></tr>
-<tr><td>5.</td><td><a href='https://goughlui.com/2026/07/09/teardown-a-generic-7-port-usb-3-0-hub-that-wasnt/'>Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't</a></td><td>49 👍</td><td>12 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html'>1,300 Beautiful Wildlife Illustrations from the 19th Century Now Re...</a></td><td>83 👍</td><td>11 💬</td></tr>
-<tr><td>7.</td><td><a href='https://github.com/xai-org/grok-build'>Grok Build is open source</a></td><td>435 👍</td><td>466 💬</td></tr>
-<tr><td>8.</td><td><a href='https://mort.coffee/home/sqlite-editions/'>SQLite should have (Rust-style) editions</a></td><td>260 👍</td><td>103 💬</td></tr>
-<tr><td>9.</td><td><a href='https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf'>Governments, companies, nonprofits should invest in free, open sour...</a></td><td>186 👍</td><td>67 💬</td></tr>
-<tr><td>10.</td><td><a href='https://github.com/minh-ton/reynard-browser'>Reynard: A real Firefox web browser for iOS 13 or later</a></td><td>35 👍</td><td>9 💬</td></tr>
+<tr><td>1.</td><td><a href='https://community.oneplus.com/thread/2170715118587871237'>OnePlus halts operations in USA and Europe</a></td><td>262 👍</td><td>144 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.spaceweather.gov/news/goes-19-safe-hold'>Goes-19 weather satellite enters Safe Hold mode</a></td><td>30 👍</td><td>10 💬</td></tr>
+<tr><td>3.</td><td><a href='https://onatm.dev/2026/07/16/homescale-part-1/'>Let's Build PlanetScale from Scratch: Infrastructure</a></td><td>61 👍</td><td>11 💬</td></tr>
+<tr><td>4.</td><td><a href='https://refactoring.guru/email/gbb-rollout2'>How to spend 15 years perfecting a product</a></td><td>25 👍</td><td>2 💬</td></tr>
+<tr><td>5.</td><td><a href='https://ai-law-tracker.com'>Show HN: AI Law Tracker – one audited API for US, EU and global AI law</a></td><td>13 👍</td><td>8 💬</td></tr>
+<tr><td>6.</td><td><a href='https://ente.com/open/'>Ente – Opening Our Books</a></td><td>90 👍</td><td>28 💬</td></tr>
+<tr><td>7.</td><td><a href='https://hilogame.cc/'>Show HN: I've built a words game based on binary search</a></td><td>16 👍</td><td>15 💬</td></tr>
+<tr><td>8.</td><td><a href='https://joinedanthropic.com'>Where are YC founders now? OpenAI and Anthropic, mostly</a></td><td>183 👍</td><td>90 💬</td></tr>
+<tr><td>9.</td><td><a href='https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming'>The lost joy of music piracy</a></td><td>541 👍</td><td>349 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.techdirt.com/2026/07/15/sony-deletes-a-bunch-more-movies-from-the-accounts-of-people-who-bought-them/'>Sony Deletes a Bunch More Movies from the Accounts of People Who 'B...</a></td><td>105 👍</td><td>47 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>16 Jul 2026, 09:04 UTC</b> · Data from Hacker News</sub>
+<b>16 Jul 2026, 14:31 UTC</b>
 
 ---
 
