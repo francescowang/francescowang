@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876'>EEG shows brain can simultaneous encode two speech streams</a></td><td>67 👍</td><td>28 💬</td></tr>
-<tr><td>2.</td><td><a href='https://www.kimi.com/blog/kimi-k3'>Kimi K3: Open Frontier Intelligence</a></td><td>1586 👍</td><td>937 💬</td></tr>
-<tr><td>3.</td><td><a href='https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/'>How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine...</a></td><td>115 👍</td><td>71 💬</td></tr>
-<tr><td>4.</td><td><a href='https://repebble.com/blog/pebble-mega-update-july-2026'>Pebble Mega Update – July 2026</a></td><td>102 👍</td><td>26 💬</td></tr>
-<tr><td>5.</td><td><a href='https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/'>Microsoft Comic Chat is now open source</a></td><td>667 👍</td><td>145 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.ti.com/lit/eb/slyy228/slyy228.pdf?ts=1759892558029'>An Engineer's Guide to USB Typе-С (2024)</a></td><td>159 👍</td><td>9 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.mixfont.com/experiments/decoy-font'>Decoy Font</a></td><td>538 👍</td><td>126 💬</td></tr>
-<tr><td>8.</td><td><a href='https://nemanjatrifunovic.substack.com/p/starlink-from-1984'>Starlink from 1984</a></td><td>30 👍</td><td>9 💬</td></tr>
-<tr><td>9.</td><td><a href='https://lmstudio.ai/blog/introducing-lm-studio-bionic'>LM Studio Bionic: the AI agent for open models</a></td><td>242 👍</td><td>85 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6'>$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol</a></td><td>254 👍</td><td>342 💬</td></tr>
+<tr><td>1.</td><td><a href='https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423'>Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize</a></td><td>357 👍</td><td>200 💬</td></tr>
+<tr><td>2.</td><td><a href='https://en.ubiresearchnet.com/multi-primary-color-display-technology-2026/'>Multi-Primary Color Display Emerges as Next-Gen Color Reproduction ...</a></td><td>20 👍</td><td>12 💬</td></tr>
+<tr><td>3.</td><td><a href='https://minikotlin.run'>Minikotlin</a></td><td>50 👍</td><td>10 💬</td></tr>
+<tr><td>4.</td><td><a href='https://www.kimi.com/blog/kimi-k3'>Kimi K3: Open Frontier Intelligence</a></td><td>1824 👍</td><td>1072 💬</td></tr>
+<tr><td>5.</td><td><a href='https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876'>EEG shows brain can simultaneous encode two speech streams</a></td><td>177 👍</td><td>110 💬</td></tr>
+<tr><td>6.</td><td><a href='https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166'>Apple targets dozens of OpenAI employees with legal letters</a></td><td>112 👍</td><td>70 💬</td></tr>
+<tr><td>7.</td><td><a href='https://www.capitalone.com/tech/open-source/announcing-vulnhunter/'>VulnHunter: Capital One's agentic AI code security tool</a></td><td>13 👍</td><td>7 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.ycombinator.com/companies/manufact/jobs/Dh6PYP5-senior-infrastructure-engineer'>Manufact (YC S25) Is Hiring a Senior infra engineer to build the MC...</a></td><td>1 👍</td><td>0 💬</td></tr>
+<tr><td>9.</td><td><a href='https://repebble.com/blog/pebble-mega-update-july-2026'>Pebble Mega Update – July 2026</a></td><td>184 👍</td><td>98 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.androidauthority.com/pebble-time-2-smartwatch-hands-on-3680077/'>After wearing the Pebble Time 2 for two weeks, I'll never buy anoth...</a></td><td>46 👍</td><td>33 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>17 Jul 2026, 09:00 UTC</b> · Data from Hacker News</sub>
+<b>17 Jul 2026, 14:11 UTC</b>
 
 ---
 
