@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://maurycyz.com/projects/bad_jpeg/'>Regressive JPEGs</a></td><td>235 👍</td><td>14 💬</td></tr>
-<tr><td>2.</td><td><a href='https://parksb.github.io/en/article/41.html'>Reviving a 15-year-old netbook with Arch Linux</a></td><td>87 👍</td><td>46 💬</td></tr>
-<tr><td>3.</td><td><a href='https://news.ycombinator.com/item?id=48945241'>AWS: Inaccurate Estimated Billing Data – $1.7 billion</a></td><td>1163 👍</td><td>698 💬</td></tr>
-<tr><td>4.</td><td><a href='https://news.ycombinator.com/item?id=48949551'>Thanks HN for 15 years of support and helping me find my life's work</a></td><td>549 👍</td><td>54 💬</td></tr>
-<tr><td>5.</td><td><a href='https://www.bbc.com/news/articles/cy4kdd1e0ejo'>First atmosphere found on Earth-like planet in habitable zone of di...</a></td><td>445 👍</td><td>261 💬</td></tr>
-<tr><td>6.</td><td><a href='https://goliath32.com/blog/z80.html'>The Zilog Z80 has turned 50</a></td><td>213 👍</td><td>73 💬</td></tr>
-<tr><td>7.</td><td><a href='https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md'>TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 ...</a></td><td>112 👍</td><td>27 💬</td></tr>
-<tr><td>8.</td><td><a href='https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/'>Learning a few things about running SQLite</a></td><td>239 👍</td><td>63 💬</td></tr>
-<tr><td>9.</td><td><a href='https://github.com/tucan9389/nanochat-jax/discussions/1'>Porting nanochat to a TPU: what carries over from PyTorch, and what...</a></td><td>13 👍</td><td>0 💬</td></tr>
-<tr><td>10.</td><td><a href='https://in-toto.io/'>In-toto: A framework to secure the integrity of software supply chains</a></td><td>14 👍</td><td>0 💬</td></tr>
+<tr><td>1.</td><td><a href='https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/'>GPT-5.6 used a prompt to close a 30-year gap in convex optimization</a></td><td>69 👍</td><td>25 💬</td></tr>
+<tr><td>2.</td><td><a href='https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/'>Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?</a></td><td>55 👍</td><td>25 💬</td></tr>
+<tr><td>3.</td><td><a href='https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent'>LG monitors silently install software through Windows Update withou...</a></td><td>393 👍</td><td>196 💬</td></tr>
+<tr><td>4.</td><td><a href='https://maurycyz.com/projects/bad_jpeg/'>Regressive JPEGs</a></td><td>476 👍</td><td>46 💬</td></tr>
+<tr><td>5.</td><td><a href='https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/'>The Computer at the Bottom of a Canal</a></td><td>60 👍</td><td>10 💬</td></tr>
+<tr><td>6.</td><td><a href='https://news.ycombinator.com/item?id=48945241'>AWS: Inaccurate Estimated Billing Data – $1.7 billion</a></td><td>1229 👍</td><td>718 💬</td></tr>
+<tr><td>7.</td><td><a href='https://amateurphotographer.com/latest/photo-news/going-going-gone-is-this-the-end-of-the-once-mighty-gopro/'>Is this the end of the once-mighty GoPro?</a></td><td>13 👍</td><td>15 💬</td></tr>
+<tr><td>8.</td><td><a href='https://parksb.github.io/en/article/41.html'>Reviving a 15-year-old netbook with Arch Linux</a></td><td>156 👍</td><td>94 💬</td></tr>
+<tr><td>9.</td><td><a href='https://news.ycombinator.com/item?id=48949551'>Thanks HN for 15 years of support and helping me find my life's work</a></td><td>686 👍</td><td>80 💬</td></tr>
+<tr><td>10.</td><td><a href='https://arxiv.org/abs/2607.14587'>Qubes OS Security in the Public Record</a></td><td>36 👍</td><td>5 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>18 Jul 2026, 08:28 UTC</b> · Data from Hacker News</sub>
+<b>18 Jul 2026, 13:55 UTC</b>
 
 ---
 
