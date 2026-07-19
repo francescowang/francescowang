@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://workshop.cjpais.com/projects/transcribe-cpp'>Transcribe.cpp</a></td><td>488 👍</td><td>95 💬</td></tr>
-<tr><td>2.</td><td><a href='https://github.com/moonshine-ai/moonshine/tree/main/micro'>Speech Recognition and TTS in less than 500kb</a></td><td>444 👍</td><td>59 💬</td></tr>
-<tr><td>3.</td><td><a href='https://supabase.com/blog/searchable-field-level-encryption-with-cipherstash'>Searchable field-level encryption on Supabase with CipherStash</a></td><td>34 👍</td><td>13 💬</td></tr>
-<tr><td>4.</td><td><a href='https://codex-resets.com/'>Codex Resets</a></td><td>171 👍</td><td>127 💬</td></tr>
-<tr><td>5.</td><td><a href='https://github.com/stupside/castor'>Better and Cheaper Than IPTV</a></td><td>180 👍</td><td>46 💬</td></tr>
-<tr><td>6.</td><td><a href='https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/'>The Kimi K3 Moment</a></td><td>378 👍</td><td>412 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.scientificamerican.com/article/mathematicians-still-dont-know-the-fastest-way-to-multiply-numbers/'>Mathematicians still don't know the fastest way to multiply numbers</a></td><td>93 👍</td><td>64 💬</td></tr>
-<tr><td>8.</td><td><a href='https://twitter.com/Alibaba_Qwen/status/2078759124914098291'>Qwen3.8 is launching and going open-weight soon</a></td><td>19 👍</td><td>0 💬</td></tr>
-<tr><td>9.</td><td><a href='https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/'>GPT-5.6 used a prompt to close a 30-year gap in convex optimization</a></td><td>559 👍</td><td>357 💬</td></tr>
-<tr><td>10.</td><td><a href='https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea'>Scrying the AMD GFX1250 LLVM Tea Leaves</a></td><td>20 👍</td><td>0 💬</td></tr>
+<tr><td>1.</td><td><a href='https://www.qwencloud.com/pricing/token-plan'>Qwen 3.8 Max Preview</a></td><td>192 👍</td><td>92 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4'>Minecraft: Java Edition now uses SDL3</a></td><td>42 👍</td><td>23 💬</td></tr>
+<tr><td>3.</td><td><a href='https://quesma.com/blog/custom-deep-research-pipeline/'>I burned all my tokens researching how to save tokens</a></td><td>40 👍</td><td>18 💬</td></tr>
+<tr><td>4.</td><td><a href='https://www.blender.org/download/releases/5-2/'>Blender 5.2 LTS</a></td><td>125 👍</td><td>52 💬</td></tr>
+<tr><td>5.</td><td><a href='https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard'>What I learned selling 2,500 MIDI recorders: Hardware is not so hard</a></td><td>127 👍</td><td>73 💬</td></tr>
+<tr><td>6.</td><td><a href='https://sgt.hootr.club/blog/home-server-rebirth/'>The death and rebirth of my home server</a></td><td>41 👍</td><td>16 💬</td></tr>
+<tr><td>7.</td><td><a href='https://workshop.cjpais.com/projects/transcribe-cpp'>Transcribe.cpp</a></td><td>603 👍</td><td>130 💬</td></tr>
+<tr><td>8.</td><td><a href='https://github.com/openai/codex/pull/33972/files'>OpenAI reduces Codex Model Context Size from 372k to 272k</a></td><td>88 👍</td><td>39 💬</td></tr>
+<tr><td>9.</td><td><a href='https://twitter.com/Alibaba_Qwen/status/2078759124914098291'>Qwen3.8 is launching and going open-weight soon</a></td><td>308 👍</td><td>160 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.cortex.io/drive'>DRIVE – Operational Excellence for AI-accelerated engineering</a></td><td>4 👍</td><td>0 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>19 Jul 2026, 08:58 UTC</b> · Data from Hacker News</sub>
+<b>19 Jul 2026, 13:59 UTC</b>
 
 ---
 
