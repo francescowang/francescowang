@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/'>Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5...</a></td><td>50 👍</td><td>26 💬</td></tr>
-<tr><td>2.</td><td><a href='https://news.ycombinator.com/item?id=48968606'>Show HN: I replaced a $120k bowling center system with $1,600 in ES...</a></td><td>2315 👍</td><td>246 💬</td></tr>
-<tr><td>3.</td><td><a href='https://github.com/hgaiser/moonshine'>Moonshine: Lets you stream games from your PC to any device running...</a></td><td>184 👍</td><td>79 💬</td></tr>
-<tr><td>4.</td><td><a href='https://github.com/Saivineeth147/lora-speedrun'>LoRA Speedrun – a public wall-clock leaderboard for fine-tuning tec...</a></td><td>75 👍</td><td>10 💬</td></tr>
-<tr><td>5.</td><td><a href='https://www.labrujulaverde.com/en/2026/07/sealed-tomb-of-a-high-official-or-priest-filled-with-paintings-and-inscriptions-discovered-on-luxors-west-bank/'>Sealed tomb filled with paintings and inscriptions discovered in Egypt</a></td><td>37 👍</td><td>30 💬</td></tr>
-<tr><td>6.</td><td><a href='https://apnews.com/article/gas-prices-iran-war-4-gallon-4b82825734ec3ded192351e53a4be69e'>US gas prices hit an average of $4 a gallon again</a></td><td>19 👍</td><td>17 💬</td></tr>
-<tr><td>7.</td><td><a href='https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/'>Claude Code uses Bun written in Rust now</a></td><td>516 👍</td><td>683 💬</td></tr>
-<tr><td>8.</td><td><a href='https://blog.andr2i.com/posts/2026-07-06-eliminating-go-bound-checks-with-unsafe'>Eliminating Go bounds checks with unsafe</a></td><td>9 👍</td><td>3 💬</td></tr>
-<tr><td>9.</td><td><a href='https://spectrum.ieee.org/self-powered-trailers-freight-decarbonization'>Self-Powered Trailers Promise Leaner Freight Runs</a></td><td>35 👍</td><td>18 💬</td></tr>
-<tr><td>10.</td><td><a href='https://orionbrowser.com/'>Orion Browser by Kagi</a></td><td>203 👍</td><td>139 💬</td></tr>
+<tr><td>1.</td><td><a href='https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/'>Hacker wipes Romania's land registry database</a></td><td>136 👍</td><td>47 💬</td></tr>
+<tr><td>2.</td><td><a href='https://wren.wtf/shower-thoughts/stop-using-opencode/'>Stop Using OpenCode</a></td><td>203 👍</td><td>123 💬</td></tr>
+<tr><td>3.</td><td><a href='https://airport.apunen.com/'>Airport Simulator</a></td><td>245 👍</td><td>65 💬</td></tr>
+<tr><td>4.</td><td><a href='https://spectrum.ieee.org/led-light-pollution'>We're Squandering LEDs' Potential to Save Our Night Skies</a></td><td>28 👍</td><td>5 💬</td></tr>
+<tr><td>5.</td><td><a href='https://var0.xyz/posts/perfection-is-not-over-engineering.html'>Perfection Is Not Over-Engineering</a></td><td>19 👍</td><td>2 💬</td></tr>
+<tr><td>6.</td><td><a href='https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/'>Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5...</a></td><td>270 👍</td><td>140 💬</td></tr>
+<tr><td>7.</td><td><a href='https://etbe.coker.com.au/2026/07/19/ecc-ddr5/'>ECC and DDR5</a></td><td>36 👍</td><td>16 💬</td></tr>
+<tr><td>8.</td><td><a href='https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/'>The EU is about to sell our most sensitive data to the US for visa-...</a></td><td>203 👍</td><td>118 💬</td></tr>
+<tr><td>9.</td><td><a href='https://yang-ai-lab.github.io/Inertia-1/'>Inertia-1: An Open Exploration to a Unified Motion Foundation Model</a></td><td>16 👍</td><td>0 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.historytoday.com/miscellanies/satans-19th-century-bank-note'>Satan's 19th-Century Bank Note (2017)</a></td><td>15 👍</td><td>1 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>20 Jul 2026, 09:46 UTC</b> · Data from Hacker News</sub>
+<b>20 Jul 2026, 14:36 UTC</b>
 
 ---
 
