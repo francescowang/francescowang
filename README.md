@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://github.com/janestreet/incremental'>Incremental – A library for incremental computations</a></td><td>182 👍</td><td>30 💬</td></tr>
-<tr><td>2.</td><td><a href='https://qwen.ai/blog?id=qwen-image-3.0'>Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge</a></td><td>20 👍</td><td>10 💬</td></tr>
-<tr><td>3.</td><td><a href='https://stratechery.com/2026/whos-afraid-of-chinese-models/'>Who's afraid of Chinese models?</a></td><td>625 👍</td><td>424 💬</td></tr>
-<tr><td>4.</td><td><a href='https://www.armaangomes.com/blogs/doom/'>Running Doom on Our Custom CPU and Going Viral</a></td><td>64 👍</td><td>12 💬</td></tr>
-<tr><td>5.</td><td><a href='https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of'>Linux kernel will support $ORIGIN, sort of</a></td><td>35 👍</td><td>17 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.kimi.com/products/kimi-work'>Kimi Work</a></td><td>539 👍</td><td>236 💬</td></tr>
-<tr><td>7.</td><td><a href='https://jelly-ui.com/'>Jelly UI: Soft-body physics for native HTML form controls</a></td><td>486 👍</td><td>153 💬</td></tr>
-<tr><td>8.</td><td><a href='https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/'>Human mathematicians are being outcounterexampled</a></td><td>338 👍</td><td>137 💬</td></tr>
-<tr><td>9.</td><td><a href='https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding'>Five US tech giants' hidden debts soar to $1.65T on opaque AI funding</a></td><td>277 👍</td><td>144 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/'>A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste</a></td><td>34 👍</td><td>25 💬</td></tr>
+<tr><td>1.</td><td><a href='https://qwen.ai/blog?id=qwen-image-3.0'>Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge</a></td><td>334 👍</td><td>141 💬</td></tr>
+<tr><td>2.</td><td><a href='https://fidget-spinner.github.io/posts/ultra-fast-tracing.html'>Python 3.15's Ultra-Low Overhead Interpreter Profiling Mode – Ken J...</a></td><td>75 👍</td><td>0 💬</td></tr>
+<tr><td>3.</td><td><a href='https://stratechery.com/2026/whos-afraid-of-chinese-models/'>Who's afraid of Chinese models?</a></td><td>812 👍</td><td>620 💬</td></tr>
+<tr><td>4.</td><td><a href='https://github.com/janestreet/incremental'>Incremental – A library for incremental computations</a></td><td>279 👍</td><td>53 💬</td></tr>
+<tr><td>5.</td><td><a href='https://www.pcjs.org/'>PCjs Machines</a></td><td>6 👍</td><td>0 💬</td></tr>
+<tr><td>6.</td><td><a href='https://lore.kernel.org/linux-cve-announce/'>Over 400 Linux CVEs published in the last 24 hours alone</a></td><td>24 👍</td><td>1 💬</td></tr>
+<tr><td>7.</td><td><a href='https://www.minneapolisfed.org/article/2026/new-homeownership-measure-puts-people-first'>New US homeownership measure puts people first</a></td><td>141 👍</td><td>174 💬</td></tr>
+<tr><td>8.</td><td><a href='https://artifacta.io/a/pg_x9pombpdybx90q2s16eu'>Show HN: Explore 6048 YC companies as an interactive galaxy</a></td><td>4 👍</td><td>2 💬</td></tr>
+<tr><td>9.</td><td><a href='https://jelly-ui.com/'>Jelly UI: Soft-body physics for native HTML form controls</a></td><td>595 👍</td><td>182 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.kimi.com/products/kimi-work'>Kimi Work</a></td><td>622 👍</td><td>255 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>21 Jul 2026, 09:17 UTC</b> · Data from Hacker News</sub>
+<b>21 Jul 2026, 14:32 UTC</b>
 
 ---
 
