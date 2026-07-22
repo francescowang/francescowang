@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://openai.com/index/hugging-face-model-evaluation-security-incident/'>OpenAI and Hugging Face address security incident during model eval...</a></td><td>1125 👍</td><td>770 💬</td></tr>
-<tr><td>2.</td><td><a href='https://fireworks.ai/blog/kimik3-fable'>Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA</a></td><td>601 👍</td><td>335 💬</td></tr>
-<tr><td>3.</td><td><a href='https://github.com/chrislgarry/Apollo-11'>Original Apollo 11 Guidance Computer source code for command and lu...</a></td><td>68 👍</td><td>18 💬</td></tr>
-<tr><td>4.</td><td><a href='https://morethanmoore.substack.com/p/intel-starts-shipping-high-na-euv'>Intel Starts Shipping High-NA EUV Silicon</a></td><td>58 👍</td><td>13 💬</td></tr>
-<tr><td>5.</td><td><a href='https://www.readkinetic.com/app/'>Show HN: ReadKinetic – a free, local-first speed reader for your ow...</a></td><td>70 👍</td><td>29 💬</td></tr>
-<tr><td>6.</td><td><a href='https://ads.openai.com/'>Advertise in ChatGPT</a></td><td>735 👍</td><td>518 💬</td></tr>
-<tr><td>7.</td><td><a href='https://late.sh/'>Late.sh – a command-line Clubhouse for computer people</a></td><td>164 👍</td><td>54 💬</td></tr>
-<tr><td>8.</td><td><a href='https://freeink.org/'>FreeInk: Open ecosystem for e-readers</a></td><td>551 👍</td><td>119 💬</td></tr>
-<tr><td>9.</td><td><a href='https://codeberg.org/Codeberg/org/pulls/1253#issuecomment-19820434'>Codeberg bans vibe coded projects</a></td><td>12 👍</td><td>7 💬</td></tr>
-<tr><td>10.</td><td><a href='https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63'>Judge approves $1.5B Anthropic settlement for pirated books used to...</a></td><td>346 👍</td><td>272 💬</td></tr>
+<tr><td>1.</td><td><a href='https://openai.com/index/hugging-face-model-evaluation-security-incident/'>OpenAI and Hugging Face address security incident during model eval...</a></td><td>1399 👍</td><td>942 💬</td></tr>
+<tr><td>2.</td><td><a href='https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1)'>Introduction to Formal Verification with Lean Part 1</a></td><td>144 👍</td><td>15 💬</td></tr>
+<tr><td>3.</td><td><a href='https://fireworks.ai/blog/kimik3-fable'>Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA</a></td><td>775 👍</td><td>400 💬</td></tr>
+<tr><td>4.</td><td><a href='https://beej.us/blog/data/mystery-comment/'>10 REM"_(C2SLFF4</a></td><td>38 👍</td><td>7 💬</td></tr>
+<tr><td>5.</td><td><a href='https://academy.allaboutbirds.org/features/wallofbirds/?_hsmi=428996456'>Cornell's Interactive Wall of Birds</a></td><td>32 👍</td><td>10 💬</td></tr>
+<tr><td>6.</td><td><a href='https://morethanmoore.substack.com/p/intel-starts-shipping-high-na-euv'>Intel Starts Shipping High-NA EUV Silicon</a></td><td>169 👍</td><td>60 💬</td></tr>
+<tr><td>7.</td><td><a href='https://github.com/chrislgarry/Apollo-11'>Original Apollo 11 Guidance Computer source code for command and lu...</a></td><td>122 👍</td><td>38 💬</td></tr>
+<tr><td>8.</td><td><a href='https://ads.openai.com/'>Advertise in ChatGPT</a></td><td>958 👍</td><td>734 💬</td></tr>
+<tr><td>9.</td><td><a href='https://pgadey.ca/notes/suck-at-juggling/'>Why do you suck at juggling now?</a></td><td>34 👍</td><td>21 💬</td></tr>
+<tr><td>10.</td><td><a href='https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/'>Businesses with ugly AI menu redesigns</a></td><td>95 👍</td><td>71 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>22 Jul 2026, 09:17 UTC</b> · Data from Hacker News</sub>
+<b>22 Jul 2026, 14:33 UTC</b>
 
 ---
 
