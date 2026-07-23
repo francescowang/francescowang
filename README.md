@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html'>Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot</a></td><td>51 👍</td><td>9 💬</td></tr>
-<tr><td>2.</td><td><a href='https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56'>Terence Tao's ChatGPT conversation about the Jacobian Conjecture co...</a></td><td>861 👍</td><td>498 💬</td></tr>
-<tr><td>3.</td><td><a href='https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734'>Cruller: Bun's Zig Runtime, Continued on Zig 0.16</a></td><td>41 👍</td><td>13 💬</td></tr>
-<tr><td>4.</td><td><a href='https://nesbitt.io/2026/07/21/end-of-options.html'>git's –end-of-options Flag</a></td><td>137 👍</td><td>70 💬</td></tr>
-<tr><td>5.</td><td><a href='https://resobscura.substack.com/p/quality-non-fiction-books-are-the'>Quality non-fiction books are the antithesis of AI slop</a></td><td>353 👍</td><td>118 💬</td></tr>
-<tr><td>6.</td><td><a href='https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/'>ANSI escape injection in MCP servers: Hidden from humans, visible t...</a></td><td>10 👍</td><td>1 💬</td></tr>
-<tr><td>7.</td><td><a href='https://github.com/marcelroed/gigatoken/'>GigaToken: ~1000x faster Language model tokenization</a></td><td>500 👍</td><td>102 💬</td></tr>
-<tr><td>8.</td><td><a href='https://bento.page/slides/'>Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+d...</a></td><td>824 👍</td><td>183 💬</td></tr>
-<tr><td>9.</td><td><a href='https://mitchellh.com/writing/everyone-should-know-simd'>Everyone should know SIMD</a></td><td>416 👍</td><td>152 💬</td></tr>
-<tr><td>10.</td><td><a href='https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/'>Amiga 1000: Ten years ahead of its time</a></td><td>71 👍</td><td>38 💬</td></tr>
+<tr><td>1.</td><td><a href='https://www.eso.org/public/news/eso2610/'>Astronomers may have found the first exomoon</a></td><td>43 👍</td><td>19 💬</td></tr>
+<tr><td>2.</td><td><a href='https://werd.io/private-healthcare-makes-industries-less-innovative-its-time-for-change/'>Private healthcare makes industries less innovative. It's time for ...</a></td><td>12 👍</td><td>3 💬</td></tr>
+<tr><td>3.</td><td><a href='https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet'>AI Companies Are Trying to Hide a Staggering Amount of Debt</a></td><td>107 👍</td><td>48 💬</td></tr>
+<tr><td>4.</td><td><a href='https://veryfineprint.substack.com/p/scanning-for-pangram-errors'>Scanning for Pangram Errors</a></td><td>37 👍</td><td>19 💬</td></tr>
+<tr><td>5.</td><td><a href='https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/'>Alphabet's cash burn raises alarm for Big Tech as AI spending climbs</a></td><td>155 👍</td><td>137 💬</td></tr>
+<tr><td>6.</td><td><a href='https://haqr.eu/tinyrenderer/'>Software rendering in 500 lines of bare C++</a></td><td>3 👍</td><td>0 💬</td></tr>
+<tr><td>7.</td><td><a href='https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56'>Terence Tao's ChatGPT conversation about the Jacobian Conjecture co...</a></td><td>1012 👍</td><td>577 💬</td></tr>
+<tr><td>8.</td><td><a href='https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734'>Cruller: Bun's Zig Runtime, Continued on Zig 0.16</a></td><td>119 👍</td><td>75 💬</td></tr>
+<tr><td>9.</td><td><a href='https://goldberg.berkeley.edu/garden/'>The Telegarden (1995-2004)</a></td><td>10 👍</td><td>0 💬</td></tr>
+<tr><td>10.</td><td><a href='https://resobscura.substack.com/p/quality-non-fiction-books-are-the'>Quality non-fiction books are the antithesis of AI slop</a></td><td>445 👍</td><td>217 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>23 Jul 2026, 09:14 UTC</b> · Data from Hacker News</sub>
+<b>23 Jul 2026, 14:40 UTC</b>
 
 ---
 
