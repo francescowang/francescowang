@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://bfl.ai/blog/flux-3'>Flux 3</a></td><td>207 👍</td><td>49 💬</td></tr>
-<tr><td>2.</td><td><a href='https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/'>The PImpl idiom and the C++26 std:indirect type</a></td><td>38 👍</td><td>35 💬</td></tr>
-<tr><td>3.</td><td><a href='https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your'>Writing by hand is good for your brain</a></td><td>1293 👍</td><td>583 💬</td></tr>
-<tr><td>4.</td><td><a href='https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992'>Startup founders urge U.S. government not to shut off Chinese open ...</a></td><td>921 👍</td><td>764 💬</td></tr>
-<tr><td>5.</td><td><a href='https://news.ycombinator.com/item?id=49026810'>Show HN: Echo – Fable-level results at 1/3 the cost using open-weig...</a></td><td>378 👍</td><td>179 💬</td></tr>
-<tr><td>6.</td><td><a href='https://glinscott.github.io/beam-engine/'>The Beam Engine</a></td><td>370 👍</td><td>74 💬</td></tr>
-<tr><td>7.</td><td><a href='https://platform.claude.com/cookbook/'>Claude Cookbook</a></td><td>31 👍</td><td>3 💬</td></tr>
-<tr><td>8.</td><td><a href='https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all'>What happened to TheNumbers.com</a></td><td>368 👍</td><td>166 💬</td></tr>
-<tr><td>9.</td><td><a href='https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md'>Why Software Factories Fail (or: harness engineering is not enough)</a></td><td>308 👍</td><td>224 💬</td></tr>
-<tr><td>10.</td><td><a href='https://rybakov.com/blog/what_else_do_people_draw_on_gradient-copy.horse/'>What else do people draw on gradient.horse?</a></td><td>130 👍</td><td>22 💬</td></tr>
+<tr><td>1.</td><td><a href='https://hhh.hn/hanwha-github-token/'>My security camera shipped a GitHub admin token in its login page</a></td><td>90 👍</td><td>25 💬</td></tr>
+<tr><td>2.</td><td><a href='https://bfl.ai/blog/flux-3-mimic'>Flux 3 X Mimic: The Next Generation of Video-Action Models</a></td><td>207 👍</td><td>27 💬</td></tr>
+<tr><td>3.</td><td><a href='https://glyphack.com/attention/'>It's getting harder to focus every day</a></td><td>348 👍</td><td>177 💬</td></tr>
+<tr><td>4.</td><td><a href='https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/'>India's first privately-developed rocket reaches orbit on dramatic ...</a></td><td>73 👍</td><td>9 💬</td></tr>
+<tr><td>5.</td><td><a href='https://bfl.ai/blog/flux-3'>Flux 3</a></td><td>438 👍</td><td>111 💬</td></tr>
+<tr><td>6.</td><td><a href='https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/'>IRGC Claims It Destroyed Amazon's Bahrain Data Center</a></td><td>79 👍</td><td>30 💬</td></tr>
+<tr><td>7.</td><td><a href='https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891'>Buz – A fork of Bun using modern Zig, with sub-1s incremental builds</a></td><td>123 👍</td><td>82 💬</td></tr>
+<tr><td>8.</td><td><a href='https://technicshistory.com/2026/07/24/the-ibm-pc-part-1-arrival/'>The IBM PC, Part 1: Arrival</a></td><td>34 👍</td><td>9 💬</td></tr>
+<tr><td>9.</td><td><a href='https://www.bruh.ltd/blog/programming-language-file-extensions-that-match-an-iso-3166-1-alpha-2-country-code/'>Programming language file extensions that match ISO 3166-1 alpha-2 ...</a></td><td>20 👍</td><td>8 💬</td></tr>
+<tr><td>10.</td><td><a href='https://psychotechnology.substack.com/p/em-dashes-are-fucking-amazing'>Em dashes are fucking amazing</a></td><td>81 👍</td><td>74 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>24 Jul 2026, 09:11 UTC</b> · Data from Hacker News</sub>
+<b>24 Jul 2026, 14:19 UTC</b>
 
 ---
 
