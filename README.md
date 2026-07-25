@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/'>Android May Soon Restrict On-Device ADB</a></td><td>120 👍</td><td>50 💬</td></tr>
-<tr><td>2.</td><td><a href='https://www.anthropic.com/news/claude-opus-5'>Claude Opus 5</a></td><td>1528 👍</td><td>862 💬</td></tr>
-<tr><td>3.</td><td><a href='https://bytecodealliance.org/articles/wasmtime-gc'>GC and Exceptions in Wasmtime</a></td><td>85 👍</td><td>3 💬</td></tr>
-<tr><td>4.</td><td><a href='https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize'>Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach</a></td><td>172 👍</td><td>33 💬</td></tr>
-<tr><td>5.</td><td><a href='https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities'>UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities</a></td><td>58 👍</td><td>15 💬</td></tr>
-<tr><td>6.</td><td><a href='https://erinmurphy.dev/projects/project-2/'>NYC Apartment Aquaponics</a></td><td>25 👍</td><td>9 💬</td></tr>
-<tr><td>7.</td><td><a href='https://arcprize.org/leaderboard'>ARC-AGI Leaderboard</a></td><td>60 👍</td><td>50 💬</td></tr>
-<tr><td>8.</td><td><a href='https://www.dbos.dev/blog/postgres-listen-notify-scalability'>Postgres LISTEN/NOTIFY actually scales</a></td><td>298 👍</td><td>55 💬</td></tr>
-<tr><td>9.</td><td><a href='https://extinct-media-museum.blog.jp/otemachi/'>Extinct Media Museum Tokyo</a></td><td>21 👍</td><td>1 💬</td></tr>
-<tr><td>10.</td><td><a href='https://artificialanalysis.ai/models'>Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard</a></td><td>282 👍</td><td>151 💬</td></tr>
+<tr><td>1.</td><td><a href='https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/'>Android May Soon Restrict On-Device ADB</a></td><td>476 👍</td><td>216 💬</td></tr>
+<tr><td>2.</td><td><a href='https://dead.garden/blog/how-my-images-are-dithered.html'>My Images Are Dithered</a></td><td>48 👍</td><td>11 💬</td></tr>
+<tr><td>3.</td><td><a href='https://areadenial.games/design/preface#00-01'>League of Legends designer shares game design field manual</a></td><td>15 👍</td><td>6 💬</td></tr>
+<tr><td>4.</td><td><a href='https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize'>Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach</a></td><td>384 👍</td><td>62 💬</td></tr>
+<tr><td>5.</td><td><a href='https://www.anthropic.com/news/claude-opus-5'>Claude Opus 5</a></td><td>1672 👍</td><td>1052 💬</td></tr>
+<tr><td>6.</td><td><a href='https://supakeen.com/weblog/the-fedora-45-sausage-factory/'>The Fedora 45 Sausage Factory</a></td><td>31 👍</td><td>2 💬</td></tr>
+<tr><td>7.</td><td><a href='https://saffroncr.itch.io/katavatis/devlog/1534514/building-a-tiny-3d-renderer-for-a-tiny-handheld'>Building a Tiny 3D Renderer for a Tiny Handheld</a></td><td>114 👍</td><td>10 💬</td></tr>
+<tr><td>8.</td><td><a href='https://erinmurphy.dev/projects/project-2/'>NYC Apartment Aquaponics</a></td><td>107 👍</td><td>39 💬</td></tr>
+<tr><td>9.</td><td><a href='https://arcprize.org/leaderboard'>ARC-AGI Leaderboard</a></td><td>123 👍</td><td>101 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering'>Kyber (YC W23) Is Hiring a Head of Engineering</a></td><td>1 👍</td><td>0 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>25 Jul 2026, 08:53 UTC</b> · Data from Hacker News</sub>
+<b>25 Jul 2026, 14:08 UTC</b>
 
 ---
 
