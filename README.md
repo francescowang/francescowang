@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://refp.se/articles/your-shell-and-the-magic-colon'>A shell colon does nothing. Use it anyway</a></td><td>148 👍</td><td>55 💬</td></tr>
-<tr><td>2.</td><td><a href='https://blog.ktz.me/esp32-plane-radar/'>An ESP32 based plane radar for my desk</a></td><td>129 👍</td><td>26 💬</td></tr>
-<tr><td>3.</td><td><a href='https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices'>GrapheneOS protections against data extraction from locked devices</a></td><td>37 👍</td><td>7 💬</td></tr>
-<tr><td>4.</td><td><a href='https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models'>The new rules of context engineering for Claude 5 generation models</a></td><td>312 👍</td><td>196 💬</td></tr>
-<tr><td>5.</td><td><a href='https://golfcoursebrowser.com/'>Show HN: I mapped every US golf course</a></td><td>123 👍</td><td>62 💬</td></tr>
-<tr><td>6.</td><td><a href='https://tangled.org/oppi.li/stinkpot'>Stinkpot: SQLite-backed shell history</a></td><td>48 👍</td><td>14 💬</td></tr>
-<tr><td>7.</td><td><a href='https://huggingface.co/owensong/Inflect-Micro-v2'>Inflect-Micro-v2: complete voice in 9.36M parameters</a></td><td>122 👍</td><td>11 💬</td></tr>
-<tr><td>8.</td><td><a href='https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf'>DeepSeek pause fundraise after comments on compute gap to US leaked...</a></td><td>142 👍</td><td>99 💬</td></tr>
-<tr><td>9.</td><td><a href='https://jvns.ca/blog/2026/07/21/more-nice-django-things/'>Some more things about Django I've been enjoying</a></td><td>33 👍</td><td>11 💬</td></tr>
-<tr><td>10.</td><td><a href='https://blog.cloudflare.com/content-independence-day-ai-options/'>Cloudflare's new AI traffic options for customers</a></td><td>111 👍</td><td>76 💬</td></tr>
+<tr><td>1.</td><td><a href='https://astral.sh/blog/ruff-v0.16.0'>Ruff v0.16.0 – Significant new updates – 413 default rules up from 59</a></td><td>195 👍</td><td>105 💬</td></tr>
+<tr><td>2.</td><td><a href='https://pkg.go.dev/golang.org/x/tools/go/analysis'>Go Analysis Framework: modular static analysis by go team</a></td><td>39 👍</td><td>2 💬</td></tr>
+<tr><td>3.</td><td><a href='https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c'>Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake</a></td><td>86 👍</td><td>33 💬</td></tr>
+<tr><td>4.</td><td><a href='https://english.mapn.ro/'>Third Drone Shot Down in Three Days in Romanian Territory</a></td><td>126 👍</td><td>105 💬</td></tr>
+<tr><td>5.</td><td><a href='https://refp.se/articles/your-shell-and-the-magic-colon'>A shell colon does nothing. Use it anyway</a></td><td>293 👍</td><td>122 💬</td></tr>
+<tr><td>6.</td><td><a href='https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices'>GrapheneOS protections against data extraction from locked devices</a></td><td>196 👍</td><td>113 💬</td></tr>
+<tr><td>7.</td><td><a href='https://pentaton.app/blog/2026-07-12-introducing-pentaton-lp/'>I learned PCB design, 3D printing and C just to listen to music</a></td><td>24 👍</td><td>1 💬</td></tr>
+<tr><td>8.</td><td><a href='https://blog.ktz.me/esp32-plane-radar/'>An ESP32 based plane radar for my desk</a></td><td>199 👍</td><td>41 💬</td></tr>
+<tr><td>9.</td><td><a href='https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models'>The new rules of context engineering for Claude 5 generation models</a></td><td>388 👍</td><td>282 💬</td></tr>
+<tr><td>10.</td><td><a href='https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf'>DeepSeek pause fundraise after comments on compute gap to US leaked...</a></td><td>197 👍</td><td>155 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>26 Jul 2026, 09:03 UTC</b> · Data from Hacker News</sub>
+<b>26 Jul 2026, 14:06 UTC</b>
 
 ---
 
