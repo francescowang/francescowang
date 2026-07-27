@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://huggingface.co/moonshotai/Kimi-K3'>Kimi-K3 Releases on HuggingFace 7/27</a></td><td>339 👍</td><td>145 💬</td></tr>
-<tr><td>2.</td><td><a href='https://nikolays.github.io/PGSimCity/'>PGSimCity - How PostgreSQL Works</a></td><td>622 👍</td><td>61 💬</td></tr>
-<tr><td>3.</td><td><a href='https://blackhole.plav.in'>Show HN: Physically accurate black hole you can put in your room</a></td><td>324 👍</td><td>99 💬</td></tr>
-<tr><td>4.</td><td><a href='https://github.com/vercel-labs/scriptc'>Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript eng...</a></td><td>187 👍</td><td>97 💬</td></tr>
-<tr><td>5.</td><td><a href='https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time'>French firefighters face 'pyrocumulonimbus' for first time</a></td><td>386 👍</td><td>262 💬</td></tr>
-<tr><td>6.</td><td><a href='https://beyondloom.com/decker/'>Decker, a platform that builds on the legacy of Hypercard and class...</a></td><td>317 👍</td><td>74 💬</td></tr>
-<tr><td>7.</td><td><a href='https://mymodernmet.com/magnolia-ancient-flowers-beetles/'>Magnolias Are So Old That They're Pollinated by Beetles, Not Bees</a></td><td>24 👍</td><td>9 💬</td></tr>
-<tr><td>8.</td><td><a href='https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html'>US citizen charged after GrapheneOS phone wipes during airport search</a></td><td>792 👍</td><td>583 💬</td></tr>
-<tr><td>9.</td><td><a href='https://www.imperialviolet.org/2026/07/26/zstd-lean.html'>We have proof automation now</a></td><td>171 👍</td><td>61 💬</td></tr>
-<tr><td>10.</td><td><a href='https://swag.htmx.org/en-cad/products/htmx-4-the-game'>Htmx 4.0, the first JavaScript library to release exclusively on th...</a></td><td>458 👍</td><td>152 💬</td></tr>
+<tr><td>1.</td><td><a href='https://huggingface.co/moonshotai/Kimi-K3'>Kimi-K3 Releases on HuggingFace 7/27</a></td><td>764 👍</td><td>352 💬</td></tr>
+<tr><td>2.</td><td><a href='https://xcancel.com/HedgieMarkets/status/2081534588485296565'>AI companies are shredding rare books</a></td><td>486 👍</td><td>256 💬</td></tr>
+<tr><td>3.</td><td><a href='https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html'>How is the Bun Rewrite in Rust going?</a></td><td>278 👍</td><td>185 💬</td></tr>
+<tr><td>4.</td><td><a href='https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/'>Removing React.js from the codebase and adapting Htmx for UI intera...</a></td><td>100 👍</td><td>55 💬</td></tr>
+<tr><td>5.</td><td><a href='https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html'>Should you wash your solar panels?</a></td><td>97 👍</td><td>72 💬</td></tr>
+<tr><td>6.</td><td><a href='https://spectrum.ieee.org/colossus-computer-ieee-milestone'>The Computer That Helped Win World War II</a></td><td>19 👍</td><td>3 💬</td></tr>
+<tr><td>7.</td><td><a href='https://github.com/libsm64/libsm64'>Libsm64: Mario 64 as a library for use in external game engines</a></td><td>82 👍</td><td>12 💬</td></tr>
+<tr><td>8.</td><td><a href='https://nikolays.github.io/PGSimCity/'>PGSimCity - How PostgreSQL Works</a></td><td>787 👍</td><td>75 💬</td></tr>
+<tr><td>9.</td><td><a href='https://blog.jaysmito.dev/blog/04-fast-lockfree-queues/'>Building a Fast Lock-Free Queue in Modern C++ from Scratch</a></td><td>52 👍</td><td>18 💬</td></tr>
+<tr><td>10.</td><td><a href='https://mymodernmet.com/magnolia-ancient-flowers-beetles/'>Magnolias Are So Old That They're Pollinated by Beetles, Not Bees</a></td><td>173 👍</td><td>67 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>27 Jul 2026, 10:29 UTC</b> · Data from Hacker News</sub>
+<b>27 Jul 2026, 15:22 UTC</b>
 
 ---
 
