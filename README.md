@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en'>7.1 Earthquake in Japan</a></td><td>167 👍</td><td>37 💬</td></tr>
-<tr><td>2.</td><td><a href='https://www.anthropic.com/news/position-open-weights-models'>Our position on open-weights models</a></td><td>890 👍</td><td>1300 💬</td></tr>
-<tr><td>3.</td><td><a href='https://fermisense.com/when-machines-take-the-wheel/'>A $500 RL fine-tune of a 9B open model beat frontier models on cata...</a></td><td>179 👍</td><td>47 💬</td></tr>
-<tr><td>4.</td><td><a href='https://arsastronomica.com/'>Ars Astronomica – English translations of rare Hebrew and Latin ast...</a></td><td>59 👍</td><td>9 💬</td></tr>
-<tr><td>5.</td><td><a href='https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md'>Benchmarking Opus 5 on SlopCodeBench</a></td><td>281 👍</td><td>62 💬</td></tr>
-<tr><td>6.</td><td><a href='https://support.apple.com/guide/iphone/iphone-comfortably-riding-a-vehicle-iph55564cb22/ios'>Vehicle Motion Cues</a></td><td>108 👍</td><td>48 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.fermionresearch.com/models/neutrino-8b/'>Neutrino-1 8B</a></td><td>78 👍</td><td>20 💬</td></tr>
-<tr><td>8.</td><td><a href='https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/'>Using an open model feels surprisingly good</a></td><td>274 👍</td><td>96 💬</td></tr>
-<tr><td>9.</td><td><a href='https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/'>PyTorch: A Reference Language</a></td><td>30 👍</td><td>3 💬</td></tr>
-<tr><td>10.</td><td><a href='https://gpusolutions.net/rbservices/graphics-card-upgrade/'>RTX 2080 Ti Memory Upgrade to 22 GB</a></td><td>105 👍</td><td>70 💬</td></tr>
+<tr><td>1.</td><td><a href='https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en'>7.1 Earthquake in Japan</a></td><td>548 👍</td><td>104 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/'>New HIV vaccine shows unprecedented success in preclinical study</a></td><td>175 👍</td><td>62 💬</td></tr>
+<tr><td>3.</td><td><a href='https://tale.fyi/@sam/announcing-tale-fyi-read-or-listen-to-an-entire-book-from-a-single-link'>Show HN: tale.fyi, we deserve a home for fiction</a></td><td>43 👍</td><td>26 💬</td></tr>
+<tr><td>4.</td><td><a href='https://arxiv.org/abs/2510.26692'>Kimi Linear: An Expressive, Efficient Attention Architecture</a></td><td>83 👍</td><td>15 💬</td></tr>
+<tr><td>5.</td><td><a href='https://github.com/schildep/verified-3d-mesh-intersection'>Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 li...</a></td><td>54 👍</td><td>18 💬</td></tr>
+<tr><td>6.</td><td><a href='https://www.pbs.org/wgbh/nova/proof/wiles.html'>Solving Fermat: Andrew Wiles</a></td><td>24 👍</td><td>3 💬</td></tr>
+<tr><td>7.</td><td><a href='https://spawn-queue.acm.org/doi/10.1145/3819083'>Google's Beyond Zero: Enterprise Security for the AI Era</a></td><td>76 👍</td><td>41 💬</td></tr>
+<tr><td>8.</td><td><a href='https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026'>DMARC Has Been Public Since 2012. 68.4% of Domains Still Don't Enfo...</a></td><td>58 👍</td><td>39 💬</td></tr>
+<tr><td>9.</td><td><a href='https://github.com/ctrlb-hq/ctrlb-decompose'>Show HN: Ctrlb-decompose: Strip the noise from logs before sending ...</a></td><td>34 👍</td><td>7 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.anthropic.com/news/position-open-weights-models'>Our position on open-weights models</a></td><td>1068 👍</td><td>1539 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>28 Jul 2026, 09:28 UTC</b> · Data from Hacker News</sub>
+<b>28 Jul 2026, 14:57 UTC</b>
 
 ---
 
