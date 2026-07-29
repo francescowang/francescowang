@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes'>More Tailscale tricks for your jailbroken Kindle</a></td><td>172 👍</td><td>49 💬</td></tr>
-<tr><td>2.</td><td><a href='https://www.datagubbe.se/scenegui/'>User Interfaces of the Demo Scene</a></td><td>176 👍</td><td>27 💬</td></tr>
-<tr><td>3.</td><td><a href='https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers'>SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers</a></td><td>37 👍</td><td>4 💬</td></tr>
-<tr><td>4.</td><td><a href='https://github.com/openai/codex-security'>Codex Security</a></td><td>496 👍</td><td>166 💬</td></tr>
-<tr><td>5.</td><td><a href='https://letoverlambda.com/textmode.cl/guest/chap8.html'>Lisp moving Forth moving Lisp</a></td><td>9 👍</td><td>0 💬</td></tr>
-<tr><td>6.</td><td><a href='https://github.com/twalichiewicz/HNewhere'>Show HN: I was tired of opening 2 tabs for every HN link, so I made...</a></td><td>312 👍</td><td>81 💬</td></tr>
-<tr><td>7.</td><td><a href='https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/'>Substack writers, you need a website</a></td><td>536 👍</td><td>270 💬</td></tr>
-<tr><td>8.</td><td><a href='https://mac-classic.com/news/half-life-ported-to-mac-os-9/'>Half-Life ported to Mac OS 9</a></td><td>238 👍</td><td>115 💬</td></tr>
-<tr><td>9.</td><td><a href='https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html'>Cracking Windows Open: Porting RADV to Win32</a></td><td>44 👍</td><td>10 💬</td></tr>
-<tr><td>10.</td><td><a href='https://learnvector.ai/'>LearnVector – Andrew Ng's AI company building one‑to‑one learning e...</a></td><td>179 👍</td><td>107 💬</td></tr>
+<tr><td>1.</td><td><a href='https://koreader.rocks/'>KOReader</a></td><td>317 👍</td><td>110 💬</td></tr>
+<tr><td>2.</td><td><a href='https://arxiv.org/abs/2607.25398'>Handbook.md shows that long policy documents do not reliably govern...</a></td><td>75 👍</td><td>46 💬</td></tr>
+<tr><td>3.</td><td><a href='https://tracewayapp.com/blog/sqlite-vs-duckdb'>Choose DuckDB rather than SQLite</a></td><td>33 👍</td><td>12 💬</td></tr>
+<tr><td>4.</td><td><a href='https://github.com/SerhiiKorniienko/bullshit-detector'>Show HN: Bullshit Detector – agent skills that fact-check videos an...</a></td><td>47 👍</td><td>31 💬</td></tr>
+<tr><td>5.</td><td><a href='https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/'>Document-borne AI worms can self-propagate through Copilot for Word</a></td><td>156 👍</td><td>129 💬</td></tr>
+<tr><td>6.</td><td><a href='https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes'>More Tailscale tricks for your jailbroken Kindle</a></td><td>306 👍</td><td>98 💬</td></tr>
+<tr><td>7.</td><td><a href='https://www.darktable.org/'>Darktable</a></td><td>32 👍</td><td>12 💬</td></tr>
+<tr><td>8.</td><td><a href='https://amiga.lychesis.net/index.html'>Amiga Graphics Archive</a></td><td>82 👍</td><td>13 💬</td></tr>
+<tr><td>9.</td><td><a href='https://laurentiugabriel.github.io/token-town/'>TokenTown: A visual way to understand how LLMs work</a></td><td>10 👍</td><td>0 💬</td></tr>
+<tr><td>10.</td><td><a href='https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/'>Disrupting supply chain attacks on NPM and GitHub Actions</a></td><td>32 👍</td><td>8 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>29 Jul 2026, 09:29 UTC</b> · Data from Hacker News</sub>
+<b>29 Jul 2026, 14:39 UTC</b>
 
 ---
 
