@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research'>AI's top startups are barely publishing their research</a></td><td>446 👍</td><td>231 💬</td></tr>
-<tr><td>2.</td><td><a href='https://christianselig.com/2026/07/vision-pro-house/'>The coolest use for the Vision Pro</a></td><td>644 👍</td><td>259 💬</td></tr>
-<tr><td>3.</td><td><a href='https://christianselig.com/2026/07/iphone-air-review/'>I Have Thoughts on the iPhone Air</a></td><td>34 👍</td><td>35 💬</td></tr>
-<tr><td>4.</td><td><a href='https://github.com/drumih/turbo-fieldfare'>Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any ...</a></td><td>788 👍</td><td>277 💬</td></tr>
-<tr><td>5.</td><td><a href='https://www.superlogical.com/'>Superlogical</a></td><td>690 👍</td><td>409 💬</td></tr>
-<tr><td>6.</td><td><a href='https://llm2human.pages.dev/'>LLM Honeypot</a></td><td>235 👍</td><td>58 💬</td></tr>
-<tr><td>7.</td><td><a href='https://frantic.im/mirage/'>The Productivity Mirage</a></td><td>224 👍</td><td>82 💬</td></tr>
-<tr><td>8.</td><td><a href='https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice'>Keychron announces first open-source firmware for gaming mice</a></td><td>371 👍</td><td>150 💬</td></tr>
-<tr><td>9.</td><td><a href='https://huggingface.co/blog/agent-intrusion-technical-timeline'>Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2...</a></td><td>379 👍</td><td>211 💬</td></tr>
-<tr><td>10.</td><td><a href='https://zachholman.com/posts/cold-email'>The Cold Email</a></td><td>204 👍</td><td>80 💬</td></tr>
+<tr><td>1.</td><td><a href='https://remysharp.com/links/2026-07-23-35890312'>'VPNs are lawful technical tools,' says EU Court in landmark copyri...</a></td><td>253 👍</td><td>89 💬</td></tr>
+<tr><td>2.</td><td><a href='https://economist.com/leaders/2026/07/28/europes-fires-are-just-the-start'>Europe's fires are just the start</a></td><td>54 👍</td><td>42 💬</td></tr>
+<tr><td>3.</td><td><a href='https://mnot.net/blog/2020/for_the_users'>RFC 8890 – The Internet is for End Users (2020)</a></td><td>34 👍</td><td>12 💬</td></tr>
+<tr><td>4.</td><td><a href='https://www.hillelwayne.com/post/why-dont-people-use-formal-methods/'>Why Don't People Use Formal Methods?</a></td><td>48 👍</td><td>34 💬</td></tr>
+<tr><td>5.</td><td><a href='https://prized.dev'>Launch HN: Prized (YC S26) – Let non-engineer staff build secure in...</a></td><td>14 👍</td><td>4 💬</td></tr>
+<tr><td>6.</td><td><a href='https://www.grumpygamer.com/twp2_announce/'>Ron Gilbert started production on Thimbleweed Park 2</a></td><td>131 👍</td><td>52 💬</td></tr>
+<tr><td>7.</td><td><a href='https://bennuttall.com/blog/2026/07/gpiozero-flow/'>Gpiozero Flow</a></td><td>96 👍</td><td>29 💬</td></tr>
+<tr><td>8.</td><td><a href='https://quuxplusone.github.io/blog/2026/07/29/how-old-is-ann/'>How Old Is Ann?</a></td><td>34 👍</td><td>28 💬</td></tr>
+<tr><td>9.</td><td><a href='https://select.supply/game/chipbuilder'>I made a game where you build a CPU from logic gates</a></td><td>40 👍</td><td>31 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research'>AI's top startups are barely publishing their research</a></td><td>563 👍</td><td>294 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>30 Jul 2026, 09:19 UTC</b> · Data from Hacker News</sub>
+<b>30 Jul 2026, 14:40 UTC</b>
 
 ---
 
