@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://earendil.com/posts/session-portability/'>The session you cannot take with you</a></td><td>305 👍</td><td>67 💬</td></tr>
-<tr><td>2.</td><td><a href='https://github.com/openjdk/jdk/pull/31120'>JEP 401: Value Objects (Preview) merged to OpenJDK master</a></td><td>102 👍</td><td>40 💬</td></tr>
-<tr><td>3.</td><td><a href='https://api-docs.deepseek.com/updates/'>DeepSeek-V4-Flash Update</a></td><td>240 👍</td><td>94 💬</td></tr>
-<tr><td>4.</td><td><a href='https://www.bbc.com/news/articles/cn0nqv05g0do'>Danube's record low levels force shutdown of Hungary's only nuclear...</a></td><td>19 👍</td><td>10 💬</td></tr>
-<tr><td>5.</td><td><a href='https://blog.google/security/chrome-stronger-with-every-update/'>Google fixed more Chrome bugs in June than over the past two years,...</a></td><td>47 👍</td><td>51 💬</td></tr>
-<tr><td>6.</td><td><a href='https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/'>Stacked PRs are now live on GitHub</a></td><td>637 👍</td><td>223 💬</td></tr>
-<tr><td>7.</td><td><a href='https://marbleos.com/demo'>Show HN: What should the GUI for AI agents look like?</a></td><td>50 👍</td><td>30 💬</td></tr>
-<tr><td>8.</td><td><a href='https://geospatialml.com/posts/reviewing-ai-slop/'>I flagged two research papers for fake authors and both were accept...</a></td><td>191 👍</td><td>88 💬</td></tr>
-<tr><td>9.</td><td><a href='https://github.com/mokshablr/gander'>Show HN: Gander, an Android file viewer that asks for no permission...</a></td><td>46 👍</td><td>18 💬</td></tr>
-<tr><td>10.</td><td><a href='https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/'>Gemini Robotics 2 brings whole body intelligence to robots</a></td><td>555 👍</td><td>444 💬</td></tr>
+<tr><td>1.</td><td><a href='https://artificialanalysis.ai/models/deepseek-v4-flash-ga'>DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis</a></td><td>285 👍</td><td>139 💬</td></tr>
+<tr><td>2.</td><td><a href='https://blog.google/security/chrome-stronger-with-every-update/'>Google fixed more Chrome bugs in June than over the past two years,...</a></td><td>301 👍</td><td>268 💬</td></tr>
+<tr><td>3.</td><td><a href='https://earendil.com/posts/session-portability/'>The session you cannot take with you</a></td><td>598 👍</td><td>162 💬</td></tr>
+<tr><td>4.</td><td><a href='https://arxiv.org/abs/2607.27197'>The Maxwell Conjecture Is False (GPT 5.6 Sol)</a></td><td>42 👍</td><td>23 💬</td></tr>
+<tr><td>5.</td><td><a href='https://hyperbo.la/w/winding-down-artichoke-ruby/'>Winding Down Artichoke Ruby</a></td><td>15 👍</td><td>1 💬</td></tr>
+<tr><td>6.</td><td><a href='https://github.com/mokshablr/gander'>Show HN: Gander, an Android file viewer that asks for no permission...</a></td><td>147 👍</td><td>58 💬</td></tr>
+<tr><td>7.</td><td><a href='https://github.com/openjdk/jdk/pull/31120'>JEP 401: Value Objects (Preview) merged to OpenJDK master</a></td><td>192 👍</td><td>115 💬</td></tr>
+<tr><td>8.</td><td><a href='https://api-docs.deepseek.com/updates/'>DeepSeek-V4-Flash Update</a></td><td>469 👍</td><td>236 💬</td></tr>
+<tr><td>9.</td><td><a href='https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/'>Stacked PRs are now live on GitHub</a></td><td>733 👍</td><td>252 💬</td></tr>
+<tr><td>10.</td><td><a href='https://hughhowey.com/the-end-of-an-era/'>The End of an Era</a></td><td>224 👍</td><td>244 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>31 Jul 2026, 09:33 UTC</b> · Data from Hacker News</sub>
+<b>31 Jul 2026, 14:56 UTC</b>
 
 ---
 
