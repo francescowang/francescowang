@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://john.fun/elevators'>Elevators</a></td><td>1261 👍</td><td>307 💬</td></tr>
-<tr><td>2.</td><td><a href='https://microsoft.github.io/flint-chart/'>Flint: A Visualization Language for the AI Era</a></td><td>107 👍</td><td>33 💬</td></tr>
-<tr><td>3.</td><td><a href='https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/'>Ten Ways NAS Is Getting Enshitified</a></td><td>72 👍</td><td>54 💬</td></tr>
-<tr><td>4.</td><td><a href='https://www.raptitude.com/2026/07/how-to-exist/'>How to Exist</a></td><td>183 👍</td><td>100 💬</td></tr>
-<tr><td>5.</td><td><a href='https://github.com/yc-software/qm'>qm – Multiplayer agent harness for work</a></td><td>561 👍</td><td>113 💬</td></tr>
-<tr><td>6.</td><td><a href='https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system'>The development pipeline is a production system</a></td><td>76 👍</td><td>26 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.ajwaxman.com/writing/software-for-one'>Software for One</a></td><td>101 👍</td><td>86 💬</td></tr>
-<tr><td>8.</td><td><a href='https://rocm.blogs.amd.com/software-tools-optimization/gluon-attention-decode-mi450/README.html'>Attention Decode on AMD MI450 GPUs: A Gluon Kernel Optimization Guide</a></td><td>29 👍</td><td>0 💬</td></tr>
-<tr><td>9.</td><td><a href='https://openai.com/index/ten-advances-in-mathematics/'>Ten advances in mathematics and theoretical computer science</a></td><td>74 👍</td><td>59 💬</td></tr>
-<tr><td>10.</td><td><a href='https://gmic.eu/gmic40/'>G'mic 4.0: Squaring the Pixel, Easier</a></td><td>9 👍</td><td>1 💬</td></tr>
+<tr><td>1.</td><td><a href='https://github.com/BurntSushi/ripgrep/issues/3494'>RipGrep musl binaries occasionally segfault during very-large searches</a></td><td>74 👍</td><td>30 💬</td></tr>
+<tr><td>2.</td><td><a href='https://john.fun/elevators'>Elevators</a></td><td>1427 👍</td><td>346 💬</td></tr>
+<tr><td>3.</td><td><a href='https://microsoft.github.io/flint-chart/'>Flint: A Visualization Language for the AI Era</a></td><td>167 👍</td><td>57 💬</td></tr>
+<tr><td>4.</td><td><a href='https://type.today/en/journal/dots'>Manual: •.,:;?·</a></td><td>46 👍</td><td>4 💬</td></tr>
+<tr><td>5.</td><td><a href='https://github.com/rails/solid_queue/releases/tag/v1.6.0'>Solid Queue 1.6.0 now supports fiber workers</a></td><td>42 👍</td><td>8 💬</td></tr>
+<tr><td>6.</td><td><a href='https://github.com/yc-software/qm'>qm – Multiplayer agent harness for work</a></td><td>602 👍</td><td>130 💬</td></tr>
+<tr><td>7.</td><td><a href='https://ephemeralnewyork.wordpress.com/2026/07/27/hidden-by-billboards-for-over-100-years-the-tiny-holdout-building-in-the-middle-of-macys-is-back-in-view/'>A tiny holdout building in the middle of Macy’s is back in view</a></td><td>89 👍</td><td>19 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.raptitude.com/2026/07/how-to-exist/'>How to Exist</a></td><td>272 👍</td><td>156 💬</td></tr>
+<tr><td>9.</td><td><a href='https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer'>Kontigo (YC S24) Is Hiring</a></td><td>1 👍</td><td>0 💬</td></tr>
+<tr><td>10.</td><td><a href='https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system'>The development pipeline is a production system</a></td><td>115 👍</td><td>52 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>01 Aug 2026, 08:57 UTC</b> · Data from Hacker News</sub>
+<b>01 Aug 2026, 14:05 UTC</b>
 
 ---
 
