@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/'>I don't recommend Tailwind CSS</a></td><td>46 👍</td><td>35 💬</td></tr>
-<tr><td>2.</td><td><a href='https://victoriametrics.com/blog/go-1-27/index.html'>Go 1.27 Interactive Tour</a></td><td>197 👍</td><td>71 💬</td></tr>
-<tr><td>3.</td><td><a href='https://github.com/tom-ilan/cycloidal_gearbox'>Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Ge...</a></td><td>147 👍</td><td>32 💬</td></tr>
-<tr><td>4.</td><td><a href='https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5'>Seedance 2.5</a></td><td>324 👍</td><td>174 💬</td></tr>
-<tr><td>5.</td><td><a href='http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html'>MkLinux and the pimped-out Apple Workgroup Server 9150</a></td><td>52 👍</td><td>2 💬</td></tr>
-<tr><td>6.</td><td><a href='https://diataxis.fr/'>Diátaxis</a></td><td>333 👍</td><td>40 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.wafer.ai/blog/kimi-k3-mi355x'>Running Kimi K3 on MI355X at Better Performance per Dollar Than B300</a></td><td>121 👍</td><td>28 💬</td></tr>
-<tr><td>8.</td><td><a href='https://www.openhomefoundation.org/blog/a-big-win-for-android-interoperability/'>A big win for Android interoperability</a></td><td>57 👍</td><td>8 💬</td></tr>
-<tr><td>9.</td><td><a href='https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/'>ASRock BC-250: Building the Budget Steam Machine</a></td><td>59 👍</td><td>18 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific#'>Deep-sea vehicles spot 'alien' sharks deep beneath the waves in the...</a></td><td>48 👍</td><td>18 💬</td></tr>
+<tr><td>1.</td><td><a href='https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open'>Twenty Years of RISC OS Open</a></td><td>40 👍</td><td>3 💬</td></tr>
+<tr><td>2.</td><td><a href='https://meshdiff.com/'>Meshdiff – visually compare two STL versions in the browser, client...</a></td><td>81 👍</td><td>11 💬</td></tr>
+<tr><td>3.</td><td><a href='https://getbor.dev/blog/2026-08-02-bor-v080-release/'>Show HN: Bor – Open-source policy management for Linux desktops</a></td><td>86 👍</td><td>15 💬</td></tr>
+<tr><td>4.</td><td><a href='https://publicdomainreview.org/essay/ars-notoria/'>Artificial Intelligence: Ars Notoria and the Promise of Instant Kno...</a></td><td>56 👍</td><td>7 💬</td></tr>
+<tr><td>5.</td><td><a href='https://fuselang.org'>Show HN: Fuse – statically typed functional programming language</a></td><td>30 👍</td><td>4 💬</td></tr>
+<tr><td>6.</td><td><a href='https://victoriametrics.com/blog/go-1-27/index.html'>Go 1.27 Interactive Tour</a></td><td>275 👍</td><td>113 💬</td></tr>
+<tr><td>7.</td><td><a href='https://github.com/syncular/syncular'>Show HN: Syncular – offline-first SQL sync with TypeScript and Rust...</a></td><td>41 👍</td><td>18 💬</td></tr>
+<tr><td>8.</td><td><a href='https://github.com/tom-ilan/cycloidal_gearbox'>Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Ge...</a></td><td>210 👍</td><td>73 💬</td></tr>
+<tr><td>9.</td><td><a href='https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5'>Seedance 2.5</a></td><td>391 👍</td><td>205 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager'>Great Question (YC W21) Is Hiring Senior Demand Gen Manager</a></td><td>1 👍</td><td>0 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>02 Aug 2026, 09:01 UTC</b> · Data from Hacker News</sub>
+<b>02 Aug 2026, 14:06 UTC</b>
 
 ---
 
