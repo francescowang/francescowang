@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://gruhn.me/blog/2026-08-03/'>Don't be a meat proxy</a></td><td>605 👍</td><td>264 💬</td></tr>
-<tr><td>2.</td><td><a href='https://qwen.ai/blog?id=qwen3.8'>Qwen3.8-Max: A New Bar for Coding and Cowork</a></td><td>589 👍</td><td>297 💬</td></tr>
-<tr><td>3.</td><td><a href='https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/'>Prevent cognitive debt by manually retyping LLM-generated code</a></td><td>23 👍</td><td>10 💬</td></tr>
-<tr><td>4.</td><td><a href='https://github.com/janestreet/bonsai'>Bonsai: Janestreet's UI Library</a></td><td>47 👍</td><td>11 💬</td></tr>
-<tr><td>5.</td><td><a href='https://www.marginalia.nu/log/a_109_sleep2/'>Less Coffee, Better Sleep</a></td><td>22 👍</td><td>23 💬</td></tr>
-<tr><td>6.</td><td><a href='https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md'>Rust project goals: Immobile types and guaranteed destructors</a></td><td>78 👍</td><td>17 💬</td></tr>
-<tr><td>7.</td><td><a href='https://senderledger.com/articles/what-dmarc-actually-protects-you-from'>What DMARC Protects You From, and What It Does Not</a></td><td>9 👍</td><td>2 💬</td></tr>
-<tr><td>8.</td><td><a href='https://sf.isopolis.city/'>Show HN: Isopolis – Isometric pixel map of SF</a></td><td>224 👍</td><td>50 💬</td></tr>
-<tr><td>9.</td><td><a href='https://octanejs.dev'>Octane – React's programming model, compiled</a></td><td>19 👍</td><td>6 💬</td></tr>
-<tr><td>10.</td><td><a href='https://bjorg.bjornroche.com/management/ai-productivity-gap/'>The AI Productivity Gap</a></td><td>50 👍</td><td>44 💬</td></tr>
+<tr><td>1.</td><td><a href='https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/'>Critical CVE issued for hallucinated SQLite vulnerability</a></td><td>443 👍</td><td>144 💬</td></tr>
+<tr><td>2.</td><td><a href='https://blog.exe.dev/devtools-must-be-open-source'>Devtools must be open source</a></td><td>59 👍</td><td>13 💬</td></tr>
+<tr><td>3.</td><td><a href='https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui'>MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, an...</a></td><td>91 👍</td><td>38 💬</td></tr>
+<tr><td>4.</td><td><a href='https://gruhn.me/blog/2026-08-03/'>Don't be a meat proxy</a></td><td>1246 👍</td><td>523 💬</td></tr>
+<tr><td>5.</td><td><a href='https://www.statsignificant.com/p/how-hollywood-stopped-making-movies'>Hollywood Stopped Making Movies in Hollywood</a></td><td>22 👍</td><td>10 💬</td></tr>
+<tr><td>6.</td><td><a href='https://qwen.ai/blog?id=qwen3.8'>Qwen3.8-Max: A New Bar for Coding and Cowork</a></td><td>862 👍</td><td>440 💬</td></tr>
+<tr><td>7.</td><td><a href='https://github.com/lyogavin/airllm'>AirLLM 70B inference with single 4GB GPU</a></td><td>76 👍</td><td>34 💬</td></tr>
+<tr><td>8.</td><td><a href='https://dmarcguard.io/blog/spf-record-syntax/'>SPF Record Syntax: Mechanisms, Qualifiers, Modifiers, and Macros</a></td><td>18 👍</td><td>3 💬</td></tr>
+<tr><td>9.</td><td><a href='https://defector.com/abandoned-fish-sauce-canada-interview'>The Abandoned Fish Sauce Terrorizing a Small Canadian Town</a></td><td>109 👍</td><td>72 💬</td></tr>
+<tr><td>10.</td><td><a href='https://github.com/janestreet/bonsai'>Bonsai: Janestreet's UI Library</a></td><td>177 👍</td><td>65 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>03 Aug 2026, 10:27 UTC</b> · Data from Hacker News</sub>
+<b>03 Aug 2026, 15:24 UTC</b>
 
 ---
 
