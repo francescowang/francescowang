@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.seangoedecke.com/llms-reward-expertise/'>LLMs reward expertise</a></td><td>925 👍</td><td>393 💬</td></tr>
-<tr><td>2.</td><td><a href='https://lilianweng.github.io/posts/2026-07-04-harness/'>Harness Engineering for Self-Improvement</a></td><td>32 👍</td><td>2 💬</td></tr>
-<tr><td>3.</td><td><a href='https://github.com/leonickson1/Swiftlet'>Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an...</a></td><td>177 👍</td><td>74 💬</td></tr>
-<tr><td>4.</td><td><a href='https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization'>Amazonian civilization had estimated 3M people in 3% of forest area</a></td><td>150 👍</td><td>114 💬</td></tr>
-<tr><td>5.</td><td><a href='https://openai.com/index/ten-advances-in-mathematics/'>Ten advances in mathematics and theoretical computer science</a></td><td>535 👍</td><td>821 💬</td></tr>
-<tr><td>6.</td><td><a href='https://blog.exe.dev/devtools-must-be-open-source'>Devtools must be open source</a></td><td>603 👍</td><td>202 💬</td></tr>
-<tr><td>7.</td><td><a href='https://ochagavia.nl/blog/that-time-when-i-failed-the-microsoft-interview/'>That time when I failed the Microsoft interview</a></td><td>56 👍</td><td>89 💬</td></tr>
-<tr><td>8.</td><td><a href='https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf'>There Will Come Soft Rains (1950) [pdf]</a></td><td>154 👍</td><td>56 💬</td></tr>
-<tr><td>9.</td><td><a href='https://news.ycombinator.com/item?id=49156683'>Ask HN: Who is hiring? (August 2026)</a></td><td>173 👍</td><td>167 💬</td></tr>
-<tr><td>10.</td><td><a href='https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/'>Prevent cognitive debt by manually retyping LLM-generated code</a></td><td>483 👍</td><td>387 💬</td></tr>
+<tr><td>1.</td><td><a href='https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj'>Ray Bradbury's "There Will Come Soft Rains" is set today (2026-08-04)</a></td><td>272 👍</td><td>93 💬</td></tr>
+<tr><td>2.</td><td><a href='https://github.com/ryanzhou/deepseek-v4-flash-mi300x'>DeepSeek V4 Flash on a Single AMD MI300X</a></td><td>207 👍</td><td>50 💬</td></tr>
+<tr><td>3.</td><td><a href='https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/'>Xbox goes down. You can't play games you own on disc</a></td><td>269 👍</td><td>276 💬</td></tr>
+<tr><td>4.</td><td><a href='https://www.seangoedecke.com/llms-reward-expertise/'>LLMs reward expertise</a></td><td>1172 👍</td><td>486 💬</td></tr>
+<tr><td>5.</td><td><a href='https://blog.yossarian.net/2015/06/09/Dates-That-Dont-Exist'>Dates That Don't Exist (2015)</a></td><td>17 👍</td><td>6 💬</td></tr>
+<tr><td>6.</td><td><a href='https://www.bfi.org/about-fuller/everything-i-know/'>Buckminster Fuller: everything I know</a></td><td>60 👍</td><td>18 💬</td></tr>
+<tr><td>7.</td><td><a href='https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack'>Keyv and friends compromised in active Shai-Hulud supply chain attack</a></td><td>75 👍</td><td>21 💬</td></tr>
+<tr><td>8.</td><td><a href='https://github.com/MakazhanAlpamys/Soup'>Show HN: Fine-tune an 8B model on a 4 GB laptop GPU</a></td><td>60 👍</td><td>8 💬</td></tr>
+<tr><td>9.</td><td><a href='https://github.com/tikalk/adlc-team-skills'>Agent skills that bring team coding standards to Claude Code and Codex</a></td><td>8 👍</td><td>0 💬</td></tr>
+<tr><td>10.</td><td><a href='https://lilianweng.github.io/posts/2026-07-04-harness/'>Harness Engineering for Self-Improvement</a></td><td>167 👍</td><td>30 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>04 Aug 2026, 09:30 UTC</b> · Data from Hacker News</sub>
+<b>04 Aug 2026, 14:59 UTC</b>
 
 ---
 
