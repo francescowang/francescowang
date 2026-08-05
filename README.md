@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://simonwillison.net/2026/Jul/31/stateless-mcp/'>Stateless MCP has recaptured my interest</a></td><td>186 👍</td><td>99 💬</td></tr>
-<tr><td>2.</td><td><a href='https://unsung.aresluna.org/gravity-is-worth-asking-about/'>“Gravity is worth asking about”</a></td><td>61 👍</td><td>41 💬</td></tr>
-<tr><td>3.</td><td><a href='https://earendil.com/posts/pi-autoresearch-and-databricks/'>Pi's Minimalism Is Its Advantage</a></td><td>352 👍</td><td>138 💬</td></tr>
-<tr><td>4.</td><td><a href='https://mistral.ai/news/shieldstral/'>Mistral's Shieldstral: 3B open-weights model for multimodal moderation</a></td><td>410 👍</td><td>106 💬</td></tr>
-<tr><td>5.</td><td><a href='https://arxiv.org/abs/2607.29377'>Zero-Mem: Zero-Token Memory Operations for LLM Agents</a></td><td>34 👍</td><td>8 💬</td></tr>
-<tr><td>6.</td><td><a href='https://toneyalexander.github.io/inclusive-color-space/'>Show HN: Simple algorithm and color space to generate diverse skin ...</a></td><td>528 👍</td><td>92 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.thehopkinthomasproject.com/TheHopkinThomasProject/TimeLine/Wales/Steam/URochesterCollection/Hero/index-2.html'>The Pneumatics of Hero of Alexandria</a></td><td>28 👍</td><td>1 💬</td></tr>
-<tr><td>8.</td><td><a href='https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/'>IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Priv...</a></td><td>104 👍</td><td>15 💬</td></tr>
-<tr><td>9.</td><td><a href='https://deepgrove.ai/maple-preview'>Show HN: Maple-Preview – Ternary 20B MoE running at 120 tok/s on a ...</a></td><td>113 👍</td><td>33 💬</td></tr>
-<tr><td>10.</td><td><a href='https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/'>In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years</a></td><td>1341 👍</td><td>78 💬</td></tr>
+<tr><td>1.</td><td><a href='https://blog.cloudflare.com/cloudflare-os/'>Cloudflare OS: an open platform for agents, apps, and work</a></td><td>93 👍</td><td>46 💬</td></tr>
+<tr><td>2.</td><td><a href='https://franciscotrindade.me/blog/the-kids-are-alright/'>Not hiring junior engineers won't solve the problem you think you have</a></td><td>24 👍</td><td>15 💬</td></tr>
+<tr><td>3.</td><td><a href='https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt'>Position: LLMs Can't Jump</a></td><td>142 👍</td><td>87 💬</td></tr>
+<tr><td>4.</td><td><a href='https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/'>Aristotle quotes on virtue, knowledge, and happiness</a></td><td>17 👍</td><td>8 💬</td></tr>
+<tr><td>5.</td><td><a href='https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/'>Why Erdős Problems Are Falling to AI</a></td><td>73 👍</td><td>52 💬</td></tr>
+<tr><td>6.</td><td><a href='https://data4sci.com/blog/building-an-advanced-agentic-harness'>Building an Advanced Agentic Harness</a></td><td>12 👍</td><td>4 💬</td></tr>
+<tr><td>7.</td><td><a href='https://build2.org/blog/faster-than-ninja.xhtml'>Faster Than Ninja</a></td><td>20 👍</td><td>1 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.vocab.top/'>Show HN: Vocab Top – AI-powered vocabulary builder that helps you r...</a></td><td>14 👍</td><td>6 💬</td></tr>
+<tr><td>9.</td><td><a href='https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain'>The Entropy of a Markov Chain</a></td><td>11 👍</td><td>0 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/'>Civilian plane crash in New Mexico tied to military GPS blocking</a></td><td>259 👍</td><td>120 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>05 Aug 2026, 09:27 UTC</b> · Data from Hacker News</sub>
+<b>05 Aug 2026, 14:52 UTC</b>
 
 ---
 
