@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.crimepaysbutbotanydoesnt.com/reading-list'>Crime Pays but Botany Doesn't</a></td><td>169 👍</td><td>71 💬</td></tr>
-<tr><td>2.</td><td><a href='https://phoboslab.org/log/2026/08/xibalba64-making-of'>How to Make a Nintendo 64 Game in 2026</a></td><td>74 👍</td><td>7 💬</td></tr>
-<tr><td>3.</td><td><a href='https://buttondown.com/blog/what-i-love-about-django'>What I love about Django</a></td><td>47 👍</td><td>19 💬</td></tr>
-<tr><td>4.</td><td><a href='https://www.discoveryloop.com/'>Discovery Loop</a></td><td>749 👍</td><td>467 💬</td></tr>
-<tr><td>5.</td><td><a href='https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/'>Let's all meet up in the Y2K</a></td><td>31 👍</td><td>16 💬</td></tr>
-<tr><td>6.</td><td><a href='https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/'>Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff ...</a></td><td>656 👍</td><td>710 💬</td></tr>
-<tr><td>7.</td><td><a href='https://zed.dev/deltadb'>Zed DeltaDB</a></td><td>421 👍</td><td>219 💬</td></tr>
-<tr><td>8.</td><td><a href='https://randsinrepose.com/archives/blade-runner-title-cards/'>The title cards in Blade Runner are amazing</a></td><td>265 👍</td><td>125 💬</td></tr>
-<tr><td>9.</td><td><a href='https://www.greyblake.com/blog/branchless-rust/'>Branchless Rust: Making a Filter 4x Faster by Removing an If</a></td><td>173 👍</td><td>42 💬</td></tr>
-<tr><td>10.</td><td><a href='https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2'>Muse Code and Muse Spark 1.2</a></td><td>260 👍</td><td>158 💬</td></tr>
+<tr><td>1.</td><td><a href='https://www.mayerowitz.io/blog/mario-meets-pareto'>Mario Meets Pareto</a></td><td>287 👍</td><td>50 💬</td></tr>
+<tr><td>2.</td><td><a href='https://phoboslab.org/log/2026/08/xibalba64-making-of'>How to Make a Nintendo 64 Game in 2026</a></td><td>289 👍</td><td>84 💬</td></tr>
+<tr><td>3.</td><td><a href='https://www.sciencedaily.com/releases/2026/07/260729051515.htm'>Tiny Black Holes May Be Exploding Stars Across the Milky Way</a></td><td>18 👍</td><td>10 💬</td></tr>
+<tr><td>4.</td><td><a href='https://www.crimepaysbutbotanydoesnt.com/reading-list'>Crime Pays but Botany Doesn't</a></td><td>405 👍</td><td>126 💬</td></tr>
+<tr><td>5.</td><td><a href='https://scalex.dev/blog/ai-agent-permissions-stats/'>Humans missed 1 in 3 threats approving AI agent commands across 40k...</a></td><td>79 👍</td><td>61 💬</td></tr>
+<tr><td>6.</td><td><a href='https://en.wikipedia.org/wiki/Pareto_front'>Pareto Front</a></td><td>114 👍</td><td>48 💬</td></tr>
+<tr><td>7.</td><td><a href='https://computer.rip/2026-08-02-telephone-leasing.html'>Telephones Caught in Between</a></td><td>15 👍</td><td>1 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.discoveryloop.com/'>Discovery Loop</a></td><td>819 👍</td><td>508 💬</td></tr>
+<tr><td>9.</td><td><a href='https://geosona.com/demake/'>Show HN: demake – one source project compiles to any retro game con...</a></td><td>24 👍</td><td>3 💬</td></tr>
+<tr><td>10.</td><td><a href='https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/'>Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff ...</a></td><td>744 👍</td><td>802 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>06 Aug 2026, 09:31 UTC</b> · Data from Hacker News</sub>
+<b>06 Aug 2026, 14:51 UTC</b>
 
 ---
 
