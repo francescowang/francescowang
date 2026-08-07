@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344'>AMD acquires Taalas to boost inference performance by etching model...</a></td><td>616 👍</td><td>456 💬</td></tr>
-<tr><td>2.</td><td><a href='https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta'>New Mexico court orders Meta to pay $567m over harms to children’s ...</a></td><td>198 👍</td><td>121 💬</td></tr>
-<tr><td>3.</td><td><a href='https://roge.onwrite.app/what-is-a-product'>What is a product?</a></td><td>28 👍</td><td>10 💬</td></tr>
-<tr><td>4.</td><td><a href='https://www.nist.gov/atomic-clocks/how-do-atomic-clocks-work'>Atomic Clocks</a></td><td>41 👍</td><td>28 💬</td></tr>
-<tr><td>5.</td><td><a href='https://notashelf.dev/posts/taste-is-all-thats-left'>Taste Is All That's Left</a></td><td>382 👍</td><td>278 💬</td></tr>
-<tr><td>6.</td><td><a href='https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/'>Scientists discover Kelvin-Helmholtz Instability on the surface of ...</a></td><td>213 👍</td><td>44 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.sciencedaily.com/releases/2026/08/260803080917.htm'>Bioengineered chewing gum may offer a way to fight HPV and other mi...</a></td><td>113 👍</td><td>28 💬</td></tr>
-<tr><td>8.</td><td><a href='https://community.frame.work/t/framework-data-breach-discussion/83939'>Framework discloses data breach via Metabase 0-day</a></td><td>61 👍</td><td>14 💬</td></tr>
-<tr><td>9.</td><td><a href='https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/'>Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for...</a></td><td>223 👍</td><td>167 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.githubstatus.com/incidents/qcvjkzcs7j74'>GitHub Actions and Pages are experiencing degraded availability</a></td><td>385 👍</td><td>309 💬</td></tr>
+<tr><td>1.</td><td><a href='https://www.bbc.com/news/articles/c1e1vg0gjl5o'>US strikes $1.2B deal to pay German firm to halt offshore wind proj...</a></td><td>484 👍</td><td>453 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta'>New Mexico court orders Meta to pay $567m over harms to children’s ...</a></td><td>431 👍</td><td>253 💬</td></tr>
+<tr><td>3.</td><td><a href='https://www.noemamag.com/why-is-everyone-in-tech-so-sad/'>Why is Everyone in Tech so sad?</a></td><td>15 👍</td><td>8 💬</td></tr>
+<tr><td>4.</td><td><a href='https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344'>AMD acquires Taalas to boost inference performance by etching model...</a></td><td>746 👍</td><td>567 💬</td></tr>
+<tr><td>5.</td><td><a href='https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138'>U.S. economy lost 23,000 jobs in July, a sudden reversal</a></td><td>63 👍</td><td>22 💬</td></tr>
+<tr><td>6.</td><td><a href='https://w.on-t.work/web-deployment-model'>The web server deployment model breaks at hobby scale</a></td><td>19 👍</td><td>8 💬</td></tr>
+<tr><td>7.</td><td><a href='https://notashelf.dev/posts/taste-is-all-thats-left'>Taste Is All That's Left</a></td><td>525 👍</td><td>391 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.typestax.com/'>TypeStax: A type scale generator with vintage audio hardware interface</a></td><td>16 👍</td><td>6 💬</td></tr>
+<tr><td>9.</td><td><a href='https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/'>Making Postgres 300x faster for analytics: batching, operator fusio...</a></td><td>8 👍</td><td>0 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.youtube.com/watch?v=GwMtzhjCzyc'>A quine in Piet – a GIF image that prints itself [video]</a></td><td>37 👍</td><td>2 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>07 Aug 2026, 08:01 UTC</b> · Data from Hacker News</sub>
+<b>07 Aug 2026, 13:47 UTC</b>
 
 ---
 
