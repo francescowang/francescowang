@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/'>A Physicist Rigged His Pet Hamster’s Wheel to Upload to Strava</a></td><td>124 👍</td><td>19 💬</td></tr>
-<tr><td>2.</td><td><a href='https://arcprize.org/results/deepseek-v4-flash-0731'>DeepSeek V4 Flash 0731</a></td><td>580 👍</td><td>349 💬</td></tr>
-<tr><td>3.</td><td><a href='https://genesisopenmodels.anl.gov/'>U.S. Department of Energy Launches the Genesis Open Models Initiative</a></td><td>206 👍</td><td>67 💬</td></tr>
-<tr><td>4.</td><td><a href='https://github.com/xoreaxeaxeax/asm-hall-of-shame'>Assembly Hall of Shame</a></td><td>319 👍</td><td>77 💬</td></tr>
-<tr><td>5.</td><td><a href='https://www.noemamag.com/why-is-everyone-in-tech-so-sad/'>What happens if an entire class of workers loses faith in their car...</a></td><td>576 👍</td><td>659 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year'>NASA figured out how to keep its Voyager 2 probe running for anothe...</a></td><td>201 👍</td><td>35 💬</td></tr>
-<tr><td>7.</td><td><a href='https://ancientlibrary.net/'>Ancient Library – 1,060 Greek/Latin texts, click any word to parse it</a></td><td>192 👍</td><td>58 💬</td></tr>
-<tr><td>8.</td><td><a href='https://www.shirtpocket.com/blog/supererduperer'>SupererDuperer</a></td><td>84 👍</td><td>16 💬</td></tr>
-<tr><td>9.</td><td><a href='https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413'>The Nixpkgs core team has disbanded</a></td><td>267 👍</td><td>124 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.databricks.com/blog/managing-ai-coding-costs-scale'>Managing AI Coding Costs at Scale</a></td><td>219 👍</td><td>195 💬</td></tr>
+<tr><td>1.</td><td><a href='https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/'>DeepMind's WeatherNext model achieves breakthrough forecasting cycl...</a></td><td>78 👍</td><td>18 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/'>A Physicist Rigged His Pet Hamster’s Wheel to Upload to Strava</a></td><td>285 👍</td><td>66 💬</td></tr>
+<tr><td>3.</td><td><a href='https://github.com/xoreaxeaxeax/rosenbridge'>Hardware backdoors in some x86 CPUs</a></td><td>185 👍</td><td>55 💬</td></tr>
+<tr><td>4.</td><td><a href='https://arcprize.org/results/deepseek-v4-flash-0731'>DeepSeek V4 Flash 0731</a></td><td>678 👍</td><td>404 💬</td></tr>
+<tr><td>5.</td><td><a href='https://genesisopenmodels.anl.gov/'>U.S. Department of Energy Launches the Genesis Open Models Initiative</a></td><td>273 👍</td><td>101 💬</td></tr>
+<tr><td>6.</td><td><a href='https://www.noemamag.com/why-is-everyone-in-tech-so-sad/'>What happens if an entire class of workers loses faith in their car...</a></td><td>771 👍</td><td>857 💬</td></tr>
+<tr><td>7.</td><td><a href='https://arxiv.org/abs/2607.25973'>k-Coloring is Faster than Computing the Chromatic Number</a></td><td>21 👍</td><td>1 💬</td></tr>
+<tr><td>8.</td><td><a href='https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/'>Europe's free satellite service just made it easier to track wildfires</a></td><td>68 👍</td><td>6 💬</td></tr>
+<tr><td>9.</td><td><a href='https://github.com/xoreaxeaxeax/asm-hall-of-shame'>Assembly Hall of Shame</a></td><td>366 👍</td><td>91 💬</td></tr>
+<tr><td>10.</td><td><a href='https://github.com/alfikpl/ao486'>ao486: x86-compatible Verilog core implementing all features of a 4...</a></td><td>35 👍</td><td>4 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>08 Aug 2026, 07:36 UTC</b> · Data from Hacker News</sub>
+<b>08 Aug 2026, 13:25 UTC</b>
 
 ---
 
