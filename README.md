@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://github.com/jmarshall23/msword'>Microsoft Word for Windows 1.1a, Native X64 Port</a></td><td>33 👍</td><td>13 💬</td></tr>
-<tr><td>2.</td><td><a href='https://seg6.space/posts/phone-server/'>My server is a phone now</a></td><td>273 👍</td><td>106 💬</td></tr>
-<tr><td>3.</td><td><a href='https://os8088.com/'>Os8088: A powerful Mac-like OS for the IBM XT, 286, 386</a></td><td>142 👍</td><td>62 💬</td></tr>
-<tr><td>4.</td><td><a href='https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621'>Melatonin impairs morning cognition in healthy young adults (2023)</a></td><td>87 👍</td><td>38 💬</td></tr>
-<tr><td>5.</td><td><a href='http://longbets.org/601/'>The original URL for this prediction will no longer be available in...</a></td><td>111 👍</td><td>27 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.redblobgames.com/pathfinding/heuristics/differential.html'>Improving Heuristics for A* Pathfinding</a></td><td>198 👍</td><td>20 💬</td></tr>
-<tr><td>7.</td><td><a href='https://shopify.engineering/scaling-inventory-reservations'>Shopify replaced Redis with MySQL for inventory reservations–and it...</a></td><td>165 👍</td><td>95 💬</td></tr>
-<tr><td>8.</td><td><a href='https://www.andrewt.net/dithered-qr-codes/wtf/'>Dithered QR Codes</a></td><td>145 👍</td><td>15 💬</td></tr>
-<tr><td>9.</td><td><a href='https://www.fastmail.com/blog/fastmail-offers-eu-data-region/'>Fastmail offers EU data region</a></td><td>388 👍</td><td>193 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.experimental-history.com/p/incentives-are-for-losers'>Incentives are for losers</a></td><td>83 👍</td><td>47 💬</td></tr>
+<tr><td>1.</td><td><a href='https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html'>Reviving a four year old reMarkable 2</a></td><td>33 👍</td><td>21 💬</td></tr>
+<tr><td>2.</td><td><a href='https://gukov.dev/math/2026/08/02/new-magic-hexagons.html'>There Are Magic Hexagons of Every Order</a></td><td>86 👍</td><td>18 💬</td></tr>
+<tr><td>3.</td><td><a href='https://seg6.space/posts/phone-server/'>My server is a phone now</a></td><td>392 👍</td><td>169 💬</td></tr>
+<tr><td>4.</td><td><a href='https://github.com/jmarshall23/msword'>Microsoft Word for Windows 1.1a, Native X64 Port</a></td><td>105 👍</td><td>47 💬</td></tr>
+<tr><td>5.</td><td><a href='https://halfhill.com/byte/1998-12_alpha.html'>The Alpha 21264 CPU: NT's Greatest RISC (1998)</a></td><td>26 👍</td><td>14 💬</td></tr>
+<tr><td>6.</td><td><a href='https://practical.engineering/blog/2026/8/4/the-grid-that-doubles-the-strength-of-the-ground'>The Grid That Doubles the Strength of the Ground</a></td><td>52 👍</td><td>8 💬</td></tr>
+<tr><td>7.</td><td><a href='https://os8088.com/'>Os8088: A powerful Mac-like OS for the IBM XT, 286, 386</a></td><td>204 👍</td><td>120 💬</td></tr>
+<tr><td>8.</td><td><a href='https://hivekit.io/blog/why-you-might-want-to-build-your-webapp-in-canvas-instead-of-html/'>You might want to build your WebApp in Canvas instead of HTML</a></td><td>34 👍</td><td>39 💬</td></tr>
+<tr><td>9.</td><td><a href='https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/'>Everything You Do Is Being Recorded</a></td><td>66 👍</td><td>44 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html'>Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic a...</a></td><td>14 👍</td><td>5 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>09 Aug 2026, 07:41 UTC</b> · Data from Hacker News</sub>
+<b>09 Aug 2026, 13:29 UTC</b>
 
 ---
 
