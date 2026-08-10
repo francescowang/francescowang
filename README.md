@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.docker.com/products/docker-sandboxes/'>Docker Sandboxes – Disposable, isolated sandboxes for AI agents</a></td><td>127 👍</td><td>80 💬</td></tr>
-<tr><td>2.</td><td><a href='https://blog.teknogeek.io/posts/what-happened-to-hackerone/'>What Happened to HackerOne?</a></td><td>196 👍</td><td>77 💬</td></tr>
-<tr><td>3.</td><td><a href='https://github.com/shinyquagsire23/Klepton'>Run Android ARM64 VR APKs on Apple Vision Pro</a></td><td>57 👍</td><td>6 💬</td></tr>
-<tr><td>4.</td><td><a href='https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai'>The Philippines' big offshoring industry is growing despite AI</a></td><td>39 👍</td><td>35 💬</td></tr>
-<tr><td>5.</td><td><a href='https://www.whodunnitai.com/'>Show HN: Voice driven murder mystery, Interview AI suspects with yo...</a></td><td>62 👍</td><td>19 💬</td></tr>
-<tr><td>6.</td><td><a href='https://claude.com/blog/auto-mode-default-in-claude-code'>Auto mode is now the default in Claude Code</a></td><td>176 👍</td><td>162 💬</td></tr>
-<tr><td>7.</td><td><a href='https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/'>How I use LLMs to learn complex topics</a></td><td>608 👍</td><td>364 💬</td></tr>
-<tr><td>8.</td><td><a href='https://www.dsprelated.com/showarticle/40.php'>An Interesting Fourier Transform – 1/F Noise</a></td><td>23 👍</td><td>4 💬</td></tr>
-<tr><td>9.</td><td><a href='https://foldingglobes.com/'>Turn satellite imagery into a paper globe you fold yourself</a></td><td>47 👍</td><td>10 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/'>How We Pushed CDC into Postgres</a></td><td>85 👍</td><td>7 💬</td></tr>
+<tr><td>1.</td><td><a href='https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model'>Meta Muse Glimmer – open weights 30B local coding model</a></td><td>371 👍</td><td>169 💬</td></tr>
+<tr><td>2.</td><td><a href='https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html'>Mistral Patent for "Code implemented tool calls"</a></td><td>30 👍</td><td>22 💬</td></tr>
+<tr><td>3.</td><td><a href='https://www.beautifulpublicdata.com/boat-names/'>50k Boat Names</a></td><td>28 👍</td><td>15 💬</td></tr>
+<tr><td>4.</td><td><a href='https://squeak.org/release_notes/6.1/'>Squeak/Smalltalk 6.1 Release Notes</a></td><td>33 👍</td><td>7 💬</td></tr>
+<tr><td>5.</td><td><a href='https://www.docker.com/products/docker-sandboxes/'>Docker Sandboxes – Disposable, isolated sandboxes for AI agents</a></td><td>354 👍</td><td>219 💬</td></tr>
+<tr><td>6.</td><td><a href='https://lwn.net/Articles/1034703/'>Tail-call optimization in C is relatively recent</a></td><td>48 👍</td><td>20 💬</td></tr>
+<tr><td>7.</td><td><a href='https://ethw.org/Milestones:Parametron,_1954'>Parametron: 50s Japanese computer that uses neither transistors nor...</a></td><td>42 👍</td><td>11 💬</td></tr>
+<tr><td>8.</td><td><a href='https://bobdahacker.com/blog/tldv-hack'>Over 181,000 AI meeting recordings left wide open in note taking app</a></td><td>84 👍</td><td>27 💬</td></tr>
+<tr><td>9.</td><td><a href='https://blog.teknogeek.io/posts/what-happened-to-hackerone/'>What Happened to HackerOne?</a></td><td>297 👍</td><td>153 💬</td></tr>
+<tr><td>10.</td><td><a href='https://twitter.com/thdxr/status/2086599224674681242'>DeepSeek costs OpenCode Go user $1.14/day; dual DGX breaks even in ...</a></td><td>36 👍</td><td>33 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>10 Aug 2026, 08:17 UTC</b> · Data from Hacker News</sub>
+<b>10 Aug 2026, 13:53 UTC</b>
 
 ---
 
