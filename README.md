@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://github.com/antirez/h3.c'>H3-metal – Native MiniMax-H3 inference for Apple Silicon</a></td><td>218 👍</td><td>31 💬</td></tr>
-<tr><td>2.</td><td><a href='https://github.com/activeing123/mcptoon'>Show HN: Mcptoon – Token-efficient MCP CLI client</a></td><td>33 👍</td><td>20 💬</td></tr>
-<tr><td>3.</td><td><a href='https://code.call-cc.org/releases/6.0.0/NEWS'>Chicken Scheme 6.0</a></td><td>164 👍</td><td>17 💬</td></tr>
-<tr><td>4.</td><td><a href='https://thewalrus.ca/google-search-is-dying/'>As AI eats the web, the internet’s collective memory is disappearing</a></td><td>189 👍</td><td>179 💬</td></tr>
-<tr><td>5.</td><td><a href='https://huggingface.co/LiquidAI/LFM2.5-2.6B'>LFM2.5 2.6B model competitive with 4x larger models</a></td><td>50 👍</td><td>13 💬</td></tr>
-<tr><td>6.</td><td><a href='https://everycube.alen.is/'>Show HN: Scroll through all 43252003274489856000 Rubik's Cube states</a></td><td>169 👍</td><td>54 💬</td></tr>
-<tr><td>7.</td><td><a href='https://cactuscompute.com/needle'>Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart hom...</a></td><td>301 👍</td><td>109 💬</td></tr>
-<tr><td>8.</td><td><a href='https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined'>The “mechanical miracle” that ruined Mark Twain’s life</a></td><td>120 👍</td><td>59 💬</td></tr>
-<tr><td>9.</td><td><a href='https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878'>Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open ...</a></td><td>485 👍</td><td>441 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.floppydisk.com/recycle'>Recycle – Floppydisks</a></td><td>53 👍</td><td>22 💬</td></tr>
+<tr><td>1.</td><td><a href='https://www.bbc.com/news/articles/c75gk620r22o'>England set to be one of the first countries to eliminate hepatitis C</a></td><td>67 👍</td><td>31 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html'>France to ban unsolicited telemarketing calls</a></td><td>567 👍</td><td>315 💬</td></tr>
+<tr><td>3.</td><td><a href='https://thewalrus.ca/google-search-is-dying/'>As AI eats the web, the internet’s collective memory is disappearing</a></td><td>499 👍</td><td>578 💬</td></tr>
+<tr><td>4.</td><td><a href='https://github.com/antirez/h3.c'>H3-metal – Native MiniMax-H3 inference for Apple Silicon</a></td><td>348 👍</td><td>76 💬</td></tr>
+<tr><td>5.</td><td><a href='https://www.youtube.com/watch?v=91DoiansHqk'>It's time Amazon played by the same rules as everyone else [video]</a></td><td>60 👍</td><td>26 💬</td></tr>
+<tr><td>6.</td><td><a href='https://stratechery.com/2026/nvidias-risky-business/'>Nvidia's Risky Business</a></td><td>39 👍</td><td>5 💬</td></tr>
+<tr><td>7.</td><td><a href='https://www.theaithinker.com/p/how-to-organize-claude-code-for-product'>How to organize Claude Code for product work</a></td><td>21 👍</td><td>8 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.asml.com/en/company/stories/2023/how-immersion-lithography-saved-moores-law'>Immersion lithography saved Moore's Law (2023)</a></td><td>12 👍</td><td>0 💬</td></tr>
+<tr><td>9.</td><td><a href='https://code.call-cc.org/releases/6.0.0/NEWS'>Chicken Scheme 6.0</a></td><td>236 👍</td><td>32 💬</td></tr>
+<tr><td>10.</td><td><a href='https://cactuscompute.com/needle'>Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart hom...</a></td><td>409 👍</td><td>150 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>11 Aug 2026, 07:58 UTC</b> · Data from Hacker News</sub>
+<b>11 Aug 2026, 13:51 UTC</b>
 
 ---
 
