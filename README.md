@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://aresluna.org/the-hardest-working-font-in-manhattan/'>The hardest working font in Manhattan (2025)</a></td><td>176 👍</td><td>26 💬</td></tr>
-<tr><td>2.</td><td><a href='https://www.bbc.com/news/articles/cn0nww2qlp7o'>AI agent hacks gym to get its user a spot in pilates class</a></td><td>26 👍</td><td>28 💬</td></tr>
-<tr><td>3.</td><td><a href='https://ngrok.com/blog/compression-is-prediction'>Compression is prediction</a></td><td>487 👍</td><td>204 💬</td></tr>
-<tr><td>4.</td><td><a href='https://llama.app'>llama.cpp</a></td><td>155 👍</td><td>71 💬</td></tr>
-<tr><td>5.</td><td><a href='https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/'>WorldClaw Agentic 3D open-world generation at scale</a></td><td>207 👍</td><td>63 💬</td></tr>
-<tr><td>6.</td><td><a href='https://s-1.vercel.app/posts/why-dropbox-is-a-obvious-pe-target/'>Dropbox is an obvious PE Target?</a></td><td>48 👍</td><td>70 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.cringebot3000.com/'>LinkedIn CringeBot 3000</a></td><td>12 👍</td><td>2 💬</td></tr>
-<tr><td>8.</td><td><a href='https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark'>A shell exclamation mark is not for yelling. Be lazy</a></td><td>41 👍</td><td>8 💬</td></tr>
-<tr><td>9.</td><td><a href='https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/'>The lifesaving secret hidden inside a horseshoe crab's blue blood</a></td><td>75 👍</td><td>20 💬</td></tr>
-<tr><td>10.</td><td><a href='https://brentfitzgerald.com/posts/the-human-is-the-loop/'>The Human Is the Loop</a></td><td>85 👍</td><td>29 💬</td></tr>
+<tr><td>1.</td><td><a href='https://jonty.github.io/2026_eclipse_webcams/'>2026 Eclipse Webcams</a></td><td>177 👍</td><td>46 💬</td></tr>
+<tr><td>2.</td><td><a href='https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/'>What sort of maths are LLMs good at?</a></td><td>145 👍</td><td>61 💬</td></tr>
+<tr><td>3.</td><td><a href='https://www.cringebot3000.com/'>LinkedIn CringeBot 3000</a></td><td>394 👍</td><td>152 💬</td></tr>
+<tr><td>4.</td><td><a href='https://woxi.ad-si.com'>Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplem...</a></td><td>132 👍</td><td>14 💬</td></tr>
+<tr><td>5.</td><td><a href='https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/'>Delphi 13 Community Edition Is Now Available</a></td><td>57 👍</td><td>44 💬</td></tr>
+<tr><td>6.</td><td><a href='https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/'>High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Po...</a></td><td>71 👍</td><td>6 💬</td></tr>
+<tr><td>7.</td><td><a href='https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696'>Facebook is paying controversial creators to produce rage-bait content</a></td><td>318 👍</td><td>185 💬</td></tr>
+<tr><td>8.</td><td><a href='https://chefsbinge.com/bigos-recipe-builder/'>Bigos (Polish Hunter's Stew) Recipe Builder</a></td><td>11 👍</td><td>3 💬</td></tr>
+<tr><td>9.</td><td><a href='https://aresluna.org/the-hardest-working-font-in-manhattan/'>The hardest working font in Manhattan (2025)</a></td><td>289 👍</td><td>43 💬</td></tr>
+<tr><td>10.</td><td><a href='https://ngrok.com/blog/compression-is-prediction'>Compression is prediction</a></td><td>603 👍</td><td>250 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>12 Aug 2026, 08:05 UTC</b> · Data from Hacker News</sub>
+<b>12 Aug 2026, 13:54 UTC</b>
 
 ---
 
