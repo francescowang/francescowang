@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://openrouter.ai/deepseek/deepseek-v4-pro-0813'>DeepSeek V4 Pro 0813</a></td><td>893 👍</td><td>363 💬</td></tr>
-<tr><td>2.</td><td><a href='https://phys.org/news/2026-08-qa-mushroom-tiny-people-hallucinations.html'>Mushroom behind 'tiny people' hallucinations identified</a></td><td>101 👍</td><td>64 💬</td></tr>
-<tr><td>3.</td><td><a href='https://tailscale.com/blog/sqlite-wal-reset-bug'>We tracked down the 16-year-old WAL-reset SQLite bug</a></td><td>1000 👍</td><td>188 💬</td></tr>
-<tr><td>4.</td><td><a href='https://zed.dev/blog/introducing-delta'>Delta</a></td><td>523 👍</td><td>182 💬</td></tr>
-<tr><td>5.</td><td><a href='https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B'>Qwen3.8-2.4T</a></td><td>597 👍</td><td>139 💬</td></tr>
-<tr><td>6.</td><td><a href='https://openai.com/codex/'>ChatGPT Desktop (Codex Desktop) for Linux</a></td><td>41 👍</td><td>18 💬</td></tr>
-<tr><td>7.</td><td><a href='https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html'>Principia Mathematica is modern and insightful</a></td><td>138 👍</td><td>66 💬</td></tr>
-<tr><td>8.</td><td><a href='https://en.wikipedia.org/wiki/Antiqua%E2%80%93Fraktur_dispute'>Antiqua–Fraktur dispute</a></td><td>74 👍</td><td>11 💬</td></tr>
-<tr><td>9.</td><td><a href='https://jonty.github.io/2026_eclipse_webcams/'>2026 Eclipse Webcams</a></td><td>477 👍</td><td>131 💬</td></tr>
-<tr><td>10.</td><td><a href='https://sharktastica.co.uk/articles/pc-fxt-45'>Happy 45th Birthday to the IBM PC and Model F/XT</a></td><td>79 👍</td><td>20 💬</td></tr>
+<tr><td>1.</td><td><a href='https://github.com/deepseek-ai/deepseek-harness'>DeepSeek Harness</a></td><td>54 👍</td><td>19 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.netlify.com/blog/one-prompt-11-models-very-different-results/'>Choosing an AI model: one prompt, 11 models, different results</a></td><td>43 👍</td><td>18 💬</td></tr>
+<tr><td>3.</td><td><a href='https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/'>Deutsche Bank becomes first foreign yuan clearing bank in Europe</a></td><td>177 👍</td><td>182 💬</td></tr>
+<tr><td>4.</td><td><a href='https://openai.com/codex/'>ChatGPT Desktop (Codex Desktop) for Linux</a></td><td>300 👍</td><td>202 💬</td></tr>
+<tr><td>5.</td><td><a href='https://www.tsoon.com/posts/picking-berries-meditation/'>Picking berries is my meditation</a></td><td>52 👍</td><td>36 💬</td></tr>
+<tr><td>6.</td><td><a href='https://pxl-th.github.io/blog/better-gs-julia/'>Better Gaussian Splatting in Julia</a></td><td>32 👍</td><td>3 💬</td></tr>
+<tr><td>7.</td><td><a href='https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/'>The lattice of sets of natural numbers is rich (2021)</a></td><td>71 👍</td><td>10 💬</td></tr>
+<tr><td>8.</td><td><a href='https://openrouter.ai/deepseek/deepseek-v4-pro-0813'>DeepSeek V4 Pro 0813</a></td><td>990 👍</td><td>425 💬</td></tr>
+<tr><td>9.</td><td><a href='https://leancrew.com/all-this/2026/08/my-rules-for-using-spreadsheets/'>My Rules for Using Spreadsheets</a></td><td>9 👍</td><td>6 💬</td></tr>
+<tr><td>10.</td><td><a href='https://atg.science/careers'>ATG (YC F25) Is Hiring Member of Technical Staff (Data Platform)</a></td><td>1 👍</td><td>0 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>13 Aug 2026, 08:06 UTC</b> · Data from Hacker News</sub>
+<b>13 Aug 2026, 13:55 UTC</b>
 
 ---
 
