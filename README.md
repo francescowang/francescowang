@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://z.ai/blog/glm-5.3'>GLM-5.3: Frontier coding with emergent cyber capabilities</a></td><td>322 👍</td><td>118 💬</td></tr>
-<tr><td>2.</td><td><a href='https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/'>Gemini 3.7 Flash</a></td><td>785 👍</td><td>420 💬</td></tr>
-<tr><td>3.</td><td><a href='https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai'>Accelerating GPT-5.6 Sol Ultrafast</a></td><td>557 👍</td><td>233 💬</td></tr>
-<tr><td>4.</td><td><a href='https://themech.net/2026/08/hello-me-its-been-a-while/'>Hello, me. It's been a while</a></td><td>175 👍</td><td>81 💬</td></tr>
-<tr><td>5.</td><td><a href='https://atproto.com/blog/introducing-bluesky-protocol-services'>Bluesky Protocol Services</a></td><td>154 👍</td><td>28 💬</td></tr>
-<tr><td>6.</td><td><a href='https://github.com/ArcadeMakerSources/ArcadeMaker'>Show HN: C# Game Engine with its own scripting language and IDE</a></td><td>19 👍</td><td>1 💬</td></tr>
-<tr><td>7.</td><td><a href='https://deepseek.com/harness/en/'>DeepSeek Harness developer preview</a></td><td>639 👍</td><td>266 💬</td></tr>
-<tr><td>8.</td><td><a href='https://github.com/JustVugg/lumabri'>Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri</a></td><td>4 👍</td><td>0 💬</td></tr>
-<tr><td>9.</td><td><a href='https://github.com/xoreaxeaxeax/skitter-creek-bath-salts'>Spaghettifying DRAM</a></td><td>593 👍</td><td>154 💬</td></tr>
-<tr><td>10.</td><td><a href='https://docs.mistral.ai/models/ocr-4-1'>Mistral OCR 4.1</a></td><td>322 👍</td><td>129 💬</td></tr>
+<tr><td>1.</td><td><a href='https://z.ai/blog/glm-5.3'>GLM-5.3: Frontier coding with emergent cyber capabilities</a></td><td>723 👍</td><td>368 💬</td></tr>
+<tr><td>2.</td><td><a href='https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/'>Dear people who work at the airport</a></td><td>59 👍</td><td>33 💬</td></tr>
+<tr><td>3.</td><td><a href='https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications'>Don't classify, hallucinate!</a></td><td>62 👍</td><td>27 💬</td></tr>
+<tr><td>4.</td><td><a href='https://api-docs.deepseek.com/news/news260813/'>DeepSeek peak/off-peak pricing update</a></td><td>121 👍</td><td>56 💬</td></tr>
+<tr><td>5.</td><td><a href='https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/'>Gemini 3.7 Flash</a></td><td>910 👍</td><td>453 💬</td></tr>
+<tr><td>6.</td><td><a href='https://www.redblobgames.com/blog/2026-08-08-differential-heuristics/'>Differential Heuristics</a></td><td>64 👍</td><td>4 💬</td></tr>
+<tr><td>7.</td><td><a href='https://mun-logadan.github.io/why-does-opus-5-feel-worse/'>Why does Opus 5 feel worse to work with?</a></td><td>251 👍</td><td>236 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.iroh.computer/blog/authenticated-relays'>Protect Your Relays</a></td><td>24 👍</td><td>8 💬</td></tr>
+<tr><td>9.</td><td><a href='https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai'>Accelerating GPT-5.6 Sol Ultrafast</a></td><td>658 👍</td><td>259 💬</td></tr>
+<tr><td>10.</td><td><a href='https://themech.net/2026/08/hello-me-its-been-a-while/'>Hello, me. It's been a while</a></td><td>295 👍</td><td>159 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>14 Aug 2026, 08:03 UTC</b> · Data from Hacker News</sub>
+<b>14 Aug 2026, 13:51 UTC</b>
 
 ---
 
