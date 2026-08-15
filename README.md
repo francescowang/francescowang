@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://huggingface.co/Qwen/Qwen3.8-27B-FP8'>Qwen 3.8 27B</a></td><td>1075 👍</td><td>673 💬</td></tr>
-<tr><td>2.</td><td><a href='https://conic.al/writing/the-other-sean-byrne-doesnt-exist/'>The other Sean Byrne doesn't exist</a></td><td>54 👍</td><td>14 💬</td></tr>
-<tr><td>3.</td><td><a href='https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/'>Going Dark, and the era of law enforcement hacking</a></td><td>301 👍</td><td>140 💬</td></tr>
-<tr><td>4.</td><td><a href='https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/'>Coin-sized device can hack a Boeing 737</a></td><td>46 👍</td><td>20 💬</td></tr>
-<tr><td>5.</td><td><a href='https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive'>Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia</a></td><td>174 👍</td><td>37 💬</td></tr>
-<tr><td>6.</td><td><a href='https://blog.ploopy.co/the-aplus-is-finally-here-499'>The Ploopy A+ Trackball Is Here</a></td><td>93 👍</td><td>42 💬</td></tr>
-<tr><td>7.</td><td><a href='https://eigendrum.com/#p=circle'>eigendrum</a></td><td>121 👍</td><td>24 💬</td></tr>
-<tr><td>8.</td><td><a href='https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/'>Google is making private AI practical with homomorphic encryption</a></td><td>358 👍</td><td>212 💬</td></tr>
-<tr><td>9.</td><td><a href='https://rustdesk.com/blog/unattended-remote-access-wayland/'>RustDesk now supports true unattended remote access on Wayland</a></td><td>270 👍</td><td>113 💬</td></tr>
-<tr><td>10.</td><td><a href='https://chenxiachan.github.io/thoughtdag/'>Show HN: ThoughtDAG – An editable context graph for LLM conversations</a></td><td>10 👍</td><td>0 💬</td></tr>
+<tr><td>1.</td><td><a href='https://sankalp.bearblog.dev/autoresearch/'>Auto-research with codex: How I achieved a 232x Faster Kernel</a></td><td>68 👍</td><td>16 💬</td></tr>
+<tr><td>2.</td><td><a href='https://conic.al/writing/the-other-sean-byrne-doesnt-exist/'>The other Sean Byrne doesn't exist</a></td><td>250 👍</td><td>123 💬</td></tr>
+<tr><td>3.</td><td><a href='https://huggingface.co/Qwen/Qwen3.8-27B-FP8'>Qwen 3.8 27B</a></td><td>1215 👍</td><td>723 💬</td></tr>
+<tr><td>4.</td><td><a href='https://linebender.org/blog/hyperbezier/'>The mathematical beauty of hyperbezier curves</a></td><td>50 👍</td><td>3 💬</td></tr>
+<tr><td>5.</td><td><a href='https://ludens.cl/photo/spectra/spectra.html'>The Color of White Light</a></td><td>18 👍</td><td>9 💬</td></tr>
+<tr><td>6.</td><td><a href='https://baselashraf81.github.io/eigendrum/'>Show HN: Eigendrum - Draw any shape and hear what it sounds like as...</a></td><td>46 👍</td><td>10 💬</td></tr>
+<tr><td>7.</td><td><a href='https://uecker.codeberg.page/2026-07-14.html'>Using GCC's Nested Functions with Wide Pointers and No Trampolines II</a></td><td>38 👍</td><td>16 💬</td></tr>
+<tr><td>8.</td><td><a href='https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/'>Going Dark, and the era of law enforcement hacking</a></td><td>376 👍</td><td>177 💬</td></tr>
+<tr><td>9.</td><td><a href='https://www.popularmechanics.com/military/a73358518/nazi-rocket-scientist-disappearance/'>In 1962, Egypt's Missile Program Lost Its Key Scientist Without a T...</a></td><td>67 👍</td><td>40 💬</td></tr>
+<tr><td>10.</td><td><a href='https://doeken.org/wcag-ebook'>Understanding WCAG 2.2 as ePub and PDF</a></td><td>37 👍</td><td>2 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>15 Aug 2026, 07:17 UTC</b> · Data from Hacker News</sub>
+<b>15 Aug 2026, 13:07 UTC</b>
 
 ---
 
