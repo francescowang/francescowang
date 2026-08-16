@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/'>Asus Bike Booster</a></td><td>312 👍</td><td>172 💬</td></tr>
-<tr><td>2.</td><td><a href='https://github.com/jitpass/jit'>Show HN: Laptop is the last place your secrets are still in plaintext</a></td><td>10 👍</td><td>3 💬</td></tr>
-<tr><td>3.</td><td><a href='https://duckdb.org/2026/07/31/asynchronous-io'>Asynchronous I/O in DuckDB: Work, Thread, Work</a></td><td>124 👍</td><td>8 💬</td></tr>
-<tr><td>4.</td><td><a href='https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432'>Semaglutide linked to lower predicted dementia risk</a></td><td>411 👍</td><td>284 💬</td></tr>
-<tr><td>5.</td><td><a href='https://www.anthropic.com/research/multiagent-systems'>Patterns and problems in emerging multi-agent systems</a></td><td>50 👍</td><td>15 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.henrikkarlsson.xyz/p/good-ideas'>Cultivating a state of mind where new ideas are born (2023)</a></td><td>150 👍</td><td>34 💬</td></tr>
-<tr><td>7.</td><td><a href='https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/'>Guiding Ships with Moire Patterns</a></td><td>35 👍</td><td>9 💬</td></tr>
-<tr><td>8.</td><td><a href='https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/'>Software Engineering fundamentals matter more</a></td><td>94 👍</td><td>27 💬</td></tr>
-<tr><td>9.</td><td><a href='https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/'>Super El Niño Keeps Growing as New Forecasts Reach Record Territory...</a></td><td>186 👍</td><td>102 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.micdrop.gg/'>Show HN: Mic Drop, a real-time multiplayer karaoke game</a></td><td>46 👍</td><td>19 💬</td></tr>
+<tr><td>1.</td><td><a href='https://arxiv.org/abs/2608.08421'>A SAT Attack on Tarski's High School Algebra Problem</a></td><td>15 👍</td><td>8 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/'>Asus Bike Booster</a></td><td>487 👍</td><td>331 💬</td></tr>
+<tr><td>3.</td><td><a href='https://www.nature.com/articles/s41586-026-10857-1'>Superconducting monolayer cuprate with a single CuO2 plane</a></td><td>30 👍</td><td>8 💬</td></tr>
+<tr><td>4.</td><td><a href='https://hwbusters.com/news/comma-ai-egpu-dock-runs-open-source-firmware-249-bare-799-with-an-rx-9060/'>Chestnut – eGPU dock with open-source firmware</a></td><td>44 👍</td><td>8 💬</td></tr>
+<tr><td>5.</td><td><a href='https://duckdb.org/2026/07/31/asynchronous-io'>Asynchronous I/O in DuckDB: Work, Thread, Work</a></td><td>197 👍</td><td>22 💬</td></tr>
+<tr><td>6.</td><td><a href='https://www.anthropic.com/research/multiagent-systems'>Patterns and problems in emerging multi-agent systems</a></td><td>137 👍</td><td>90 💬</td></tr>
+<tr><td>7.</td><td><a href='https://www.ycombinator.com/companies/gooseworks/jobs/UJ4vH2F-founding-engineer'>Gooseworks (YC W23) Is Hiring a Founding Builder / Engineer</a></td><td>1 👍</td><td>0 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/'>Super El Niño Keeps Growing as New Forecasts Reach Record Territory...</a></td><td>297 👍</td><td>192 💬</td></tr>
+<tr><td>9.</td><td><a href='https://scholar.google.com/scholar?q=%22kidney+disappointment%22'>Research papers using "kidney disappointment" instead of "kidney fa...</a></td><td>13 👍</td><td>5 💬</td></tr>
+<tr><td>10.</td><td><a href='https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432'>Semaglutide linked to lower predicted dementia risk</a></td><td>444 👍</td><td>326 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>16 Aug 2026, 07:19 UTC</b> · Data from Hacker News</sub>
+<b>16 Aug 2026, 13:08 UTC</b>
 
 ---
 
