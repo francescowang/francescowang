@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://simonwillison.net/2026/Aug/16/qwen-38-27b/'>Qwen 3.8 27B is excellent, but it defaults to overthinking things</a></td><td>362 👍</td><td>158 💬</td></tr>
-<tr><td>2.</td><td><a href='https://linear.axler.net/'>Linear Algebra Done Right – Sheldon Axler</a></td><td>34 👍</td><td>13 💬</td></tr>
-<tr><td>3.</td><td><a href='https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf'>The Life and Death of Direct File [pdf]</a></td><td>180 👍</td><td>86 💬</td></tr>
-<tr><td>4.</td><td><a href='https://www.gimp.org/news/2026/08/16/dev-update-august-2026/'>GIMP Development Update</a></td><td>56 👍</td><td>8 💬</td></tr>
-<tr><td>5.</td><td><a href='https://rvembedded.com/blog_post/12/'>A third world engineer responds to “RISC-V: They should have known ...</a></td><td>474 👍</td><td>246 💬</td></tr>
-<tr><td>6.</td><td><a href='https://reticulum.network/'>Reticulum – Decentralized Mesh Network</a></td><td>101 👍</td><td>23 💬</td></tr>
-<tr><td>7.</td><td><a href='https://platform.claude.com/docs/en/release-notes/system-prompts'>Claude: System Prompts</a></td><td>630 👍</td><td>251 💬</td></tr>
-<tr><td>8.</td><td><a href='https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64'>AGI-64 Brings Sierra Adventures to the Commodore 64</a></td><td>69 👍</td><td>9 💬</td></tr>
-<tr><td>9.</td><td><a href='https://blog.racket-lang.org/2026/08/rhombus-v1.1.html'>Rhombus 1.1 is now available</a></td><td>68 👍</td><td>23 💬</td></tr>
-<tr><td>10.</td><td><a href='https://vocalslice.com/'>Show HN: Vocal Slice – Cut audio by selecting text, fully on-device</a></td><td>21 👍</td><td>8 💬</td></tr>
+<tr><td>1.</td><td><a href='https://blog.roboflow.com/openai-gpt-5-6/'>GPT 5.6 Sol is the best "vision" model OpenAI ever released</a></td><td>28 👍</td><td>20 💬</td></tr>
+<tr><td>2.</td><td><a href='https://yucatanmagazine.com/mexico-crackdown-on-coastal-development/'>Mexico Crackdown on Coastal Development Underway</a></td><td>13 👍</td><td>2 💬</td></tr>
+<tr><td>3.</td><td><a href='https://simonwillison.net/2026/Aug/16/qwen-38-27b/'>Qwen 3.8 27B is excellent, but it defaults to overthinking things</a></td><td>609 👍</td><td>294 💬</td></tr>
+<tr><td>4.</td><td><a href='https://func25.dev/posts/go-sync-nocopy/'>How Go detects struct copies with sync.noCopy</a></td><td>16 👍</td><td>14 💬</td></tr>
+<tr><td>5.</td><td><a href='https://twitter.com/DarioAmodei/status/2088758816376807762'>On A.I. regulation and messaging</a></td><td>141 👍</td><td>256 💬</td></tr>
+<tr><td>6.</td><td><a href='https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing'>Anthropic's 'watermark' text adulteration in Claude is a perversion...</a></td><td>430 👍</td><td>405 💬</td></tr>
+<tr><td>7.</td><td><a href='https://desktopcolors.com'>Show HN: Desktopcolors.com – A museum for solid background colors o...</a></td><td>55 👍</td><td>24 💬</td></tr>
+<tr><td>8.</td><td><a href='https://rvembedded.com/blog_post/12/'>A third world engineer responds to “RISC-V: They should have known ...</a></td><td>558 👍</td><td>283 💬</td></tr>
+<tr><td>9.</td><td><a href='https://reticulum.network/'>Reticulum – Decentralized Mesh Network</a></td><td>160 👍</td><td>56 💬</td></tr>
+<tr><td>10.</td><td><a href='https://platform.claude.com/docs/en/release-notes/system-prompts'>Claude: System Prompts</a></td><td>696 👍</td><td>268 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>17 Aug 2026, 07:39 UTC</b> · Data from Hacker News</sub>
+<b>17 Aug 2026, 13:15 UTC</b>
 
 ---
 
