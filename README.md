@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://timmarinin.net/2026/bluesky-screenshots/'>How Bluesky draws its logo on screenshots</a></td><td>424 👍</td><td>286 💬</td></tr>
-<tr><td>2.</td><td><a href='https://openrouter.ai/openai/gpt-5.6-sol'>GPT-5.6 Sol Pricing Cut by 50%</a></td><td>368 👍</td><td>203 💬</td></tr>
-<tr><td>3.</td><td><a href='https://fabiensanglard.net/quake_shareware_cd/index.html'>Quake Shareware, a CD-ROM just a little too full</a></td><td>293 👍</td><td>125 💬</td></tr>
-<tr><td>4.</td><td><a href='https://danluu.com/benchpocalypse/'>The Benchmarkpocalypse</a></td><td>71 👍</td><td>10 💬</td></tr>
-<tr><td>5.</td><td><a href='https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera'>Fairphone 6 and PostmarketOS working main camera</a></td><td>150 👍</td><td>35 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.science.org/content/article/shattered-skeleton-scottish-castle-first-confirmed-death-trebuchet'>Shattered skeleton is first confirmed death from trebuchet</a></td><td>54 👍</td><td>35 💬</td></tr>
-<tr><td>7.</td><td><a href='https://duckdb.org/2026/08/17/duckdb-20-highlights'>A Preview of DuckDB v2.0</a></td><td>608 👍</td><td>110 💬</td></tr>
-<tr><td>8.</td><td><a href='https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug'>AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowfla...</a></td><td>355 👍</td><td>138 💬</td></tr>
-<tr><td>9.</td><td><a href='https://en.wikipedia.org/wiki/Olo_(color)'>Olo (Color)</a></td><td>404 👍</td><td>76 💬</td></tr>
-<tr><td>10.</td><td><a href='https://arxiv.org/abs/2608.13759'>GPU Offload in Rust: Portable, Safe, and Fast</a></td><td>198 👍</td><td>39 💬</td></tr>
+<tr><td>1.</td><td><a href='https://philo.gay/linecam/'>Using the railway network as a flatbed scanner</a></td><td>24 👍</td><td>1 💬</td></tr>
+<tr><td>2.</td><td><a href='https://pixelcluster.dev/VRAM-Overcommit/'>Linux 7.3 improves performance when running out of vRAM</a></td><td>301 👍</td><td>98 💬</td></tr>
+<tr><td>3.</td><td><a href='https://tau.dev/2026/08/07/canon'>Teaching my kid to code with a modern MUD</a></td><td>39 👍</td><td>14 💬</td></tr>
+<tr><td>4.</td><td><a href='https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962'>Google buys crashed airline Spirit's data at auction, because AI</a></td><td>238 👍</td><td>135 💬</td></tr>
+<tr><td>5.</td><td><a href='https://timmarinin.net/2026/bluesky-screenshots/'>How Bluesky draws its logo on screenshots</a></td><td>606 👍</td><td>383 💬</td></tr>
+<tr><td>6.</td><td><a href='https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/'>Meta Files Patent for Facial Recognition, Automatic Recording of Pe...</a></td><td>27 👍</td><td>6 💬</td></tr>
+<tr><td>7.</td><td><a href='https://en.andros.dev/blog/54572bc7/finger-the-1971-social-network-that-never-died/'>Finger: Social network that never died</a></td><td>61 👍</td><td>24 💬</td></tr>
+<tr><td>8.</td><td><a href='https://acadia.engineering/blog/rethinking-database-programming'>Rethinking Database Programming</a></td><td>122 👍</td><td>58 💬</td></tr>
+<tr><td>9.</td><td><a href='https://fabiensanglard.net/quake_shareware_cd/index.html'>Quake Shareware, a CD-ROM just a little too full</a></td><td>408 👍</td><td>175 💬</td></tr>
+<tr><td>10.</td><td><a href='https://openrouter.ai/openai/gpt-5.6-sol'>GPT-5.6 Sol Pricing Cut by 50%</a></td><td>528 👍</td><td>346 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>18 Aug 2026, 07:25 UTC</b> · Data from Hacker News</sub>
+<b>18 Aug 2026, 13:23 UTC</b>
 
 ---
 
