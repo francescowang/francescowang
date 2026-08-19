@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://openlogi.org/en'>OpenLogi</a></td><td>397 👍</td><td>84 💬</td></tr>
-<tr><td>2.</td><td><a href='https://www.cerebras.ai/cs4'>Cerebras CS-4</a></td><td>225 👍</td><td>151 💬</td></tr>
-<tr><td>3.</td><td><a href='https://www.bbc.com/news/articles/c1l1r1zne1ro'>Scientists stunned by children's lung recovery in ultra low emissio...</a></td><td>173 👍</td><td>114 💬</td></tr>
-<tr><td>4.</td><td><a href='https://www.youtube.com/watch?v=Co57SfcT-h0'>Supersonic Trebuchet [video]</a></td><td>72 👍</td><td>9 💬</td></tr>
-<tr><td>5.</td><td><a href='https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/'>Palomar: A registry of Lean verified mathematics</a></td><td>74 👍</td><td>16 💬</td></tr>
-<tr><td>6.</td><td><a href='https://github.com/DenisSergeevitch/desktop-fly'>A 3D fruit fly on macOS desktop powered by the real FlyWire connectome</a></td><td>249 👍</td><td>86 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco'>Meta's blockbuster trial draws parallels to big tobacco</a></td><td>202 👍</td><td>146 💬</td></tr>
-<tr><td>8.</td><td><a href='https://www.koh-antique.com/client/tangwreck/tangwreck.html'>The Vietnam Binh Chau (Chau Tan) Late Tang Wreck</a></td><td>26 👍</td><td>0 💬</td></tr>
-<tr><td>9.</td><td><a href='https://github.com/pg83/solo'>Solo – a .so loader for static Linux binaries</a></td><td>120 👍</td><td>95 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html'>How does IKEA come up with names for its products?</a></td><td>321 👍</td><td>189 💬</td></tr>
+<tr><td>1.</td><td><a href='https://grapheneos.social/@GrapheneOS/117078064184215730'>GrapheneOS in 2027 available on high-end Motorola phones</a></td><td>168 👍</td><td>76 💬</td></tr>
+<tr><td>2.</td><td><a href='https://yassa9.github.io/osint/gralhix-004/'>Geolocating a random island using geometry and CUDA programming</a></td><td>48 👍</td><td>13 💬</td></tr>
+<tr><td>3.</td><td><a href='https://openlogi.org/en'>OpenLogi</a></td><td>1032 👍</td><td>294 💬</td></tr>
+<tr><td>4.</td><td><a href='https://theremin.bizibah.com/'>Air Theremin – a browser theremin you play by waving at your webcam</a></td><td>95 👍</td><td>44 💬</td></tr>
+<tr><td>5.</td><td><a href='https://www.cerebras.ai/cs4'>Cerebras CS-4</a></td><td>357 👍</td><td>216 💬</td></tr>
+<tr><td>6.</td><td><a href='https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/'>Being ambitious and being a dad</a></td><td>669 👍</td><td>470 💬</td></tr>
+<tr><td>7.</td><td><a href='https://phys.org/news/2026-08-forged-meteorites-fashionable-ancient-greek.html'>Rings forged from meteorites may have been fashionable among ancien...</a></td><td>39 👍</td><td>20 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.youtube.com/watch?v=Co57SfcT-h0'>Supersonic Trebuchet [video]</a></td><td>170 👍</td><td>70 💬</td></tr>
+<tr><td>9.</td><td><a href='https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/'>Palomar: A registry of Lean verified mathematics</a></td><td>134 👍</td><td>29 💬</td></tr>
+<tr><td>10.</td><td><a href='https://github.com/DenisSergeevitch/desktop-fly'>A 3D fruit fly on macOS desktop powered by the real FlyWire connectome</a></td><td>325 👍</td><td>136 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>19 Aug 2026, 07:26 UTC</b> · Data from Hacker News</sub>
+<b>19 Aug 2026, 13:24 UTC</b>
 
 ---
 
