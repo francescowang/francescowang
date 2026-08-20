@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803'>Windows brings out the Rorschach test in everyone</a></td><td>61 👍</td><td>12 💬</td></tr>
-<tr><td>2.</td><td><a href='https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/'>OpenRouter is joining Stripe</a></td><td>804 👍</td><td>409 💬</td></tr>
-<tr><td>3.</td><td><a href='https://www.computerenhance.com/p/turns-are-better-than-radians'>Turns are Better than Radians (2022)</a></td><td>158 👍</td><td>67 💬</td></tr>
-<tr><td>4.</td><td><a href='https://go.dev/blog/go1.27'>Go 1.27</a></td><td>597 👍</td><td>158 💬</td></tr>
-<tr><td>5.</td><td><a href='https://www.benjoffe.com/fast-day-of-week'>A faster way to calculate the day of the week</a></td><td>115 👍</td><td>15 💬</td></tr>
-<tr><td>6.</td><td><a href='https://grapheneos.social/@GrapheneOS/117057099753905023'>Google has stopped pushing Git tags for some Android source code</a></td><td>472 👍</td><td>196 💬</td></tr>
-<tr><td>7.</td><td><a href='https://coca11272000.wixsite.com/manabukosaka'>Manabu Kosaka's Handmade Paper Sculptures</a></td><td>113 👍</td><td>12 💬</td></tr>
-<tr><td>8.</td><td><a href='https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/'>A joke domain purchase turned in geopolitical warfare</a></td><td>862 👍</td><td>132 💬</td></tr>
-<tr><td>9.</td><td><a href='https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/'>Unlocking a locked/deactivated e-waste Cricut Maker</a></td><td>192 👍</td><td>46 💬</td></tr>
-<tr><td>10.</td><td><a href='https://unsloth.ai/docs/basics/dynamic-3.0-ggufs'>Unsloth Dynamic 3.0 GGUFs</a></td><td>242 👍</td><td>91 💬</td></tr>
+<tr><td>1.</td><td><a href='https://dontpastetheai.com/'>Don't Paste the AI, please</a></td><td>701 👍</td><td>346 💬</td></tr>
+<tr><td>2.</td><td><a href='https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html'>AliExpress runs silent WebAudio fingerprinting that breaks Bluetoot...</a></td><td>244 👍</td><td>75 💬</td></tr>
+<tr><td>3.</td><td><a href='https://simedw.com/2026/08/20/midi-autocomplete/'>Show HN: I trained a 125M model to autocomplete piano on-device</a></td><td>68 👍</td><td>17 💬</td></tr>
+<tr><td>4.</td><td><a href='https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803'>Windows brings out the Rorschach test in everyone (2003)</a></td><td>260 👍</td><td>97 💬</td></tr>
+<tr><td>5.</td><td><a href='https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/'>OpenRouter is joining Stripe</a></td><td>904 👍</td><td>463 💬</td></tr>
+<tr><td>6.</td><td><a href='https://www.computerenhance.com/p/turns-are-better-than-radians'>Turns are Better than Radians (2022)</a></td><td>259 👍</td><td>137 💬</td></tr>
+<tr><td>7.</td><td><a href='https://grapheneos.social/@GrapheneOS/117057099753905023'>Google has stopped pushing Git tags for some Android source code</a></td><td>697 👍</td><td>271 💬</td></tr>
+<tr><td>8.</td><td><a href='https://go.dev/blog/go1.27'>Go 1.27</a></td><td>705 👍</td><td>214 💬</td></tr>
+<tr><td>9.</td><td><a href='https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff'>Proof of Human (YC S23) Is Hiring a Member of Technical Staff</a></td><td>1 👍</td><td>0 💬</td></tr>
+<tr><td>10.</td><td><a href='https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/'>Seeing beyond BMI: Estimating cardiometabolic risk with smartphone ...</a></td><td>17 👍</td><td>1 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>20 Aug 2026, 07:28 UTC</b> · Data from Hacker News</sub>
+<b>20 Aug 2026, 13:26 UTC</b>
 
 ---
 
