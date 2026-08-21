@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://github.com/openai/codex/issues/37674'>Codex on AWS bedrock bug causing 10x charges</a></td><td>120 👍</td><td>33 💬</td></tr>
-<tr><td>2.</td><td><a href='https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/'>The August 17 outage</a></td><td>470 👍</td><td>539 💬</td></tr>
-<tr><td>3.</td><td><a href='https://www.experimental-history.com/p/i-like-em-thick'>I like 'em thick: an apology to my English teachers</a></td><td>693 👍</td><td>287 💬</td></tr>
-<tr><td>4.</td><td><a href='https://chrisburnell.com/html-can-do-that/'>HTML Can Do That</a></td><td>731 👍</td><td>181 💬</td></tr>
-<tr><td>5.</td><td><a href='https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/'>Malicious Rust crate Arrayref runs a build-time payload</a></td><td>475 👍</td><td>405 💬</td></tr>
-<tr><td>6.</td><td><a href='https://tyoverby.com/posts/version-control-for-everything-else/'>Version Control for Everything</a></td><td>17 👍</td><td>4 💬</td></tr>
-<tr><td>7.</td><td><a href='https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/'>The Religious Experience of Philip K. Dick by R. Crumb (1986)</a></td><td>19 👍</td><td>6 💬</td></tr>
-<tr><td>8.</td><td><a href='https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/'>Stop Making TUIs</a></td><td>14 👍</td><td>9 💬</td></tr>
-<tr><td>9.</td><td><a href='https://openrouter.ai/stealth/ox-alpha'>Ox Alpha</a></td><td>117 👍</td><td>88 💬</td></tr>
-<tr><td>10.</td><td><a href='https://jsomers.net/i-should-have-loved-biology/'>I should have loved biology (2020)</a></td><td>257 👍</td><td>100 💬</td></tr>
+<tr><td>1.</td><td><a href='https://api-docs.deepseek.com/guides/vision/'>DeepSeek-v4-flash-vision-exp</a></td><td>211 👍</td><td>51 💬</td></tr>
+<tr><td>2.</td><td><a href='https://annas-archive.pk/blog/physical-destruction.html'>AI companies destroy physical books – let's scan rare books before ...</a></td><td>211 👍</td><td>144 💬</td></tr>
+<tr><td>3.</td><td><a href='https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering'>TigerBeetle Core System Architecture: Deconstructing Performance En...</a></td><td>52 👍</td><td>19 💬</td></tr>
+<tr><td>4.</td><td><a href='https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/'>The Lost Treasure of Sid Meier's Pirates</a></td><td>158 👍</td><td>87 💬</td></tr>
+<tr><td>5.</td><td><a href='https://htmlcat.net/'>Small, native web tricks worth remembering</a></td><td>114 👍</td><td>25 💬</td></tr>
+<tr><td>6.</td><td><a href='https://github.com/yaroslav/kino'>Kino: A high-performance Ractor web server for Ruby 4.0</a></td><td>24 👍</td><td>2 💬</td></tr>
+<tr><td>7.</td><td><a href='https://encore.dev/blog/firecracker-apple-silicon'>We Rebuilt the Linux MicroVM Stack on Apple Silicon</a></td><td>116 👍</td><td>56 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.toxel.com/tech/2026/08/07/flat-chair-by-sara-paculdo/'>Flat Chair by Sara Paculdo</a></td><td>69 👍</td><td>18 💬</td></tr>
+<tr><td>9.</td><td><a href='https://www.newyorker.com/science/elements/the-mystery-of-dark-oxygen'>The Mystery of Dark Oxygen</a></td><td>19 👍</td><td>5 💬</td></tr>
+<tr><td>10.</td><td><a href='https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/'>The August 17 outage</a></td><td>586 👍</td><td>665 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>21 Aug 2026, 07:30 UTC</b> · Data from Hacker News</sub>
+<b>21 Aug 2026, 13:25 UTC</b>
 
 ---
 
