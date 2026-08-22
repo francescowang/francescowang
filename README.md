@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.felonybench.com/'>Felony Bench</a></td><td>640 👍</td><td>259 💬</td></tr>
-<tr><td>2.</td><td><a href='https://bandarlabs.github.io/Cobalt/'>Kobo can run apps now</a></td><td>504 👍</td><td>177 💬</td></tr>
-<tr><td>3.</td><td><a href='https://rust-glancer.github.io/blog/hello-world/'>Rust Glancer: Rust LSP using 100x less RAM</a></td><td>122 👍</td><td>32 💬</td></tr>
-<tr><td>4.</td><td><a href='https://danluu.com/perf-opt/'>There's no reason for software to be slow anymore</a></td><td>324 👍</td><td>233 💬</td></tr>
-<tr><td>5.</td><td><a href='https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/'>Optimizing meshoptimizer to process billions of triangles in minute...</a></td><td>14 👍</td><td>0 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html'>Felony charges for citizen deleting phone data at US Border</a></td><td>722 👍</td><td>852 💬</td></tr>
-<tr><td>7.</td><td><a href='https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/'>Three important steps in my maturation process</a></td><td>119 👍</td><td>41 💬</td></tr>
-<tr><td>8.</td><td><a href='https://kagi.com/changelog#11296'>Kagi added a setting for removing paywalled links from search results</a></td><td>1088 👍</td><td>357 💬</td></tr>
-<tr><td>9.</td><td><a href='https://lina.sh/blog/hijacking-e164-arpa'>I accidentally logged hundreds of thousands of phone calls to milit...</a></td><td>515 👍</td><td>56 💬</td></tr>
-<tr><td>10.</td><td><a href='https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/'>Scientists release biggest 2D map of the universe</a></td><td>185 👍</td><td>55 💬</td></tr>
+<tr><td>1.</td><td><a href='https://munderdiffl.in/'>Munder Difflin – Agent harness to run an office of your clones</a></td><td>63 👍</td><td>24 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations'>Canada suspends trade negotiations with USA and match tariffs dolla...</a></td><td>406 👍</td><td>277 💬</td></tr>
+<tr><td>3.</td><td><a href='https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi'>Z80–The 1970s Microprocessor Still Alive</a></td><td>39 👍</td><td>20 💬</td></tr>
+<tr><td>4.</td><td><a href='https://rust-glancer.github.io/blog/hello-world/'>Rust Glancer: Rust LSP using 100x less RAM</a></td><td>304 👍</td><td>59 💬</td></tr>
+<tr><td>5.</td><td><a href='https://www.felonybench.com/'>Felony Bench</a></td><td>756 👍</td><td>283 💬</td></tr>
+<tr><td>6.</td><td><a href='https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy'>Hook, hold, harvest and hide: Meta's alleged strategy laid out in f...</a></td><td>27 👍</td><td>1 💬</td></tr>
+<tr><td>7.</td><td><a href='https://bandarlabs.github.io/Cobalt/'>Kobo can run apps now</a></td><td>587 👍</td><td>193 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html'>Felony charges for citizen deleting phone data at US Border</a></td><td>865 👍</td><td>988 💬</td></tr>
+<tr><td>9.</td><td><a href='https://danluu.com/perf-opt/'>There's no reason for software to be slow anymore</a></td><td>498 👍</td><td>352 💬</td></tr>
+<tr><td>10.</td><td><a href='https://lina.sh/blog/hijacking-e164-arpa'>I accidentally logged hundreds of thousands of phone calls to milit...</a></td><td>585 👍</td><td>72 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>22 Aug 2026, 07:19 UTC</b> · Data from Hacker News</sub>
+<b>22 Aug 2026, 13:08 UTC</b>
 
 ---
 
