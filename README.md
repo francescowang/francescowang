@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='http://www.os2museum.com/wp/the-end-of-an-athlon/'>The End of an Athlon</a></td><td>36 👍</td><td>3 💬</td></tr>
-<tr><td>2.</td><td><a href='https://malisper.me/jit-compiling-code-in-5-us/'>JIT Compiling Code in 5μs</a></td><td>16 👍</td><td>0 💬</td></tr>
-<tr><td>3.</td><td><a href='https://martypc.net/'>MartyPC is a cross-platform emulator of early PCs written in Rust</a></td><td>83 👍</td><td>21 💬</td></tr>
-<tr><td>4.</td><td><a href='https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/'>The Golden Rule for Becoming a Better Writer</a></td><td>69 👍</td><td>42 💬</td></tr>
-<tr><td>5.</td><td><a href='https://henry.codes/writing/i-dream-of-quieter-computing/'>I Dream of Quieter Computing</a></td><td>51 👍</td><td>20 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/'>Wi-Fi 8 is the first wireless upgrade in years that isn't chasing s...</a></td><td>33 👍</td><td>9 💬</td></tr>
-<tr><td>7.</td><td><a href='https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917'>Why your local LLM feels dumber than it is</a></td><td>290 👍</td><td>102 💬</td></tr>
-<tr><td>8.</td><td><a href='https://twitter.com/moxie/status/2091218652133732491'>Scrap (2006)</a></td><td>364 👍</td><td>194 💬</td></tr>
-<tr><td>9.</td><td><a href='https://nappertime.com/the-art-of-and-beauty-of-blade-runner/'>The Art and Beauty of Blade Runner (2015)</a></td><td>56 👍</td><td>13 💬</td></tr>
-<tr><td>10.</td><td><a href='https://quantumi.sh/public/labs.html'>ElevenLabs, TwelveLabs, ThirteenLabs</a></td><td>373 👍</td><td>114 💬</td></tr>
+<tr><td>1.</td><td><a href='https://www.bbc.com/news/articles/cvg92y1wzn8o'>Sydney Marathon medal mistakenly depicts Munich stadium</a></td><td>45 👍</td><td>26 💬</td></tr>
+<tr><td>2.</td><td><a href='https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/'>To become a better writer, read as much as you can</a></td><td>246 👍</td><td>161 💬</td></tr>
+<tr><td>3.</td><td><a href='http://www.os2museum.com/wp/the-end-of-an-athlon/'>The End of an Athlon</a></td><td>126 👍</td><td>44 💬</td></tr>
+<tr><td>4.</td><td><a href='https://skylens.yantraai.app/'>Show HN: Live 3D satellite tracker and the declassified Pentagon UF...</a></td><td>24 👍</td><td>0 💬</td></tr>
+<tr><td>5.</td><td><a href='https://malisper.me/jit-compiling-code-in-5-us/'>JIT Compiling Code in 5μs</a></td><td>96 👍</td><td>53 💬</td></tr>
+<tr><td>6.</td><td><a href='https://martypc.net/'>MartyPC is a cross-platform emulator of early PCs written in Rust</a></td><td>142 👍</td><td>50 💬</td></tr>
+<tr><td>7.</td><td><a href='https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/'>I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30...</a></td><td>82 👍</td><td>32 💬</td></tr>
+<tr><td>8.</td><td><a href='https://lucumr.pocoo.org/2026/8/22/fast-hard-code/'>Fast and Hard Code</a></td><td>62 👍</td><td>24 💬</td></tr>
+<tr><td>9.</td><td><a href='https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917'>Why your local LLM feels dumber than it is</a></td><td>393 👍</td><td>152 💬</td></tr>
+<tr><td>10.</td><td><a href='https://nappertime.com/the-art-of-and-beauty-of-blade-runner/'>The Art and Beauty of Blade Runner (2015)</a></td><td>113 👍</td><td>50 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>23 Aug 2026, 07:21 UTC</b> · Data from Hacker News</sub>
+<b>23 Aug 2026, 13:09 UTC</b>
 
 ---
 
