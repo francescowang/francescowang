@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://schlarp.com/posts/everything-i-own-owned/'>Everything I own, owned</a></td><td>736 👍</td><td>212 💬</td></tr>
-<tr><td>2.</td><td><a href='https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/'>FDA clears blood test to aid evaluation for Alzheimer's disease</a></td><td>17 👍</td><td>1 💬</td></tr>
-<tr><td>3.</td><td><a href='https://morgin.ai/articles/your-open-source-model-could-have-a-hidden-time-release-backdoor.html'>Your Open Source Model Could Have a Hidden Time-Release Backdoor</a></td><td>22 👍</td><td>8 💬</td></tr>
-<tr><td>4.</td><td><a href='https://twitter.com/paulg/status/2091544343589060625'>I were 17, I'd learn how to build LLMs from scratch</a></td><td>45 👍</td><td>80 💬</td></tr>
-<tr><td>5.</td><td><a href='https://status.claude.com/uptime'>Anthropic Claude and API service outages</a></td><td>20 👍</td><td>14 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245'>Anthropic's best AI model struggles to attract users as cheaper too...</a></td><td>462 👍</td><td>401 💬</td></tr>
-<tr><td>7.</td><td><a href='https://lalitm.com/post/find-problems-staff-engineer/'>How I find problems to solve as a staff engineer</a></td><td>391 👍</td><td>125 💬</td></tr>
-<tr><td>8.</td><td><a href='https://github.com/thiagotigaz/ocr-it'>OCR It – pull text out of un-copyable documents for your LLM</a></td><td>10 👍</td><td>4 💬</td></tr>
-<tr><td>9.</td><td><a href='https://pantel.is/projects/ai-gaming-companion/'>I built a low-latency AI companion that plays Skyrim with me</a></td><td>116 👍</td><td>19 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.hanselman.com/blog/migrating-a-synology-nas-to-a-unifi-unas-pro-8-with-robocopy-smb-multichannel-and-surprising-performance-traps'>Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB M...</a></td><td>47 👍</td><td>37 💬</td></tr>
+<tr><td>1.</td><td><a href='https://proofcraft.systems/news-2026/#2026-08-21'>SeL4 security proofs now complete on AArch64</a></td><td>61 👍</td><td>15 💬</td></tr>
+<tr><td>2.</td><td><a href='https://twitter.com/paulg/status/2091544343589060625'>I were 17, I'd learn how to build LLMs from scratch</a></td><td>267 👍</td><td>381 💬</td></tr>
+<tr><td>3.</td><td><a href='https://schlarp.com/posts/everything-i-own-owned/'>Everything I own, owned</a></td><td>1112 👍</td><td>296 💬</td></tr>
+<tr><td>4.</td><td><a href='https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/'>FDA clears blood test to aid evaluation for Alzheimer's disease</a></td><td>91 👍</td><td>29 💬</td></tr>
+<tr><td>5.</td><td><a href='https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database'>Executable Is a SQLite Database</a></td><td>200 👍</td><td>27 💬</td></tr>
+<tr><td>6.</td><td><a href='https://essays.georgestrakhov.com/weird/'>The Future Belongs to the Weird</a></td><td>54 👍</td><td>28 💬</td></tr>
+<tr><td>7.</td><td><a href='https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs'>How Europe is killing makers and micro-entrepreneurs</a></td><td>5 👍</td><td>0 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245'>Anthropic's best AI model struggles to attract users as cheaper too...</a></td><td>619 👍</td><td>544 💬</td></tr>
+<tr><td>9.</td><td><a href='https://lalitm.com/post/find-problems-staff-engineer/'>How I find problems to solve as a staff engineer</a></td><td>459 👍</td><td>136 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.hamiltonulmer.com/customer-dashboards-r2-hyparquet/'>Fast drilldown dashboards from a single Parquet file</a></td><td>63 👍</td><td>1 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>24 Aug 2026, 07:45 UTC</b> · Data from Hacker News</sub>
+<b>24 Aug 2026, 13:29 UTC</b>
 
 ---
 
