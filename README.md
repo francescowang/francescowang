@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://developer.apple.com/news/?id=1ptvdtcm'>iCloud+ Hide My Email addresses will remain on icloud.com</a></td><td>405 👍</td><td>107 💬</td></tr>
-<tr><td>2.</td><td><a href='https://twitter.com/lemire/status/2091894299289874926'>Xiaomi: New CPU matches Apple cores single threaded, much faster mu...</a></td><td>834 👍</td><td>584 💬</td></tr>
-<tr><td>3.</td><td><a href='https://nostr.org/'>Nostr is an inclusive communication commons</a></td><td>104 👍</td><td>34 💬</td></tr>
-<tr><td>4.</td><td><a href='https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/'>MS Paint and Photos inivisibly watermark even locally generated out...</a></td><td>673 👍</td><td>271 💬</td></tr>
-<tr><td>5.</td><td><a href='https://paulgraham.com/prepare.html'>How Universities Should Prepare Founders</a></td><td>96 👍</td><td>115 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents'>Headlong: A Microharness for Persistent Agents</a></td><td>44 👍</td><td>15 💬</td></tr>
-<tr><td>7.</td><td><a href='https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs'>How Europe is killing makers and micro-entrepreneurs</a></td><td>1257 👍</td><td>747 💬</td></tr>
-<tr><td>8.</td><td><a href='https://github.com/dragthelake/ambient-context'>Show HN: Screen memory without screenshots, just text to Markdown</a></td><td>31 👍</td><td>10 💬</td></tr>
-<tr><td>9.</td><td><a href='https://ciechanow.ski/moon/'>Moon (2024)</a></td><td>163 👍</td><td>30 💬</td></tr>
-<tr><td>10.</td><td><a href='https://chipsandcheese.com/p/sifives-first-server-platform'>SiFive's First Server Platform</a></td><td>31 👍</td><td>7 💬</td></tr>
+<tr><td>1.</td><td><a href='https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/'>Apple introduces M6 and M5 Ultra for a big leap in performance and ...</a></td><td>93 👍</td><td>40 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/'>Apple Introduces New Mac Studio with M5 Max and M5 Ultra</a></td><td>49 👍</td><td>28 💬</td></tr>
+<tr><td>3.</td><td><a href='https://dontwordle.com/'>Don't Wordle</a></td><td>89 👍</td><td>36 💬</td></tr>
+<tr><td>4.</td><td><a href='https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/'>France's tax agency got hacked (in French)</a></td><td>36 👍</td><td>14 💬</td></tr>
+<tr><td>5.</td><td><a href='https://modelscope.cn/models/Qwen/Qwen3.8-Flash-Next'>Qwen 3.8-Flash-Next releasing tomorrow (125B a6B)</a></td><td>17 👍</td><td>3 💬</td></tr>
+<tr><td>6.</td><td><a href='https://github.com/PlummersSoftwareLLC/HelloAssembly'>HelloAssembly The smallest possible complete Windows application</a></td><td>20 👍</td><td>17 💬</td></tr>
+<tr><td>7.</td><td><a href='https://developer.apple.com/news/?id=1ptvdtcm'>iCloud+ Hide My Email addresses will remain on icloud.com</a></td><td>527 👍</td><td>159 💬</td></tr>
+<tr><td>8.</td><td><a href='https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users/'>OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users</a></td><td>25 👍</td><td>8 💬</td></tr>
+<tr><td>9.</td><td><a href='https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/'>MS Paint and Photos inivisibly watermark even locally generated out...</a></td><td>770 👍</td><td>378 💬</td></tr>
+<tr><td>10.</td><td><a href='https://twitter.com/lemire/status/2091894299289874926'>Xiaomi: New CPU matches Apple cores single threaded, much faster mu...</a></td><td>923 👍</td><td>659 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>25 Aug 2026, 07:31 UTC</b> · Data from Hacker News</sub>
+<b>25 Aug 2026, 13:27 UTC</b>
 
 ---
 
