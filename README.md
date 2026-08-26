@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/'>Apple introduces M6 and M5 Ultra</a></td><td>1090 👍</td><td>1039 💬</td></tr>
-<tr><td>2.</td><td><a href='https://www.youtube.com/watch?v=656058JxTM0'>Stalking the Wily Hacker: 40 years later – Cliff Stoll [video]</a></td><td>55 👍</td><td>17 💬</td></tr>
-<tr><td>3.</td><td><a href='https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar'>FDA authorizes first wearable device that monitors ketone and blood...</a></td><td>362 👍</td><td>179 💬</td></tr>
-<tr><td>4.</td><td><a href='https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm'>IBM built the Harvest supercomputer for code-breaking at the NSA</a></td><td>19 👍</td><td>4 💬</td></tr>
-<tr><td>5.</td><td><a href='https://fzakaria.com/2026/08/24/actually-queryable-executables'>Queryable Executables</a></td><td>133 👍</td><td>22 💬</td></tr>
-<tr><td>6.</td><td><a href='https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia'>OpenAI Jalapeño: Better than Nvidia Blackwell</a></td><td>444 👍</td><td>286 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/'>New Mac Studio with M5 Max and M5 Ultra</a></td><td>754 👍</td><td>496 💬</td></tr>
-<tr><td>8.</td><td><a href='https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding'>More than half of adults in U.S. say they lack basic statistical un...</a></td><td>61 👍</td><td>84 💬</td></tr>
-<tr><td>9.</td><td><a href='https://arxiv.org/abs/2607.21503'>Agentic Context Management: Memory and Cost as Architecture Problems</a></td><td>37 👍</td><td>14 💬</td></tr>
-<tr><td>10.</td><td><a href='https://arxiv.org/abs/2608.21590'>Black hole singularity is a surface not a point</a></td><td>228 👍</td><td>168 💬</td></tr>
+<tr><td>1.</td><td><a href='https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws'>AWS Acquires DuckDB</a></td><td>165 👍</td><td>30 💬</td></tr>
+<tr><td>2.</td><td><a href='https://qwen.ai/blog?id=qwen3.8-flash-next'>Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Effic...</a></td><td>64 👍</td><td>22 💬</td></tr>
+<tr><td>3.</td><td><a href='https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think'>RAG Is Simpler Than You Think</a></td><td>202 👍</td><td>96 💬</td></tr>
+<tr><td>4.</td><td><a href='https://openstreetmap.us/news/2026/08/oim-charter-project/'>Oldinsurancemaps.net is now a Charter Project</a></td><td>111 👍</td><td>17 💬</td></tr>
+<tr><td>5.</td><td><a href='https://entropicthoughts.com/curmudgeon-tries-language-server'>A curmudgeon tries a language server</a></td><td>11 👍</td><td>0 💬</td></tr>
+<tr><td>6.</td><td><a href='https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek'>Z.ai confirms Ox Alpha is a new GLM-series model and will release i...</a></td><td>234 👍</td><td>95 💬</td></tr>
+<tr><td>7.</td><td><a href='https://news.ycombinator.com/item?id=49446210'>XCancel and Nitter are receiving C&D letters from XCorp</a></td><td>167 👍</td><td>61 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/'>Apple introduces M6 and M5 Ultra</a></td><td>1228 👍</td><td>1175 💬</td></tr>
+<tr><td>9.</td><td><a href='https://www.ycombinator.com/companies/proliferate/jobs/OgpCKYJ-founding-product-engineer'>Proliferate (YC S25) Is Hiring</a></td><td>1 👍</td><td>0 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make'>Bill Gates: The turbulent AI era is here</a></td><td>52 👍</td><td>50 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>26 Aug 2026, 07:33 UTC</b> · Data from Hacker News</sub>
+<b>26 Aug 2026, 13:32 UTC</b>
 
 ---
 
