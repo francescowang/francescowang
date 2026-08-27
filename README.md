@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://507movements.com/'>507 Mechanical Movements</a></td><td>293 👍</td><td>37 💬</td></tr>
-<tr><td>2.</td><td><a href='https://calv.info/small-models-have-arrived'>Small Models Have Arrived</a></td><td>128 👍</td><td>45 💬</td></tr>
-<tr><td>3.</td><td><a href='https://www.bbc.com/news/articles/cz6zwgg9y8go'>Two German airport workers die of malaria after 'mosquito arrives o...</a></td><td>30 👍</td><td>6 💬</td></tr>
-<tr><td>4.</td><td><a href='https://blog.cloudflare.com/dns-cache-memory-optimization-1111/'>Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache</a></td><td>47 👍</td><td>10 💬</td></tr>
-<tr><td>5.</td><td><a href='https://pollen-robotics.com/microduck/'>Microduck</a></td><td>333 👍</td><td>131 💬</td></tr>
-<tr><td>6.</td><td><a href='https://rahuljuliato.com/posts/markdown-ts-mode-emacs-31'>Emacs 31: An unofficial guide to Markdown-ts-mode</a></td><td>111 👍</td><td>44 💬</td></tr>
-<tr><td>7.</td><td><a href='https://forgeeks.net/nvidia-673-billion-ai-growth-forecast/'>Nvidia projects $673B in sales as AI demand widens</a></td><td>74 👍</td><td>57 💬</td></tr>
-<tr><td>8.</td><td><a href='https://www.bild.ai/jobs'>Bild AI (YC W25) Is Hiring Product and AI Engineers</a></td><td>1 👍</td><td>0 💬</td></tr>
-<tr><td>9.</td><td><a href='https://blog.chrislewis.au/decompiling-a-nintendo-64-game-in-84-days/'>Decompiling a Nintendo 64 Game in 84 Days</a></td><td>57 👍</td><td>16 💬</td></tr>
-<tr><td>10.</td><td><a href='https://github.com/kelviq/tare'>Show HN: My Claude quota ran out in 10 minutes, so I made a tool to...</a></td><td>31 👍</td><td>11 💬</td></tr>
+<tr><td>1.</td><td><a href='https://blog.cloudflare.com/dns-cache-memory-optimization-1111/'>Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache</a></td><td>383 👍</td><td>109 💬</td></tr>
+<tr><td>2.</td><td><a href='https://calv.info/small-models-have-arrived'>Small Models Have Arrived</a></td><td>364 👍</td><td>162 💬</td></tr>
+<tr><td>3.</td><td><a href='https://507movements.com/'>507 Mechanical Movements</a></td><td>420 👍</td><td>63 💬</td></tr>
+<tr><td>4.</td><td><a href='https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290'>We found a division by zero bug in FFmpeg with a vibecoded fuzzer</a></td><td>135 👍</td><td>99 💬</td></tr>
+<tr><td>5.</td><td><a href='https://github.com/experientiallabs/experiential'>Show HN: We built open OpenRouter that turns usage into a better model</a></td><td>31 👍</td><td>4 💬</td></tr>
+<tr><td>6.</td><td><a href='https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/'>Gemini-3.5-Transcribe</a></td><td>79 👍</td><td>21 💬</td></tr>
+<tr><td>7.</td><td><a href='https://pollen-robotics.com/microduck/'>Microduck</a></td><td>448 👍</td><td>175 💬</td></tr>
+<tr><td>8.</td><td><a href='https://blog.chrislewis.au/decompiling-a-nintendo-64-game-in-84-days/'>Decompiling a Nintendo 64 game in 84 days</a></td><td>154 👍</td><td>74 💬</td></tr>
+<tr><td>9.</td><td><a href='https://shop.m5stack.com/blogs/news/m5stack-launches-papermono-a-compact-e-ink-development-terminal-for-connected-projects'>M5Stack Launches PaperMono</a></td><td>73 👍</td><td>25 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med'>The turbulent AI era is here</a></td><td>168 👍</td><td>430 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>27 Aug 2026, 17:55 UTC</b> · Data from Hacker News</sub>
+<b>27 Aug 2026, 22:28 UTC</b>
 
 ---
 
