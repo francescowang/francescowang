@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://en.refund4freedom.org/'>Get your Windows license refund</a></td><td>520 👍</td><td>202 💬</td></tr>
-<tr><td>2.</td><td><a href='https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html'>GUIs should be fully keyboard-driven</a></td><td>208 👍</td><td>132 💬</td></tr>
-<tr><td>3.</td><td><a href='https://anil.recoil.org/notes/rumour-is-the-exploit'>Just the rumour of a bug is enough to find an exploit these days</a></td><td>116 👍</td><td>39 💬</td></tr>
-<tr><td>4.</td><td><a href='https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released'>Htmx 4.0.0</a></td><td>260 👍</td><td>56 💬</td></tr>
-<tr><td>5.</td><td><a href='https://www.inventati.org/'>U.S. sanctions against the A/I Collective</a></td><td>302 👍</td><td>274 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.orbify.eu/demo/'>Inception-style curved map for turn-by-turn directions</a></td><td>294 👍</td><td>103 💬</td></tr>
-<tr><td>7.</td><td><a href='https://huggingface.co/zai-org/GLM-5.3'>GLM-5.3 is now open-weight</a></td><td>336 👍</td><td>127 💬</td></tr>
-<tr><td>8.</td><td><a href='https://kathmandupost.com/national/2026/08/28/barrier-lake-continues-to-pose-flood-risk-china-warns'>Barrier lake continues to pose flood risk, China warns</a></td><td>55 👍</td><td>10 💬</td></tr>
-<tr><td>9.</td><td><a href='https://arxiv.org/abs/2608.23691'>Autonomous Mathematical Discovery in an Open-World Multi-Agent Envi...</a></td><td>16 👍</td><td>0 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering'>Attimet (YC F24) Is Hiring Members of Technical Staff – Engineering...</a></td><td>1 👍</td><td>0 💬</td></tr>
+<tr><td>1.</td><td><a href='https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html'>GUIs should be fully keyboard-driven</a></td><td>475 👍</td><td>246 💬</td></tr>
+<tr><td>2.</td><td><a href='https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released'>Htmx 4.0</a></td><td>441 👍</td><td>105 💬</td></tr>
+<tr><td>3.</td><td><a href='https://anil.recoil.org/notes/rumour-is-the-exploit'>Just the rumour of a bug is enough to find an exploit these days</a></td><td>209 👍</td><td>73 💬</td></tr>
+<tr><td>4.</td><td><a href='https://www.inventati.org/'>U.S. sanctions against the A/I Collective</a></td><td>419 👍</td><td>379 💬</td></tr>
+<tr><td>5.</td><td><a href='https://www.orbify.eu/demo/'>Inception-style curved map for turn-by-turn directions</a></td><td>375 👍</td><td>127 💬</td></tr>
+<tr><td>6.</td><td><a href='https://www.thehealthy.com/news/chicken-recall-fsis-august-2026/'>25,000 Lbs. Of Chicken Products Recalled in 5 States: USDA</a></td><td>173 👍</td><td>137 💬</td></tr>
+<tr><td>7.</td><td><a href='https://acko.net/blog/curvature-beziers/'>Curvature Beziers: Improving on a timeless recipe</a></td><td>51 👍</td><td>11 💬</td></tr>
+<tr><td>8.</td><td><a href='https://12factor.net/'>The Twelve-Factor App (2025)</a></td><td>201 👍</td><td>100 💬</td></tr>
+<tr><td>9.</td><td><a href='https://huggingface.co/zai-org/GLM-5.3'>GLM-5.3 is now open-weight</a></td><td>523 👍</td><td>186 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html'>Judge rules Trump administration’s blacklisting of Anthropic was il...</a></td><td>458 👍</td><td>339 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>28 Aug 2026, 19:01 UTC</b> · Data from Hacker News</sub>
+<b>28 Aug 2026, 22:30 UTC</b>
 
 ---
 
