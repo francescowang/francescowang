@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.bbc.com/news/articles/cn45vdxyvvlo'>Iceland votes on whether to restart talks on joining EU</a></td><td>93 👍</td><td>99 💬</td></tr>
-<tr><td>2.</td><td><a href='https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing'>Samsung's Processing-in-Memory (PIM)</a></td><td>138 👍</td><td>46 💬</td></tr>
-<tr><td>3.</td><td><a href='https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html'>GUIs should be fully keyboard-driven</a></td><td>870 👍</td><td>434 💬</td></tr>
-<tr><td>4.</td><td><a href='https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/'>Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems</a></td><td>46 👍</td><td>2 💬</td></tr>
-<tr><td>5.</td><td><a href='https://github.com/Lakr233/vphone-cli'>Boot a Virtual iPhone via Apple's Virtualization.framework</a></td><td>306 👍</td><td>83 💬</td></tr>
-<tr><td>6.</td><td><a href='https://parowozowniawolsztyn.pl/?page_id=2141'>Europe's last regular standard-gauge steam passenger service</a></td><td>62 👍</td><td>18 💬</td></tr>
-<tr><td>7.</td><td><a href='https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released'>Htmx 4.0</a></td><td>703 👍</td><td>174 💬</td></tr>
-<tr><td>8.</td><td><a href='https://www.inventati.org/'>U.S. sanctions against the A/I Collective</a></td><td>633 👍</td><td>622 💬</td></tr>
-<tr><td>9.</td><td><a href='https://github.com/stemdeckapp/stemdeck'>StemDeck, a free, open-source and local AI stem separator</a></td><td>125 👍</td><td>27 💬</td></tr>
-<tr><td>10.</td><td><a href='https://pwning.systems/posts/llm-memory-program-analysis/'>I accidentally turned LLM memory into program analysis</a></td><td>180 👍</td><td>45 💬</td></tr>
+<tr><td>1.</td><td><a href='https://lwn.net/Articles/1091231/'>Debian votes to allow "responsible use of generative AI"</a></td><td>298 👍</td><td>235 💬</td></tr>
+<tr><td>2.</td><td><a href='https://dgl.cx/2020/06/sqlite-json-support'>SQLite as a Document Database (2020)</a></td><td>54 👍</td><td>5 💬</td></tr>
+<tr><td>3.</td><td><a href='https://uecker.codeberg.page/2026-08-29.html'>Indirect Calling of Nested Functions on GCC Without Executable Stack</a></td><td>36 👍</td><td>7 💬</td></tr>
+<tr><td>4.</td><td><a href='https://zackbartel.com/blog/2026/08/tether/'>Tether: iMessage, SMS, etc. on Linux</a></td><td>37 👍</td><td>14 💬</td></tr>
+<tr><td>5.</td><td><a href='https://typebase.io'>Show HN: Typebase – A single-folder back end you write in TypeScript</a></td><td>47 👍</td><td>7 💬</td></tr>
+<tr><td>6.</td><td><a href='https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing'>Samsung's Processing-in-Memory (PIM)</a></td><td>197 👍</td><td>66 💬</td></tr>
+<tr><td>7.</td><td><a href='https://haz.ee/posts/aetheryte-radio.html'>Creating the Aetheryte Radio</a></td><td>33 👍</td><td>6 💬</td></tr>
+<tr><td>8.</td><td><a href='https://en.wikipedia.org/wiki/Glacier_mice'>Glacier Mice</a></td><td>148 👍</td><td>30 💬</td></tr>
+<tr><td>9.</td><td><a href='https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html'>GUIs should be fully keyboard-driven</a></td><td>954 👍</td><td>470 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.eveonline.com/news/view/the-move-to-python-3-begins'>EVE Online moves to Python 3</a></td><td>157 👍</td><td>80 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>29 Aug 2026, 12:50 UTC</b> · Data from Hacker News</sub>
+<b>29 Aug 2026, 16:49 UTC</b>
 
 ---
 
