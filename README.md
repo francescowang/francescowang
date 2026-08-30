@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://arxiv.org/abs/1804.07389'>Longest Straight Line Paths on Water or Land on the Earth (2018)</a></td><td>93 👍</td><td>19 💬</td></tr>
-<tr><td>2.</td><td><a href='https://www.qubes-os.org/news/2026/08/29/qsb-118/'>Arbitrary code execution in QubesOS via copy-to-VM error reporting ...</a></td><td>62 👍</td><td>26 💬</td></tr>
-<tr><td>3.</td><td><a href='https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994'>Brits would quite like their private messages to stay private</a></td><td>125 👍</td><td>82 💬</td></tr>
-<tr><td>4.</td><td><a href='https://blog.lyc8503.net/en/post/dn42-2-dnet/'>Everyone Should Build Their Own Network Stack</a></td><td>26 👍</td><td>16 💬</td></tr>
-<tr><td>5.</td><td><a href='https://blog.python.org/2026/08/riscv-now-officially-supported/'>RISC-V is now officially supported by CPython</a></td><td>201 👍</td><td>40 💬</td></tr>
-<tr><td>6.</td><td><a href='https://git.zx2c4.com/spark/about/'>Spark: Sparklines in your shell</a></td><td>28 👍</td><td>5 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/'>Hy4 preview</a></td><td>328 👍</td><td>197 💬</td></tr>
-<tr><td>8.</td><td><a href='https://chipsandcheese.com/p/hot-chips-2026-xcena-and-samsungs'>Xcena and Samsung's Near Memory Compute CXL Device</a></td><td>22 👍</td><td>2 💬</td></tr>
-<tr><td>9.</td><td><a href='https://blog.jupyter.org/jupytergis-0-16-new-visualization-capabilities-collaborative-story-maps-and-more-03e6b78bacc0'>JupyterGIS 0.16: a grammar of graphics for maps, and collaborative ...</a></td><td>33 👍</td><td>4 💬</td></tr>
-<tr><td>10.</td><td><a href='https://github.com/AniketWathore/bolnee-chat'>Show HN: Bolnee-Chat – Self Hosted Chatbot Integration in Your Busi...</a></td><td>13 👍</td><td>0 💬</td></tr>
+<tr><td>1.</td><td><a href='https://0xcc.io/posts/omarchy-root-creds/'>Omarchy: Any User Process Can Escalate to Root</a></td><td>61 👍</td><td>23 💬</td></tr>
+<tr><td>2.</td><td><a href='https://people.kernel.org/monsieuricon/creepy-crawlies'>Creepy Crawlies</a></td><td>285 👍</td><td>122 💬</td></tr>
+<tr><td>3.</td><td><a href='https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6'>Haiku R1/beta6 has been released</a></td><td>46 👍</td><td>7 💬</td></tr>
+<tr><td>4.</td><td><a href='https://greenlightning.eu/diy/hacking-ikea-furniture/'>Hacking IKEA Furniture</a></td><td>148 👍</td><td>75 💬</td></tr>
+<tr><td>5.</td><td><a href='https://komoroske.com/slime-mold/'>Coordination Headwind: How Organizations Are Like Slime Molds</a></td><td>9 👍</td><td>1 💬</td></tr>
+<tr><td>6.</td><td><a href='https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement'>European Commission Revives Push for Encryption Backdoors in Protec...</a></td><td>87 👍</td><td>18 💬</td></tr>
+<tr><td>7.</td><td><a href='https://www.youtube.com/watch?v=hpj6r6CjJf8'>Casey Muratori – The Root of the Root of All Evil – BSC 2026 [video]</a></td><td>188 👍</td><td>86 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.qubes-os.org/news/2026/08/29/qsb-118/'>Arbitrary code execution in QubesOS via copy-to-VM error reporting ...</a></td><td>148 👍</td><td>62 💬</td></tr>
+<tr><td>9.</td><td><a href='https://arxiv.org/abs/1804.07389'>Longest Straight Line Paths on Water or Land on the Earth (2018)</a></td><td>162 👍</td><td>48 💬</td></tr>
+<tr><td>10.</td><td><a href='https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/'>Europe's summer drought is so extreme that desertification is a gro...</a></td><td>84 👍</td><td>71 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>30 Aug 2026, 12:16 UTC</b> · Data from Hacker News</sub>
+<b>30 Aug 2026, 16:53 UTC</b>
 
 ---
 
