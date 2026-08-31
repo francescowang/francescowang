@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/'>OpenShot 4.0: Record, Edit, and Color Like Never Before</a></td><td>296 👍</td><td>79 💬</td></tr>
-<tr><td>2.</td><td><a href='https://codex-tool-reference.simonw.chatgpt.site/'>ChatGPT Work Tool and Skill Reference</a></td><td>9 👍</td><td>1 💬</td></tr>
-<tr><td>3.</td><td><a href='https://unsung.aresluna.org/i-just-chose-words-carefully/'>“I just chose words carefully”</a></td><td>1025 👍</td><td>276 💬</td></tr>
-<tr><td>4.</td><td><a href='https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/'>Breaking Claude Code Opus 5 Auto Mode</a></td><td>207 👍</td><td>66 💬</td></tr>
-<tr><td>5.</td><td><a href='https://github.com/astral-sh/uv/pull/21327'>uv: Deduplicate all files in the wheel cache</a></td><td>129 👍</td><td>55 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.mdubakov.me/malleable-software-solid-bases-custom-code/'>Malleable software = solid bases and custom code</a></td><td>40 👍</td><td>8 💬</td></tr>
-<tr><td>7.</td><td><a href='https://sandyuraz.com/blogs/tiny-cafe/'>My hobby of building miniatures and taking pretty pictures</a></td><td>254 👍</td><td>44 💬</td></tr>
-<tr><td>8.</td><td><a href='https://reactos.org/project-news/reactos-0416-released/'>ReactOS 0.4.16</a></td><td>59 👍</td><td>9 💬</td></tr>
-<tr><td>9.</td><td><a href='https://calpaterson.com/memoryfields.html'>Agent Memory as a File Format</a></td><td>76 👍</td><td>43 💬</td></tr>
-<tr><td>10.</td><td><a href='https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names'>P99 0 ms* autocomplete for 240M domain names</a></td><td>181 👍</td><td>72 💬</td></tr>
+<tr><td>1.</td><td><a href='https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/'>I turned my security cameras into an automatic bird identification ...</a></td><td>162 👍</td><td>52 💬</td></tr>
+<tr><td>2.</td><td><a href='https://playaphone.com/'>Playa Phone</a></td><td>311 👍</td><td>128 💬</td></tr>
+<tr><td>3.</td><td><a href='https://www.youtube.com/watch?v=3YtygAx_C6A'>A walkable ASCII cyberpunk city in one HTML file [video]</a></td><td>30 👍</td><td>7 💬</td></tr>
+<tr><td>4.</td><td><a href='https://laser.consti.de'>Show HN: Laser Graffiti</a></td><td>20 👍</td><td>6 💬</td></tr>
+<tr><td>5.</td><td><a href='https://tmpout.sh/5/'>Tmp.0ut, Vol. 5</a></td><td>34 👍</td><td>2 💬</td></tr>
+<tr><td>6.</td><td><a href='https://www.theguardian.com/science/2026/aug/31/forbidden-planet-was-plutos-2006-demotion-a-big-mistake'>Since it was stripped of planetary status, Pluto’s defenders have b...</a></td><td>15 👍</td><td>19 💬</td></tr>
+<tr><td>7.</td><td><a href='https://codex-tool-reference.simonw.chatgpt.site/'>ChatGPT Work Tool and Skill Reference</a></td><td>125 👍</td><td>45 💬</td></tr>
+<tr><td>8.</td><td><a href='https://jobs.ashbyhq.com/workweave'>Weave (YC W25) is hiring ML, AI, product, & design engineers</a></td><td>1 👍</td><td>0 💬</td></tr>
+<tr><td>9.</td><td><a href='https://garvvee.substack.com/p/no-country-for-mediocre-mathematicians'>No country for mediocre mathematicians</a></td><td>70 👍</td><td>38 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/'>Smartphone LED detects hidden cameras with AI</a></td><td>27 👍</td><td>4 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>31 Aug 2026, 14:28 UTC</b> · Data from Hacker News</sub>
+<b>31 Aug 2026, 19:11 UTC</b>
 
 ---
 
