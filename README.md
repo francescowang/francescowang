@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://github.com/ankidroid/Anki-Android/issues/21656'>AnkiDroid: Google Play no longer allowing Open Collective donation ...</a></td><td>201 👍</td><td>27 💬</td></tr>
-<tr><td>2.</td><td><a href='https://mvakde.github.io/blog/44-on-arc-1/'>44% on ARC-AGI-1 in 67 cents</a></td><td>90 👍</td><td>30 💬</td></tr>
-<tr><td>3.</td><td><a href='https://fastpotify.rocks/'>Fastpotify</a></td><td>490 👍</td><td>274 💬</td></tr>
-<tr><td>4.</td><td><a href='https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/'>American Airlines' Legendary Mechanic Passes Away at 100 After 80-Y...</a></td><td>96 👍</td><td>32 💬</td></tr>
-<tr><td>5.</td><td><a href='https://www.gpuworld.org/'>GPU World</a></td><td>278 👍</td><td>154 💬</td></tr>
-<tr><td>6.</td><td><a href='https://tmpout.sh/5/'>Tmp.0ut Volume 5</a></td><td>101 👍</td><td>27 💬</td></tr>
-<tr><td>7.</td><td><a href='https://512pixels.net/2026/08/polishing-cloth-updated/'>Polishing Cloth Updated</a></td><td>52 👍</td><td>36 💬</td></tr>
-<tr><td>8.</td><td><a href='https://restroomarchive.com'>Restroom Archive</a></td><td>163 👍</td><td>39 💬</td></tr>
-<tr><td>9.</td><td><a href='https://playaphone.com/'>Playa Phone</a></td><td>654 👍</td><td>213 💬</td></tr>
-<tr><td>10.</td><td><a href='https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/'>I turned my security cameras into an automatic bird identification ...</a></td><td>526 👍</td><td>130 💬</td></tr>
+<tr><td>1.</td><td><a href='https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566'>Play Store blocks AuroraStore, hurting GrapheneOS users</a></td><td>85 👍</td><td>20 💬</td></tr>
+<tr><td>2.</td><td><a href='https://github.com/ankidroid/Anki-Android/issues/21656'>AnkiDroid: Google Play no longer allowing Open Collective donation ...</a></td><td>599 👍</td><td>155 💬</td></tr>
+<tr><td>3.</td><td><a href='https://news.ycombinator.com/item?id=49522897'>Ask HN: Who is hiring? (September 2026)</a></td><td>81 👍</td><td>64 💬</td></tr>
+<tr><td>4.</td><td><a href='https://ambientcss.vercel.app/'>Ambient CSS v3 – Blender meets CSS</a></td><td>44 👍</td><td>18 💬</td></tr>
+<tr><td>5.</td><td><a href='https://mvakde.github.io/blog/44-on-arc-1/'>I trained a small transformer in 1.5hrs and it beats many LLMs</a></td><td>269 👍</td><td>76 💬</td></tr>
+<tr><td>6.</td><td><a href='https://frn.sh/io-uring/'>Io_uring Without Readahead</a></td><td>67 👍</td><td>14 💬</td></tr>
+<tr><td>7.</td><td><a href='https://ucsfhealthcardiology.ucsf.edu/facstaff/spotlight/dr-melvin-scheinman-40th-anniversary-catheter-ablation'>Dr. Melvin Scheinman: 40th Anniversary of Catheter Ablation</a></td><td>15 👍</td><td>0 💬</td></tr>
+<tr><td>8.</td><td><a href='https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/'>American Airlines' Legendary Mechanic Passes Away at 100 After 80-Y...</a></td><td>281 👍</td><td>111 💬</td></tr>
+<tr><td>9.</td><td><a href='https://fastpotify.rocks/'>Fastpotify</a></td><td>700 👍</td><td>448 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.monicahq.com/en/blog/we-are-rebuilding-monica/'>We Are Rebuilding Monica</a></td><td>40 👍</td><td>23 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>01 Sep 2026, 12:04 UTC</b> · Data from Hacker News</sub>
+<b>01 Sep 2026, 16:48 UTC</b>
 
 ---
 
