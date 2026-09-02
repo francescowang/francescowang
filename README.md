@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://dfarq.homeip.net/commodore-64-released-september-1-1982/'>Commodore 64 released September 1, 1982</a></td><td>114 👍</td><td>36 💬</td></tr>
-<tr><td>2.</td><td><a href='https://www.anthropic.com/claude-fable-and-mythos-5-1'>Claude Fable 5.1 and Claude Mythos 5.1</a></td><td>1288 👍</td><td>1202 💬</td></tr>
-<tr><td>3.</td><td><a href='https://arxiv.org/abs/2608.29530'>The Emergent Symbolic Structure of Artificial Neural Networks</a></td><td>173 👍</td><td>62 💬</td></tr>
-<tr><td>4.</td><td><a href='https://arxiv.org/abs/2608.31016'>LLM Judges Verify Presence, Not Absence: Omission Blindness in AI C...</a></td><td>9 👍</td><td>1 💬</td></tr>
-<tr><td>5.</td><td><a href='https://danluu.com/zitron/'>How accurate have Ed Zitron's AI skeptic predictions been?</a></td><td>744 👍</td><td>819 💬</td></tr>
-<tr><td>6.</td><td><a href='https://dbushell.com/2026/09/01/text-editor/'>Fine, I'll build my own text editor</a></td><td>156 👍</td><td>138 💬</td></tr>
-<tr><td>7.</td><td><a href='https://github.com/mnh-jansson/open-battery-information'>Open Battery Information</a></td><td>20 👍</td><td>8 💬</td></tr>
-<tr><td>8.</td><td><a href='https://chemisting.com/2026/09/02/why-are-there-no-flow-batteries-with-symmetric-ferrocyanide-electrolytes/'>Why are there no flow batteries with symmetric ferrocyanide electro...</a></td><td>6 👍</td><td>0 💬</td></tr>
-<tr><td>9.</td><td><a href='https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/'>FBI Probes Service Selling 153M+ Drivers Licenses</a></td><td>255 👍</td><td>119 💬</td></tr>
-<tr><td>10.</td><td><a href='https://code.mendhak.com/hardcode-feature-flags/'>It's OK to hardcode feature flags (2025)</a></td><td>3 👍</td><td>0 💬</td></tr>
+<tr><td>1.</td><td><a href='https://deepmind.google/models/model-cards/gemini-3-8-flash/'>Gemini 3.8 Flash</a></td><td>302 👍</td><td>178 💬</td></tr>
+<tr><td>2.</td><td><a href='https://lwn.net/Articles/1090585/'>A Note from LWN</a></td><td>472 👍</td><td>101 💬</td></tr>
+<tr><td>3.</td><td><a href='https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/'>Gemini 3.8 Flash and 3.8 Flash Cyber</a></td><td>62 👍</td><td>12 💬</td></tr>
+<tr><td>4.</td><td><a href='https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle'>Biggest dark matter detector spots a single weird particle</a></td><td>124 👍</td><td>23 💬</td></tr>
+<tr><td>5.</td><td><a href='https://grapheneos.social/@GrapheneOS/117194007157499435'>GrapheneOS says Pixel 11 has MTE support after all</a></td><td>104 👍</td><td>63 💬</td></tr>
+<tr><td>6.</td><td><a href='https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training'>Mistral now trains on user input by default, except on enterprise tier</a></td><td>192 👍</td><td>89 💬</td></tr>
+<tr><td>7.</td><td><a href='https://www.markpitblado.me/blog/saving-on-google-photos-with-immich-your-own-personal-photo-storage/'>Saving money on Google Photos with Immich: Your own personal photo ...</a></td><td>31 👍</td><td>17 💬</td></tr>
+<tr><td>8.</td><td><a href='https://turtlespace.blog/p/exit-the-cave'>Exit the Cave</a></td><td>74 👍</td><td>14 💬</td></tr>
+<tr><td>9.</td><td><a href='https://clui.org/collections/los-alamos-business-cards/selection-cards'>A Selection of Los Alamos Rolodex Business Cards</a></td><td>51 👍</td><td>11 💬</td></tr>
+<tr><td>10.</td><td><a href='https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/'>Three sites made 215,128 “best software” pages for AI. Perplexity c...</a></td><td>151 👍</td><td>82 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>02 Sep 2026, 11:45 UTC</b> · Data from Hacker News</sub>
+<b>02 Sep 2026, 16:45 UTC</b>
 
 ---
 
