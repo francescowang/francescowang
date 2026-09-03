@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://pola.rs/posts/announcing-polars-2/'>Pre-Release of Polars 2.0</a></td><td>207 👍</td><td>55 💬</td></tr>
-<tr><td>2.</td><td><a href='https://kciter.so/posts/the-expensive-main-thread/en/'>The Browser's Main Thread Is Expensive</a></td><td>126 👍</td><td>43 💬</td></tr>
-<tr><td>3.</td><td><a href='https://developer.meta.com/ai/models/muse-spark/'>Muse Spark 1.3</a></td><td>608 👍</td><td>400 💬</td></tr>
-<tr><td>4.</td><td><a href='https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/'>Gemini 3.8 Flash and 3.8 Flash Cyber</a></td><td>1052 👍</td><td>588 💬</td></tr>
-<tr><td>5.</td><td><a href='https://lithub.com/fish-bad-sugar-good-and-other-medieval-ideas-about-food/'>Fish Bad, Sugar Good and Other Medieval Ideas About Food</a></td><td>23 👍</td><td>7 💬</td></tr>
-<tr><td>6.</td><td><a href='https://experimentalliving.substack.com/p/what-i-learned-from-my-mom-1941-2026'>What I Learned from My Mom (1941-2026)</a></td><td>37 👍</td><td>3 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html'>Google avoids a breakup of its ad tech business</a></td><td>410 👍</td><td>286 💬</td></tr>
-<tr><td>8.</td><td><a href='https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/'>Three sites made 215,128 “best software” pages for AI. Perplexity c...</a></td><td>444 👍</td><td>214 💬</td></tr>
-<tr><td>9.</td><td><a href='https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/'>Three schoolgirls in Kinsale pulled up a pea plant covered in warts...</a></td><td>77 👍</td><td>27 💬</td></tr>
-<tr><td>10.</td><td><a href='https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight'>Holden's Lightning Flight</a></td><td>167 👍</td><td>36 💬</td></tr>
+<tr><td>1.</td><td><a href='https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0'>Audacity 4.0</a></td><td>762 👍</td><td>171 💬</td></tr>
+<tr><td>2.</td><td><a href='https://neil.fraser.name/news/2026/09/03/'>.name Termination</a></td><td>158 👍</td><td>40 💬</td></tr>
+<tr><td>3.</td><td><a href='https://ifm.ai/blog/k2/'>K2 Horizon: Frontier Performance, Radically Open</a></td><td>38 👍</td><td>13 💬</td></tr>
+<tr><td>4.</td><td><a href='https://newsguild.org/new-york-times-and-the-athletic-workers-demand-company-scrap-kalshi-deal/'>New York Times and The Athletic workers demand company scrap Kalshi...</a></td><td>86 👍</td><td>24 💬</td></tr>
+<tr><td>5.</td><td><a href='https://medium.com/@NMitchem/nobody-has-actually-built-a-software-factory-77ffdc0c3efc'>Nobody Has Actually Built a Software Factory</a></td><td>36 👍</td><td>38 💬</td></tr>
+<tr><td>6.</td><td><a href='https://news.ycombinator.com/item?id=49551096'>Ask HN: Why are OpenAI, Claude, and Grok simultaneously down? Coinc...</a></td><td>85 👍</td><td>61 💬</td></tr>
+<tr><td>7.</td><td><a href='https://anyhumanever.com/'>Any Human Ever – One life, drawn at random from all who have ever l...</a></td><td>91 👍</td><td>52 💬</td></tr>
+<tr><td>8.</td><td><a href='https://pola.rs/posts/announcing-polars-2/'>Pre-Release of Polars 2.0</a></td><td>321 👍</td><td>106 💬</td></tr>
+<tr><td>9.</td><td><a href='https://status.claude.com/incidents/461yvfrzpwtt'>Elevated Errors for Multiple Models</a></td><td>195 👍</td><td>146 💬</td></tr>
+<tr><td>10.</td><td><a href='https://kciter.so/posts/the-expensive-main-thread/en/'>The Browser's Main Thread Is Expensive</a></td><td>295 👍</td><td>99 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>03 Sep 2026, 11:45 UTC</b> · Data from Hacker News</sub>
+<b>03 Sep 2026, 16:35 UTC</b>
 
 ---
 
