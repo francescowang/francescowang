@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://jestoph.com/2026/09/04/jane-street-challenge.html'>Solving the Jane Street Reverse Engineering Challenge</a></td><td>62 👍</td><td>25 💬</td></tr>
-<tr><td>2.</td><td><a href='https://openai.com/index/gpt-6-astra/'>GPT-6 Astra</a></td><td>1884 👍</td><td>1685 💬</td></tr>
-<tr><td>3.</td><td><a href='https://neil.fraser.name/news/2026/09/03/'>.name Termination</a></td><td>1914 👍</td><td>471 💬</td></tr>
-<tr><td>4.</td><td><a href='https://carbonawarepricing.com/'>Carbon-aware electricity pricing, measured daily on 38 grids</a></td><td>48 👍</td><td>25 💬</td></tr>
-<tr><td>5.</td><td><a href='https://inference-docs.cerebras.ai/models/overview'>Qwen 3.8 27B available on Cerebras at 1500 tokens/s</a></td><td>583 👍</td><td>193 💬</td></tr>
-<tr><td>6.</td><td><a href='https://raspberry.tips/en/raspberrypi-infos/raspberry-pi-history-timeline'>The Raspberry Pi Interactive Timeline · 2006–2026</a></td><td>38 👍</td><td>29 💬</td></tr>
-<tr><td>7.</td><td><a href='https://idpro.org/authorization-terminology-is-a-mess-lets-fix-it/'>Authorization terminology is a mess: Let's fix it</a></td><td>60 👍</td><td>33 💬</td></tr>
-<tr><td>8.</td><td><a href='https://www.starelevator.com/projects/star-elevator-modernization-of-the-metropolis-trust-building'>Elevator of the Year Winner Modernization of the Metropolis Trust B...</a></td><td>13 👍</td><td>3 💬</td></tr>
-<tr><td>9.</td><td><a href='http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/'>Hackers Had a Live Feed of Every ID Verification Company Scanned fo...</a></td><td>217 👍</td><td>79 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.youtube.com/watch?v=nM86DBOqgPM'>The largest electric aircraft just flew [video]</a></td><td>354 👍</td><td>248 💬</td></tr>
+<tr><td>1.</td><td><a href='https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products'>Google AI Mode shows same products 21.6% more expensive than tradit...</a></td><td>270 👍</td><td>50 💬</td></tr>
+<tr><td>2.</td><td><a href='https://collusion.wiki/'>Discovery of a new OpenAI agent message board</a></td><td>745 👍</td><td>523 💬</td></tr>
+<tr><td>3.</td><td><a href='https://jestoph.com/2026/09/04/jane-street-challenge.html'>Solving the Jane Street Reverse Engineering Challenge</a></td><td>261 👍</td><td>67 💬</td></tr>
+<tr><td>4.</td><td><a href='https://openai.com/index/gpt-6-astra/'>GPT-6 Astra</a></td><td>2030 👍</td><td>1855 💬</td></tr>
+<tr><td>5.</td><td><a href='https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html'>Corporate America Is Getting Hooked on Open-Source A.I</a></td><td>51 👍</td><td>18 💬</td></tr>
+<tr><td>6.</td><td><a href='http://muratbuffalo.blogspot.com/2026/05/the-two-abstractions-of-system-design.html'>The Two Abstractions of System Design: Hide or Reduce</a></td><td>55 👍</td><td>3 💬</td></tr>
+<tr><td>7.</td><td><a href='https://spacetimedb.com/blog/how-does-spacetime-scale'>Ok, but Does It Scale?</a></td><td>71 👍</td><td>37 💬</td></tr>
+<tr><td>8.</td><td><a href='https://neil.fraser.name/news/2026/09/03/'>.name Termination</a></td><td>2069 👍</td><td>507 💬</td></tr>
+<tr><td>9.</td><td><a href='https://www.starelevator.com/projects/star-elevator-modernization-of-the-metropolis-trust-building'>Elevator of the Year Winner Modernization of the Metropolis Trust B...</a></td><td>91 👍</td><td>29 💬</td></tr>
+<tr><td>10.</td><td><a href='https://inference-docs.cerebras.ai/models/overview'>Qwen 3.8 27B available on Cerebras at 1500 tokens/s</a></td><td>650 👍</td><td>211 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>04 Sep 2026, 11:46 UTC</b> · Data from Hacker News</sub>
+<b>04 Sep 2026, 16:31 UTC</b>
 
 ---
 
