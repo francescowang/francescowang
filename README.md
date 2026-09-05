@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems'>AI handles incidents, engineers lose touch with their systems</a></td><td>145 👍</td><td>114 💬</td></tr>
-<tr><td>2.</td><td><a href='https://nvd.nist.gov/vuln/detail/cve-2026-85046'>Actively exploited sandbox RCE in all Chromium versions</a></td><td>518 👍</td><td>279 💬</td></tr>
-<tr><td>3.</td><td><a href='https://collusion.wiki/'>Discovery of a new OpenAI agent message board</a></td><td>1741 👍</td><td>1336 💬</td></tr>
-<tr><td>4.</td><td><a href='https://www.anthropic.com/research/formalizing-fermats-last-theorem'>Formalizing Fermat's Last Theorem</a></td><td>625 👍</td><td>390 💬</td></tr>
-<tr><td>5.</td><td><a href='https://codeberg.org/mv12star/shitter/wiki/Instances'>Nitter has more working instances than before the takedowns</a></td><td>256 👍</td><td>90 💬</td></tr>
-<tr><td>6.</td><td><a href='https://arxiv.org/abs/2608.26345'>Kale: A Transformation-Safe Spreadsheet System</a></td><td>18 👍</td><td>2 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.statichost.eu/'>Statichost.eu – European static site hosting</a></td><td>303 👍</td><td>123 💬</td></tr>
-<tr><td>8.</td><td><a href='https://openrouter.ai/openai/gpt-6-astra'>GPT-6 Astra on OpenRouter</a></td><td>234 👍</td><td>145 💬</td></tr>
-<tr><td>9.</td><td><a href='https://eebench.org/blog/can-ai-design-circuit-boards-yet/'>Can AI design circuit boards yet?</a></td><td>265 👍</td><td>163 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation'>GPT-6 Astra in code review: Gains, privacy, and cost</a></td><td>49 👍</td><td>32 💬</td></tr>
+<tr><td>1.</td><td><a href='https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/'>There's No Limit to How Bad Code Can Get</a></td><td>59 👍</td><td>26 💬</td></tr>
+<tr><td>2.</td><td><a href='https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/'>The "$60 Gaming PC" – AMD BC-250 (2025)</a></td><td>67 👍</td><td>23 💬</td></tr>
+<tr><td>3.</td><td><a href='https://packagemain.tech/p/gitignore-everything-by-default'>.gitignore Everything by Default</a></td><td>27 👍</td><td>26 💬</td></tr>
+<tr><td>4.</td><td><a href='https://www.pbs.org/newshour/science/global-warming-will-exceed-1-5-degree-limit-un-says-in-report-that-maps-path-back-below-danger-zone'>Global warming will exceed 1.5-degree limit, UN says</a></td><td>139 👍</td><td>104 💬</td></tr>
+<tr><td>5.</td><td><a href='https://nvd.nist.gov/vuln/detail/cve-2026-85046'>Actively exploited sandbox RCE in all Chromium versions</a></td><td>628 👍</td><td>354 💬</td></tr>
+<tr><td>6.</td><td><a href='https://collusion.wiki/'>Discovery of a new OpenAI agent message board</a></td><td>1868 👍</td><td>1424 💬</td></tr>
+<tr><td>7.</td><td><a href='https://kk.org/cooltools/the-1930-poetry-book-that-anthropic-tried-to-censor/'>Poetry book that Anthropic tried to censor</a></td><td>8 👍</td><td>1 💬</td></tr>
+<tr><td>8.</td><td><a href='https://codeberg.org/mv12star/shitter/wiki/Instances'>Nitter has more working instances than before the takedowns</a></td><td>406 👍</td><td>162 💬</td></tr>
+<tr><td>9.</td><td><a href='https://www.anthropic.com/research/formalizing-fermats-last-theorem'>Formalizing Fermat's Last Theorem</a></td><td>675 👍</td><td>425 💬</td></tr>
+<tr><td>10.</td><td><a href='http://terpstrakeyboard.com/'>Terpstra Keyboard</a></td><td>40 👍</td><td>13 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>05 Sep 2026, 10:56 UTC</b> · Data from Hacker News</sub>
+<b>05 Sep 2026, 15:24 UTC</b>
 
 ---
 
