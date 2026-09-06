@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight'>Isar Aerospace reaches orbit and deploys payloads on second flight</a></td><td>223 👍</td><td>38 💬</td></tr>
-<tr><td>2.</td><td><a href='https://bergie.iki.fi/blog/eupl/'>I Changed My License</a></td><td>28 👍</td><td>30 💬</td></tr>
-<tr><td>3.</td><td><a href='https://cloudinabottle.org/blog/launch-post'>Cloud in a Bottle: making self-hosting accessible to everyone</a></td><td>438 👍</td><td>212 💬</td></tr>
-<tr><td>4.</td><td><a href='https://github.com/pigeonlabsHQ/pigeon'>Pigeon, a signed Pass for what a sub-agent may do</a></td><td>4 👍</td><td>1 💬</td></tr>
-<tr><td>5.</td><td><a href='https://runjs.app/blog/music-theory-for-programmers'>Music Theory for Programmers</a></td><td>163 👍</td><td>73 💬</td></tr>
-<tr><td>6.</td><td><a href='https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/'>The revolt of the reader</a></td><td>385 👍</td><td>159 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.ibm.com/quantum/blog/nighthawk-r2'>IBM Quantum Nighthawk R2</a></td><td>21 👍</td><td>8 💬</td></tr>
-<tr><td>8.</td><td><a href='https://en.wikipedia.org/wiki/M-DISC'>M-DISC – DVD/Blu-ray compatible discs that may last up to 1000 years</a></td><td>18 👍</td><td>3 💬</td></tr>
-<tr><td>9.</td><td><a href='https://www.dpreview.com/news/the-colorchecker-photographys-most-important-24-squares-turns-50/'>The ColorChecker, photography's most important 24 squares, turns 50</a></td><td>74 👍</td><td>11 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation'>AI, Tools and Transformation</a></td><td>73 👍</td><td>26 💬</td></tr>
+<tr><td>1.</td><td><a href='https://beza1e1.tuxen.de/ai_feelings.html'>I Feel about AI</a></td><td>67 👍</td><td>32 💬</td></tr>
+<tr><td>2.</td><td><a href='https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/'>Intellectual Fly Is Open (2025)</a></td><td>237 👍</td><td>132 💬</td></tr>
+<tr><td>3.</td><td><a href='https://beige.party/@intransitivelie/117057396732763183'>QBittorrent breaks out of sandbox to commit crimes</a></td><td>99 👍</td><td>13 💬</td></tr>
+<tr><td>4.</td><td><a href='https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/'>A/I shuts down – Stay human</a></td><td>161 👍</td><td>55 💬</td></tr>
+<tr><td>5.</td><td><a href='https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight'>Isar Aerospace reaches orbit and deploys payloads on second flight</a></td><td>388 👍</td><td>112 💬</td></tr>
+<tr><td>6.</td><td><a href='https://github.com/scastiel/kado'>Show HN: Kadō – open-source habit tracker, with non-binary habit sc...</a></td><td>16 👍</td><td>5 💬</td></tr>
+<tr><td>7.</td><td><a href='https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death'>Doomscrolling Ourselves to Death</a></td><td>174 👍</td><td>119 💬</td></tr>
+<tr><td>8.</td><td><a href='https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry'>The many mysteries and lessons of the Bayeux tapestry</a></td><td>30 👍</td><td>5 💬</td></tr>
+<tr><td>9.</td><td><a href='https://en.wikipedia.org/wiki/M-DISC'>M-DISC – DVD/Blu-ray compatible discs that may last up to 1000 years</a></td><td>114 👍</td><td>45 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.lesswrong.com/posts/RCYF2rW8wgusidZk7/what-is-neuralese-and-why-is-it-bad'>What is Nueralese and Why is it Bad</a></td><td>25 👍</td><td>19 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>06 Sep 2026, 11:22 UTC</b> · Data from Hacker News</sub>
+<b>06 Sep 2026, 15:36 UTC</b>
 
 ---
 
