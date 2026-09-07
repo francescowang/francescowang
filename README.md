@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/'>Keep Our Servers Running</a></td><td>644 👍</td><td>155 💬</td></tr>
-<tr><td>2.</td><td><a href='https://openbaarvervoerbelgie.be/'>Live map of public transport in Belgium</a></td><td>97 👍</td><td>34 💬</td></tr>
-<tr><td>3.</td><td><a href='https://mathathonchallenge.com/index.html'>Caltech Mathathon – first hackathon ever devoted to research level ...</a></td><td>59 👍</td><td>9 💬</td></tr>
-<tr><td>4.</td><td><a href='https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/'>De-Brainrot Vacations</a></td><td>4 👍</td><td>0 💬</td></tr>
-<tr><td>5.</td><td><a href='https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false'>Splash-free urinals for global sustainability and accessibility</a></td><td>4 👍</td><td>1 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532'>Smartphone makers don't bother to comply with EU repairability requ...</a></td><td>68 👍</td><td>15 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.edge.org/response-detail/27238'>Impedance Matching (2017)</a></td><td>36 👍</td><td>10 💬</td></tr>
-<tr><td>8.</td><td><a href='https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus'>Speculative Decoding in vLLM on AMD GPUs</a></td><td>42 👍</td><td>12 💬</td></tr>
-<tr><td>9.</td><td><a href='https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html'>LG smart TVs caught logging audio with screen off and snooping on l...</a></td><td>414 👍</td><td>236 💬</td></tr>
-<tr><td>10.</td><td><a href='https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/'>'You Can See Everything' Review: Nathan Fielder's Doc About Elizabe...</a></td><td>132 👍</td><td>75 💬</td></tr>
+<tr><td>1.</td><td><a href='https://github.com/iczelia/bzip3'>bzip3</a></td><td>205 👍</td><td>63 💬</td></tr>
+<tr><td>2.</td><td><a href='https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/'>Keep Our Servers Running</a></td><td>804 👍</td><td>201 💬</td></tr>
+<tr><td>3.</td><td><a href='https://news.ycombinator.com/item?id=49600233'>Tell HN: OpenAI brings back 5 hour limit for plus and business stan...</a></td><td>44 👍</td><td>23 💬</td></tr>
+<tr><td>4.</td><td><a href='https://jyn.dev/simple-is-not-the-same-as-small/'>Simple Is Not Small</a></td><td>82 👍</td><td>25 💬</td></tr>
+<tr><td>5.</td><td><a href='https://mathathonchallenge.com/index.html'>Caltech Mathathon – first hackathon ever devoted to research level ...</a></td><td>150 👍</td><td>35 💬</td></tr>
+<tr><td>6.</td><td><a href='https://openbaarvervoerbelgie.be/'>Live map of public transport in Belgium</a></td><td>145 👍</td><td>62 💬</td></tr>
+<tr><td>7.</td><td><a href='https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html'>Decoding the NEC V20 Microcode</a></td><td>24 👍</td><td>0 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html'>LG smart TVs caught logging audio with screen off and snooping on l...</a></td><td>948 👍</td><td>447 💬</td></tr>
+<tr><td>9.</td><td><a href='https://www.vldb.org/pvldb/volumes/19/paper/The%20Dataflow%20Model%20Revisited'>The Dataflow Model Revisited</a></td><td>24 👍</td><td>6 💬</td></tr>
+<tr><td>10.</td><td><a href='https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/'>De-Brainrot Vacations</a></td><td>398 👍</td><td>166 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>07 Sep 2026, 13:03 UTC</b> · Data from Hacker News</sub>
+<b>07 Sep 2026, 17:48 UTC</b>
 
 ---
 
