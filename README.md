@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten'>Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare</a></td><td>165 👍</td><td>143 💬</td></tr>
-<tr><td>2.</td><td><a href='https://vale.rocks/posts/html-relics'>Antiquated HTML Snippets and Artefacts</a></td><td>50 👍</td><td>6 💬</td></tr>
-<tr><td>3.</td><td><a href='https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks'>Why getting your hands dirty is good for you</a></td><td>57 👍</td><td>31 💬</td></tr>
-<tr><td>4.</td><td><a href='https://lanparty.house/'>We built our house for LAN parties</a></td><td>188 👍</td><td>92 💬</td></tr>
-<tr><td>5.</td><td><a href='https://mcpherrin.ca/2026/09/07/rsa.html'>I've factored the RSA keys of a Certificate Authority from the 90s</a></td><td>365 👍</td><td>59 💬</td></tr>
-<tr><td>6.</td><td><a href='https://weirdgloop.org/blog/google-jail'>There's a new "Google Jail" for independent wikis</a></td><td>215 👍</td><td>75 💬</td></tr>
-<tr><td>7.</td><td><a href='https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/'>Mistral raises €3B</a></td><td>543 👍</td><td>378 💬</td></tr>
-<tr><td>8.</td><td><a href='https://d2lang.com/blog/tala-is-open-source/'>TALA Is Open-Source</a></td><td>245 👍</td><td>17 💬</td></tr>
-<tr><td>9.</td><td><a href='https://github.com/TauricResearch/TradingAgents'>Multi-Agents LLM Financial Trading Framework</a></td><td>66 👍</td><td>42 💬</td></tr>
-<tr><td>10.</td><td><a href='https://danluu.com/agentic-testing/'>How well do agents use test/verification techniques?</a></td><td>103 👍</td><td>32 💬</td></tr>
+<tr><td>1.</td><td><a href='https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/'>Google DeepMind Releases AlphaGenome Atlas</a></td><td>152 👍</td><td>31 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.blackmagicdesign.com/media/release/20260908-03'>DaVinci Resolve 21.1</a></td><td>197 👍</td><td>80 💬</td></tr>
+<tr><td>3.</td><td><a href='https://manualdousuario.net/en/libreoffice-download-record-no-ai/'>LibreOffice breaks download records after declaring it has no AI fe...</a></td><td>530 👍</td><td>169 💬</td></tr>
+<tr><td>4.</td><td><a href='https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/'>Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit colla...</a></td><td>56 👍</td><td>30 💬</td></tr>
+<tr><td>5.</td><td><a href='https://podcast.switchedtolinux.com/@tehankorage/episodes/why-im-not-excited-about-the-graphene-os-and-motorola-partnership'>Why I'm Not Excited About the Graphene OS and Motorola Partnership</a></td><td>14 👍</td><td>1 💬</td></tr>
+<tr><td>6.</td><td><a href='https://hackaday.com/2026/09/07/the-helicopter-with-radioactive-blades/'>The Helicopter with Radioactive Blades</a></td><td>34 👍</td><td>2 💬</td></tr>
+<tr><td>7.</td><td><a href='https://copperhead.sh/'>Show HN: Copperhead – Hardware as Fast as Software</a></td><td>124 👍</td><td>46 💬</td></tr>
+<tr><td>8.</td><td><a href='https://arxiv.org/abs/2504.02246'>C*: Unifying Programming and Verification in C</a></td><td>14 👍</td><td>7 💬</td></tr>
+<tr><td>9.</td><td><a href='https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/'>ZX Spectrum: Experimenting with 1-Bit Sound</a></td><td>36 👍</td><td>12 💬</td></tr>
+<tr><td>10.</td><td><a href='https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/'>The two Christian saints who are the Buddha</a></td><td>80 👍</td><td>17 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>08 Sep 2026, 11:46 UTC</b> · Data from Hacker News</sub>
+<b>08 Sep 2026, 16:46 UTC</b>
 
 ---
 
