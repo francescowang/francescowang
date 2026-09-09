@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit'>Flock Wants a Closely Surveilled World with No Exit</a></td><td>70 👍</td><td>40 💬</td></tr>
-<tr><td>2.</td><td><a href='https://buttondown.com/blog/lotus-notes-email'>Lotus Notes and the dangers of starting from scratch</a></td><td>42 👍</td><td>20 💬</td></tr>
-<tr><td>3.</td><td><a href='https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy'>How An AI math breakthrough ignited a controversy</a></td><td>89 👍</td><td>77 💬</td></tr>
-<tr><td>4.</td><td><a href='https://ai.meta.com/muse/'>Muse – Meta’s personal AI agent</a></td><td>537 👍</td><td>588 💬</td></tr>
-<tr><td>5.</td><td><a href='https://cims.nyu.edu/~tristanb/statement.pdf'>Navier-Stokes – Tristan Buckmaster [pdf]</a></td><td>1758 👍</td><td>733 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.newyorker.com/magazine/1990/02/26/coyote-v-acme'>Coyote v. Acme (1990)</a></td><td>29 👍</td><td>7 💬</td></tr>
-<tr><td>7.</td><td><a href='https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html'>Tension wood: A 'muscle' that can both bend and straighten plants</a></td><td>130 👍</td><td>34 💬</td></tr>
-<tr><td>8.</td><td><a href='https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/'>How to build a printer</a></td><td>363 👍</td><td>80 💬</td></tr>
-<tr><td>9.</td><td><a href='https://openai.com/index/codex-quantum-computing-experiments/'>How GPT‑5.6 Sol helps run quantum computing experiments</a></td><td>86 👍</td><td>69 💬</td></tr>
-<tr><td>10.</td><td><a href='https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/'>AlphaGenome Atlas: a high-resolution map of human DNA</a></td><td>569 👍</td><td>123 💬</td></tr>
+<tr><td>1.</td><td><a href='https://tailwindcss.com/blog/tailwind-is-joining-shopify'>Tailwind Labs is joining Shopify</a></td><td>494 👍</td><td>193 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.nomanssky.com/cosmos-update/'>No Man's Sky Cosmos</a></td><td>87 👍</td><td>63 💬</td></tr>
+<tr><td>3.</td><td><a href='https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and'>GPT-6 Astra, Looped Transformers, and Hidden Reasoning</a></td><td>78 👍</td><td>11 💬</td></tr>
+<tr><td>4.</td><td><a href='https://gnuradioworld.com/'>GNU Radio in the Browser</a></td><td>32 👍</td><td>5 💬</td></tr>
+<tr><td>5.</td><td><a href='https://opusfived.dev/'>Claude, change the "Add to Cart" button to blue</a></td><td>631 👍</td><td>247 💬</td></tr>
+<tr><td>6.</td><td><a href='https://desertant.com/blog/introducing-desert-ant-labs/'>Desert Ant Labs: local, fast models that run on device</a></td><td>267 👍</td><td>69 💬</td></tr>
+<tr><td>7.</td><td><a href='https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/'>Anthropic Is Building a Predictive Surveillance System to Monitor A...</a></td><td>140 👍</td><td>43 💬</td></tr>
+<tr><td>8.</td><td><a href='https://tech.marksblogg.com/planet-labs-open-satellite-feed.html'>Planet Labs' Open Satellite Feed</a></td><td>30 👍</td><td>2 💬</td></tr>
+<tr><td>9.</td><td><a href='https://blog.appsignal.com/2024/10/07/whats-new-in-ruby-on-rails-8.html'>Rails 8 Guide: Features, Requirements and Upgrade Path (2026)</a></td><td>21 👍</td><td>4 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.nber.org/papers/w35514'>Investing in Mothers? The Long-Run Impact of a Universal Child Care</a></td><td>53 👍</td><td>50 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>09 Sep 2026, 11:55 UTC</b> · Data from Hacker News</sub>
+<b>09 Sep 2026, 16:48 UTC</b>
 
 ---
 
