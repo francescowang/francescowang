@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683'>What algorithm did Windows XP use to choose your initial user picture?</a></td><td>99 👍</td><td>38 💬</td></tr>
-<tr><td>2.</td><td><a href='https://honestlyranked.com/guides/streaming-price-increases/'>Show HN: The same nine streaming subscriptions cost $702/year more ...</a></td><td>89 👍</td><td>86 💬</td></tr>
-<tr><td>3.</td><td><a href='https://twitter.com/deepseek_ai/status/2097930608790167907'>DeepSeek v4.1 Flash</a></td><td>463 👍</td><td>246 💬</td></tr>
-<tr><td>4.</td><td><a href='https://stockfishchess.org/blog/2026/stockfish-19/'>Stockfish 19</a></td><td>78 👍</td><td>41 💬</td></tr>
-<tr><td>5.</td><td><a href='https://www.apple.com/iphone-duo/'>iPhone Duo</a></td><td>1239 👍</td><td>2172 💬</td></tr>
-<tr><td>6.</td><td><a href='https://rivendell.dmitrybrant.com/relativity/'>Show HN: What if the speed of light was 5 km/h?</a></td><td>391 👍</td><td>160 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data'>Mathematicians want proof OpenAI didn't use their work</a></td><td>38 👍</td><td>39 💬</td></tr>
-<tr><td>8.</td><td><a href='https://tailwindcss.com/blog/tailwind-is-joining-shopify'>Shopify acquires Tailwind</a></td><td>1055 👍</td><td>405 💬</td></tr>
-<tr><td>9.</td><td><a href='https://tautology.town/2026/06/01/card-networks.html'>What do Visa and Mastercard do? An intro to card networks</a></td><td>560 👍</td><td>341 💬</td></tr>
-<tr><td>10.</td><td><a href='https://en.wikipedia.org/wiki/Larger_Pacific_striped_octopus'>Larger Pacific Striped Octopus</a></td><td>79 👍</td><td>41 💬</td></tr>
+<tr><td>1.</td><td><a href='https://shopify.engineering/back-to-native'>Shopify moves back to Native from React Native</a></td><td>340 👍</td><td>227 💬</td></tr>
+<tr><td>2.</td><td><a href='https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/'>Rust Is Tier-1 Language at Microsoft</a></td><td>251 👍</td><td>120 💬</td></tr>
+<tr><td>3.</td><td><a href='https://cognition.com/blog/swe-2'>Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra</a></td><td>55 👍</td><td>12 💬</td></tr>
+<tr><td>4.</td><td><a href='https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/'>Hitachi launches CO2 heat pump water heaters with solar-friendly ta...</a></td><td>193 👍</td><td>153 💬</td></tr>
+<tr><td>5.</td><td><a href='https://twitter.com/deepseek_ai/status/2097930608790167907'>DeepSeek v4.1 Flash</a></td><td>747 👍</td><td>396 💬</td></tr>
+<tr><td>6.</td><td><a href='https://mathstodon.xyz/@andreasthom/117240535270608201'>More questions about whether researchers can trust OpenAI with unpu...</a></td><td>67 👍</td><td>296 💬</td></tr>
+<tr><td>7.</td><td><a href='https://magic.dev/blog/pretraining#'>>10x More Efficient Pretraining</a></td><td>38 👍</td><td>9 💬</td></tr>
+<tr><td>8.</td><td><a href='https://neki.dev/'>Neki by PlanetScale</a></td><td>25 👍</td><td>1 💬</td></tr>
+<tr><td>9.</td><td><a href='https://planetscale.com/blog/introducing-neki'>Neki</a></td><td>29 👍</td><td>4 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.thecollector.com/casablanca-unproduced-play-movie-history/'>Casablanca: How an unproduced play marched into movie history</a></td><td>11 👍</td><td>3 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>10 Sep 2026, 11:52 UTC</b> · Data from Hacker News</sub>
+<b>10 Sep 2026, 16:34 UTC</b>
 
 ---
 
