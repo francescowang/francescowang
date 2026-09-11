@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.researchagenda.news/articles/the-waymo-effect.html'>The Waymo effect: how AI is quietly making research less collaborative</a></td><td>38 👍</td><td>8 💬</td></tr>
-<tr><td>2.</td><td><a href='http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation'>Cherenkov Radiation - traveling faster than light</a></td><td>100 👍</td><td>56 💬</td></tr>
-<tr><td>3.</td><td><a href='https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/'>RTK reports token savings, but our cost benchmarks disagree</a></td><td>15 👍</td><td>4 💬</td></tr>
-<tr><td>4.</td><td><a href='https://shopify.engineering/back-to-native'>Shopify is moving from React Native back to Swift and Kotlin</a></td><td>1107 👍</td><td>798 💬</td></tr>
-<tr><td>5.</td><td><a href='https://mmoustafa.com/blog/so-you-want-to-use-openrouter/'>So you want to use OpenRouter?</a></td><td>191 👍</td><td>24 💬</td></tr>
-<tr><td>6.</td><td><a href='https://support.claude.com/en/articles/15171100-age-assurance-on-claude'>Claude is no longer available for minors</a></td><td>73 👍</td><td>99 💬</td></tr>
-<tr><td>7.</td><td><a href='https://blog.jim-nielsen.com/2026/hands-off-my-cables/'>Don't let anyone take away your big box of cables</a></td><td>581 👍</td><td>368 💬</td></tr>
-<tr><td>8.</td><td><a href='https://emacsredux.com/blog/2026/09/02/working-with-git-worktrees-in-magit/'>Working with Git Worktrees in Magit</a></td><td>63 👍</td><td>22 💬</td></tr>
-<tr><td>9.</td><td><a href='https://developers.openai.com/api/docs/guides/agents-api/overview'>OpenAI Agents API</a></td><td>276 👍</td><td>154 💬</td></tr>
-<tr><td>10.</td><td><a href='https://vale.rocks/posts/css-relics'>CSS Curiosities of the Past</a></td><td>20 👍</td><td>7 💬</td></tr>
+<tr><td>1.</td><td><a href='https://glacierextinction.com'>Global Glacier Extinction Explorer</a></td><td>37 👍</td><td>5 💬</td></tr>
+<tr><td>2.</td><td><a href='https://github.com/godot-pty/gpty'>Godot and Rust based multiplexer (terminal panes and more)</a></td><td>17 👍</td><td>8 💬</td></tr>
+<tr><td>3.</td><td><a href='https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html'>Logo Programming Language</a></td><td>105 👍</td><td>53 💬</td></tr>
+<tr><td>4.</td><td><a href='https://derflounder.wordpress.com/2026/09/08/manually-copying-login-keychain-files-from-one-mac-to-another-no-longer-works-on-secure-enclave-equipped-macs-running-macos-tahoe/'>Copying login keychains between Macs fails on Secure Enclave Macs w...</a></td><td>24 👍</td><td>7 💬</td></tr>
+<tr><td>5.</td><td><a href='https://www.tinybird.co/blog/what-i-learned-operating-clickhouse'>I've operated petabyte-scale ClickHouse clusters for 5 years</a></td><td>52 👍</td><td>20 💬</td></tr>
+<tr><td>6.</td><td><a href='https://mmoustafa.com/blog/so-you-want-to-use-openrouter/'>So you want to use OpenRouter?</a></td><td>490 👍</td><td>128 💬</td></tr>
+<tr><td>7.</td><td><a href='https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/'>Matt Mullenweg tells Automattic staff in Slack he's back in control...</a></td><td>67 👍</td><td>38 💬</td></tr>
+<tr><td>8.</td><td><a href='https://huggingface.co/security.txt'>HuggingFace: Security.txt</a></td><td>118 👍</td><td>17 💬</td></tr>
+<tr><td>9.</td><td><a href='https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/'>RTK reports token savings, but our cost benchmarks disagree</a></td><td>98 👍</td><td>55 💬</td></tr>
+<tr><td>10.</td><td><a href='https://support.claude.com/en/articles/15171100-age-assurance-on-claude'>Claude is only available to people over 18 years</a></td><td>332 👍</td><td>402 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>11 Sep 2026, 11:50 UTC</b> · Data from Hacker News</sub>
+<b>11 Sep 2026, 16:39 UTC</b>
 
 ---
 
