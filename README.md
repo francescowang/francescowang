@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.youtube.com/watch?v=iZODN0QUgjI'>IKEA made a mod for Skyrim [video]</a></td><td>180 👍</td><td>30 💬</td></tr>
-<tr><td>2.</td><td><a href='https://eiln.github.io/posts/ane.html'>Retrospectively Reverse-Engineering Apple's Neural Engine</a></td><td>102 👍</td><td>13 💬</td></tr>
-<tr><td>3.</td><td><a href='https://mathandai.org/'>A misalignment of AI in mathematics</a></td><td>958 👍</td><td>918 💬</td></tr>
-<tr><td>4.</td><td><a href='https://dayzlegame.com/blog/google-ads-bot-farm/'>I spent $220 on Google app ads and 60% of the installs were robots</a></td><td>564 👍</td><td>298 💬</td></tr>
-<tr><td>5.</td><td><a href='https://cel.cs.brown.edu/blog/design-space-async-await/'>A Design Space Exploration of Async/Await</a></td><td>301 👍</td><td>80 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.cbc.ca/news/canada/ontario-great-lakes-sturgeon-lifespan-study-9.7329250'>Great Lakes sturgeon may be 400 years old:Scientists rethinking how...</a></td><td>76 👍</td><td>8 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.claymath.org/news/navier-stokes-announcement/'>Navier-Stokes Announcement</a></td><td>187 👍</td><td>124 💬</td></tr>
-<tr><td>8.</td><td><a href='https://theorangeduck.com/page/inverse-kinematics-foot-locking'>Inverse Kinematics and Foot Locking</a></td><td>56 👍</td><td>6 💬</td></tr>
-<tr><td>9.</td><td><a href='https://www.autom.dev/blog/google-search-goto-links'>google.com/goto: Google's anti-scraping update</a></td><td>457 👍</td><td>360 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.usenet-rewind.com/'>Usenet rewind archive search engine</a></td><td>68 👍</td><td>19 💬</td></tr>
+<tr><td>1.</td><td><a href='https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai'>Nvidia is the central bank of AI</a></td><td>23 👍</td><td>7 💬</td></tr>
+<tr><td>2.</td><td><a href='https://transformer-circuits.pub/2021/framework/index.html'>A Mathematical Framework for Transformer Circuits (2021)</a></td><td>31 👍</td><td>3 💬</td></tr>
+<tr><td>3.</td><td><a href='https://www.youtube.com/watch?v=iZODN0QUgjI'>IKEA made a mod for Skyrim [video]</a></td><td>396 👍</td><td>85 💬</td></tr>
+<tr><td>4.</td><td><a href='https://www.joelotter.com/posts/2026/09/make-it-anyway/'>Fuck it, make it anyway</a></td><td>349 👍</td><td>290 💬</td></tr>
+<tr><td>5.</td><td><a href='https://eiln.github.io/posts/ane.html'>Retrospectively Reverse-Engineering Apple's Neural Engine</a></td><td>169 👍</td><td>18 💬</td></tr>
+<tr><td>6.</td><td><a href='https://github.com/gauravapiscean/agentic-kv-cache'>LRU is harder to beat than the KV-cache papers suggest</a></td><td>38 👍</td><td>18 💬</td></tr>
+<tr><td>7.</td><td><a href='https://mathandai.org/'>A misalignment of AI in mathematics</a></td><td>1094 👍</td><td>1038 💬</td></tr>
+<tr><td>8.</td><td><a href='https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/'>The Worst Spam Emails: Inside iLands' AI Agent Hustle</a></td><td>65 👍</td><td>31 💬</td></tr>
+<tr><td>9.</td><td><a href='https://dayzlegame.com/blog/google-ads-bot-farm/'>I spent $220 on Google app ads and 60% of the installs were robots</a></td><td>656 👍</td><td>358 💬</td></tr>
+<tr><td>10.</td><td><a href='https://news.ycombinator.com/item?id=49672966'>Ask HN: What default model do you use and why?</a></td><td>15 👍</td><td>20 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>12 Sep 2026, 11:17 UTC</b> · Data from Hacker News</sub>
+<b>12 Sep 2026, 15:41 UTC</b>
 
 ---
 
