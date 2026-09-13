@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://jetkvm.com/blog/introducing-jetkvm-mini'>JetKVM Mini</a></td><td>191 👍</td><td>82 💬</td></tr>
-<tr><td>2.</td><td><a href='https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/'>Nvidia dismisses "circular financing", says every $1 it invests bri...</a></td><td>78 👍</td><td>67 💬</td></tr>
-<tr><td>3.</td><td><a href='https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating'>Why are AI agents lying, cheating and coordinating?</a></td><td>309 👍</td><td>351 💬</td></tr>
-<tr><td>4.</td><td><a href='https://high5apps.github.io/josm-plugin-website-wizard/'>Make your first edit to OpenStreetMap</a></td><td>495 👍</td><td>127 💬</td></tr>
-<tr><td>5.</td><td><a href='https://icm.museum/'>The Interim Computer Museum</a></td><td>128 👍</td><td>13 💬</td></tr>
-<tr><td>6.</td><td><a href='https://medium.com/@ivangomezarnedo/how-i-added-a-non-wi-fi-mitsubishi-ac-to-home-assistant-22770661dd77'>I Added a Non-Wi-Fi Mitsubishi AC to Home Assistant</a></td><td>105 👍</td><td>50 💬</td></tr>
-<tr><td>7.</td><td><a href='https://hyperbo.la/w/aligned-to-whom/'>Aligned to whom?</a></td><td>79 👍</td><td>45 💬</td></tr>
-<tr><td>8.</td><td><a href='https://brew.sh/2026/09/13/homebrew-7.0.0/'>Homebrew 7.0.0</a></td><td>106 👍</td><td>39 💬</td></tr>
-<tr><td>9.</td><td><a href='https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/'>Revolut confirms customer data breach through fake government requests</a></td><td>41 👍</td><td>29 💬</td></tr>
-<tr><td>10.</td><td><a href='https://dunstanorchard.com/apple-ipod-engraver/'>Apple iPod Engraver (2019)</a></td><td>240 👍</td><td>61 💬</td></tr>
+<tr><td>1.</td><td><a href='https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment'>Astra and Fable still hack on simple variants of alignment evals fr...</a></td><td>111 👍</td><td>31 💬</td></tr>
+<tr><td>2.</td><td><a href='https://jetkvm.com/blog/introducing-jetkvm-mini'>JetKVM Mini</a></td><td>362 👍</td><td>141 💬</td></tr>
+<tr><td>3.</td><td><a href='https://belderbos.dev/blog/how-libraries-run-rust-inside-python/'>Libraries Run Rust Inside Python (With PyO3)</a></td><td>15 👍</td><td>12 💬</td></tr>
+<tr><td>4.</td><td><a href='https://github.com/Speedstu/CUDA-for-AMD-Windows'>CUDA for AMD on Windows</a></td><td>31 👍</td><td>2 💬</td></tr>
+<tr><td>5.</td><td><a href='https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689'>Why is the x86 undefined instruction called ud2? Why 2?</a></td><td>53 👍</td><td>14 💬</td></tr>
+<tr><td>6.</td><td><a href='https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet'>'Fingerprints' inside the Sun could reveal if it once swallowed a p...</a></td><td>72 👍</td><td>20 💬</td></tr>
+<tr><td>7.</td><td><a href='https://bensimms.moe/reverse-engineering-scooter/'>Reverse engineering my e-scooter and rewriting the firmware in Rust</a></td><td>140 👍</td><td>42 💬</td></tr>
+<tr><td>8.</td><td><a href='https://cpak.it/'>Cpak – OCI application package format for Linux desktops, servers a...</a></td><td>8 👍</td><td>2 💬</td></tr>
+<tr><td>9.</td><td><a href='https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating'>Why are AI agents lying, cheating and coordinating?</a></td><td>463 👍</td><td>534 💬</td></tr>
+<tr><td>10.</td><td><a href='https://github.com/FeralFirmware/TailTalk/'>TailTalk: A modern async user space AppleTalk stack with Rust and T...</a></td><td>46 👍</td><td>11 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>13 Sep 2026, 12:19 UTC</b> · Data from Hacker News</sub>
+<b>13 Sep 2026, 16:32 UTC</b>
 
 ---
 
