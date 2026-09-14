@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/'>What a time to be alive – rouge AI agents attack RubyGems.org</a></td><td>43 👍</td><td>33 💬</td></tr>
-<tr><td>2.</td><td><a href='https://github.com/callbacked/kinesis'>Show HN: Kinesis – Control your Mac with the Meta Neural Band</a></td><td>43 👍</td><td>12 💬</td></tr>
-<tr><td>3.</td><td><a href='https://www.eurobirdportal.org/ebp/en/'>EuroBirdPortal – Live bird movements across Europe</a></td><td>137 👍</td><td>48 💬</td></tr>
-<tr><td>4.</td><td><a href='https://www.vals.ai/blogs/fable-solves-cyphral-distich'>Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher</a></td><td>1076 👍</td><td>485 💬</td></tr>
-<tr><td>5.</td><td><a href='https://github.com/rh1tech/frank-386'>A 386 PC for Your RP2350</a></td><td>97 👍</td><td>25 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.threebodyorbits.com/'>An atlas of periodic solutions to the three-body problem</a></td><td>107 👍</td><td>23 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/'>Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows</a></td><td>60 👍</td><td>16 💬</td></tr>
-<tr><td>8.</td><td><a href='https://github.com/anuj0456/OpenArch'>OpenArch – PyTorch implementations of modern LLM architectures</a></td><td>77 👍</td><td>14 💬</td></tr>
-<tr><td>9.</td><td><a href='https://www.sciencedaily.com/releases/2026/09/260909005152.htm'>Devil's Arrows: Ancient builders hauled 55k-lb stones 11 miles for ...</a></td><td>7 👍</td><td>4 💬</td></tr>
-<tr><td>10.</td><td><a href='https://github.com/Danilaa1/drawably'>Drawably: Hand-Drawn UI Controls</a></td><td>16 👍</td><td>7 💬</td></tr>
+<tr><td>1.</td><td><a href='https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/'>iOS 27, iPadOS 27, and macOS 27</a></td><td>47 👍</td><td>11 💬</td></tr>
+<tr><td>2.</td><td><a href='https://nvartolomei.com/dist-sys-classics/'>Distributed Systems Classics (2017)</a></td><td>93 👍</td><td>19 💬</td></tr>
+<tr><td>3.</td><td><a href='https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit'>Why don't machine learning research agents overfit?</a></td><td>36 👍</td><td>14 💬</td></tr>
+<tr><td>4.</td><td><a href='https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/'>Principles for Fast Tokio Applications</a></td><td>68 👍</td><td>12 💬</td></tr>
+<tr><td>5.</td><td><a href='https://www.neobrutalism.dev/'>Show HN: Neobrutalism.dev – Just added Base UI support and added ne...</a></td><td>50 👍</td><td>29 💬</td></tr>
+<tr><td>6.</td><td><a href='https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/'>OpenAI bots knew about the RubyGems caching vulnerability</a></td><td>177 👍</td><td>196 💬</td></tr>
+<tr><td>7.</td><td><a href='https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/'>Notes on gotchas while migrating 35kb preprompts from Opus to self-...</a></td><td>86 👍</td><td>35 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.ycombinator.com/companies/cua/jobs/1IWEKVH-founding-technical-gtm-lead'>Cua (YC P25) Is Hiring a Founding Technical GTM Lead</a></td><td>1 👍</td><td>0 💬</td></tr>
+<tr><td>9.</td><td><a href='https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/'>A Beginning for Mathematics</a></td><td>32 👍</td><td>3 💬</td></tr>
+<tr><td>10.</td><td><a href='https://andonlabs.com/blog/why-we-built-pion'>Pion, an agent designed to run any company autonomously</a></td><td>46 👍</td><td>45 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>14 Sep 2026, 13:23 UTC</b> · Data from Hacker News</sub>
+<b>14 Sep 2026, 18:07 UTC</b>
 
 ---
 
