@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua'>I can't stop thinking about Papua New Guinea</a></td><td>347 👍</td><td>123 💬</td></tr>
-<tr><td>2.</td><td><a href='https://www.bbc.com/news/articles/c8ly49w9g1edo'>Suspected sabotage causes major Netherlands rail disruption</a></td><td>172 👍</td><td>131 💬</td></tr>
-<tr><td>3.</td><td><a href='https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/'>Alternatives to MinIO for single-node local S3</a></td><td>63 👍</td><td>34 💬</td></tr>
-<tr><td>4.</td><td><a href='https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/'>iOS 27, iPadOS 27, and macOS 27</a></td><td>642 👍</td><td>733 💬</td></tr>
-<tr><td>5.</td><td><a href='https://vale.rocks/micros/20260915-0135'>CSS-Tricks in Limbo</a></td><td>52 👍</td><td>7 💬</td></tr>
-<tr><td>6.</td><td><a href='https://github.com/enactic/OpenArm'>OpenArm: An open-source 7DOF humanoid arm</a></td><td>119 👍</td><td>21 💬</td></tr>
-<tr><td>7.</td><td><a href='https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/'>4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors ...</a></td><td>162 👍</td><td>53 💬</td></tr>
-<tr><td>8.</td><td><a href='https://arxiv.org/abs/2609.15979'>The k-server conjecture is true</a></td><td>26 👍</td><td>9 💬</td></tr>
-<tr><td>9.</td><td><a href='https://research.ibm.com/blog/nasa-ibm-lunar-foundation-model'>A rough guide for going back to the Moon</a></td><td>13 👍</td><td>2 💬</td></tr>
-<tr><td>10.</td><td><a href='https://andonlabs.com/blog/why-we-built-pion'>Pion, an agent designed to run any company autonomously</a></td><td>426 👍</td><td>525 💬</td></tr>
+<tr><td>1.</td><td><a href='https://github.com/arnegiacomo/fugleramme'>Show HN: An e-ink frame that hears birds and draws them as 1800s il...</a></td><td>687 👍</td><td>105 💬</td></tr>
+<tr><td>2.</td><td><a href='https://withcapsule.app/'>Show HN: Capsule – Single-file web apps that save their data into S...</a></td><td>155 👍</td><td>75 💬</td></tr>
+<tr><td>3.</td><td><a href='https://www.formas.ai/cartesian'>Cartesian – AI 3D Modeling for Design</a></td><td>40 👍</td><td>27 💬</td></tr>
+<tr><td>4.</td><td><a href='https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua'>I can't stop thinking about Papua New Guinea</a></td><td>732 👍</td><td>310 💬</td></tr>
+<tr><td>5.</td><td><a href='https://bkovac.github.io/modem-thing/'>Show HN: Hacking a $20 4G wireless hotspot into a texting device</a></td><td>106 👍</td><td>14 💬</td></tr>
+<tr><td>6.</td><td><a href='https://jiga.io/about-us/?ashby_jid=0b75d72d-c92b-4dca-8062-09d298ada0bd'>Jiga (YC W21) Is Hiring Product Engineer (Remote/US)</a></td><td>1 👍</td><td>0 💬</td></tr>
+<tr><td>7.</td><td><a href='https://notesbylex.com/giving-up-on-smart-rings'>Giving up on smart rings</a></td><td>31 👍</td><td>39 💬</td></tr>
+<tr><td>8.</td><td><a href='https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped/'>The CSS Zen Garden dream, finally shipped</a></td><td>30 👍</td><td>12 💬</td></tr>
+<tr><td>9.</td><td><a href='https://labs.ripe.net/author/pouria/closing-the-ipv6-first-packet-gap-with-grand/'>Closing the IPv6 first-packet gap with GRAND</a></td><td>14 👍</td><td>5 💬</td></tr>
+<tr><td>10.</td><td><a href='https://londonist.com/london/music/kool-fm-archives'>Archiving pirate radio station Kool FM</a></td><td>40 👍</td><td>14 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>15 Sep 2026, 12:12 UTC</b> · Data from Hacker News</sub>
+<b>15 Sep 2026, 17:10 UTC</b>
 
 ---
 
