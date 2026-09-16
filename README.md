@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.bbc.com/news/articles/cjwyzrr9d3dko'>EU chief opens door for Canada to become 'associate member'</a></td><td>290 👍</td><td>279 💬</td></tr>
-<tr><td>2.</td><td><a href='https://gultsch.social/@daniel/117280438824908947'>The Google Play app review process now regularly takes longer than ...</a></td><td>27 👍</td><td>15 💬</td></tr>
-<tr><td>3.</td><td><a href='https://status.salesforce.com/products/all'>Salesforce Global Outage</a></td><td>64 👍</td><td>39 💬</td></tr>
-<tr><td>4.</td><td><a href='https://mistral.ai/news/mistral-x-mozilla/'>Mistral X Mozilla: Private, Multilingual AI Browsing</a></td><td>120 👍</td><td>33 💬</td></tr>
-<tr><td>5.</td><td><a href='https://typesafe.ai/blog/introducing-system-one-models-and-jev'>Introducing System One Models and Jev</a></td><td>1494 👍</td><td>425 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.ycombinator.com/companies/kyber/jobs/eturrAR-forward-deployed-engineer'>Kyber (YC W23) Is Hiring a Forward Deployed Engineer</a></td><td>1 👍</td><td>0 💬</td></tr>
-<tr><td>7.</td><td><a href='https://github.com/arnegiacomo/fugleramme'>Show HN: An e-ink frame that hears birds and draws them as 1800s il...</a></td><td>1717 👍</td><td>211 💬</td></tr>
-<tr><td>8.</td><td><a href='https://security.apple.com/blog/apple-reference-image/'>Apple Reference Image: A New Approach for Verified Photography</a></td><td>304 👍</td><td>221 💬</td></tr>
-<tr><td>9.</td><td><a href='https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/'>Learning Programming in an Age of LLMs</a></td><td>83 👍</td><td>52 💬</td></tr>
-<tr><td>10.</td><td><a href='https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/'>An update on Wayback Machine access</a></td><td>569 👍</td><td>312 💬</td></tr>
+<tr><td>1.</td><td><a href='https://claude.com/blog/cowork-is-now-claude'>Claude Cowork and chat are now one Claude</a></td><td>33 👍</td><td>23 💬</td></tr>
+<tr><td>2.</td><td><a href='https://testing.googleblog.com/2011/02/this-code-is-crap.html'>Code Is CRAP [2011]</a></td><td>43 👍</td><td>34 💬</td></tr>
+<tr><td>3.</td><td><a href='https://arxiv.org/abs/2609.14858'>Dream-RSI: Recursive Self-Improvement through Evolving Worlds</a></td><td>99 👍</td><td>24 💬</td></tr>
+<tr><td>4.</td><td><a href='https://will-keleher.com/posts/small-programming-tricks-matter/'>Small Programming Tricks</a></td><td>72 👍</td><td>51 💬</td></tr>
+<tr><td>5.</td><td><a href='https://mistral.ai/news/mistral-x-mozilla/'>Mistral X Mozilla: Private, Multilingual AI Browsing</a></td><td>363 👍</td><td>119 💬</td></tr>
+<tr><td>6.</td><td><a href='https://typesafe.ai/blog/introducing-system-one-models-and-jev'>Introducing System One Models and Jev</a></td><td>1704 👍</td><td>459 💬</td></tr>
+<tr><td>7.</td><td><a href='https://ohhelloana.blog/tell-the-speakers/'>Tell the speakers that you liked their talks</a></td><td>96 👍</td><td>27 💬</td></tr>
+<tr><td>8.</td><td><a href='https://github.com/arnegiacomo/fugleramme'>Show HN: An e-ink frame that hears birds and draws them as 1800s il...</a></td><td>1874 👍</td><td>222 💬</td></tr>
+<tr><td>9.</td><td><a href='https://loiseaujc.github.io/posts/blog-title/make_gauss_seidel_great_again.html'>Measuring Gauss-Seidel loop-carried dependency and fixing it via lo...</a></td><td>14 👍</td><td>1 💬</td></tr>
+<tr><td>10.</td><td><a href='https://eli.thegreenplace.net/2026/how-big-are-factorials/'>How Big Are Factorials?</a></td><td>31 👍</td><td>13 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>16 Sep 2026, 12:09 UTC</b> · Data from Hacker News</sub>
+<b>16 Sep 2026, 17:11 UTC</b>
 
 ---
 
