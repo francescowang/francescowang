@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://servo.org/blog/2026/09/15/one-year-of-sponsorship/'>One Year of Sponsored Servo Development</a></td><td>142 👍</td><td>61 💬</td></tr>
-<tr><td>2.</td><td><a href='https://news.ycombinator.com/item?id=49738879'>Neovim have a ~$800k Bitcoin donation sitting untouched since 2023</a></td><td>101 👍</td><td>27 💬</td></tr>
-<tr><td>3.</td><td><a href='https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/'>Nvidia announces native GPU programming in Rust</a></td><td>748 👍</td><td>306 💬</td></tr>
-<tr><td>4.</td><td><a href='https://manticoresearch.com/blog/auto-chunking/'>Better Vector Search for Long Documents: Chunking Inside Manticore ...</a></td><td>19 👍</td><td>0 💬</td></tr>
-<tr><td>5.</td><td><a href='https://jakeasmith.com/blog/http-build-url/'>My temporary PHP fix from 2014 has nearly 20M installs. Today I'm d...</a></td><td>159 👍</td><td>42 💬</td></tr>
-<tr><td>6.</td><td><a href='https://ryan.science/blog/keys-not-included'>Keys Not Included: recovering the signing keys for US driver's lice...</a></td><td>200 👍</td><td>73 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.damtp.cam.ac.uk/events/strings02/dirac/speach.html'>The Relation Between Mathematics and Physics by Paul Dirac</a></td><td>75 👍</td><td>25 💬</td></tr>
-<tr><td>8.</td><td><a href='https://z.ai/blog/glm-built-its-inference-infrastructure'>GLM Built Its Own Inference Infrastructure</a></td><td>112 👍</td><td>77 💬</td></tr>
-<tr><td>9.</td><td><a href='https://rohanbansal.com/qorl'>Training a 4B model to produce 81% faster query plans than Postgres</a></td><td>575 👍</td><td>121 💬</td></tr>
-<tr><td>10.</td><td><a href='https://mimo.xiaomi.com/rl/'>Xiaomi Mimo 2.6 live post-training dashboard</a></td><td>459 👍</td><td>128 💬</td></tr>
+<tr><td>1.</td><td><a href='https://global.fujitsu/en-global/pr/news/2026/09/14-02'>Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA</a></td><td>300 👍</td><td>116 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters'>Artificial intelligence now beats some of the best human forecasters</a></td><td>55 👍</td><td>44 💬</td></tr>
+<tr><td>3.</td><td><a href='https://whoisinspace.com'>Whoisinspace.com/</a></td><td>44 👍</td><td>14 💬</td></tr>
+<tr><td>4.</td><td><a href='https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure'>CrowdSec Source Code Leak</a></td><td>30 👍</td><td>13 💬</td></tr>
+<tr><td>5.</td><td><a href='https://github.com/asciimoo/hister'>hister</a></td><td>25 👍</td><td>3 💬</td></tr>
+<tr><td>6.</td><td><a href='https://zscc.ai/careers?job_id=109821'>Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips fo...</a></td><td>1 👍</td><td>0 💬</td></tr>
+<tr><td>7.</td><td><a href='https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/'>LLM Classification Is Feature Engineering</a></td><td>35 👍</td><td>9 💬</td></tr>
+<tr><td>8.</td><td><a href='https://vinix-os.org/'>Vinix – A modern operating system written in V</a></td><td>30 👍</td><td>15 💬</td></tr>
+<tr><td>9.</td><td><a href='https://diewithme.co/join'>Show HN: Die With Me – Claude and Codex rate limits as AIM away mes...</a></td><td>10 👍</td><td>10 💬</td></tr>
+<tr><td>10.</td><td><a href='https://servo.org/blog/2026/09/15/one-year-of-sponsorship/'>One Year of Sponsored Servo Development</a></td><td>283 👍</td><td>124 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>17 Sep 2026, 12:09 UTC</b> · Data from Hacker News</sub>
+<b>17 Sep 2026, 17:11 UTC</b>
 
 ---
 
