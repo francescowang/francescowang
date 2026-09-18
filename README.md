@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://openjev.com/'>OpenJev</a></td><td>161 👍</td><td>88 💬</td></tr>
-<tr><td>2.</td><td><a href='https://tokenstead.ai/guides/zcode-silent-git-history-upload'>ZCode, the GLM coding agent, silently uploads your Git history</a></td><td>61 👍</td><td>15 💬</td></tr>
-<tr><td>3.</td><td><a href='https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/'>Microsoft exec called AI scraping 'the largest theft of labor in hu...</a></td><td>215 👍</td><td>144 💬</td></tr>
-<tr><td>4.</td><td><a href='https://github.com/jemalloc/jemalloc/releases/tag/5.4.0'>Jemalloc 5.4.0</a></td><td>188 👍</td><td>53 💬</td></tr>
-<tr><td>5.</td><td><a href='https://fex-emu.com/Scourge-of-emulation/'>The scourge of x86 emulation</a></td><td>172 👍</td><td>34 💬</td></tr>
-<tr><td>6.</td><td><a href='https://openai.com/index/astra-for-law/'>Astra for Law</a></td><td>512 👍</td><td>596 💬</td></tr>
-<tr><td>7.</td><td><a href='https://prismml.com/news/bonsai-2-27b'>Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint</a></td><td>475 👍</td><td>139 💬</td></tr>
-<tr><td>8.</td><td><a href='https://zed.dev/blog/delta-public-beta'>Replacing Pull Requests with Delta</a></td><td>46 👍</td><td>16 💬</td></tr>
-<tr><td>9.</td><td><a href='https://bend-lang.com/'>Bend – A language that blocks AI mistakes via proof, on CPU and GPU</a></td><td>500 👍</td><td>238 💬</td></tr>
-<tr><td>10.</td><td><a href='https://qwen.ai/blog?id=qwen3.8-omni-flash'>Qwen 3.8 Omni Flash</a></td><td>248 👍</td><td>86 💬</td></tr>
+<tr><td>1.</td><td><a href='https://try.cloudflare.com/'>Cloudflare Quick Tunnels</a></td><td>145 👍</td><td>73 💬</td></tr>
+<tr><td>2.</td><td><a href='https://arxiv.org/abs/2609.20804'>An Empirical Study of Harness Design for Coding Agents</a></td><td>149 👍</td><td>32 💬</td></tr>
+<tr><td>3.</td><td><a href='https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes'>North Korean nuclear test sets off years of earthquakes</a></td><td>60 👍</td><td>45 💬</td></tr>
+<tr><td>4.</td><td><a href='https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/'>I vibed a proof of Conway's conjecture</a></td><td>75 👍</td><td>80 💬</td></tr>
+<tr><td>5.</td><td><a href='https://openjev.com/'>OpenJev</a></td><td>364 👍</td><td>197 💬</td></tr>
+<tr><td>6.</td><td><a href='https://github.com/Tombert/office365_flake'>Show HN: Microsoft Office running with Wine on Linux with no virtua...</a></td><td>19 👍</td><td>9 💬</td></tr>
+<tr><td>7.</td><td><a href='https://www.miro.vision/index.php/2026/09/17/grasslobbster/'>GrassLobster: AI Agentic Generation of Parametric Geometry Workflows</a></td><td>14 👍</td><td>2 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops'>C++26: Trivial infinite loops are no longer undefined behaviour</a></td><td>36 👍</td><td>73 💬</td></tr>
+<tr><td>9.</td><td><a href='https://cactuscompute.com/needle'>Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSe...</a></td><td>13 👍</td><td>1 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/'>Mathematicians Build Long-Awaited Graph Sandwich</a></td><td>20 👍</td><td>1 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>18 Sep 2026, 11:52 UTC</b> · Data from Hacker News</sub>
+<b>18 Sep 2026, 16:36 UTC</b>
 
 ---
 
