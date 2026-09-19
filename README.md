@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html'>Human brain is two separate organs, Stanford Medicine-led research ...</a></td><td>276 👍</td><td>108 💬</td></tr>
-<tr><td>2.</td><td><a href='https://john.hartnup.uk/2026/06/07/ai-event-posters.html'>AI-generated posters don’t have to be horrible</a></td><td>209 👍</td><td>136 💬</td></tr>
-<tr><td>3.</td><td><a href='https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/'>If math is more than proof, we need to better celebrate the rest of it</a></td><td>129 👍</td><td>95 💬</td></tr>
-<tr><td>4.</td><td><a href='https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio'>GPT-6 Astra Solves a WWI German Radio Cipher</a></td><td>138 👍</td><td>76 💬</td></tr>
-<tr><td>5.</td><td><a href='https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here'>“The Secret Life of Circuits” is here</a></td><td>58 👍</td><td>23 💬</td></tr>
-<tr><td>6.</td><td><a href='https://grapheneos.social/@GrapheneOS/117282080803799576'>Android 17 is the first since 3.x to add new APIs without releasing...</a></td><td>866 👍</td><td>444 💬</td></tr>
-<tr><td>7.</td><td><a href='https://onionfutures.com/'>San Francisco Onion Futures Company</a></td><td>210 👍</td><td>76 💬</td></tr>
-<tr><td>8.</td><td><a href='https://try.cloudflare.com/'>Cloudflare Quick Tunnels</a></td><td>722 👍</td><td>285 💬</td></tr>
-<tr><td>9.</td><td><a href='https://browser.geekbench.com/v7/cpu/389219'>Apple M6 Pro Achieves the Highest Single-Core CPU Score in Geekbench 7</a></td><td>77 👍</td><td>62 💬</td></tr>
-<tr><td>10.</td><td><a href='https://sdcc.sourceforge.net/'>SDCC – Small Device C Compiler</a></td><td>92 👍</td><td>20 💬</td></tr>
+<tr><td>1.</td><td><a href='https://laya.convaiinnovations.com/'>Laya the open source version of Jev</a></td><td>443 👍</td><td>101 💬</td></tr>
+<tr><td>2.</td><td><a href='https://github.com/mindbox77/zxdesk'>A graphical desktop for the ZX Spectrum</a></td><td>50 👍</td><td>27 💬</td></tr>
+<tr><td>3.</td><td><a href='https://john.hartnup.uk/2026/06/07/ai-event-posters.html'>AI-generated posters don’t have to be horrible</a></td><td>674 👍</td><td>399 💬</td></tr>
+<tr><td>4.</td><td><a href='https://planetscale.com/blog/introducing-tin'>Tin: full-text search for Postgres</a></td><td>56 👍</td><td>16 💬</td></tr>
+<tr><td>5.</td><td><a href='https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/'>What Zig felt like, coming from Rust</a></td><td>81 👍</td><td>71 💬</td></tr>
+<tr><td>6.</td><td><a href='https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html'>Human brain is two separate organs, Stanford Medicine-led research ...</a></td><td>459 👍</td><td>170 💬</td></tr>
+<tr><td>7.</td><td><a href='https://medium.com/@TmlrOrg/asking-authors-about-their-own-papers-3d2e04e5dee0'>Asking Authors About Their Own Papers</a></td><td>42 👍</td><td>18 💬</td></tr>
+<tr><td>8.</td><td><a href='https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here'>“The Secret Life of Circuits” is here</a></td><td>174 👍</td><td>44 💬</td></tr>
+<tr><td>9.</td><td><a href='https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/'>Black Holes or Black Hole Stars? Astronomers Spar over 'Little Red ...</a></td><td>36 👍</td><td>7 💬</td></tr>
+<tr><td>10.</td><td><a href='https://grapheneos.social/@GrapheneOS/117282080803799576'>Android 17 is the first since 3.x to add new APIs without releasing...</a></td><td>962 👍</td><td>530 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>19 Sep 2026, 11:36 UTC</b> · Data from Hacker News</sub>
+<b>19 Sep 2026, 15:58 UTC</b>
 
 ---
 
