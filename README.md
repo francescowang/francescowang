@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://zuckoff.app/'>ZuckOff Know when a camera is in the room</a></td><td>417 👍</td><td>163 💬</td></tr>
-<tr><td>2.</td><td><a href='https://consumerrights.wiki/w/Disney%2B_ad_policy_change'>Disney+: New user agreement allows ads before movies in all subscri...</a></td><td>195 👍</td><td>126 💬</td></tr>
-<tr><td>3.</td><td><a href='https://github.com/jaredpalmer/kev/tree/main'>Kev: Tiny Jev-like family of decision models built on top of Qwen3.5</a></td><td>194 👍</td><td>88 💬</td></tr>
-<tr><td>4.</td><td><a href='https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff'>ZuckOff Is a Free App That Sees Meta Glasses Before They See You</a></td><td>215 👍</td><td>19 💬</td></tr>
-<tr><td>5.</td><td><a href='https://github.com/f/jev-leftpad'>Jev-Leftpad</a></td><td>132 👍</td><td>46 💬</td></tr>
-<tr><td>6.</td><td><a href='http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf'>Grim Fandango Puzzle Document (1996) [pdf]</a></td><td>253 👍</td><td>55 💬</td></tr>
-<tr><td>7.</td><td><a href='https://github.com/aru-labs/lossless-memory'>Show HN: Lossless-memory – a personal AI memory that never summarizes</a></td><td>10 👍</td><td>1 💬</td></tr>
-<tr><td>8.</td><td><a href='https://agentexecutor.io'>AX – Google’s Open Agentic Orchestrator</a></td><td>552 👍</td><td>248 💬</td></tr>
-<tr><td>9.</td><td><a href='https://forums.raspberrypi.com/viewtopic.php?p=2380887#p2380888'>Raspberry Pi blocks changing RAM chips</a></td><td>40 👍</td><td>10 💬</td></tr>
-<tr><td>10.</td><td><a href='https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say'>Samsung is expected to more than double output of its HBM4 and HBM4...</a></td><td>507 👍</td><td>360 💬</td></tr>
+<tr><td>1.</td><td><a href='https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/'>What Sun got wrong</a></td><td>323 👍</td><td>173 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.multifamilydive.com/news/seattle-ban-rental-junk-fees/827816/'>Seattle Bans Rental Junk Fees</a></td><td>31 👍</td><td>31 💬</td></tr>
+<tr><td>3.</td><td><a href='https://alicegg.tech/2026/09/21/attention'>Attention is all you have</a></td><td>267 👍</td><td>74 💬</td></tr>
+<tr><td>4.</td><td><a href='https://x.ai/news/grok-4-7'>Grok 4.7</a></td><td>253 👍</td><td>206 💬</td></tr>
+<tr><td>5.</td><td><a href='https://twitter.com/Lon/status/2101793422487204027'>Fable 5 – Median thinking declined in August</a></td><td>145 👍</td><td>86 💬</td></tr>
+<tr><td>6.</td><td><a href='https://spectrum.ieee.org/hermes-shortwave-radio-digital-data'>This Digital Radio Gets Messages to the World’s Remotest Locations</a></td><td>30 👍</td><td>12 💬</td></tr>
+<tr><td>7.</td><td><a href='https://blog.cloudflare.com/python-workers-ga/'>Python Workers are now generally available</a></td><td>87 👍</td><td>5 💬</td></tr>
+<tr><td>8.</td><td><a href='https://github.com/jaredpalmer/kev/tree/main'>Kev: Tiny Jev-like family of decision models built on top of Qwen3.5</a></td><td>319 👍</td><td>151 💬</td></tr>
+<tr><td>9.</td><td><a href='https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work'>How do Traffic Signals Work (2019)</a></td><td>21 👍</td><td>16 💬</td></tr>
+<tr><td>10.</td><td><a href='https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac'>Turn off and restrict access to Apple Intelligence features on Mac</a></td><td>13 👍</td><td>3 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>21 Sep 2026, 13:23 UTC</b> · Data from Hacker News</sub>
+<b>21 Sep 2026, 18:15 UTC</b>
 
 ---
 
