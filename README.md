@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://board.flatassembler.net/topic.php?t=24261'>AMD's random number generator can't generate a 0?</a></td><td>104 👍</td><td>54 💬</td></tr>
-<tr><td>2.</td><td><a href='https://nathan.rs/posts/gzip-lm/'>Can gzip be a language model?</a></td><td>192 👍</td><td>76 💬</td></tr>
-<tr><td>3.</td><td><a href='https://www.bristol.ac.uk/news/2026/september/world-cup-viewers.html'>9 Ads per Minute: FIFA Cup 26 – "the price of the beautiful game"</a></td><td>79 👍</td><td>88 💬</td></tr>
-<tr><td>4.</td><td><a href='https://mimo.xiaomi.com/mimo-v2-6'>MiMo v2.6</a></td><td>945 👍</td><td>419 💬</td></tr>
-<tr><td>5.</td><td><a href='https://blog.pwkf.org/2026/09/21/correct-type-punning-in-c.html'>Type Punning in C and C++</a></td><td>11 👍</td><td>1 💬</td></tr>
-<tr><td>6.</td><td><a href='https://brand.io/article/spymarks/'>Spymarks, Not Watermarks</a></td><td>487 👍</td><td>120 💬</td></tr>
-<tr><td>7.</td><td><a href='https://verda.com/blog/what-189m-in-funding-unlocks-for-verda-customers'>Verda (Finland) raises $189M in Series B</a></td><td>28 👍</td><td>9 💬</td></tr>
-<tr><td>8.</td><td><a href='https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air/'>JetBrains Air: A System of Products for Agentic Software Development</a></td><td>36 👍</td><td>23 💬</td></tr>
-<tr><td>9.</td><td><a href='https://poloclub.github.io/transformer-explainer/'>Transformers Explained Visually</a></td><td>455 👍</td><td>71 💬</td></tr>
-<tr><td>10.</td><td><a href='https://alicegg.tech/2026/09/21/attention'>Attention is all you have</a></td><td>856 👍</td><td>255 💬</td></tr>
+<tr><td>1.</td><td><a href='https://www.anthropic.com/claude-opus-5-5'>Claude Opus 5.5</a></td><td>111 👍</td><td>215 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.cryptocellar.org/bgac/the-mvueh-break.html'>OpenAI GPT–6 Astra breaks Enigma message that has resisted solution...</a></td><td>312 👍</td><td>270 💬</td></tr>
+<tr><td>3.</td><td><a href='https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/'>OpenAI is well positioned to fast-follow Jev</a></td><td>132 👍</td><td>99 💬</td></tr>
+<tr><td>4.</td><td><a href='https://allpoetry.com/16-bit-Intel-8088-chip'>16-bit Intel 8088 chip</a></td><td>38 👍</td><td>3 💬</td></tr>
+<tr><td>5.</td><td><a href='https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp'>A WordPress vulnerability scored 9.2/10 is present in all versions ...</a></td><td>16 👍</td><td>2 💬</td></tr>
+<tr><td>6.</td><td><a href='https://www.quantamagazine.org/why-aging-may-be-a-program-not-a-breakdown-20260814/'>Aging may be a program, not a breakdown</a></td><td>15 👍</td><td>2 💬</td></tr>
+<tr><td>7.</td><td><a href='https://minimaxir.com/2026/09/agentic-iteration/'>Writing Rust code that's fast by asking agents to make the code faster</a></td><td>35 👍</td><td>14 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy'>Apple has added persistent 'ads' to iOS, and it's driving users crazy</a></td><td>325 👍</td><td>238 💬</td></tr>
+<tr><td>9.</td><td><a href='https://droprun.sh/'>Show HN: Drop – A rootless Linux sandbox with gVisor support</a></td><td>94 👍</td><td>28 💬</td></tr>
+<tr><td>10.</td><td><a href='https://ai-rete-rag.com/'>Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why</a></td><td>6 👍</td><td>0 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>22 Sep 2026, 12:04 UTC</b> · Data from Hacker News</sub>
+<b>22 Sep 2026, 17:07 UTC</b>
 
 ---
 
