@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.nobodywho.ai/posts/jev-in-25-lines/'>Jev in 25 Lines of Python</a></td><td>261 👍</td><td>86 💬</td></tr>
-<tr><td>2.</td><td><a href='https://abagames.github.io/z80-repl/index.html'>Z80 REPL</a></td><td>15 👍</td><td>0 💬</td></tr>
-<tr><td>3.</td><td><a href='https://openai.com/index/introducing-gpt-6-sol-and-luna/'>GPT-6 Sol and Luna</a></td><td>1597 👍</td><td>768 💬</td></tr>
-<tr><td>4.</td><td><a href='https://www.anthropic.com/claude-opus-5-5'>Claude Opus 5.5</a></td><td>1605 👍</td><td>989 💬</td></tr>
-<tr><td>5.</td><td><a href='https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/'>The darker side of being a doctor</a></td><td>117 👍</td><td>84 💬</td></tr>
-<tr><td>6.</td><td><a href='https://waymo.com/blog/2026/09/transit-rewards/'>Transit rewards</a></td><td>167 👍</td><td>200 💬</td></tr>
-<tr><td>7.</td><td><a href='https://questdb.com/careers/pre-sales-engineer-north-america/'>QuestDB (YC S20) Is Hiring a Sales Engineer</a></td><td>1 👍</td><td>0 💬</td></tr>
-<tr><td>8.</td><td><a href='https://www.cryptocellar.org/bgac/the-mvueh-break.html'>OpenAI GPT–6 Astra breaks Enigma message that has resisted solution...</a></td><td>683 👍</td><td>402 💬</td></tr>
-<tr><td>9.</td><td><a href='https://foxscript.org/'>Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived</a></td><td>358 👍</td><td>200 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/'>The Download: why AI's latest breakthroughs and fears may be more h...</a></td><td>32 👍</td><td>32 💬</td></tr>
+<tr><td>1.</td><td><a href='https://pointinthecloud.com/2026-04-11-211700.html'>Fixing the Portobello Police Station Clock</a></td><td>163 👍</td><td>35 💬</td></tr>
+<tr><td>2.</td><td><a href='https://unlisted.careers/ghost-jobs/report/2026-09'>28% of job postings on company career sites have been open over 90 ...</a></td><td>38 👍</td><td>34 💬</td></tr>
+<tr><td>3.</td><td><a href='https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol'>Radicle: Disclosure of Vulnerability in the Network Protocol</a></td><td>37 👍</td><td>12 💬</td></tr>
+<tr><td>4.</td><td><a href='https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/'>Gemini 3.8 text-to-speech</a></td><td>81 👍</td><td>49 💬</td></tr>
+<tr><td>5.</td><td><a href='https://stripe.dev/blog/meet-stripes-knowledge-ai-platform'>Stripe's Knowledge AI Platform</a></td><td>109 👍</td><td>61 💬</td></tr>
+<tr><td>6.</td><td><a href='https://www.nobodywho.ai/posts/jev-in-25-lines/'>Jev in 25 Lines of Python</a></td><td>498 👍</td><td>153 💬</td></tr>
+<tr><td>7.</td><td><a href='https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/'>Claude Code reads AGENTS.md only when telemetry is on [fixed]</a></td><td>365 👍</td><td>201 💬</td></tr>
+<tr><td>8.</td><td><a href='https://strandsagents.com/blog/introducing-strands-harness/'>Strands Harness</a></td><td>81 👍</td><td>55 💬</td></tr>
+<tr><td>9.</td><td><a href='https://openai.com/index/introducing-gpt-6-sol-and-luna/'>GPT-6 Sol and Luna</a></td><td>1680 👍</td><td>804 💬</td></tr>
+<tr><td>10.</td><td><a href='https://abagames.github.io/z80-repl/index.html'>Z80 REPL (2018)</a></td><td>110 👍</td><td>14 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>23 Sep 2026, 12:16 UTC</b> · Data from Hacker News</sub>
+<b>23 Sep 2026, 17:20 UTC</b>
 
 ---
 
