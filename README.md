@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://nokiadesignarchive.aalto.fi/index.html'>Nokia Design Archive (2025)</a></td><td>87 👍</td><td>44 💬</td></tr>
-<tr><td>2.</td><td><a href='https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux'>Linux support is coming to Snapdragon X2 Series</a></td><td>468 👍</td><td>196 💬</td></tr>
-<tr><td>3.</td><td><a href='https://www.anthropic.com/news/claude-discovers-novel-enzyme-system'>Claude discovers a novel enzyme system with CRISPR-like repeats</a></td><td>683 👍</td><td>695 💬</td></tr>
-<tr><td>4.</td><td><a href='https://lwn.net/SubscriberLink/1095425/2d9f411252325784/'>Ideas on modernizing the open-source desktop</a></td><td>184 👍</td><td>209 💬</td></tr>
-<tr><td>5.</td><td><a href='https://blog.coredump.cx/p/memory-the-forgotten-history'>RAM: the forgotten history (2024)</a></td><td>40 👍</td><td>0 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/'>Meta takes down a critical video about meta AI Glasses after filmin...</a></td><td>247 👍</td><td>116 💬</td></tr>
-<tr><td>7.</td><td><a href='https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/'>ArXiv receives multiyear commitments to support it as an independen...</a></td><td>209 👍</td><td>27 💬</td></tr>
-<tr><td>8.</td><td><a href='https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/'>The newest ESP32 can run Linux and it's getting close to a Raspberr...</a></td><td>27 👍</td><td>5 💬</td></tr>
-<tr><td>9.</td><td><a href='https://fly.io/blog/vscode-ssh-wtf/'>VSCode's SSH Agent Is Bananas (2025)</a></td><td>254 👍</td><td>160 💬</td></tr>
-<tr><td>10.</td><td><a href='https://contrastive-lm.notion.site/'>Contrastive Language Models</a></td><td>94 👍</td><td>22 💬</td></tr>
+<tr><td>1.</td><td><a href='https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html'>F-Droid 2.0</a></td><td>314 👍</td><td>84 💬</td></tr>
+<tr><td>2.</td><td><a href='https://macanorak.com/two-tier-encryption-in-the-uk/'>Two-tier encryption in the UK</a></td><td>247 👍</td><td>238 💬</td></tr>
+<tr><td>3.</td><td><a href='https://repo.aalto.fi/index.php?name=SO_b66a9391-dcf8-4399-8e87-611f84c3fc4c'>Nokia Design Archive (2025)</a></td><td>173 👍</td><td>91 💬</td></tr>
+<tr><td>4.</td><td><a href='https://successfulsoftware.net/2026/09/24/github-has-not-removed-malicious-imitation-software-after-3-weeks/'>GitHub has not removed malicious imitation software after 3 weeks</a></td><td>104 👍</td><td>35 💬</td></tr>
+<tr><td>5.</td><td><a href='https://thecretefleet.com/blog/f/b5-bj2---ice-cream-barges---concrete-ship-constructors'>B5-BJ2 – Ice Cream Barges – Concrete Ship Constructors (2023)</a></td><td>8 👍</td><td>1 💬</td></tr>
+<tr><td>6.</td><td><a href='https://github.com/christianrowlands/wavedigger'>WaveDigger: Dig into wireless signals to discover their physical lo...</a></td><td>20 👍</td><td>2 💬</td></tr>
+<tr><td>7.</td><td><a href='https://viewsproject.wordpress.com/2026/09/06/chinese-calligraphy-workshop/'>Experiencing writing at our recent Chinese calligraphy workshop</a></td><td>5 👍</td><td>1 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux'>Linux support is coming to Snapdragon X2 series</a></td><td>571 👍</td><td>240 💬</td></tr>
+<tr><td>9.</td><td><a href='https://jgeekstudies.org/2026/09/23/the-science-of-monkey-island-can-grog-actually-dissolve-a-metal-mug-that-fast/'>The science of Monkey Island: can grog dissolve a metal mug that fast?</a></td><td>88 👍</td><td>16 💬</td></tr>
+<tr><td>10.</td><td><a href='https://lwn.net/SubscriberLink/1095425/2d9f411252325784/'>Ideas on modernizing the open-source desktop</a></td><td>325 👍</td><td>405 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>24 Sep 2026, 12:17 UTC</b> · Data from Hacker News</sub>
+<b>24 Sep 2026, 17:25 UTC</b>
 
 ---
 
