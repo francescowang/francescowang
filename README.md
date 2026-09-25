@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.dawo.community/en/'>Dutch governments builds alternative for Microsoft based on NixOS</a></td><td>378 👍</td><td>166 💬</td></tr>
-<tr><td>2.</td><td><a href='https://www.inkandswitch.com/'>Ink and Switch Interactive Homepage</a></td><td>58 👍</td><td>10 💬</td></tr>
-<tr><td>3.</td><td><a href='https://nyaa.sh/reviews/mac-mini-m6-emulation'>Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini</a></td><td>97 👍</td><td>39 💬</td></tr>
-<tr><td>4.</td><td><a href='https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html'>F-Droid 2.0</a></td><td>1289 👍</td><td>372 💬</td></tr>
-<tr><td>5.</td><td><a href='https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2'>CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox P...</a></td><td>64 👍</td><td>16 💬</td></tr>
-<tr><td>6.</td><td><a href='https://openai.com/index/special-projects/'>Special Projects (2016)</a></td><td>36 👍</td><td>14 💬</td></tr>
-<tr><td>7.</td><td><a href='https://github.com/bertaye/agentic-cuda-optimizer'>Show HN: Agentic CUDA Kernel Optimizer</a></td><td>10 👍</td><td>0 💬</td></tr>
-<tr><td>8.</td><td><a href='https://go.dev/blog/simd-experiment'>Platform-Independent SIMD in Go</a></td><td>4 👍</td><td>0 💬</td></tr>
-<tr><td>9.</td><td><a href='https://bastardica.mitpit.com'>Show HN: Make cursed fonts like Times New Bastard</a></td><td>734 👍</td><td>101 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016'>Oracle on the hook to pay data centre investors even if site has no...</a></td><td>51 👍</td><td>34 💬</td></tr>
+<tr><td>1.</td><td><a href='https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html'>U.S. appeals court upholds designation of Anthropic as supply chain...</a></td><td>151 👍</td><td>163 💬</td></tr>
+<tr><td>2.</td><td><a href='https://go.dev/blog/simd-experiment'>Platform-Independent SIMD in Go</a></td><td>213 👍</td><td>83 💬</td></tr>
+<tr><td>3.</td><td><a href='https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/'>Gravity Seems Holographic. What Does That Mean for Reality?</a></td><td>27 👍</td><td>29 💬</td></tr>
+<tr><td>4.</td><td><a href='https://github.com/git-bug/git-bug'>Git-bug: Distributed, offline-first bug tracker embedded in Git</a></td><td>189 👍</td><td>58 💬</td></tr>
+<tr><td>5.</td><td><a href='https://sunilsadasivan.com/writing/first-principles-thinking/'>First Principles Thinking</a></td><td>87 👍</td><td>36 💬</td></tr>
+<tr><td>6.</td><td><a href='https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models'>Classified Estimates Show the NSA Is Paying Billions to Test AI Models</a></td><td>101 👍</td><td>51 💬</td></tr>
+<tr><td>7.</td><td><a href='https://github.com/Avinash-jetwani/jevmem'>Jevmem – automatic project memory for Claude Code, built on Jev</a></td><td>43 👍</td><td>27 💬</td></tr>
+<tr><td>8.</td><td><a href='https://nyaa.sh/reviews/mac-mini-m6-emulation'>Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini</a></td><td>201 👍</td><td>89 💬</td></tr>
+<tr><td>9.</td><td><a href='https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html'>F-Droid 2.0</a></td><td>1397 👍</td><td>397 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.inkandswitch.com/'>Ink and Switch Interactive Homepage</a></td><td>151 👍</td><td>21 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>25 Sep 2026, 12:18 UTC</b> · Data from Hacker News</sub>
+<b>25 Sep 2026, 17:24 UTC</b>
 
 ---
 
