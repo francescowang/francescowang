@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://gultsch.de/posts/breaking-up-with-google-play/'>Breaking Up with Google Play: Why Conversations Is Now Free</a></td><td>57 👍</td><td>1 💬</td></tr>
-<tr><td>2.</td><td><a href='https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story'>Fifteen years later, the Apple Cards origin story</a></td><td>74 👍</td><td>3 💬</td></tr>
-<tr><td>3.</td><td><a href='https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html'>One Month Without AI</a></td><td>47 👍</td><td>29 💬</td></tr>
-<tr><td>4.</td><td><a href='https://swarmtraces.org/'>Revealing the details of how OpenAI agents hacked Hugging Face</a></td><td>519 👍</td><td>327 💬</td></tr>
-<tr><td>5.</td><td><a href='https://floci.io'>Floci: Locally emulating any cloud service</a></td><td>28 👍</td><td>5 💬</td></tr>
-<tr><td>6.</td><td><a href='https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/'>We're gonna need a lot more mathematicians</a></td><td>169 👍</td><td>213 💬</td></tr>
-<tr><td>7.</td><td><a href='http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html'>A single function Jev-like wrapper for LLMs, including vision models</a></td><td>94 👍</td><td>26 💬</td></tr>
-<tr><td>8.</td><td><a href='https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html'>Plan mode is dead</a></td><td>364 👍</td><td>329 💬</td></tr>
-<tr><td>9.</td><td><a href='https://ollaya.dev/'>Ollaya – Ollama for open-source, Jev-style decision models</a></td><td>483 👍</td><td>121 💬</td></tr>
-<tr><td>10.</td><td><a href='https://safenotsafe.dev/'>Is your Postgres migration safe or not safe?</a></td><td>44 👍</td><td>11 💬</td></tr>
+<tr><td>1.</td><td><a href='https://gultsch.de/posts/breaking-up-with-google-play/'>Breaking Up with Google Play: Why Conversations Is Now Free</a></td><td>422 👍</td><td>162 💬</td></tr>
+<tr><td>2.</td><td><a href='https://github.com/InfinityLoop1308/PipePipe'>PipePipe: NewPipe hard fork implementing SponsorBlock</a></td><td>41 👍</td><td>25 💬</td></tr>
+<tr><td>3.</td><td><a href='https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story'>Fifteen years later, the Apple Cards origin story</a></td><td>205 👍</td><td>32 💬</td></tr>
+<tr><td>4.</td><td><a href='https://github.com/brumar/chess-postmortem-skills'>Show HN: A Claude Code skill to analyze your chess games</a></td><td>15 👍</td><td>8 💬</td></tr>
+<tr><td>5.</td><td><a href='https://castle-engine.io/modern_pascal'>Modern Object Pascal Introduction for Programmers – Castle Game Engine</a></td><td>63 👍</td><td>21 💬</td></tr>
+<tr><td>6.</td><td><a href='https://swarmtraces.org/'>Revealing the details of how OpenAI agents hacked Hugging Face</a></td><td>613 👍</td><td>392 💬</td></tr>
+<tr><td>7.</td><td><a href='https://gmays.com/reflections-on-1000-days-of-math/'>Reflections on 1,000 Days of Math</a></td><td>24 👍</td><td>4 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe'>Plunging test scores are a slow-moving catastrophe</a></td><td>57 👍</td><td>68 💬</td></tr>
+<tr><td>9.</td><td><a href='https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/'>We're gonna need a lot more mathematicians</a></td><td>256 👍</td><td>357 💬</td></tr>
+<tr><td>10.</td><td><a href='https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/'>Automattic has a new board after failed attempt to put CEO on leave</a></td><td>20 👍</td><td>18 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>26 Sep 2026, 11:50 UTC</b> · Data from Hacker News</sub>
+<b>26 Sep 2026, 16:33 UTC</b>
 
 ---
 
