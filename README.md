@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://arxiv.org/abs/2609.25021'>"As a Language Model": Chat Template Switches LLM Self-Referential ...</a></td><td>52 👍</td><td>37 💬</td></tr>
-<tr><td>2.</td><td><a href='https://mitxela.com/projects/flipflip'>Flip Fluid on Flip Dots</a></td><td>138 👍</td><td>12 💬</td></tr>
-<tr><td>3.</td><td><a href='https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/'>OpenAI Feared "Optics" of what might appear on Hacker News</a></td><td>314 👍</td><td>260 💬</td></tr>
-<tr><td>4.</td><td><a href='https://www.astralcodexten.com/p/does-georgism-work-five-years-later'>Does Georgism work? Five years later</a></td><td>382 👍</td><td>274 💬</td></tr>
-<tr><td>5.</td><td><a href='https://antonz.org/go-concurrency-distilled/'>Go Concurrency Distilled</a></td><td>255 👍</td><td>102 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.sciencenews.org/article/true-blue-rose-pigment-copigment'>Finally, A True Blue Rose Exists</a></td><td>28 👍</td><td>6 💬</td></tr>
-<tr><td>7.</td><td><a href='https://github.com/InfinityLoop1308/PipePipe'>PipePipe: NewPipe hard fork implementing SponsorBlock</a></td><td>439 👍</td><td>238 💬</td></tr>
-<tr><td>8.</td><td><a href='https://arxiv.org/abs/2609.22978'>DeepSeek Elastic Compute (DSec)</a></td><td>267 👍</td><td>89 💬</td></tr>
-<tr><td>9.</td><td><a href='https://github.com/reladraw/reladraw'>Show HN: Reladraw – A diagram language where you decide where to pl...</a></td><td>330 👍</td><td>90 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/'>Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks fr...</a></td><td>243 👍</td><td>158 💬</td></tr>
+<tr><td>1.</td><td><a href='https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html'>The Normalization of Inexplicable Failures</a></td><td>81 👍</td><td>14 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html'>In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life</a></td><td>74 👍</td><td>28 💬</td></tr>
+<tr><td>3.</td><td><a href='https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/'>Replacing the old battery on rechargeable bike lights</a></td><td>69 👍</td><td>28 💬</td></tr>
+<tr><td>4.</td><td><a href='https://asawicki.info/articles/writing_efficient_cpp_code.php'>Writing Efficient C++ Code</a></td><td>57 👍</td><td>13 💬</td></tr>
+<tr><td>5.</td><td><a href='https://pixelambacht.nl/2026/ten-lines-of-code/'>Ten Lines of Code That Changed My World</a></td><td>43 👍</td><td>8 💬</td></tr>
+<tr><td>6.</td><td><a href='https://tinyaiarena.com/'>Show HN: TinyAIArena watch AI agents battle it out</a></td><td>20 👍</td><td>11 💬</td></tr>
+<tr><td>7.</td><td><a href='https://mitxela.com/projects/flipflip'>Flip Fluid on Flip Dots</a></td><td>282 👍</td><td>19 💬</td></tr>
+<tr><td>8.</td><td><a href='https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents'>There are no "rogue" AI agents</a></td><td>24 👍</td><td>12 💬</td></tr>
+<tr><td>9.</td><td><a href='https://fakecloud.dev/'>Fakecloud: Local AWS cloud emulator for integration tests</a></td><td>48 👍</td><td>29 💬</td></tr>
+<tr><td>10.</td><td><a href='https://nura.eco/blog/2026/09/27/nura-rename/'>postmarketOS Rebrand: Nura</a></td><td>61 👍</td><td>3 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>27 Sep 2026, 12:30 UTC</b> · Data from Hacker News</sub>
+<b>27 Sep 2026, 17:07 UTC</b>
 
 ---
 
