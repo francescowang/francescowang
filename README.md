@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://git.mills.io/prologic/parley'>Parley: Federated, decentralised chat that speaks plain IRC</a></td><td>155 👍</td><td>77 💬</td></tr>
-<tr><td>2.</td><td><a href='https://blog.alexewerlof.com/p/coding-is-not-solved'>Coding Is Not Solved – Alex Ewerlöf Notes</a></td><td>52 👍</td><td>47 💬</td></tr>
-<tr><td>3.</td><td><a href='https://theeducatorsroom.com/has-violence-against-teachers-become-accepted-by-society/'>Has Violence Against Teachers Become Accepted by Society?</a></td><td>9 👍</td><td>3 💬</td></tr>
-<tr><td>4.</td><td><a href='https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/'>AI companies in race to demonstrate their model most threatening to...</a></td><td>357 👍</td><td>280 💬</td></tr>
-<tr><td>5.</td><td><a href='https://github.com/ahmd-sh/hntui'>Show HN: Hntui – A TUI for Hacker News</a></td><td>56 👍</td><td>27 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.habibicode.org/thedrawnworld'>37,500 border drawings: a map of the world as people remember it</a></td><td>93 👍</td><td>24 💬</td></tr>
-<tr><td>7.</td><td><a href='https://bookofrevenue.com/blog/6ab81e9a97a13f0001f7e4e1/postgres-at-time-zone-u-does-not-do-what-you-think-it-does'>Footguns with Postgres "at time zone 'UTC'"</a></td><td>95 👍</td><td>49 💬</td></tr>
-<tr><td>8.</td><td><a href='https://colo.to/nvidia-stock-narrative.html'>Owed a billion dollars in Nvidia stock</a></td><td>889 👍</td><td>381 💬</td></tr>
-<tr><td>9.</td><td><a href='https://github.com/seamusc/papermono-shopping-list'>Show HN: PaperMono, e-ink fridge magnet shopping list with mobile w...</a></td><td>28 👍</td><td>9 💬</td></tr>
-<tr><td>10.</td><td><a href='https://fireworks.ai/blog/ember-1'>Ember-1</a></td><td>530 👍</td><td>232 💬</td></tr>
+<tr><td>1.</td><td><a href='https://mubi.com/en/notebook/posts/pirating-the-pirates'>Pirating the Pirates</a></td><td>238 👍</td><td>85 💬</td></tr>
+<tr><td>2.</td><td><a href='https://stateofutopia.com/experiments/microllmlab/'>MicroLLM Lab – Try 7 tiny LLM's in the browser</a></td><td>16 👍</td><td>1 💬</td></tr>
+<tr><td>3.</td><td><a href='https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/'>Hijacking the PS5's RTMP stream</a></td><td>119 👍</td><td>30 💬</td></tr>
+<tr><td>4.</td><td><a href='https://www.newyorker.com/culture/photo-booth/the-teen-portraits-that-captivated-sofia-coppola'>Joseph Szabo’s pictures of American adolescents</a></td><td>26 👍</td><td>5 💬</td></tr>
+<tr><td>5.</td><td><a href='https://hn.watch/'>Show HN: HN.watch – Videos of all Hacker News posts</a></td><td>101 👍</td><td>38 💬</td></tr>
+<tr><td>6.</td><td><a href='https://git.mills.io/prologic/parley'>Parley: Federated, decentralised chat that speaks plain IRC</a></td><td>255 👍</td><td>128 💬</td></tr>
+<tr><td>7.</td><td><a href='https://www.anthropic.com/claude-sonnet-5-5'>Sonnet 5.5</a></td><td>289 👍</td><td>187 💬</td></tr>
+<tr><td>8.</td><td><a href='https://sancho.bearblog.dev/google-weird/'>When did Google get so weird?</a></td><td>1759 👍</td><td>970 💬</td></tr>
+<tr><td>9.</td><td><a href='https://www.vespper.com/blog/launching-vespper-docx-mcp'>Launch HN: Vespper (YC F24) – SOTA Docx MCP</a></td><td>18 👍</td><td>5 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.smithsonianmag.com/history/who-wrote-elizabeth-is-most-scathing-letters-new-research-suggests-the-tudor-queens-male-secretaries-revised-her-correspondence-to-emphasize-her-temper-180989565/'>Who wrote Elizabeth I's most scathing letters?</a></td><td>13 👍</td><td>8 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>28 Sep 2026, 14:32 UTC</b> · Data from Hacker News</sub>
+<b>28 Sep 2026, 19:46 UTC</b>
 
 ---
 
