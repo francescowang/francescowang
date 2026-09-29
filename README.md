@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://spectrum.ieee.org/delhi-electricity-loss'>Delhi Cut Electricity Loss from 50 to 5 Percent</a></td><td>49 👍</td><td>18 💬</td></tr>
-<tr><td>2.</td><td><a href='https://www.derekthompson.org/p/the-death-of-the-american-host'>You Are No Longer Invited to Dinner</a></td><td>245 👍</td><td>196 💬</td></tr>
-<tr><td>3.</td><td><a href='https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf'>AI companies leak data to advertisers [pdf]</a></td><td>223 👍</td><td>58 💬</td></tr>
-<tr><td>4.</td><td><a href='https://github.com/PostHog/jeeves'>Jeeves. Reasoning improves Jev-like decision models</a></td><td>78 👍</td><td>34 💬</td></tr>
-<tr><td>5.</td><td><a href='https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive'>500k facial scans at UK stations yield no arrests, 1 false positive</a></td><td>144 👍</td><td>88 💬</td></tr>
-<tr><td>6.</td><td><a href='https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html'>Using any C++ library in Godot</a></td><td>83 👍</td><td>23 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.withouthotair.com/'>Without the Hot Air</a></td><td>9 👍</td><td>1 💬</td></tr>
-<tr><td>8.</td><td><a href='https://www.tomshardware.com/software/the-netherlands-is-rolling-alternative-nixos-based-software-ecosystem-after-u-s-sanctions-on-icc-took-microsoft-off-the-table-trial-programs-running-now-first-release-expected-at-end-of-2027'>US sanctions force The Netherlands off Microsoft and toward alterna...</a></td><td>120 👍</td><td>66 💬</td></tr>
-<tr><td>9.</td><td><a href='https://jagi.studio/posts/phyllotaxis/'>Phyllotaxis: An audio-reactive LED display</a></td><td>179 👍</td><td>24 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.computerworld.com/article/1673071/booted-up-in-1993-this-server-still-runs-but-not-for-much-longer-2.html'>Booted up in 1993, this server still runs – but not for much longer...</a></td><td>112 👍</td><td>53 💬</td></tr>
+<tr><td>1.</td><td><a href='https://openai.com/index/introducing-dots/'>Dots: Always-on agents</a></td><td>222 👍</td><td>120 💬</td></tr>
+<tr><td>2.</td><td><a href='https://openai.com/index/introducing-gpt-6-1-sol/'>GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price</a></td><td>320 👍</td><td>246 💬</td></tr>
+<tr><td>3.</td><td><a href='https://www.tcl-lang.org/software/tcltk/9.1.html'>Tcl/Tk 9.1 Released</a></td><td>46 👍</td><td>11 💬</td></tr>
+<tr><td>4.</td><td><a href='https://spectrum.ieee.org/delhi-electricity-loss'>How Delhi cut electricity loss from 50 to 5 percent</a></td><td>325 👍</td><td>188 💬</td></tr>
+<tr><td>5.</td><td><a href='https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising'>DraftKings Is Using AI to Behaviorally Target Chronic Gamblers</a></td><td>194 👍</td><td>135 💬</td></tr>
+<tr><td>6.</td><td><a href='https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf'>A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]</a></td><td>381 👍</td><td>121 💬</td></tr>
+<tr><td>7.</td><td><a href='https://www.withouthotair.com/'>Without the Hot Air</a></td><td>102 👍</td><td>48 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.nytimes.com/2026/09/28/science/virus-molluscum-human-gene.html'>Virus Stole a Human Gene and Won't Let Go of It</a></td><td>23 👍</td><td>4 💬</td></tr>
+<tr><td>9.</td><td><a href='https://github.com/ntfargo/Relapse-Exploit'>New PlayStation 5 Console Jailbreak Released</a></td><td>21 👍</td><td>4 💬</td></tr>
+<tr><td>10.</td><td><a href='https://github.com/PostHog/jeeves'>Jeeves. Reasoning improves Jev-like decision models</a></td><td>187 👍</td><td>79 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>29 Sep 2026, 13:22 UTC</b> · Data from Hacker News</sub>
+<b>29 Sep 2026, 18:11 UTC</b>
 
 ---
 
