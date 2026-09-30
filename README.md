@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://earendil.com/posts/you-said-no-mcp/'>Pi.dev: You Said No MCP</a></td><td>212 👍</td><td>90 💬</td></tr>
-<tr><td>2.</td><td><a href='https://projecthub.arduino.cc/syntheticaidata/jbr-001-a-desktop-companion-robot-powered-by-arduino-uno-q-b11c96'>Show HN: JBR-001 – An open-source 3D printable desktop robot</a></td><td>43 👍</td><td>7 💬</td></tr>
-<tr><td>3.</td><td><a href='https://github.com/ninjahawk/livenerf'>Livenerf: Has Opus 5.5 been nerfed yet?</a></td><td>718 👍</td><td>280 💬</td></tr>
-<tr><td>4.</td><td><a href='https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use'>Most data centers refusing to say how much water, electricity they use</a></td><td>77 👍</td><td>41 💬</td></tr>
-<tr><td>5.</td><td><a href='https://exyr.org/2026/solving-factorio-quality/'>Solving Factorio Quality</a></td><td>141 👍</td><td>41 💬</td></tr>
-<tr><td>6.</td><td><a href='https://mathigon.org/origami'>Mathematical Origami</a></td><td>16 👍</td><td>2 💬</td></tr>
-<tr><td>7.</td><td><a href='https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/'>September 2026: The world today, as seen by one Polish guy</a></td><td>358 👍</td><td>223 💬</td></tr>
-<tr><td>8.</td><td><a href='https://openai.com/index/introducing-dots/'>Dots: Always-on agents</a></td><td>664 👍</td><td>525 💬</td></tr>
-<tr><td>9.</td><td><a href='https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms'>Vermont replacing power plants with home batteries</a></td><td>250 👍</td><td>203 💬</td></tr>
-<tr><td>10.</td><td><a href='https://america.gov/'>America.gov</a></td><td>639 👍</td><td>525 💬</td></tr>
+<tr><td>1.</td><td><a href='https://github.com/magnitudedev/magnitude'>Launch HN: Magnitude (YC S25) – Self-optimizing inference engine fo...</a></td><td>23 👍</td><td>6 💬</td></tr>
+<tr><td>2.</td><td><a href='https://spectrum.ieee.org/bloomberg-terminal'>A brief history of the Bloomberg terminal</a></td><td>99 👍</td><td>34 💬</td></tr>
+<tr><td>3.</td><td><a href='https://yedhu.me/posts/commit-description-as-a-thinking-tool/'>Commit Description as a Thinking Tool</a></td><td>23 👍</td><td>1 💬</td></tr>
+<tr><td>4.</td><td><a href='https://earendil.com/posts/you-said-no-mcp/'>You Said No MCP</a></td><td>479 👍</td><td>276 💬</td></tr>
+<tr><td>5.</td><td><a href='https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records'>I Could've Accessed 17T Microsoft Records</a></td><td>134 👍</td><td>65 💬</td></tr>
+<tr><td>6.</td><td><a href='https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603'>Moist-Electric Wallpaper for Indoor Energy Harvesting and Humidity ...</a></td><td>28 👍</td><td>21 💬</td></tr>
+<tr><td>7.</td><td><a href='https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/'>SDF vs. MSDF vs. Slug: GPU Text Rendering</a></td><td>81 👍</td><td>35 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer'>Bild AI (YC W25) Is Hiring a Founding Product Engineer</a></td><td>1 👍</td><td>0 💬</td></tr>
+<tr><td>9.</td><td><a href='https://ihavenapkinthoughts.substack.com/p/burning-man-death-rates-a-short-lesson'>Burning Man Death Rates – A Short Lesson in Statistics</a></td><td>32 👍</td><td>15 💬</td></tr>
+<tr><td>10.</td><td><a href='https://sdf.org/'>SDF Public Access Unix System ... est. 1987</a></td><td>33 👍</td><td>3 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>30 Sep 2026, 13:02 UTC</b> · Data from Hacker News</sub>
+<b>30 Sep 2026, 18:03 UTC</b>
 
 ---
 
