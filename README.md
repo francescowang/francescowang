@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://github.com/streetcomplete/StreetComplete/issues/5421'>StreetComplete on iOS is now in public beta</a></td><td>194 👍</td><td>43 💬</td></tr>
-<tr><td>2.</td><td><a href='https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html'>How to speed up the Rust compiler in September 2026</a></td><td>31 👍</td><td>15 💬</td></tr>
-<tr><td>3.</td><td><a href='https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design'>GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design</a></td><td>84 👍</td><td>37 💬</td></tr>
-<tr><td>4.</td><td><a href='https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/'>Google breaks promise to provide 10 years of updates to Chromebooks</a></td><td>92 👍</td><td>38 💬</td></tr>
-<tr><td>5.</td><td><a href='https://github.com/maanHimself/OpenDLSS-NR'>OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rende...</a></td><td>158 👍</td><td>88 💬</td></tr>
-<tr><td>6.</td><td><a href='https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/'>Gemini 4 Argon</a></td><td>1497 👍</td><td>993 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html'>Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes</a></td><td>35 👍</td><td>2 💬</td></tr>
-<tr><td>8.</td><td><a href='https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html'>FTC is investigating OpenAI, Anthropic and other AI companies over ...</a></td><td>38 👍</td><td>12 💬</td></tr>
-<tr><td>9.</td><td><a href='https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026'>Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028...</a></td><td>75 👍</td><td>68 💬</td></tr>
-<tr><td>10.</td><td><a href='https://bookofshapes.com/'>Book of Shapes – Collection of minimal, generative and customizable...</a></td><td>154 👍</td><td>9 💬</td></tr>
+<tr><td>1.</td><td><a href='https://blog.cloudflare.com/clef-decision-models/'>Clef: Open-source decision models, and new RL fine-tuning platform</a></td><td>212 👍</td><td>76 💬</td></tr>
+<tr><td>2.</td><td><a href='https://turbopuffer.com/blog/rip-vector-database'>RIP, vector database</a></td><td>129 👍</td><td>35 💬</td></tr>
+<tr><td>3.</td><td><a href='https://github.com/streetcomplete/StreetComplete/issues/5421'>StreetComplete on iOS is now in public beta</a></td><td>420 👍</td><td>99 💬</td></tr>
+<tr><td>4.</td><td><a href='https://con.racket-lang.org/'>RacketCon Is Saturday</a></td><td>84 👍</td><td>21 💬</td></tr>
+<tr><td>5.</td><td><a href='https://news.ycombinator.com/item?id=49922569'>Ask HN: Who is hiring? (October 2026)</a></td><td>60 👍</td><td>58 💬</td></tr>
+<tr><td>6.</td><td><a href='https://blog.cloudflare.com/cloudflare-k2-streams/'>Cloudflare K2: serverless event streams</a></td><td>100 👍</td><td>30 💬</td></tr>
+<tr><td>7.</td><td><a href='https://stoppels.ch/goalposts/'>Show HN: Vote on which of Hacker News' challenges for AI have been met</a></td><td>15 👍</td><td>13 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/'>Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrol...</a></td><td>62 👍</td><td>0 💬</td></tr>
+<tr><td>9.</td><td><a href='https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html'>How to speed up the Rust compiler in September 2026</a></td><td>183 👍</td><td>91 💬</td></tr>
+<tr><td>10.</td><td><a href='https://news.ycombinator.com/item?id=49911500'>Show HN: Open-source model routing for coding agents at Astra-level...</a></td><td>17 👍</td><td>1 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>01 Oct 2026, 13:57 UTC</b> · Data from Hacker News</sub>
+<b>01 Oct 2026, 18:30 UTC</b>
 
 ---
 
