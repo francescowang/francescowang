@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://earendil.com/posts/pi-1-0/'>Pi 1.0</a></td><td>1448 👍</td><td>476 💬</td></tr>
-<tr><td>2.</td><td><a href='https://inrng.com/2026/10/shimano-bicycle-museum/'>Shimano Bicycle Museum Review</a></td><td>175 👍</td><td>32 💬</td></tr>
-<tr><td>3.</td><td><a href='https://lwn.net/Articles/1097401/'>Several vulnerabilities have been discovered in the Linux kernel</a></td><td>392 👍</td><td>287 💬</td></tr>
-<tr><td>4.</td><td><a href='https://github.com/kvoltmer/Audionaut'>Show HN: Audionaut – an open-source cross-platform multitrack audio...</a></td><td>50 👍</td><td>18 💬</td></tr>
-<tr><td>5.</td><td><a href='https://blog.cloudflare.com/clef-decision-models/'>Clef: Open-weight decision models, and new RL fine-tuning platform</a></td><td>549 👍</td><td>194 💬</td></tr>
-<tr><td>6.</td><td><a href='https://svelte.dev/blog/sveltekit-3-is-here'>SvelteKit 3</a></td><td>330 👍</td><td>134 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.deepseek.com/en/harness/'>DeepSeek Harness Desktop for macOS and Windows</a></td><td>284 👍</td><td>149 💬</td></tr>
-<tr><td>8.</td><td><a href='https://earendil.com/posts/pi-durable/'>Pi Durable</a></td><td>419 👍</td><td>56 💬</td></tr>
-<tr><td>9.</td><td><a href='https://blog.gitbutler.com/git-3-sha-256'>Git 3.0's upcoming SHA-256 default will be a costly mistake</a></td><td>435 👍</td><td>410 💬</td></tr>
-<tr><td>10.</td><td><a href='https://news.ycombinator.com/item?id=49922569'>Ask HN: Who is hiring? (October 2026)</a></td><td>218 👍</td><td>217 💬</td></tr>
+<tr><td>1.</td><td><a href='https://aresluna.org/dutch-computer-museums/'>Dutch Computer Museums</a></td><td>50 👍</td><td>12 💬</td></tr>
+<tr><td>2.</td><td><a href='https://gwern.net/doc/math/1973-halmos.pdf'>The Legend of von Neumann (1973) [pdf]</a></td><td>168 👍</td><td>95 💬</td></tr>
+<tr><td>3.</td><td><a href='https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility'>Court agrees with EFF: Utah's VPN law demands a technical impossibi...</a></td><td>114 👍</td><td>40 💬</td></tr>
+<tr><td>4.</td><td><a href='https://bfl.ai/models/flux-3-image'>FLUX 3 Image</a></td><td>108 👍</td><td>12 💬</td></tr>
+<tr><td>5.</td><td><a href='https://stillwet.art/'>Show HN: Giving Opus 5.5 a simulated paint canvas</a></td><td>87 👍</td><td>24 💬</td></tr>
+<tr><td>6.</td><td><a href='https://www.npr.org/2026/10/01/nx-s1-5977815/trump-icc-sanctions-kimberly-prost'>ICC judge on what U.S. sanctions mean for her and global courts</a></td><td>92 👍</td><td>24 💬</td></tr>
+<tr><td>7.</td><td><a href='https://supabase.com/blog/supabase-is-acquiring-turso'>Supabase is acquiring Turso</a></td><td>136 👍</td><td>70 💬</td></tr>
+<tr><td>8.</td><td><a href='https://inrng.com/2026/10/shimano-bicycle-museum/'>Shimano Bicycle Museum Review</a></td><td>266 👍</td><td>63 💬</td></tr>
+<tr><td>9.</td><td><a href='https://liquidbrain.net/blog/giving-friends-custom-text-buzzes-based-on-morse-code/'>Giving friends custom text buzzes based on Morse code</a></td><td>33 👍</td><td>15 💬</td></tr>
+<tr><td>10.</td><td><a href='https://lwn.net/Articles/1097401/'>Several vulnerabilities have been discovered in the Linux kernel</a></td><td>511 👍</td><td>370 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>02 Oct 2026, 13:13 UTC</b> · Data from Hacker News</sub>
+<b>02 Oct 2026, 17:57 UTC</b>
 
 ---
 
