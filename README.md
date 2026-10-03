@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/'>GitHub's new dashboard experience now the default</a></td><td>29 👍</td><td>35 💬</td></tr>
-<tr><td>2.</td><td><a href='https://www.newgrounds.com/'>Newgrounds.com – A community of games, music, and art</a></td><td>266 👍</td><td>71 💬</td></tr>
-<tr><td>3.</td><td><a href='https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility'>Court agrees with EFF: Utah's VPN law demands a technical impossibi...</a></td><td>660 👍</td><td>319 💬</td></tr>
-<tr><td>4.</td><td><a href='https://movq.de/blog/postings/2026-09-30/0/POSTING-en.html'>cp: -r or -R?</a></td><td>29 👍</td><td>17 💬</td></tr>
-<tr><td>5.</td><td><a href='https://developer.apple.com/pass-designer/'>Apple Pass Designer</a></td><td>451 👍</td><td>277 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack'>Great Question (YC W21) Is Hiring Product Engineers in Canada (Remote)</a></td><td>1 👍</td><td>0 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/'>Mike Tomlin spent 12 years building a Minecraft city</a></td><td>497 👍</td><td>112 💬</td></tr>
-<tr><td>8.</td><td><a href='https://blog.kagi.com/update-orion-linux-windows'>An Update on Orion for Linux and Windows</a></td><td>74 👍</td><td>37 💬</td></tr>
-<tr><td>9.</td><td><a href='https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/'>Cloudflare OHTTP gateway</a></td><td>99 👍</td><td>25 💬</td></tr>
-<tr><td>10.</td><td><a href='https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f'>A 12-year sequence of telescope images of a star and four planets o...</a></td><td>306 👍</td><td>58 💬</td></tr>
+<tr><td>1.</td><td><a href='https://tej.as/blog/aleph-alpha-kolibri'>Kolibri is an open-weight LLM from Aleph Alpha for German and English</a></td><td>305 👍</td><td>125 💬</td></tr>
+<tr><td>2.</td><td><a href='https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/'>Kolibri Has Landed: A Sovereign Open-Weight Model</a></td><td>199 👍</td><td>30 💬</td></tr>
+<tr><td>3.</td><td><a href='https://ftl-os.org/'>FTL: A new operating system for clouds</a></td><td>26 👍</td><td>8 💬</td></tr>
+<tr><td>4.</td><td><a href='http://www.darbiansphotography.com/woking-electrical-control-room-urbex'>Woking Electrical Control Room (2016)</a></td><td>67 👍</td><td>7 💬</td></tr>
+<tr><td>5.</td><td><a href='https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2'>City building games have a Soul Problem pt.2</a></td><td>4 👍</td><td>0 💬</td></tr>
+<tr><td>6.</td><td><a href='https://www.nature.com/articles/s41598-026-57500-7'>Body Awareness in Goffin's Cockatoos</a></td><td>7 👍</td><td>1 💬</td></tr>
+<tr><td>7.</td><td><a href='https://www.newgrounds.com/'>Newgrounds.com – A community of games, music, and art</a></td><td>371 👍</td><td>107 💬</td></tr>
+<tr><td>8.</td><td><a href='https://github.com/andreasfertig/cppinsights'>C++ Insights – See your source code with the eyes of a Compiler</a></td><td>72 👍</td><td>9 💬</td></tr>
+<tr><td>9.</td><td><a href='https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility'>Court agrees with EFF: Utah's VPN law demands a technical impossibi...</a></td><td>719 👍</td><td>352 💬</td></tr>
+<tr><td>10.</td><td><a href='https://developer.apple.com/pass-designer/'>Apple Pass Designer</a></td><td>509 👍</td><td>306 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>03 Oct 2026, 12:04 UTC</b> · Data from Hacker News</sub>
+<b>03 Oct 2026, 16:33 UTC</b>
 
 ---
 
