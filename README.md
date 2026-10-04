@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://gamehistory.org/5k-magazines/'>VGHF Digital Archive passes 5000 magazines. Here's what's next</a></td><td>43 👍</td><td>4 💬</td></tr>
-<tr><td>2.</td><td><a href='https://news.ycombinator.com/item?id=49949438'>Tell HN: Bob Cringely has died</a></td><td>550 👍</td><td>108 💬</td></tr>
-<tr><td>3.</td><td><a href='https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/'>Why don't more developers “use the platform”?</a></td><td>176 👍</td><td>150 💬</td></tr>
-<tr><td>4.</td><td><a href='https://github.com/mikesart/gpuvis'>gpuvis: GPU Trace Visualizer</a></td><td>28 👍</td><td>2 💬</td></tr>
-<tr><td>5.</td><td><a href='https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU'>The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux</a></td><td>333 👍</td><td>56 💬</td></tr>
-<tr><td>6.</td><td><a href='https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict'>Treachery in the Rodin Museum 3D scan verdict</a></td><td>232 👍</td><td>106 💬</td></tr>
-<tr><td>7.</td><td><a href='https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician'>So you think you could be an electrician?</a></td><td>306 👍</td><td>226 💬</td></tr>
-<tr><td>8.</td><td><a href='https://liao.gg/blog/agents-dont-need-memory'>Agents don't need memory, they need documentation</a></td><td>224 👍</td><td>128 💬</td></tr>
-<tr><td>9.</td><td><a href='https://github.com/allenv0/SCM'>Show HN: AI search for every photo and every frame of video on macOS</a></td><td>13 👍</td><td>3 💬</td></tr>
-<tr><td>10.</td><td><a href='https://play.runescape.com/4'>We're working on a new RuneScape MMO</a></td><td>96 👍</td><td>40 💬</td></tr>
+<tr><td>1.</td><td><a href='https://github.com/Niko1221/Strata'>Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 1...</a></td><td>283 👍</td><td>145 💬</td></tr>
+<tr><td>2.</td><td><a href='https://automatictransmission.khoury.northeastern.edu/'>Car is a smartphone on wheels. Here's who's listening</a></td><td>94 👍</td><td>39 💬</td></tr>
+<tr><td>3.</td><td><a href='https://mapped.earth/lighthouses/world'>A Map of Every Lighthouse on the Planet</a></td><td>27 👍</td><td>17 💬</td></tr>
+<tr><td>4.</td><td><a href='https://niklasroy.com/gtc/'>Glashütte Trash Clock – A 30-minute pendulum clock made from trash</a></td><td>93 👍</td><td>14 💬</td></tr>
+<tr><td>5.</td><td><a href='https://news.ycombinator.com/item?id=49949438'>Tell HN: Bob Cringely has died</a></td><td>688 👍</td><td>140 💬</td></tr>
+<tr><td>6.</td><td><a href='https://github.com/allenv0/SCM'>Show HN: AI search for every photo and every frame of video on macOS</a></td><td>70 👍</td><td>38 💬</td></tr>
+<tr><td>7.</td><td><a href='https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/'>Why don't more developers “use the platform”?</a></td><td>227 👍</td><td>229 💬</td></tr>
+<tr><td>8.</td><td><a href='https://gamehistory.org/5k-magazines/'>VGHF Digital Archive passes 5000 magazines. Here's what's next</a></td><td>77 👍</td><td>12 💬</td></tr>
+<tr><td>9.</td><td><a href='https://math.tejstead.com/heilbronn/'>The Heilbronn Problem</a></td><td>38 👍</td><td>3 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU'>The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux</a></td><td>399 👍</td><td>67 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>04 Oct 2026, 12:52 UTC</b> · Data from Hacker News</sub>
+<b>04 Oct 2026, 16:55 UTC</b>
 
 ---
 
