@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://docs.mistral.ai/models/mistral-large-4-0'>Mistral Large 4</a></td><td>188 👍</td><td>44 💬</td></tr>
-<tr><td>2.</td><td><a href='https://pola.rs/posts/release-polars-2/'>Release of Polars 2.0</a></td><td>85 👍</td><td>12 💬</td></tr>
-<tr><td>3.</td><td><a href='https://www.nobelprize.org/prizes/physics/2026/'>Nobel Prize in Physics goes to Francis Halzen</a></td><td>229 👍</td><td>74 💬</td></tr>
-<tr><td>4.</td><td><a href='https://mistral.ai/news/mistral-large-4/'>Mistral Large 4: "Le Chonk"</a></td><td>20 👍</td><td>3 💬</td></tr>
-<tr><td>5.</td><td><a href='https://www.helgilibrary.com/companies/jetbrains'>JetBrains reported a net financial loss first time in its tracked h...</a></td><td>187 👍</td><td>182 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.ebsco.com/research-starters/power-and-energy/mathematics-geothermal-energy/'>Mathematics of Geothermal Energy</a></td><td>7 👍</td><td>1 💬</td></tr>
-<tr><td>7.</td><td><a href='https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/'>Gleam doesn't compile to Erlang source anymore</a></td><td>113 👍</td><td>30 💬</td></tr>
-<tr><td>8.</td><td><a href='https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html'>Nature's capacity to 'bounce back' when species are lost is vastly ...</a></td><td>74 👍</td><td>26 💬</td></tr>
-<tr><td>9.</td><td><a href='https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/'>Meta's Muse Is an Adorable Privacy and Security Dumpster Fire</a></td><td>37 👍</td><td>5 💬</td></tr>
-<tr><td>10.</td><td><a href='https://reflection.ai/blog/introducing-beam'>Beam: Reflection's 501B open-weight model</a></td><td>484 👍</td><td>157 💬</td></tr>
+<tr><td>1.</td><td><a href='https://mistral.ai/news/mistral-large-4/\'>Mistral Large 4</a></td><td>1092 👍</td><td>708 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.nobelprize.org/prizes/physics/2026/'>Nobel Prize in Physics goes to Francis Halzen</a></td><td>394 👍</td><td>124 💬</td></tr>
+<tr><td>3.</td><td><a href='https://pola.rs/posts/release-polars-2/'>Release of Polars 2.0</a></td><td>307 👍</td><td>59 💬</td></tr>
+<tr><td>4.</td><td><a href='https://www.helgilibrary.com/companies/jetbrains'>JetBrains reported a net financial loss first time in its tracked h...</a></td><td>529 👍</td><td>484 💬</td></tr>
+<tr><td>5.</td><td><a href='https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/'>Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol</a></td><td>93 👍</td><td>33 💬</td></tr>
+<tr><td>6.</td><td><a href='https://github.com/FeSens/openTPU'>AI is now capable of developing its own inference hardware</a></td><td>128 👍</td><td>103 💬</td></tr>
+<tr><td>7.</td><td><a href='https://matklad.github.io/2026/10/05/benchmark-milliseconds.html'>Benchmark in Milliseconds</a></td><td>79 👍</td><td>17 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.manifold.security/blog/do-models-consider-morality-malware'>Ask a model if code is malicious and it reaches for its morals</a></td><td>10 👍</td><td>1 💬</td></tr>
+<tr><td>9.</td><td><a href='https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/'>Gleam doesn't compile to Erlang source anymore</a></td><td>220 👍</td><td>94 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.ebsco.com/research-starters/power-and-energy/mathematics-geothermal-energy/'>Mathematics of Geothermal Energy</a></td><td>48 👍</td><td>17 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>06 Oct 2026, 13:39 UTC</b> · Data from Hacker News</sub>
+<b>06 Oct 2026, 18:31 UTC</b>
 
 ---
 
