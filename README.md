@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped'>Pixel 11 doesn't yet meet the GrapheneOS security standards and may...</a></td><td>165 👍</td><td>98 💬</td></tr>
-<tr><td>2.</td><td><a href='https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/'>Europe's new robotics unicorn: Germany's RobCo hits $1B valuation</a></td><td>251 👍</td><td>215 💬</td></tr>
-<tr><td>3.</td><td><a href='https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger'>Denmark Data Breach Exposes 8.8M People's Personal Data</a></td><td>316 👍</td><td>244 💬</td></tr>
-<tr><td>4.</td><td><a href='https://www.nobelprize.org/prizes/medicine/2026/press-release/'>Press Release: Nobel Prize in Physiology or Medicine 2026</a></td><td>91 👍</td><td>24 💬</td></tr>
-<tr><td>5.</td><td><a href='https://worksinprogress.co/issue/mosquitoes-are-a-choice/'>Mosquitoes Are a Choice</a></td><td>22 👍</td><td>13 💬</td></tr>
-<tr><td>6.</td><td><a href='https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/'>Web Search API</a></td><td>174 👍</td><td>93 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement'>Huawei and Qualcomm Announce Broad Patent License Agreement</a></td><td>112 👍</td><td>67 💬</td></tr>
-<tr><td>8.</td><td><a href='https://blog.haskell.org/foldl-and-foldr/'>Differences Between `Foldl` and `Foldr`</a></td><td>58 👍</td><td>9 💬</td></tr>
-<tr><td>9.</td><td><a href='https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217'>Altman: The world should accept some bad things happening for the b...</a></td><td>15 👍</td><td>1 💬</td></tr>
-<tr><td>10.</td><td><a href='https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/'>Type Safe Generic Data Structures in C</a></td><td>75 👍</td><td>15 💬</td></tr>
+<tr><td>1.</td><td><a href='https://reflection.ai/blog/introducing-beam'>Beam: Reflection's 501B open-weight model</a></td><td>395 👍</td><td>123 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.debugbear.com/blog/example-dot-com-redesign-history'>Example.com just launched the biggest redesign in decades</a></td><td>171 👍</td><td>98 💬</td></tr>
+<tr><td>3.</td><td><a href='https://flattensf.com/'>Find the flattest route between any two points in SF</a></td><td>162 👍</td><td>54 💬</td></tr>
+<tr><td>4.</td><td><a href='https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors'>Opus 5.5 agents discover two room-temperature magnetic semiconducto...</a></td><td>298 👍</td><td>196 💬</td></tr>
+<tr><td>5.</td><td><a href='https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/'>Resurrecting iChat Audio and Video Conferencing</a></td><td>28 👍</td><td>6 💬</td></tr>
+<tr><td>6.</td><td><a href='https://qlabs.sh/research/dust'>Dust: Pretraining Transformers Without Backpropagation</a></td><td>149 👍</td><td>35 💬</td></tr>
+<tr><td>7.</td><td><a href='https://dbushell.com/2026/10/03/deno-to-node/'>Friendship ended with Deno, now Node is my best friend</a></td><td>131 👍</td><td>59 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.vivienhenz.com/common-lisp'>Why Common Lisp is now the best programming language</a></td><td>115 👍</td><td>152 💬</td></tr>
+<tr><td>9.</td><td><a href='https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/'>An algorithmic failure beneath the secret ballot</a></td><td>68 👍</td><td>30 💬</td></tr>
+<tr><td>10.</td><td><a href='https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/'>Web Search API</a></td><td>524 👍</td><td>240 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>05 Oct 2026, 15:18 UTC</b> · Data from Hacker News</sub>
+<b>06 Oct 2026, 06:39 UTC</b>
 
 ---
 
