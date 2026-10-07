@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://developer.chrome.com/blog/jpeg-xl-in-chrome'>Shipping JPEG XL in Chrome</a></td><td>187 👍</td><td>92 💬</td></tr>
-<tr><td>2.</td><td><a href='https://github.com/szabadkai/c64-keyboard-font/'>A font recreated from photographs of classic Commodore 64 keycaps</a></td><td>194 👍</td><td>35 💬</td></tr>
-<tr><td>3.</td><td><a href='https://www.nobelprize.org/prizes/chemistry/2026/press-release/'>Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai</a></td><td>132 👍</td><td>16 💬</td></tr>
-<tr><td>4.</td><td><a href='https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/'>Google Playground: Create and play custom games</a></td><td>33 👍</td><td>18 💬</td></tr>
-<tr><td>5.</td><td><a href='https://fiveminutesforward.com/post/2026-10-04-telegraph-test/'>Write Like It's 1866: LLMs Relearn Telegraphese</a></td><td>27 👍</td><td>17 💬</td></tr>
-<tr><td>6.</td><td><a href='https://artmuseum.artfrompixels.com/'>Show HN: A walkable 3D art history museum built from Wikipedia</a></td><td>12 👍</td><td>3 💬</td></tr>
-<tr><td>7.</td><td><a href='https://openai.com/index/sharing-ai-progress-in-mathematics/'>Sharing AI progress in mathematics</a></td><td>1056 👍</td><td>1080 💬</td></tr>
-<tr><td>8.</td><td><a href='https://yossarian.net/til/post/rust-s-derive-often-implies-inline/'>Rust's derive often implies inline</a></td><td>45 👍</td><td>7 💬</td></tr>
-<tr><td>9.</td><td><a href='https://astrohelm.app/'>Show HN: AstroHelm – Use your phone camera to aim a telescope or te...</a></td><td>43 👍</td><td>13 💬</td></tr>
-<tr><td>10.</td><td><a href='https://strandsagents.com/blog/introducing-strands-decider/'>Strands Decider 2B: a small, open-source, decision model</a></td><td>229 👍</td><td>68 💬</td></tr>
+<tr><td>1.</td><td><a href='https://www.anthropic.com/claude-haiku-5-5'>Claude Haiku 5.5</a></td><td>243 👍</td><td>104 💬</td></tr>
+<tr><td>2.</td><td><a href='https://openai.com/index/gpt-6-for-everyone/'>GPT‑6 and Intelligent UI for everyone</a></td><td>138 👍</td><td>56 💬</td></tr>
+<tr><td>3.</td><td><a href='https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees'>Visa, Mastercard, Major Banks Facing New Litigation over 'Anticompe...</a></td><td>298 👍</td><td>166 💬</td></tr>
+<tr><td>4.</td><td><a href='https://bigwords.page/'>Show HN: Bigwords.page – Turn any screen into a sign. The URL is th...</a></td><td>144 👍</td><td>47 💬</td></tr>
+<tr><td>5.</td><td><a href='https://github.com/docker/docker-agent'>Docker Agent : AI Agent Builder and Runtime by Docker</a></td><td>28 👍</td><td>12 💬</td></tr>
+<tr><td>6.</td><td><a href='https://ascii.rest/'>Animated ASCII Art for Web Pages</a></td><td>166 👍</td><td>43 💬</td></tr>
+<tr><td>7.</td><td><a href='https://developer.chrome.com/blog/jpeg-xl-in-chrome'>Shipping JPEG XL in Chrome</a></td><td>390 👍</td><td>253 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.githubstatus.com/incidents/djlmxz2zd0j7'>GitHub Incident with Git Operations, Pull Requests and Actions</a></td><td>221 👍</td><td>171 💬</td></tr>
+<tr><td>9.</td><td><a href='https://github.com/szabadkai/c64-keyboard-font/'>A font recreated from photographs of classic Commodore 64 keycaps</a></td><td>334 👍</td><td>56 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.nobelprize.org/prizes/chemistry/2026/press-release/'>Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai</a></td><td>255 👍</td><td>45 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>07 Oct 2026, 13:59 UTC</b> · Data from Hacker News</sub>
+<b>07 Oct 2026, 19:01 UTC</b>
 
 ---
 
