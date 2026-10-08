@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://quesma.com/blog/invisible-cities-one-shot/'>I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities</a></td><td>125 👍</td><td>55 💬</td></tr>
-<tr><td>2.</td><td><a href='https://mathstodon.xyz/@tao/117395269325940185'>“Math 2.0” will need to value mathematical progress more holistically</a></td><td>431 👍</td><td>413 💬</td></tr>
-<tr><td>3.</td><td><a href='https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software/'>The Slow Formation of Durable Software</a></td><td>86 👍</td><td>22 💬</td></tr>
-<tr><td>4.</td><td><a href='https://www.telnetbbsguide.com/'>Telnet BBS Guide</a></td><td>31 👍</td><td>11 💬</td></tr>
-<tr><td>5.</td><td><a href='https://github.com/openai/math/blob/main/history.md'>OpenAI Withdraws 3 Math Papers</a></td><td>187 👍</td><td>134 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.anthropic.com/claude-haiku-5-5'>Claude Haiku 5.5</a></td><td>953 👍</td><td>448 💬</td></tr>
-<tr><td>7.</td><td><a href='https://shahidhussain.com/writing/search-for-salvage/'>The 15-year search for a band that charted once and vanished</a></td><td>232 👍</td><td>84 💬</td></tr>
-<tr><td>8.</td><td><a href='https://vale.rocks/posts/dvd-menus'>Beauty in DVD Menus</a></td><td>5 👍</td><td>0 💬</td></tr>
-<tr><td>9.</td><td><a href='https://100r.ca/site/home.html'>Living off-grid: Hundred Rabbits</a></td><td>289 👍</td><td>105 💬</td></tr>
-<tr><td>10.</td><td><a href='https://qntm.org/braid'>Time Travel in Braid (2015)</a></td><td>23 👍</td><td>3 💬</td></tr>
+<tr><td>1.</td><td><a href='https://cactuscompute.com/blog/whistle'>Whistle: Speech to Text in 16.9 MB</a></td><td>163 👍</td><td>45 💬</td></tr>
+<tr><td>2.</td><td><a href='https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea'>Trump administration is suspending Microsoft from a green card program</a></td><td>567 👍</td><td>951 💬</td></tr>
+<tr><td>3.</td><td><a href='https://github.com/p10node/k10s'>Show HN: K10s – A Clickable Kubernetes TUI (Go, Bubble Tea)</a></td><td>19 👍</td><td>1 💬</td></tr>
+<tr><td>4.</td><td><a href='https://openrouter.ai/stepfun/step-5-preview'>Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter</a></td><td>41 👍</td><td>14 💬</td></tr>
+<tr><td>5.</td><td><a href='https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/'>Archaeologists Are Reconstructing the 'Invisible' Technologies of t...</a></td><td>66 👍</td><td>24 💬</td></tr>
+<tr><td>6.</td><td><a href='https://mathstodon.xyz/@tao/117395269325940185'>“Math 2.0” will need to value mathematical progress more holistically</a></td><td>568 👍</td><td>581 💬</td></tr>
+<tr><td>7.</td><td><a href='https://vale.rocks/posts/dvd-menus'>Beauty in DVD Menus</a></td><td>190 👍</td><td>122 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/'>4-hour battery storage is cheaper to install than gas turbines all ...</a></td><td>163 👍</td><td>81 💬</td></tr>
+<tr><td>9.</td><td><a href='https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a'>OpenAI annualised revenues $20B less than previously signalled</a></td><td>138 👍</td><td>77 💬</td></tr>
+<tr><td>10.</td><td><a href='https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software/'>The Slow Formation of Durable Software</a></td><td>215 👍</td><td>77 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>08 Oct 2026, 14:04 UTC</b> · Data from Hacker News</sub>
+<b>08 Oct 2026, 18:56 UTC</b>
 
 ---
 
