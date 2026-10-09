@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://deno.com/blog/cloudflare'>Deno Is Joining Cloudflare</a></td><td>176 👍</td><td>79 💬</td></tr>
-<tr><td>2.</td><td><a href='https://oxide.computer/blog/our-445m-series-d'>Our $445M Series D</a></td><td>72 👍</td><td>14 💬</td></tr>
-<tr><td>3.</td><td><a href='https://github.com/franzenzenhofer/big-arrow-on-the-screen'>Let your AI agents paint big arrows, boxes and text on your screen</a></td><td>162 👍</td><td>64 💬</td></tr>
-<tr><td>4.</td><td><a href='https://iminafleeting.com/'>I'm in a Meeting</a></td><td>177 👍</td><td>69 💬</td></tr>
-<tr><td>5.</td><td><a href='https://www.nobelprize.org/prizes/peace/2026/press-release/'>Nobel Peace Prize for 2026 to Navanethem "NAVI" Pillay</a></td><td>188 👍</td><td>101 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/'>Why isn't the industry freaking out about DeepSeek 4.1 Flash?</a></td><td>884 👍</td><td>797 💬</td></tr>
-<tr><td>7.</td><td><a href='https://github.com/alex0ptr/once'>Once: Cache CLI Commands</a></td><td>34 👍</td><td>12 💬</td></tr>
-<tr><td>8.</td><td><a href='https://cactuscompute.com/blog/whistle'>Whistle: Speech to Text in 16.9 MB</a></td><td>824 👍</td><td>166 💬</td></tr>
-<tr><td>9.</td><td><a href='https://github.com/microsoft/mxc'>MXC - a sandboxed code execution system</a></td><td>85 👍</td><td>46 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/'>Man discovers his parents' coffee machine used 1TB of data in 10 days</a></td><td>793 👍</td><td>482 💬</td></tr>
+<tr><td>1.</td><td><a href='https://deno.com/blog/cloudflare'>Cloudflare acquires Deno</a></td><td>763 👍</td><td>404 💬</td></tr>
+<tr><td>2.</td><td><a href='https://oxide.computer/blog/our-445m-series-d'>Our $445M Series D</a></td><td>416 👍</td><td>174 💬</td></tr>
+<tr><td>3.</td><td><a href='https://iminafleeting.com/'>Sorry, I'm in a meeting</a></td><td>522 👍</td><td>174 💬</td></tr>
+<tr><td>4.</td><td><a href='https://github.com/franzenzenhofer/big-arrow-on-the-screen'>Show HN: Let your AI agents paint big arrows, boxes and text on you...</a></td><td>312 👍</td><td>134 💬</td></tr>
+<tr><td>5.</td><td><a href='https://www.nobelprize.org/prizes/peace/2026/press-release/'>Nobel Peace Prize for 2026 to Navanethem Pillay</a></td><td>349 👍</td><td>174 💬</td></tr>
+<tr><td>6.</td><td><a href='https://minesweeper.mikelacher.com/'>Triple-A Minesweeper</a></td><td>37 👍</td><td>10 💬</td></tr>
+<tr><td>7.</td><td><a href='https://www.euronews.com/2026/04/14/almost-like-lake-como-germany-transforms-former-coal-mines-into-europes-largest-lake-lands'>Germany transforms former coal mines into Europe's largest lake lan...</a></td><td>126 👍</td><td>63 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.linum.ai/field-notes/pyramid-jit'>Training Text-to-Image Models Without a VAE</a></td><td>17 👍</td><td>7 💬</td></tr>
+<tr><td>9.</td><td><a href='https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/'>Why isn't the industry freaking out about DeepSeek 4.1 Flash?</a></td><td>1008 👍</td><td>908 💬</td></tr>
+<tr><td>10.</td><td><a href='https://cactuscompute.com/blog/whistle'>Whistle: Speech to Text in 16.9 MB</a></td><td>890 👍</td><td>174 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>09 Oct 2026, 13:49 UTC</b> · Data from Hacker News</sub>
+<b>09 Oct 2026, 18:26 UTC</b>
 
 ---
 
