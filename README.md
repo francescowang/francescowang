@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/'>`123456' password used in Danish CPR data breach</a></td><td>184 👍</td><td>110 💬</td></tr>
-<tr><td>2.</td><td><a href='https://github.com/rociiu/talorys'>Talorys – A self-hosted personal AI agent on Cloudflare's free tier</a></td><td>57 👍</td><td>22 💬</td></tr>
-<tr><td>3.</td><td><a href='https://rea.tools/'>REA Reverse – Engineer Anything</a></td><td>498 👍</td><td>211 💬</td></tr>
-<tr><td>4.</td><td><a href='https://deno.com/blog/cloudflare'>Cloudflare acquires Deno</a></td><td>1269 👍</td><td>644 💬</td></tr>
-<tr><td>5.</td><td><a href='https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/'>Telegram Desktop vulnerability allowed any user's file to be stolen</a></td><td>227 👍</td><td>113 💬</td></tr>
-<tr><td>6.</td><td><a href='https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/'>C for Rust Programmers</a></td><td>29 👍</td><td>5 💬</td></tr>
-<tr><td>7.</td><td><a href='https://minesweeper.mikelacher.com/'>Triple-A Minesweeper</a></td><td>1086 👍</td><td>212 💬</td></tr>
-<tr><td>8.</td><td><a href='https://www.opengroup.org//openbrand/register/'>Apple/macOS silently removed from official Unix registry</a></td><td>60 👍</td><td>47 💬</td></tr>
-<tr><td>9.</td><td><a href='https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo'>Eye of Sauron: Long-Range Hidden Spy Camera Detection (2024)</a></td><td>197 👍</td><td>42 💬</td></tr>
-<tr><td>10.</td><td><a href='https://deadsimpletech.com/blog/llms-arent-inevitable'>LLMs Aren't Inevitable</a></td><td>22 👍</td><td>15 💬</td></tr>
+<tr><td>1.</td><td><a href='https://purplesyringa.moe/blog/grieving-the-loss-of-details/'>Grieving the Loss of Details</a></td><td>49 👍</td><td>11 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.thomas-huehn.com/knuth-reward-check'>Knuth Reward Check</a></td><td>36 👍</td><td>13 💬</td></tr>
+<tr><td>3.</td><td><a href='https://github.com/rociiu/talorys'>Talorys – A self-hosted personal AI agent on Cloudflare's free tier</a></td><td>152 👍</td><td>80 💬</td></tr>
+<tr><td>4.</td><td><a href='https://ndstudio.gov/posts/say-hello-to-rampart'>Rampart: Browser native on-device PII radaction</a></td><td>34 👍</td><td>13 💬</td></tr>
+<tr><td>5.</td><td><a href='https://community.bitwarden.com/t/published-version-update-in-app-stores/102750'>Bitwarden Dual License Model</a></td><td>190 👍</td><td>142 💬</td></tr>
+<tr><td>6.</td><td><a href='https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/'>Mxc: Microsoft Execution Containers version 1.0.0</a></td><td>64 👍</td><td>8 💬</td></tr>
+<tr><td>7.</td><td><a href='https://rea.tools/'>REA Reverse – Engineer Anything</a></td><td>594 👍</td><td>258 💬</td></tr>
+<tr><td>8.</td><td><a href='https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/'>Telegram Desktop vulnerability allowed any user's file to be stolen</a></td><td>327 👍</td><td>164 💬</td></tr>
+<tr><td>9.</td><td><a href='https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/'>I would like the value of my home to rise, while my property taxes ...</a></td><td>98 👍</td><td>205 💬</td></tr>
+<tr><td>10.</td><td><a href='https://minesweeper.mikelacher.com/'>Triple-A Minesweeper</a></td><td>1235 👍</td><td>245 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>10 Oct 2026, 13:05 UTC</b> · Data from Hacker News</sub>
+<b>10 Oct 2026, 17:24 UTC</b>
 
 ---
 
