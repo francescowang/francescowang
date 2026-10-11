@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/'>I paid people to try and follow my README</a></td><td>90 👍</td><td>55 💬</td></tr>
-<tr><td>2.</td><td><a href='https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/'>Don't Put Tilde In Your Path</a></td><td>37 👍</td><td>3 💬</td></tr>
-<tr><td>3.</td><td><a href='https://radar.cloudflare.com/bots/as13238?dateRange=7d'>Sudden drop in Cloudflare bot traffic after strike on Yandex datace...</a></td><td>325 👍</td><td>120 💬</td></tr>
-<tr><td>4.</td><td><a href='https://lineageos.org/Changelog-32/'>LineageOS 24.0</a></td><td>205 👍</td><td>62 💬</td></tr>
-<tr><td>5.</td><td><a href='https://verdagon.dev/blog/valen-group-borrowing'>Valen's Memory Safety: A New Kind of Borrow Checking</a></td><td>19 👍</td><td>3 💬</td></tr>
-<tr><td>6.</td><td><a href='https://nitter.net'>Nitter: Update Oct 10th seeking funding and legal help</a></td><td>185 👍</td><td>64 💬</td></tr>
-<tr><td>7.</td><td><a href='https://github.com/go-dev-auth/go-dev-auth'>How HN: Go-dev-auth zero-dependency authentication library for Go</a></td><td>4 👍</td><td>0 💬</td></tr>
-<tr><td>8.</td><td><a href='https://copilot.travel/tolls/europe-2026'>What driving across Europe costs in tolls, vignettes, bridges and fuel</a></td><td>32 👍</td><td>26 💬</td></tr>
-<tr><td>9.</td><td><a href='https://jobs.ashbyhq.com/weave-os'>Weave (YC W25) is hiring ML, AI, product, & design engineers</a></td><td>1 👍</td><td>0 💬</td></tr>
-<tr><td>10.</td><td><a href='https://nishtahir.com/build-your-own-decision-model/'>Build your own decision model</a></td><td>374 👍</td><td>82 💬</td></tr>
+<tr><td>1.</td><td><a href='https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/'>I paid people to try and follow my README</a></td><td>275 👍</td><td>141 💬</td></tr>
+<tr><td>2.</td><td><a href='https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/'>I'm sorry, but you still have to think</a></td><td>61 👍</td><td>14 💬</td></tr>
+<tr><td>3.</td><td><a href='https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/'>The tilde in your PATH may not be your HOME</a></td><td>148 👍</td><td>83 💬</td></tr>
+<tr><td>4.</td><td><a href='https://lineageos.org/Changelog-32/'>LineageOS 24.0</a></td><td>316 👍</td><td>109 💬</td></tr>
+<tr><td>5.</td><td><a href='https://betterwispr.com/'>Show HN: BetterWispr – Free, open-source dictation for Mac</a></td><td>71 👍</td><td>38 💬</td></tr>
+<tr><td>6.</td><td><a href='http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/'>How I reverse engineered a commercial spatial audio effect</a></td><td>26 👍</td><td>9 💬</td></tr>
+<tr><td>7.</td><td><a href='https://verdagon.dev/blog/valen-group-borrowing'>Valen's Memory Safety: A New Kind of Borrow Checking</a></td><td>83 👍</td><td>36 💬</td></tr>
+<tr><td>8.</td><td><a href='https://github.com/rogerbinns/apsw'>apsw: Another Python SQLite Wrapper</a></td><td>3 👍</td><td>0 💬</td></tr>
+<tr><td>9.</td><td><a href='https://asheradeniyi.com/2026/04/10/how-to-build-wealth-as-a-career-person/'>How to Build Wealth as a Career Person</a></td><td>12 👍</td><td>3 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback'>The RAM shortage is bringing back DDR4</a></td><td>196 👍</td><td>181 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>11 Oct 2026, 13:34 UTC</b> · Data from Hacker News</sub>
+<b>11 Oct 2026, 17:44 UTC</b>
 
 ---
 
