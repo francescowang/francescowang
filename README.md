@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/'>The Making Of Super Mario 64 – full Giles Goddard interview (2001)</a></td><td>121 👍</td><td>37 💬</td></tr>
-<tr><td>2.</td><td><a href='https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search'>Secret of Orange Cats Revealed After 60-Year Search</a></td><td>128 👍</td><td>102 💬</td></tr>
-<tr><td>3.</td><td><a href='https://royfish.dev/fingerprints-are-the-new-cookies'>Fingerprints are the new cookies</a></td><td>580 👍</td><td>278 💬</td></tr>
-<tr><td>4.</td><td><a href='https://www.githubstatus.com/incidents/93njd414rpbx'>Incident with Actions, Pull Requests and Issues</a></td><td>107 👍</td><td>89 💬</td></tr>
-<tr><td>5.</td><td><a href='https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html'>Type-safe HTML templating in Zig</a></td><td>189 👍</td><td>71 💬</td></tr>
-<tr><td>6.</td><td><a href='https://github.com/snuri00/ps2-web-recomp'>Show HN: PS2 games statically recompiled to WebAssembly</a></td><td>160 👍</td><td>86 💬</td></tr>
-<tr><td>7.</td><td><a href='https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387'>QGIS bans AI assisted contributions</a></td><td>300 👍</td><td>318 💬</td></tr>
-<tr><td>8.</td><td><a href='https://nanolathe.gg'>Total Annihilation, rebuilt for modern computers</a></td><td>613 👍</td><td>228 💬</td></tr>
-<tr><td>9.</td><td><a href='https://animationobsessive.substack.com/p/an-unmade-film-shaped-hayao-miyazaki'>An Unmade Film Shaped Hayao Miyazaki</a></td><td>24 👍</td><td>1 💬</td></tr>
-<tr><td>10.</td><td><a href='https://github.com/hibanaworks/hibana'>Choreographic Programming in Rust</a></td><td>35 👍</td><td>25 💬</td></tr>
+<tr><td>1.</td><td><a href='https://z.ai/blog/glm-legal'>GLM-Legal</a></td><td>343 👍</td><td>186 💬</td></tr>
+<tr><td>2.</td><td><a href='https://prophitt.me/writing/a-modern-web-app-in-c'>A Modern Web App in C</a></td><td>288 👍</td><td>120 💬</td></tr>
+<tr><td>3.</td><td><a href='https://www.markround.com/blog/2026/zx-spectrum-intro'>Writing a Demoscene Intro for the ZX Spectrum</a></td><td>28 👍</td><td>1 💬</td></tr>
+<tr><td>4.</td><td><a href='https://github.com/openai/codex/issues/48195'>Codex CLI installs a persistent, self-updating background daemon by...</a></td><td>334 👍</td><td>195 💬</td></tr>
+<tr><td>5.</td><td><a href='https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident'>Hackers activate automatic defrosting in supermarket fridges across...</a></td><td>281 👍</td><td>511 💬</td></tr>
+<tr><td>6.</td><td><a href='https://news.ycombinator.com/item?id=50059096'>Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running ...</a></td><td>67 👍</td><td>46 💬</td></tr>
+<tr><td>7.</td><td><a href='https://github.com/h0m3us3r/w1700k-sdr'>Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver</a></td><td>201 👍</td><td>53 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.bbc.com/news/articles/c620r33plgppo'>Citroen revives the 2CV for an electric age</a></td><td>220 👍</td><td>246 💬</td></tr>
+<tr><td>9.</td><td><a href='https://research.meta.ai/blog/muse-wonder'>Muse Wonder</a></td><td>435 👍</td><td>222 💬</td></tr>
+<tr><td>10.</td><td><a href='https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/'>The Making Of Super Mario 64 – full Giles Goddard interview (2001)</a></td><td>197 👍</td><td>75 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>12 Oct 2026, 16:10 UTC</b> · Data from Hacker News</sub>
+<b>12 Oct 2026, 21:20 UTC</b>
 
 ---
 
