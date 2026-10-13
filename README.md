@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://github.com/rust-lang/rust/issues/164250'>11 year old unsoundness bugs found in Rust borrow checker</a></td><td>401 👍</td><td>205 💬</td></tr>
-<tr><td>2.</td><td><a href='https://eg2.haku.sh/'>An hour of audio transcribed in about 13s on MacBook Air</a></td><td>214 👍</td><td>57 💬</td></tr>
-<tr><td>3.</td><td><a href='https://machinelearning.apple.com/research/distributed-gpu-cloud'>Apple's Minions: A virtual GPU cloud built from idle Apple Silicon ...</a></td><td>100 👍</td><td>39 💬</td></tr>
-<tr><td>4.</td><td><a href='https://www.thehistoryblog.com/archives/77107'>Hittite royal archive found in Turkey</a></td><td>208 👍</td><td>48 💬</td></tr>
-<tr><td>5.</td><td><a href='https://photonlines.substack.com/p/a-visual-intro-to-complex-numbers'>A Visual Intro to Complex Numbers</a></td><td>25 👍</td><td>7 💬</td></tr>
-<tr><td>6.</td><td><a href='https://pdftomp3.com/connect-ai/'>Show HN: Use your OpenAI subscription to create audiobooks</a></td><td>104 👍</td><td>55 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.firefox.com/en-US/enterprise/'>Mozilla Introduces Firefox Enterprise</a></td><td>219 👍</td><td>106 💬</td></tr>
-<tr><td>8.</td><td><a href='https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran'>CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades</a></td><td>274 👍</td><td>121 💬</td></tr>
-<tr><td>9.</td><td><a href='https://blog.character.ai/an-update-on-character-ai/'>Character.ai files for Chapter 11 bankruptcy</a></td><td>82 👍</td><td>31 💬</td></tr>
-<tr><td>10.</td><td><a href='https://jsomers.net/e-coli-chemotaxis/'>The baffling intelligence of a single cell (2024)</a></td><td>349 👍</td><td>100 💬</td></tr>
+<tr><td>1.</td><td><a href='https://deepmind.google/models/gemini/'>Gemini 4 Argon</a></td><td>595 👍</td><td>479 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.apple.com/apple-homeview/'>Apple HomeView</a></td><td>530 👍</td><td>639 💬</td></tr>
+<tr><td>3.</td><td><a href='https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/'>Thunderbird for iOS</a></td><td>216 👍</td><td>77 💬</td></tr>
+<tr><td>4.</td><td><a href='https://www.anthropic.com/engineering/redesigning-source-control'>Redesigning source control at Anthropic</a></td><td>206 👍</td><td>163 💬</td></tr>
+<tr><td>5.</td><td><a href='https://github.com/rust-lang/rust/issues/164250'>11 year old unsoundness bugs found in Rust borrow checker</a></td><td>592 👍</td><td>338 💬</td></tr>
+<tr><td>6.</td><td><a href='https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic'>I posted to HN, and then my website was flooded with AI bot traffic</a></td><td>149 👍</td><td>85 💬</td></tr>
+<tr><td>7.</td><td><a href='https://www.firefox.com/en-US/enterprise/'>Firefox Enterprise</a></td><td>466 👍</td><td>186 💬</td></tr>
+<tr><td>8.</td><td><a href='https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/'>A plea not to use uv-build</a></td><td>22 👍</td><td>10 💬</td></tr>
+<tr><td>9.</td><td><a href='https://eg2.haku.sh/'>We turned EmbeddingGemma 2 into a speech-to-text model</a></td><td>337 👍</td><td>80 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/'>New Apple TV 4K</a></td><td>200 👍</td><td>385 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>13 Oct 2026, 14:36 UTC</b> · Data from Hacker News</sub>
+<b>13 Oct 2026, 19:25 UTC</b>
 
 ---
 
