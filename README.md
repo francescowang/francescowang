@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://typeof.net/Iosevka/'>Iosevka is an open-source, sans-serif and slab-serif, monospace font</a></td><td>233 👍</td><td>85 💬</td></tr>
-<tr><td>2.</td><td><a href='https://github.com/timescale/pg_vectorsearch'>Pg_vectorsearch: An index that is faster than pgvector's IVFFlat an...</a></td><td>15 👍</td><td>2 💬</td></tr>
-<tr><td>3.</td><td><a href='https://www.zetter-zeroday.com/who-is-planting-backdoors-in-ledger-crypto-wallets/'>Who Is Planting Backdoors in Ledger Crypto Wallets?</a></td><td>39 👍</td><td>34 💬</td></tr>
-<tr><td>4.</td><td><a href='https://blog.lorenzano.eu/pulsar-at-esug-2026/'>Pulsar at ESUG 2026 (new Smalltalk IDE)</a></td><td>28 👍</td><td>3 💬</td></tr>
-<tr><td>5.</td><td><a href='https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/'>Amazon pushes up prices across the Internet</a></td><td>102 👍</td><td>79 💬</td></tr>
-<tr><td>6.</td><td><a href='https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/'>What agents mean for Rust (and vice versa)</a></td><td>42 👍</td><td>35 💬</td></tr>
-<tr><td>7.</td><td><a href='https://ciechanow.ski/sound/'>Sound – Bartosz Ciechanowski (2022)</a></td><td>150 👍</td><td>21 💬</td></tr>
-<tr><td>8.</td><td><a href='https://museumofages.org/w/vinci'>Show HN: A guided 3D Leonardo da Vinci museum, built in code</a></td><td>11 👍</td><td>5 💬</td></tr>
-<tr><td>9.</td><td><a href='https://marcpaul.io/logs/same-job-two-engines-innodb-and-iceberg-internals/'>Same Job, Two Engines: InnoDB and Iceberg Internals</a></td><td>27 👍</td><td>2 💬</td></tr>
-<tr><td>10.</td><td><a href='https://guitoro.com/'>Show HN: Guitoro, a virtual guitar you strum with your keyboard</a></td><td>470 👍</td><td>121 💬</td></tr>
+<tr><td>1.</td><td><a href='https://arcfu.com/post/the-emperor-pelican-has-no-clothes/'>The Emperor Pelican Has No Clothes</a></td><td>72 👍</td><td>44 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years'>Americans' Social Activity Has Steeply Declined in the Past 30 Years</a></td><td>40 👍</td><td>33 💬</td></tr>
+<tr><td>3.</td><td><a href='https://typeof.net/Iosevka/'>Iosevka is an open-source, sans-serif and slab-serif monospace font</a></td><td>544 👍</td><td>222 💬</td></tr>
+<tr><td>4.</td><td><a href='https://blog.apnic.net/2026/10/14/submarine-cable-resilience/'>Submarine cable resilience</a></td><td>44 👍</td><td>4 💬</td></tr>
+<tr><td>5.</td><td><a href='https://www.nrc.nl/nieuws/2026/10/14/politie-amsterdam-neemt-op-amerikaans-verzoek-server-in-beslag-van-italiaanse-internetdienstverlener-a-i-a4938960'>Amsterdam police confiscates server left-wing ISP A/I at American r...</a></td><td>96 👍</td><td>27 💬</td></tr>
+<tr><td>6.</td><td><a href='https://github.com/timescale/pg_vectorsearch'>Pg_vectorsearch: An index that is faster than pgvector's IVFFlat an...</a></td><td>140 👍</td><td>41 💬</td></tr>
+<tr><td>7.</td><td><a href='https://github.com/graphicle-ai/graphicle'>Show HN: Graphicle, a Rust port of Graphify with memory for coding ...</a></td><td>18 👍</td><td>1 💬</td></tr>
+<tr><td>8.</td><td><a href='https://go.dev/blog/http-connection-reuse'>Better HTTP/1 connection reuse in Go 1.27</a></td><td>11 👍</td><td>0 💬</td></tr>
+<tr><td>9.</td><td><a href='https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one/'>ICE Planning $100M 'Nightmare' Domestic Spy Program</a></td><td>43 👍</td><td>4 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/'>Amazon pushes up prices across the Internet</a></td><td>508 👍</td><td>467 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>14 Oct 2026, 12:26 UTC</b> · Data from Hacker News</sub>
+<b>14 Oct 2026, 17:26 UTC</b>
 
 ---
 
