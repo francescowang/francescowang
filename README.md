@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/'>Things to know when you get cancer</a></td><td>1513 👍</td><td>366 💬</td></tr>
-<tr><td>2.</td><td><a href='https://blog.dfb.sh/blog/eap770-root-for-two-zeros/'>Wanted to download an ISO, ended up writing a kernel exploit</a></td><td>158 👍</td><td>81 💬</td></tr>
-<tr><td>3.</td><td><a href='https://anoma.ly/notes/opencode-2-0/'>OpenCode 2.0</a></td><td>673 👍</td><td>269 💬</td></tr>
-<tr><td>4.</td><td><a href='https://tinylittleoffice.com/'>Tiny Little Office</a></td><td>482 👍</td><td>96 💬</td></tr>
-<tr><td>5.</td><td><a href='https://www.newyorker.com/magazine/2026/10/19/the-first-social-network'>The First Social Network: In rural Argentina residents send message...</a></td><td>45 👍</td><td>16 💬</td></tr>
-<tr><td>6.</td><td><a href='https://indigene.app/'>Show HN: Indigene – Native plants for where you stand</a></td><td>48 👍</td><td>10 💬</td></tr>
-<tr><td>7.</td><td><a href='https://mapwriting.substack.com/p/dentists'>Do dentists know what they're doing?</a></td><td>765 👍</td><td>557 💬</td></tr>
-<tr><td>8.</td><td><a href='https://www.liquid.ai/blog/lfm2-5-24b-a2b'>LFM2.5-24B-A2B: Built for fast on-device agents</a></td><td>233 👍</td><td>54 💬</td></tr>
-<tr><td>9.</td><td><a href='https://catchabird.com'>Catch a Bird – I made it for my own sanity</a></td><td>226 👍</td><td>59 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years'>Americans' social activity has steeply declined in the past 30 years</a></td><td>444 👍</td><td>402 💬</td></tr>
+<tr><td>1.</td><td><a href='https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/'>Simons Foundation launches $15M effort to help mathematicians navig...</a></td><td>134 👍</td><td>83 💬</td></tr>
+<tr><td>2.</td><td><a href='https://github.com/fyzugx/DEsk'>Wayland desktop for Linux with skeuomorphic design</a></td><td>251 👍</td><td>104 💬</td></tr>
+<tr><td>3.</td><td><a href='https://already-clean.goodfire.com/'>Neural Networks Are Already Clean</a></td><td>53 👍</td><td>9 💬</td></tr>
+<tr><td>4.</td><td><a href='https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep'>I Know Why the Mathematicians Weep</a></td><td>193 👍</td><td>275 💬</td></tr>
+<tr><td>5.</td><td><a href='https://libreboot.org/news/libreboot2610.html'>Libreboot 26.10 "Ominous Olive" released with UEFI, Chromebook support</a></td><td>170 👍</td><td>89 💬</td></tr>
+<tr><td>6.</td><td><a href='https://fortran-lang.org/news/2026/09-15-Fortran-birthday/'>Celebrating 70 Years of Fortran</a></td><td>81 👍</td><td>40 💬</td></tr>
+<tr><td>7.</td><td><a href='https://www.krea.ai/krea-3'>Krea 3 – Frontier Image Model 4× faster than Nano Banana Pro</a></td><td>42 👍</td><td>22 💬</td></tr>
+<tr><td>8.</td><td><a href='https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/'>Steam Client Is Now Faster Than Epic's New Vibe Coded Launcher</a></td><td>102 👍</td><td>118 💬</td></tr>
+<tr><td>9.</td><td><a href='https://unfenced.land/'>Show HN: Unfenced – Land for sale that borders public land</a></td><td>174 👍</td><td>123 💬</td></tr>
+<tr><td>10.</td><td><a href='https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/'>Zero-Click Spyware Delivered via Targeted Ads: AdFection</a></td><td>170 👍</td><td>27 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>15 Oct 2026, 12:10 UTC</b> · Data from Hacker News</sub>
+<b>15 Oct 2026, 17:14 UTC</b>
 
 ---
 
