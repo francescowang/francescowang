@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/'>Yet another way to invoke functions without parentheses</a></td><td>78 👍</td><td>24 💬</td></tr>
-<tr><td>2.</td><td><a href='https://www.youtube.com/watch?v=sjNpfz4UzqU'>Woman who rescued injured crow keeps getting 'thank-you gifts' from...</a></td><td>416 👍</td><td>134 💬</td></tr>
-<tr><td>3.</td><td><a href='https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/'>Meta’s new commercial terms will allow the scraping of news sites: ...</a></td><td>342 👍</td><td>119 💬</td></tr>
-<tr><td>4.</td><td><a href='https://www.michelecoscia.com/?p=2613'>The Economic Complexity of the Western Roman Empire</a></td><td>47 👍</td><td>9 💬</td></tr>
-<tr><td>5.</td><td><a href='https://research.meta.ai/blog/muse-spark-open'>Muse Spark Open</a></td><td>839 👍</td><td>421 💬</td></tr>
-<tr><td>6.</td><td><a href='https://orlp.net/blog/two-stack-sliding-window-aggregation/'>Two-Stack Sliding-Window Aggregation</a></td><td>42 👍</td><td>2 💬</td></tr>
-<tr><td>7.</td><td><a href='https://ipinfo.io/blog/rpki-protects-70-internet-routes'>RPKI now protects 70% of internet routes</a></td><td>175 👍</td><td>64 💬</td></tr>
-<tr><td>8.</td><td><a href='https://already-clean.goodfire.com/'>Neural networks are clean</a></td><td>719 👍</td><td>272 💬</td></tr>
-<tr><td>9.</td><td><a href='https://danieltemkin.com/esolangs/folders'>The Folders Programming Language</a></td><td>100 👍</td><td>12 💬</td></tr>
-<tr><td>10.</td><td><a href='https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts'>New Withings Users Must Pay $99/Year for Apple Health Syncing</a></td><td>323 👍</td><td>209 💬</td></tr>
+<tr><td>1.</td><td><a href='https://www.readergrev.com/p/polymarket-paid-quote-retweet-esports-investigation'>America's Wumao: Inside Polymarket's Paid Quote-Retweet Esports Pro...</a></td><td>35 👍</td><td>11 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.worksinprogress.news/p/porcelain'>What on Earth Is Dekton?</a></td><td>60 👍</td><td>15 💬</td></tr>
+<tr><td>3.</td><td><a href='https://machinelearning.apple.com/research/mlx-distributed-inference'>Apple ML Research: Muse Spark Open with MLX on Mac Studio</a></td><td>101 👍</td><td>53 💬</td></tr>
+<tr><td>4.</td><td><a href='https://calif.io/research/big-fish'>Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD</a></td><td>74 👍</td><td>10 💬</td></tr>
+<tr><td>5.</td><td><a href='https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/'>I Love Software Rendering</a></td><td>194 👍</td><td>138 💬</td></tr>
+<tr><td>6.</td><td><a href='https://jakearchibald.com/2026/jpeg-xl-vs-avif/'>JPEG XL vs. AVIF for web use-cases</a></td><td>14 👍</td><td>3 💬</td></tr>
+<tr><td>7.</td><td><a href='https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/'>Stolen Renoir paintings found hidden, and damaged, behind cinder bl...</a></td><td>32 👍</td><td>16 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.youtube.com/watch?v=eF6bMSjPepM'>Is Liquid Metal Killing Our PCs? Scientific Analysis and a 2-Year T...</a></td><td>46 👍</td><td>28 💬</td></tr>
+<tr><td>9.</td><td><a href='https://anuragbhatia.com/post/2026/06/rfc8950-announce-ipv4-with-ipv6-next-hop/'>RFC8950: Announce IPv4 with an IPv6 next-hop</a></td><td>41 👍</td><td>13 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.youtube.com/watch?v=sjNpfz4UzqU'>Woman who rescued injured crow keeps getting 'thank-you gifts' from...</a></td><td>689 👍</td><td>221 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>16 Oct 2026, 11:56 UTC</b> · Data from Hacker News</sub>
+<b>16 Oct 2026, 16:50 UTC</b>
 
 ---
 
