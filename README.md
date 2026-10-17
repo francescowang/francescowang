@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017'>DeepSeek: DeepSeek v4.1 Flash 1017</a></td><td>177 👍</td><td>39 💬</td></tr>
-<tr><td>2.</td><td><a href='https://www.paperinstruments.com/ultramarine'>Ultramarine 1 Flash</a></td><td>259 👍</td><td>84 💬</td></tr>
-<tr><td>3.</td><td><a href='https://www.tesla.com/roadster'>Tesla Roadster</a></td><td>1453 👍</td><td>2554 💬</td></tr>
-<tr><td>4.</td><td><a href='https://llmspeed.dev/'>Show HN: Llmspeed – feel how fast a local LLM runs before you buy t...</a></td><td>92 👍</td><td>38 💬</td></tr>
-<tr><td>5.</td><td><a href='https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017'>DeepSeek-v4.1-Flash-1017</a></td><td>183 👍</td><td>80 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.lf-lang.org/'>Intuitive concurrent programming in any language</a></td><td>54 👍</td><td>13 💬</td></tr>
-<tr><td>7.</td><td><a href='https://humanpro.co/articles/we-still-use-paper/'>We Still Use Paper</a></td><td>7 👍</td><td>1 💬</td></tr>
-<tr><td>8.</td><td><a href='https://news.ycombinator.com/item?id=50089577'>Tell HN: Remember to migrate away from .name domain</a></td><td>51 👍</td><td>27 💬</td></tr>
-<tr><td>9.</td><td><a href='https://github.com/cobanov/PS5LM'>Llama.cpp on a jailbroken PS5: run any GGUF model natively on the c...</a></td><td>298 👍</td><td>74 💬</td></tr>
-<tr><td>10.</td><td><a href='https://alexwang.ai/posts/associative-memory/'>You could have invented transformers from memory</a></td><td>316 👍</td><td>73 💬</td></tr>
+<tr><td>1.</td><td><a href='https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017'>DeepSeek: DeepSeek v4.1 Flash 1017</a></td><td>479 👍</td><td>248 💬</td></tr>
+<tr><td>2.</td><td><a href='https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using'>Making Chicken Transparent Using Dorito Dust</a></td><td>64 👍</td><td>23 💬</td></tr>
+<tr><td>3.</td><td><a href='https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/'>Solar surpasses nuclear power globally for first time – pv magazine...</a></td><td>147 👍</td><td>63 💬</td></tr>
+<tr><td>4.</td><td><a href='https://frozenfractal.com/blog/2026/10/12/around-the-world-34-a-pretty-sky/'>Rendering pretty sky in Around The World game</a></td><td>40 👍</td><td>4 💬</td></tr>
+<tr><td>5.</td><td><a href='https://www.historytoday.com/archive/history-matters/tudor-life-time-plague'>A Tudor Life in the Time of Plague</a></td><td>11 👍</td><td>0 💬</td></tr>
+<tr><td>6.</td><td><a href='https://www.paperinstruments.com/ultramarine'>Ultramarine 1 Flash</a></td><td>327 👍</td><td>100 💬</td></tr>
+<tr><td>7.</td><td><a href='https://www.tesla.com/roadster'>Tesla Roadster</a></td><td>1546 👍</td><td>2817 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.newyorker.com/magazine/2026/10/19/the-first-candid'>The First Candid</a></td><td>17 👍</td><td>6 💬</td></tr>
+<tr><td>9.</td><td><a href='https://pluralistic.net/2026/10/17/mercenary-spyware/#discover-tech'>Ad-tech company was a delivery system for "mercenary spyware"</a></td><td>25 👍</td><td>3 💬</td></tr>
+<tr><td>10.</td><td><a href='https://llmspeed.dev/'>Show HN: Llmspeed – feel how fast a local LLM runs before you buy t...</a></td><td>175 👍</td><td>57 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>17 Oct 2026, 11:12 UTC</b> · Data from Hacker News</sub>
+<b>17 Oct 2026, 15:47 UTC</b>
 
 ---
 
