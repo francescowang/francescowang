@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.anthropic.com/research/employment-at-anthropic'>How employment is changing at Anthropic</a></td><td>36 👍</td><td>32 💬</td></tr>
-<tr><td>2.</td><td><a href='https://api-docs.deepseek.com/guides/search/'>DeepSeek search and fetch – $0.75 per 1000 successful requests</a></td><td>249 👍</td><td>118 💬</td></tr>
-<tr><td>3.</td><td><a href='https://t3.at/blog/2026-10-17-parser-combinators/'>Parser Combinators</a></td><td>42 👍</td><td>17 💬</td></tr>
-<tr><td>4.</td><td><a href='https://sphinx-six-theta.vercel.app/'>Show HN: Sphinx – A hook that quizzes you on your AI's code before ...</a></td><td>148 👍</td><td>46 💬</td></tr>
-<tr><td>5.</td><td><a href='https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything'>How the Elizabeth Holmes documentary “You Can See Everything” is de...</a></td><td>163 👍</td><td>189 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.nature.com/articles/d41586-026-03266-x'>Bleached corals thrive within days when touching healthy neighbour</a></td><td>474 👍</td><td>101 💬</td></tr>
-<tr><td>7.</td><td><a href='https://teal-language.org/'>Teal – A statically-typed dialect of Lua</a></td><td>46 👍</td><td>13 💬</td></tr>
-<tr><td>8.</td><td><a href='https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/'>Lean now ships with verified kernels</a></td><td>149 👍</td><td>50 💬</td></tr>
-<tr><td>9.</td><td><a href='https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/'>Legal experts warn Meta's new terms still grant broad scraping perm...</a></td><td>7 👍</td><td>2 💬</td></tr>
-<tr><td>10.</td><td><a href='https://alinush.github.io//tee'>It's time to talk about TEEs</a></td><td>13 👍</td><td>2 💬</td></tr>
+<tr><td>1.</td><td><a href='https://github.com/VikOlliver/RepRapMicron/wiki'>RepRapMicron</a></td><td>136 👍</td><td>19 💬</td></tr>
+<tr><td>2.</td><td><a href='https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/'>Will it be a golden age or a dark age for mathematics (and science)?</a></td><td>40 👍</td><td>29 💬</td></tr>
+<tr><td>3.</td><td><a href='https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550'>macOS 15.8.2 Breaks OpenGL</a></td><td>22 👍</td><td>7 💬</td></tr>
+<tr><td>4.</td><td><a href='https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/'>Legal experts warn Meta's new terms still grant broad scraping perm...</a></td><td>134 👍</td><td>34 💬</td></tr>
+<tr><td>5.</td><td><a href='https://api-docs.deepseek.com/guides/search/'>DeepSeek search and fetch – $0.75 per 1000 successful requests</a></td><td>394 👍</td><td>199 💬</td></tr>
+<tr><td>6.</td><td><a href='https://legendofhyrule.com/'>Show HN: The Zelda timeline to catch up before the Ocarina of Time ...</a></td><td>52 👍</td><td>16 💬</td></tr>
+<tr><td>7.</td><td><a href='https://github.com/0x23/MicroManipulatorStepper'>Open MicroManipulator – A sub-micrometer 3D motion control plattform</a></td><td>106 👍</td><td>8 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web'>Websites are closing their doors to AI agents</a></td><td>46 👍</td><td>31 💬</td></tr>
+<tr><td>9.</td><td><a href='https://t3.at/blog/2026-10-17-parser-combinators/'>Parser Combinators</a></td><td>136 👍</td><td>55 💬</td></tr>
+<tr><td>10.</td><td><a href='https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/'>Java sealed classes and exhaustive pattern matching</a></td><td>9 👍</td><td>2 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>18 Oct 2026, 11:45 UTC</b> · Data from Hacker News</sub>
+<b>18 Oct 2026, 16:02 UTC</b>
 
 ---
 
