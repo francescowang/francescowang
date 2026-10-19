@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816'>Documents: Police officer gave her Flock login to her ICE agent hus...</a></td><td>399 👍</td><td>196 💬</td></tr>
-<tr><td>2.</td><td><a href='https://100toolkit.com/blog/deslop-model/'>Show HN: Qwen3-4B with the AI writing tics trained out</a></td><td>46 👍</td><td>18 💬</td></tr>
-<tr><td>3.</td><td><a href='https://lwn.net/Articles/1101143/'>Linux 7.3 Released</a></td><td>391 👍</td><td>172 💬</td></tr>
-<tr><td>4.</td><td><a href='https://mistral.ai/news/timestral/'>Timestral: Mistral release time-series foundation models</a></td><td>193 👍</td><td>39 💬</td></tr>
-<tr><td>5.</td><td><a href='https://spectrum.ieee.org/alternatives-to-animal-testing'>Alternatives to Animal Testing Are Finally Taking Off</a></td><td>74 👍</td><td>10 💬</td></tr>
-<tr><td>6.</td><td><a href='https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166'>Let's Encrypt is adding two additional remote perspectives for doma...</a></td><td>75 👍</td><td>23 💬</td></tr>
-<tr><td>7.</td><td><a href='https://github.com/IsuruMaduranga/harness-engineering-101'>Harness Engineering 101: The LLM is the brain, the harness is the body</a></td><td>77 👍</td><td>34 💬</td></tr>
-<tr><td>8.</td><td><a href='https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous'>ESA's Hera Will View Asteroid Scars from DART's Strike</a></td><td>31 👍</td><td>0 💬</td></tr>
-<tr><td>9.</td><td><a href='https://engelsbergideas.com/notebook/gdynia-and-the-dream-of-a-maritime-poland/'>Gdynia and the Dream of a Maritime Poland</a></td><td>52 👍</td><td>13 💬</td></tr>
-<tr><td>10.</td><td><a href='https://startupfortune.com/stripe-will-pay-75-billion-for-openrouter-the-ai-model-traffic-cop/'>Stripe will acquire OpenRouter for $7.5B</a></td><td>37 👍</td><td>4 💬</td></tr>
+<tr><td>1.</td><td><a href='https://www.minimax.io/blog/minimax-m31f'>MiniMax M3.1 Flash</a></td><td>122 👍</td><td>35 💬</td></tr>
+<tr><td>2.</td><td><a href='https://marc.info/?l=openbsd-ports&m=179236125692175'>Wine ported to OpenBSD</a></td><td>347 👍</td><td>95 💬</td></tr>
+<tr><td>3.</td><td><a href='https://github.com/kksimp/Mac.apk'>Android apps running native on macOS</a></td><td>63 👍</td><td>21 💬</td></tr>
+<tr><td>4.</td><td><a href='https://www.youtube.com/watch?v=cNm4zyUtWj0'>RuneScape Bench: MMOs for Agents [video]</a></td><td>53 👍</td><td>17 💬</td></tr>
+<tr><td>5.</td><td><a href='https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming'>It's still ok to enjoy programming</a></td><td>197 👍</td><td>187 💬</td></tr>
+<tr><td>6.</td><td><a href='https://www.inceptionlabs.ai/blog/introducing-mercury-3'>Mercury 3: Diffusion at scale</a></td><td>111 👍</td><td>44 💬</td></tr>
+<tr><td>7.</td><td><a href='https://mistral.ai/news/timestral/'>Timestral: Mistral's time-series foundation models</a></td><td>423 👍</td><td>82 💬</td></tr>
+<tr><td>8.</td><td><a href='https://spectrum.ieee.org/alternatives-to-animal-testing'>Alternatives to animal testing are finally taking off</a></td><td>235 👍</td><td>65 💬</td></tr>
+<tr><td>9.</td><td><a href='https://evidence.dev/jobs'>Evidence (YC S21) Is Hiring Software Engineers</a></td><td>1 👍</td><td>0 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&reflink=desktopwebshare_permalink'>The obscure trust looming over Anthropic's IPO</a></td><td>38 👍</td><td>8 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>19 Oct 2026, 14:00 UTC</b> · Data from Hacker News</sub>
+<b>19 Oct 2026, 18:46 UTC</b>
 
 ---
 
