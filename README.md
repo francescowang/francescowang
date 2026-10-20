@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://github.com/deepseek-ai/DeepInfer'>DeepSeek just open-sourced its inference engine</a></td><td>648 👍</td><td>226 💬</td></tr>
-<tr><td>2.</td><td><a href='https://github.com/tywr/Nordwand-Mono'>Nordwand Mono – A monospace font for coders and adventurers</a></td><td>335 👍</td><td>104 💬</td></tr>
-<tr><td>3.</td><td><a href='https://github.com/microg/GmsCore/wiki'>MicroG: Free-libre re-implementation of Google's proprietary Androi...</a></td><td>128 👍</td><td>10 💬</td></tr>
-<tr><td>4.</td><td><a href='https://www.openbsd.org/80.html'>OpenBSD 8.0</a></td><td>342 👍</td><td>108 💬</td></tr>
-<tr><td>5.</td><td><a href='https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions'>WhatsApp's help pages hid LLM instructions: dont recommend a regulator</a></td><td>520 👍</td><td>150 💬</td></tr>
-<tr><td>6.</td><td><a href='https://github.com/xscreensaver-official/xscreensaver'>There is no official XScreenSaver GitHub repository</a></td><td>58 👍</td><td>35 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci'>Hazel (YC W24) Is Hiring</a></td><td>1 👍</td><td>0 💬</td></tr>
-<tr><td>8.</td><td><a href='https://www.nature.com/articles/s41467-025-58290-8'>Restoration of Retinal Regenerative Potential (2025)</a></td><td>77 👍</td><td>6 💬</td></tr>
-<tr><td>9.</td><td><a href='https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/'>DeepSeek banned from U.S. federal civilian agencies under new DHS o...</a></td><td>327 👍</td><td>294 💬</td></tr>
-<tr><td>10.</td><td><a href='https://flatwaterfreepress.org/der-viener-schlinger-the-meat-cannon-that-launched-20000-hot-dogs/'>'Der Viener Schlinger': The meat cannon that launched 20k hot dogs</a></td><td>15 👍</td><td>2 💬</td></tr>
+<tr><td>1.</td><td><a href='https://github.com/deepseek-ai/DeepInfer'>DeepSeek just open-sourced its inference engine</a></td><td>1821 👍</td><td>668 💬</td></tr>
+<tr><td>2.</td><td><a href='https://mistral.ai/news/voxtral-3/'>Voxtral 3</a></td><td>119 👍</td><td>24 💬</td></tr>
+<tr><td>3.</td><td><a href='https://emudhra.we-have-a-problem.com/'>EMudhra Intermediate CA Compromise</a></td><td>214 👍</td><td>95 💬</td></tr>
+<tr><td>4.</td><td><a href='https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/'>Apple broke an essential presentation feature of iPads</a></td><td>291 👍</td><td>167 💬</td></tr>
+<tr><td>5.</td><td><a href='https://kaba.cx/posts/20261020_Tor/'>How I got over 300 Tor exit nodes removed</a></td><td>156 👍</td><td>43 💬</td></tr>
+<tr><td>6.</td><td><a href='https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web'>Publish fake stats, get cited in LLMs</a></td><td>192 👍</td><td>104 💬</td></tr>
+<tr><td>7.</td><td><a href='https://github.com/google-pytorch/torch_tpu'>Google open-sources TorchTPU, a native PyTorch back end for TPUs</a></td><td>33 👍</td><td>9 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.quantamagazine.org/triplet-of-ghostly-galaxies-hints-at-what-dark-matter-is-and-isnt-20261014/'>Triplet of 'ghostly' galaxies hints at what dark matter is and isn't</a></td><td>48 👍</td><td>8 💬</td></tr>
+<tr><td>9.</td><td><a href='https://tyma.com/my-cringe-story/'>My Friend Bob Cringely</a></td><td>88 👍</td><td>29 💬</td></tr>
+<tr><td>10.</td><td><a href='https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/'>2026 is an exciting year for the Rust compiler (and me)</a></td><td>78 👍</td><td>15 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>20 Oct 2026, 12:16 UTC</b> · Data from Hacker News</sub>
+<b>20 Oct 2026, 17:24 UTC</b>
 
 ---
 
