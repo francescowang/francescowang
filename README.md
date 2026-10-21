@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/'>Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds</a></td><td>288 👍</td><td>116 💬</td></tr>
-<tr><td>2.</td><td><a href='https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes'>Whatever Happened to Fire Escapes</a></td><td>53 👍</td><td>21 💬</td></tr>
-<tr><td>3.</td><td><a href='https://www.joshwcomeau.com/css/interop-2027/'>The Future of CSS</a></td><td>432 👍</td><td>176 💬</td></tr>
-<tr><td>4.</td><td><a href='https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/'>The 1.5°C goal of the Paris Agreement is no longer viable</a></td><td>413 👍</td><td>450 💬</td></tr>
-<tr><td>5.</td><td><a href='https://news-web.php.net/php.announce/509'>Upcoming critical PHP security release (CVE-2026-109618 / -109619)</a></td><td>1150 👍</td><td>462 💬</td></tr>
-<tr><td>6.</td><td><a href='https://permit.petercai.com/'>Show HN: SimCity, but with Permits</a></td><td>832 👍</td><td>386 💬</td></tr>
-<tr><td>7.</td><td><a href='https://9mothers.com/careers'>9 Mothers (YC P26) Is Hiring in Austin, TX</a></td><td>1 👍</td><td>0 💬</td></tr>
-<tr><td>8.</td><td><a href='https://www.pagetable.com/303'>Way to Play Super Mario 64: On Apple Vision Pro</a></td><td>46 👍</td><td>13 💬</td></tr>
-<tr><td>9.</td><td><a href='https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/'>Muse exposes users' personal and business secrets when they share c...</a></td><td>219 👍</td><td>105 💬</td></tr>
-<tr><td>10.</td><td><a href='https://emudhra.we-have-a-problem.com/'>eMudhra intermediate CA compromise</a></td><td>1039 👍</td><td>417 💬</td></tr>
+<tr><td>1.</td><td><a href='https://github.com/php/php-src/releases/tag/php-8.2.35'>PHP 8.2.35</a></td><td>729 👍</td><td>296 💬</td></tr>
+<tr><td>2.</td><td><a href='https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/'>Today's PHP Security Release, and How We're Strengthening PHP Security</a></td><td>187 👍</td><td>96 💬</td></tr>
+<tr><td>3.</td><td><a href='https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/'>Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer a...</a></td><td>164 👍</td><td>62 💬</td></tr>
+<tr><td>4.</td><td><a href='https://duckdb.org/2026/10/21/announcing-duckdb-200'>DuckDB 2.0.0 LTS “Cinnamon Teal”</a></td><td>228 👍</td><td>26 💬</td></tr>
+<tr><td>5.</td><td><a href='https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/'>Patch the Planet: global response coordination as agents uncover vu...</a></td><td>152 👍</td><td>80 💬</td></tr>
+<tr><td>6.</td><td><a href='https://rustoffrails.org/'>Rust off Rails: The opinionated web stack for the AI era</a></td><td>24 👍</td><td>17 💬</td></tr>
+<tr><td>7.</td><td><a href='https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488'>Oregon lawmakers approve money to buy an iconic waterfall listed on...</a></td><td>82 👍</td><td>47 💬</td></tr>
+<tr><td>8.</td><td><a href='https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/'>Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds</a></td><td>638 👍</td><td>284 💬</td></tr>
+<tr><td>9.</td><td><a href='https://www.bbc.com/news/articles/cp814l80pw2o'>Tiny possum and glider thought extinct for 6000 years found in remo...</a></td><td>45 👍</td><td>3 💬</td></tr>
+<tr><td>10.</td><td><a href='https://blog.cloudflare.com/php-vulnerabilities-waf-protection/'>Cloudflare deploys protections against php2shell vulnerability</a></td><td>81 👍</td><td>7 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>21 Oct 2026, 12:27 UTC</b> · Data from Hacker News</sub>
+<b>21 Oct 2026, 17:30 UTC</b>
 
 ---
 
