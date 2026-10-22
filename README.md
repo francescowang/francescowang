@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://nvd.nist.gov/vuln/detail/cve-2026-111943'>CVE-2026-111943: Compromised Intermediate Certificate Authority</a></td><td>196 👍</td><td>50 💬</td></tr>
-<tr><td>2.</td><td><a href='https://globus.software/blog/2026/10/16/cutting-map-polygons/'>Faster than earcut: triangulating 3.7M map polygons in 489 ms</a></td><td>72 👍</td><td>14 💬</td></tr>
-<tr><td>3.</td><td><a href='https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/'>Jailbreaking the Switch 2</a></td><td>143 👍</td><td>47 💬</td></tr>
-<tr><td>4.</td><td><a href='https://simedw.com/2026/10/21/world-model-terminal/'>WorldTUI: I trained a 360M model to pretend to be a terminal</a></td><td>302 👍</td><td>92 💬</td></tr>
-<tr><td>5.</td><td><a href='https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/'>Xbox wants you to pay 24 to 40 cents per hour to stream games you b...</a></td><td>42 👍</td><td>29 💬</td></tr>
-<tr><td>6.</td><td><a href='https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf'>The recently proposed o(n log n) integer multiplication algorithm [...</a></td><td>229 👍</td><td>171 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities'>Several Linux kernel vulnerabilities accidentally posted to public ...</a></td><td>71 👍</td><td>15 💬</td></tr>
-<tr><td>8.</td><td><a href='https://blog.railway.com/p/security-disclosure-wednesday-october-21st'>Security Disclosure</a></td><td>500 👍</td><td>291 💬</td></tr>
-<tr><td>9.</td><td><a href='https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/'>Startup taps underwater volcano as energy source in "proof point" test</a></td><td>27 👍</td><td>11 💬</td></tr>
-<tr><td>10.</td><td><a href='https://claude.com/product/claude-duet'>Claude Duet</a></td><td>436 👍</td><td>396 💬</td></tr>
+<tr><td>1.</td><td><a href='https://quad9.net/news/blog/au-revoir-france/'>Quad9 (DNS Resolver) to Exit France</a></td><td>345 👍</td><td>110 💬</td></tr>
+<tr><td>2.</td><td><a href='https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business'>eMudhra to exit global SSL/TLS certificate business</a></td><td>567 👍</td><td>427 💬</td></tr>
+<tr><td>3.</td><td><a href='https://github.com/oosexgang/hackios-xnu-kernel'>Show HN: Run full iOS 16.5 firmware on Android Devices</a></td><td>86 👍</td><td>35 💬</td></tr>
+<tr><td>4.</td><td><a href='https://pwn.watch/'>What's Getting Pwned</a></td><td>176 👍</td><td>109 💬</td></tr>
+<tr><td>5.</td><td><a href='https://musicalform.substack.com/p/what-is-gridifcation'>What Is Gridifcation</a></td><td>255 👍</td><td>112 💬</td></tr>
+<tr><td>6.</td><td><a href='https://www.taler.net/en/news/2026-13.html'>Getting ready to operate GNU Taler in Germany</a></td><td>31 👍</td><td>9 💬</td></tr>
+<tr><td>7.</td><td><a href='https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans'>Every AI model has the same "controversial" take on humans</a></td><td>22 👍</td><td>19 💬</td></tr>
+<tr><td>8.</td><td><a href='https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/'>Jailbreaking the Switch 2</a></td><td>505 👍</td><td>186 💬</td></tr>
+<tr><td>9.</td><td><a href='https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html'>Google cleared 300 hectares of Finnish forest</a></td><td>139 👍</td><td>79 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.boristhebrave.com/2026/10/18/dungeon-generation-in-the-gnomish-mines-of-nethack/'>Dungeon Generation in the Gnomish Mines of NetHack</a></td><td>34 👍</td><td>5 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>22 Oct 2026, 12:30 UTC</b> · Data from Hacker News</sub>
+<b>22 Oct 2026, 17:26 UTC</b>
 
 ---
 
