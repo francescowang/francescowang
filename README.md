@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/'>Is this the new cyber normal?</a></td><td>46 👍</td><td>31 💬</td></tr>
-<tr><td>2.</td><td><a href='https://edjefferson.com/localwiki/'>Local Wikipedia: Wikipedia, but only for things a half hour walk fr...</a></td><td>545 👍</td><td>122 💬</td></tr>
-<tr><td>3.</td><td><a href='https://tilschuenemann.de/job-loss-cortisone-mania'>Job Loss and Cortisone Mania</a></td><td>22 👍</td><td>1 💬</td></tr>
-<tr><td>4.</td><td><a href='https://codeandcake.dev/posts/2026-10-22-docker-is-weird'>Docker is weird</a></td><td>566 👍</td><td>243 💬</td></tr>
-<tr><td>5.</td><td><a href='https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet'>Swedish government offices to ban ChatGPT and Claude</a></td><td>18 👍</td><td>8 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html'>The foolishness of "natural language programming" (1978)</a></td><td>214 👍</td><td>128 💬</td></tr>
-<tr><td>7.</td><td><a href='https://arxiv.org/abs/2603.01092'>The alien space of science: Coherent but cognitively unavailable di...</a></td><td>97 👍</td><td>25 💬</td></tr>
-<tr><td>8.</td><td><a href='https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images'>How does Fable 5.1 hide messages in images?</a></td><td>116 👍</td><td>39 💬</td></tr>
-<tr><td>9.</td><td><a href='https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans'>Every AI model has the same "controversial" take on humans</a></td><td>468 👍</td><td>472 💬</td></tr>
-<tr><td>10.</td><td><a href='https://github.com/ClickHouse/ClickBench/pull/2165'>Remove pgrust: the entry is cheating</a></td><td>29 👍</td><td>8 💬</td></tr>
+<tr><td>1.</td><td><a href='https://blog.calif.io/p/iphone'>Today, we hacked what we'd set out to hack: the iPhone</a></td><td>236 👍</td><td>114 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.kimi.com/code/docs/en/kimi-code/models.html'>Kimi K3.1 Pro and K3.1 Pro Highspeed</a></td><td>81 👍</td><td>17 💬</td></tr>
+<tr><td>3.</td><td><a href='https://edjefferson.com/localwiki/'>Local Wikipedia: Wikipedia, but only for things a half hour walk fr...</a></td><td>943 👍</td><td>182 💬</td></tr>
+<tr><td>4.</td><td><a href='http://leapsecond.com/time-nuts.htm'>Time Nuts</a></td><td>6 👍</td><td>0 💬</td></tr>
+<tr><td>5.</td><td><a href='https://isaacmarovitz.com/posts/sonic-06/'>The Missed Opportunities of Sonic 06</a></td><td>10 👍</td><td>0 💬</td></tr>
+<tr><td>6.</td><td><a href='https://pudding.cool/2026/10/kevin-bacon/'>The Real Kevin Bacon</a></td><td>42 👍</td><td>6 💬</td></tr>
+<tr><td>7.</td><td><a href='https://www.theideasletter.org/essay/total-historian/'>Total Historian</a></td><td>7 👍</td><td>0 💬</td></tr>
+<tr><td>8.</td><td><a href='https://codeandcake.dev/posts/2026-10-22-docker-is-weird'>Docker is weird</a></td><td>758 👍</td><td>304 💬</td></tr>
+<tr><td>9.</td><td><a href='https://www.henrikkarlsson.xyz/p/music'>How Is Music Possible</a></td><td>3 👍</td><td>0 💬</td></tr>
+<tr><td>10.</td><td><a href='https://tilschuenemann.de/job-loss-cortisone-mania'>Job loss and cortisone mania</a></td><td>107 👍</td><td>44 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>23 Oct 2026, 12:11 UTC</b> · Data from Hacker News</sub>
+<b>23 Oct 2026, 17:20 UTC</b>
 
 ---
 
