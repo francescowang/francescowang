@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.southampton.ac.uk/~doug/quantum_physics/index.html'>I Don't Understand Quantum Physics (2018)</a></td><td>87 👍</td><td>40 💬</td></tr>
-<tr><td>2.</td><td><a href='https://github.com/obsproject/obs-studio/releases/tag/33.0.0'>OBS Studio 33</a></td><td>185 👍</td><td>61 💬</td></tr>
-<tr><td>3.</td><td><a href='https://www.kimi.ai/blog/kimi-k3-1-pro'>Kimi K3.1 Pro and K3.1 Pro Highspeed</a></td><td>935 👍</td><td>557 💬</td></tr>
-<tr><td>4.</td><td><a href='https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/'>Physicists trap a single antimatter particle for a month</a></td><td>77 👍</td><td>30 💬</td></tr>
-<tr><td>5.</td><td><a href='https://blog.calif.io/p/iphone'>Today, we hacked what we'd set out to hack: the iPhone</a></td><td>908 👍</td><td>593 💬</td></tr>
-<tr><td>6.</td><td><a href='https://grapheneos.social/@GrapheneOS/117492375462459244'>Around a dozen banking apps began specifically permitting GrapheneOS</a></td><td>156 👍</td><td>31 💬</td></tr>
-<tr><td>7.</td><td><a href='https://philipotoole.com/twelve-years-of-distributed-sqlite/'>Twelve years of distributed SQLite</a></td><td>223 👍</td><td>33 💬</td></tr>
-<tr><td>8.</td><td><a href='https://rtfeldman.com/fp-vs-c'>How close can pure functional programming get to C?</a></td><td>138 👍</td><td>20 💬</td></tr>
-<tr><td>9.</td><td><a href='https://music.apple.com/this-url-doesnt-exist'>Apple Music 404 Not Found</a></td><td>789 👍</td><td>238 💬</td></tr>
-<tr><td>10.</td><td><a href='https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/'>How to run a city builder on 16 MHz</a></td><td>27 👍</td><td>10 💬</td></tr>
+<tr><td>1.</td><td><a href='https://freedns.afraid.org/'>FreeDNS</a></td><td>46 👍</td><td>3 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.infoq.com/news/2026/10/tornadovm-7-gpu/'>TornadoVM 7 Enables GPU-Native Workloads from Java Applications</a></td><td>48 👍</td><td>6 💬</td></tr>
+<tr><td>3.</td><td><a href='https://github.com/obsproject/obs-studio/releases/tag/33.0.0'>OBS Studio 33</a></td><td>334 👍</td><td>113 💬</td></tr>
+<tr><td>4.</td><td><a href='https://grapheneos.social/@GrapheneOS/117492375462459244'>Around a dozen banking apps began specifically permitting GrapheneOS</a></td><td>428 👍</td><td>145 💬</td></tr>
+<tr><td>5.</td><td><a href='https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497'>Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP li...</a></td><td>146 👍</td><td>70 💬</td></tr>
+<tr><td>6.</td><td><a href='https://www.kimi.ai/blog/kimi-k3-1-pro'>Kimi K3.1 Pro and K3.1 Pro Highspeed</a></td><td>1014 👍</td><td>614 💬</td></tr>
+<tr><td>7.</td><td><a href='https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/'>Physicists trap a single antimatter particle for a month</a></td><td>175 👍</td><td>59 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.southampton.ac.uk/~doug/quantum_physics/index.html'>I Don't Understand Quantum Physics (2018)</a></td><td>191 👍</td><td>134 💬</td></tr>
+<tr><td>9.</td><td><a href='https://blog.calif.io/p/iphone'>Today, we hacked what we'd set out to hack: the iPhone</a></td><td>1012 👍</td><td>636 💬</td></tr>
+<tr><td>10.</td><td><a href='https://1000awesomethings.com/2026/10/08/576-appreciating-the-beauty-of-all-your-bodys-scars-and-scratches-4/'>Appreciating the beauty of all your body's scars and scratches</a></td><td>53 👍</td><td>32 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>24 Oct 2026, 11:40 UTC</b> · Data from Hacker News</sub>
+<b>24 Oct 2026, 16:09 UTC</b>
 
 ---
 
