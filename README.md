@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order'>Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism</a></td><td>251 👍</td><td>159 💬</td></tr>
-<tr><td>2.</td><td><a href='https://github.com/ihhub/fheroes2'>fheroes2: A recreation of Heroes of Might and Magic II game engine</a></td><td>11 👍</td><td>0 💬</td></tr>
-<tr><td>3.</td><td><a href='https://danluu.com/ambitious/'>We should be more ambitious with the software we build</a></td><td>479 👍</td><td>417 💬</td></tr>
-<tr><td>4.</td><td><a href='https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras'>Cerebras Deploys Trillion-Parameter AI Models</a></td><td>204 👍</td><td>65 💬</td></tr>
-<tr><td>5.</td><td><a href='https://twitter.com/mike64_t/status/2114150399406202896'>Samsung running a TensorFlow lite model on 960x540 image to track you</a></td><td>46 👍</td><td>19 💬</td></tr>
-<tr><td>6.</td><td><a href='https://kottke.org/26/10/how-japanese-dried-bonito-is-made'>How Japanese Dried Bonito Is Made</a></td><td>61 👍</td><td>21 💬</td></tr>
-<tr><td>7.</td><td><a href='https://aardappel.github.io/goose/'>The Goose Programming Language</a></td><td>436 👍</td><td>269 💬</td></tr>
-<tr><td>8.</td><td><a href='https://polygonjs.com/blog/why-i-rewrote-polygon-from-scratch'>Rewriting a Commercial Engine in Jai</a></td><td>35 👍</td><td>22 💬</td></tr>
-<tr><td>9.</td><td><a href='https://www.speedcrunch.org/'>SpeedCrunch 1.1</a></td><td>164 👍</td><td>30 💬</td></tr>
-<tr><td>10.</td><td><a href='https://ratfactor.com/cards/pl-small'>Small Programs and Languages</a></td><td>128 👍</td><td>17 💬</td></tr>
+<tr><td>1.</td><td><a href='https://bigwhalehunting.com/workforce/'>Show HN: I put employees inside S&P 500 market-cap bubbles</a></td><td>76 👍</td><td>24 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/'>A few thoughts on intensity</a></td><td>32 👍</td><td>20 💬</td></tr>
+<tr><td>3.</td><td><a href='https://github.com/ihhub/fheroes2'>fheroes2: A recreation of Heroes of Might and Magic II game engine</a></td><td>135 👍</td><td>46 💬</td></tr>
+<tr><td>4.</td><td><a href='https://github.com/winnin/farol'>Show HN: Farol – a risk map of a pull request for the person who ap...</a></td><td>47 👍</td><td>28 💬</td></tr>
+<tr><td>5.</td><td><a href='https://daily.jstor.org/why-washing-machines-took-decades-to-catch-on/'>Washing machines took decades to catch on</a></td><td>29 👍</td><td>30 💬</td></tr>
+<tr><td>6.</td><td><a href='https://danluu.com/ambitious/'>We should be more ambitious with the software we build</a></td><td>595 👍</td><td>588 💬</td></tr>
+<tr><td>7.</td><td><a href='https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras'>Cerebras Deploys Trillion-Parameter AI Models</a></td><td>283 👍</td><td>95 💬</td></tr>
+<tr><td>8.</td><td><a href='https://scabshack.lol/posts/bring-back-the-cool-save-file-screens'>Bring Back the Cool Save File Screens</a></td><td>10 👍</td><td>1 💬</td></tr>
+<tr><td>9.</td><td><a href='https://twitter.com/freddier/status/2114042326758867453'>Samsung TVs look for microphones in your house via Bluetooth and th...</a></td><td>96 👍</td><td>28 💬</td></tr>
+<tr><td>10.</td><td><a href='https://kottke.org/26/10/how-japanese-dried-bonito-is-made'>How Japanese Dried Bonito Is Made</a></td><td>137 👍</td><td>36 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>25 Oct 2026, 12:04 UTC</b> · Data from Hacker News</sub>
+<b>25 Oct 2026, 16:39 UTC</b>
 
 ---
 
