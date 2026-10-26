@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://blocks.manifold3d.ch/'>Switzerland. Block by block. At 1:1 scale</a></td><td>284 👍</td><td>126 💬</td></tr>
-<tr><td>2.</td><td><a href='https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline'>Birdwatching rewires the brain and slows cognitive decline</a></td><td>192 👍</td><td>71 💬</td></tr>
-<tr><td>3.</td><td><a href='https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm'>Fixing Tool-Call Accuracy in vLLM</a></td><td>14 👍</td><td>1 💬</td></tr>
-<tr><td>4.</td><td><a href='https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm'>Anthropic S-1</a></td><td>233 👍</td><td>165 💬</td></tr>
-<tr><td>5.</td><td><a href='https://typemill.net/knowledge-hub/tasks-as-code'>Tasks as Code: Move Your Tickets into the Repository</a></td><td>23 👍</td><td>21 💬</td></tr>
-<tr><td>6.</td><td><a href='https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html'>One of the Greatest Inventions in the History of Human Transport</a></td><td>25 👍</td><td>6 💬</td></tr>
-<tr><td>7.</td><td><a href='https://titleart.dvy.io/'>Show HN: TitleArt – Make text like it's 1997</a></td><td>300 👍</td><td>51 💬</td></tr>
-<tr><td>8.</td><td><a href='https://brennenputh.me/blog/printable-websites/'>Websites Should Be Printable</a></td><td>89 👍</td><td>82 💬</td></tr>
-<tr><td>9.</td><td><a href='https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry'>Behind the scenes at the NeXT Computer office</a></td><td>170 👍</td><td>90 💬</td></tr>
-<tr><td>10.</td><td><a href='https://english.elpais.com/technology/2026-10-25/peter-thiel-the-tech-oligarch-who-believes-in-the-antichrist.html'>Peter Thiel, the tech oligarch who believes in the Antichrist</a></td><td>70 👍</td><td>26 💬</td></tr>
+<tr><td>1.</td><td><a href='https://www.panamericandispatch.org/p/meta-employees-denounce-interference'>Meta Employees Denounce Interference in Brazilian Elections</a></td><td>195 👍</td><td>57 💬</td></tr>
+<tr><td>2.</td><td><a href='https://magazine.sebastianraschka.com/p/building-reasoning-models'>Sebastian Raschka's from-scratch video course on building reasoning...</a></td><td>323 👍</td><td>47 💬</td></tr>
+<tr><td>3.</td><td><a href='https://css-tricks.com/css-tricks-has-a-new-owner/'>CSS-Tricks has a new owner</a></td><td>203 👍</td><td>51 💬</td></tr>
+<tr><td>4.</td><td><a href='https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md'>Microsoft Announces Type Server Protocol, Extension of Language Ser...</a></td><td>15 👍</td><td>0 💬</td></tr>
+<tr><td>5.</td><td><a href='https://openai.com/index/introducing-gpt-6-1-terra/'>GPT-6.1 Terra</a></td><td>124 👍</td><td>49 💬</td></tr>
+<tr><td>6.</td><td><a href='https://github.com/DilawarShafiq/nietzschian-debugger'>Nietzschian Debugger</a></td><td>26 👍</td><td>9 💬</td></tr>
+<tr><td>7.</td><td><a href='https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm'>Anthropic S-1</a></td><td>1164 👍</td><td>1078 💬</td></tr>
+<tr><td>8.</td><td><a href='https://shraiwi.com/blog/simd-fast-esp32s3/'>SIMD-accelerated computer vision on a $2 microcontroller</a></td><td>100 👍</td><td>25 💬</td></tr>
+<tr><td>9.</td><td><a href='https://www.df.com/diamond-transistor'>Diamond Transistor</a></td><td>53 👍</td><td>31 💬</td></tr>
+<tr><td>10.</td><td><a href='https://pharo.org/news/2026-10-26-Pharo14Release.html'>Pharo 14</a></td><td>177 👍</td><td>41 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>26 Oct 2026, 13:37 UTC</b> · Data from Hacker News</sub>
+<b>26 Oct 2026, 18:46 UTC</b>
 
 ---
 
