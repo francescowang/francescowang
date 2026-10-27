@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/'>Software may be getting worse, but it used to be horrible</a></td><td>87 👍</td><td>46 💬</td></tr>
-<tr><td>2.</td><td><a href='https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/'>Roblox downloaded 145GB models from us (including adult content) wi...</a></td><td>177 👍</td><td>116 💬</td></tr>
-<tr><td>3.</td><td><a href='https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/'>Python's experimental JIT to be removed</a></td><td>70 👍</td><td>16 💬</td></tr>
-<tr><td>4.</td><td><a href='https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup'>Wikipedia's Cleanup of AI-Generated Content</a></td><td>56 👍</td><td>22 💬</td></tr>
-<tr><td>5.</td><td><a href='https://oioannou.com/blog/ai-promised-less-work/'>AI promised less work. I've never worked more</a></td><td>27 👍</td><td>6 💬</td></tr>
-<tr><td>6.</td><td><a href='https://openai.com/index/building-scientific-understanding-with-academic-communities/'>Three new discoveries in mathematics, computer science, and physics</a></td><td>977 👍</td><td>521 💬</td></tr>
-<tr><td>7.</td><td><a href='https://j11g.com/the-mythical-man-month-in-the-age-of-ai'>The Mythical Man-Month in the Age of AI</a></td><td>238 👍</td><td>160 💬</td></tr>
-<tr><td>8.</td><td><a href='https://gforth.org/manual/1.0/NEWS.html'>Gforth 1.0</a></td><td>35 👍</td><td>3 💬</td></tr>
-<tr><td>9.</td><td><a href='https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf'>The Exponential Time Hypothesis Is False [pdf]</a></td><td>674 👍</td><td>250 💬</td></tr>
-<tr><td>10.</td><td><a href='https://magazine.sebastianraschka.com/p/building-reasoning-models'>Sebastian Raschka's from-scratch video course on building reasoning...</a></td><td>746 👍</td><td>102 💬</td></tr>
+<tr><td>1.</td><td><a href='https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/'>Genie 4</a></td><td>296 👍</td><td>164 💬</td></tr>
+<tr><td>2.</td><td><a href='https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220'>Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior</a></td><td>123 👍</td><td>55 💬</td></tr>
+<tr><td>3.</td><td><a href='https://ghostty.org/docs/install/release-notes/1-4-0'>Ghostty 1.4.0</a></td><td>140 👍</td><td>53 💬</td></tr>
+<tr><td>4.</td><td><a href='https://cfsg.axiommath.ai/'>Classification of Finite Simple Groups Formalized in Lean</a></td><td>49 👍</td><td>17 💬</td></tr>
+<tr><td>5.</td><td><a href='https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/'>Python's experimental JIT to be removed</a></td><td>324 👍</td><td>167 💬</td></tr>
+<tr><td>6.</td><td><a href='https://www.apple.com/imac/'>New iMac with M6</a></td><td>185 👍</td><td>225 💬</td></tr>
+<tr><td>7.</td><td><a href='https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup'>Wikipedia's Cleanup of AI-Generated Content</a></td><td>317 👍</td><td>151 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/'>The US government is hiding secret court ruling about how it spies ...</a></td><td>432 👍</td><td>141 💬</td></tr>
+<tr><td>9.</td><td><a href='https://gizmodo.com/microsoft-mcdonalds-verizon-and-others-tell-crypto-platform-not-to-tokenize-their-stocks-2000830368'>Microsoft and Others Tell Crypto Platform Not to Tokenize Their Stocks</a></td><td>27 👍</td><td>11 💬</td></tr>
+<tr><td>10.</td><td><a href='https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram'>Why Micron Is Suddenly Ditching 4F² DRAM as Rivals Double Down</a></td><td>80 👍</td><td>13 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>27 Oct 2026, 12:42 UTC</b> · Data from Hacker News</sub>
+<b>27 Oct 2026, 18:08 UTC</b>
 
 ---
 
