@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://emudhra.we-have-a-problem.com/apple.html'>Ten days later, Git on macOS still trusts the compromised eMudhra c...</a></td><td>276 👍</td><td>122 💬</td></tr>
-<tr><td>2.</td><td><a href='https://vertex.degree/'>Start Doing Graph Theory</a></td><td>221 👍</td><td>35 💬</td></tr>
-<tr><td>3.</td><td><a href='https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/'>ICE Is Running One of the Largest Anti-Left Surveillance Ops in US ...</a></td><td>90 👍</td><td>9 💬</td></tr>
-<tr><td>4.</td><td><a href='https://lexifina.com/blog/git-for-the-us-code'>Git for the US Code</a></td><td>331 👍</td><td>173 💬</td></tr>
-<tr><td>5.</td><td><a href='https://www.euronews.com/video/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash'>Two high-speed trains collide near Toledo, Spain</a></td><td>58 👍</td><td>25 💬</td></tr>
-<tr><td>6.</td><td><a href='https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/'>Genie 4</a></td><td>947 👍</td><td>544 💬</td></tr>
-<tr><td>7.</td><td><a href='https://ghostty.org/docs/install/release-notes/1-4-0'>Ghostty 1.4</a></td><td>1130 👍</td><td>363 💬</td></tr>
-<tr><td>8.</td><td><a href='https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/'>Amazon to buy satellite firm Globalstar in $11.57B deal</a></td><td>80 👍</td><td>33 💬</td></tr>
-<tr><td>9.</td><td><a href='https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/'>Ink droplets in motion snag top prize in Nikon Small World contest</a></td><td>297 👍</td><td>48 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.circuithub.com/post/unveiling-the-grid'>Unveiling The Grid: PCBs made in America, twice as fast as Shenzhen</a></td><td>58 👍</td><td>24 💬</td></tr>
+<tr><td>1.</td><td><a href='https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/'>Gemini 4 Carbon</a></td><td>353 👍</td><td>289 💬</td></tr>
+<tr><td>2.</td><td><a href='https://carmelitegothic.com/cnc-stone-carving/'>CNC Stone Carving</a></td><td>243 👍</td><td>81 💬</td></tr>
+<tr><td>3.</td><td><a href='https://www.apple.com/macbook-pro/proled-xdr-display/'>MacBook Pro with PROLED XDR Display and Touch</a></td><td>206 👍</td><td>316 💬</td></tr>
+<tr><td>4.</td><td><a href='https://surgehq.ai/blog/dayjob-tax'>Dayjob: Tax – evaluating AI agents on 50 professional tax assignments</a></td><td>86 👍</td><td>50 💬</td></tr>
+<tr><td>5.</td><td><a href='https://www.circuithub.com/post/unveiling-the-grid'>The Grid, a factory-scale robot in Massachusetts that builds PCBs o...</a></td><td>281 👍</td><td>122 💬</td></tr>
+<tr><td>6.</td><td><a href='https://vertex.degree/'>Start Doing Graph Theory</a></td><td>423 👍</td><td>99 💬</td></tr>
+<tr><td>7.</td><td><a href='https://slidebyside.com/'>Show HN: SlideBySide – Present slides without sharing your screen</a></td><td>12 👍</td><td>6 💬</td></tr>
+<tr><td>8.</td><td><a href='https://wiki.alpinebsd.org'>AlpineBSD</a></td><td>78 👍</td><td>65 💬</td></tr>
+<tr><td>9.</td><td><a href='https://www.runconverge.com/careers/founding-platform-engineer'>Converge (YC S23) Is Hiring a Founding Platform Engineer</a></td><td>1 👍</td><td>0 💬</td></tr>
+<tr><td>10.</td><td><a href='https://emudhra.we-have-a-problem.com/apple.html'>Apple's git still trusts the compromised eMudhra certificates</a></td><td>844 👍</td><td>331 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>28 Oct 2026, 13:34 UTC</b> · Data from Hacker News</sub>
+<b>28 Oct 2026, 18:25 UTC</b>
 
 ---
 
