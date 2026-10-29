@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1'>Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligen...</a></td><td>90 👍</td><td>45 💬</td></tr>
-<tr><td>2.</td><td><a href='https://mastodon.sdf.org/@netbsd/117518160563539748'>NetBSD adds a new beginner-friendly text editor called atto</a></td><td>42 👍</td><td>31 💬</td></tr>
-<tr><td>3.</td><td><a href='https://publicpolicy.googleblog.com/2008/04/how-google-determines-names-for-bodies.html'>Google determines the names for bodies of water in Google Earth (2008)</a></td><td>73 👍</td><td>47 💬</td></tr>
-<tr><td>4.</td><td><a href='https://ir.doordash.com/news/news-details/2026/DoorDash-to-Acquire-Instacart-to-Help-Local-Stores-Win/default.aspx'>DoorDash to Acquire Instacart</a></td><td>80 👍</td><td>50 💬</td></tr>
-<tr><td>5.</td><td><a href='https://divagr.com/blog/qwenputer'>Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5</a></td><td>593 👍</td><td>120 💬</td></tr>
-<tr><td>6.</td><td><a href='https://smsofdeath.com/'>Zero click, silent, remote Android DoS</a></td><td>191 👍</td><td>104 💬</td></tr>
-<tr><td>7.</td><td><a href='https://nullpt.rs/fingerprinting-bioweapons'>Why is this fingerprinting script creating bioweapons?</a></td><td>1398 👍</td><td>256 💬</td></tr>
-<tr><td>8.</td><td><a href='https://inventor7777.github.io/blog/2026/10/22/debug-access-on-brother/'>Getting debug access on a Brother printer over Telnet</a></td><td>104 👍</td><td>32 💬</td></tr>
-<tr><td>9.</td><td><a href='https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/'>The US added a record 20.2 GWh of battery storage in just 3 months</a></td><td>130 👍</td><td>89 💬</td></tr>
-<tr><td>10.</td><td><a href='https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers'>Chained PHP2Shell Exploit Roots 25 Servers, Including US Government...</a></td><td>30 👍</td><td>12 💬</td></tr>
+<tr><td>1.</td><td><a href='https://www.kadoa.com/companies/insights/google-search-below-half'>Google Search is now less than half of Alphabet’s revenue</a></td><td>279 👍</td><td>226 💬</td></tr>
+<tr><td>2.</td><td><a href='https://mistral.ai/news/mistral-large-4-oss/'>We're releasing the weights of Mistral Large 4</a></td><td>745 👍</td><td>198 💬</td></tr>
+<tr><td>3.</td><td><a href='https://www.vut.cz/en/but/news-f19528/two-but-graduates-received-state-honors-from-the-president-of-the-republic-d378468'>Tomáš Mikolov awarded the Medal of Merit by the President of the Cz...</a></td><td>78 👍</td><td>5 💬</td></tr>
+<tr><td>4.</td><td><a href='https://sidbala.com/h-264-is-magic/'>H.264 Is Magic (2016)</a></td><td>145 👍</td><td>76 💬</td></tr>
+<tr><td>5.</td><td><a href='https://martinfowler.com/bliki/LLM-Voice.html'>LLM Voice</a></td><td>121 👍</td><td>70 💬</td></tr>
+<tr><td>6.</td><td><a href='https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler'>Grace Blackwell needs a new scheduler: 27% more usable GPUs from th...</a></td><td>71 👍</td><td>7 💬</td></tr>
+<tr><td>7.</td><td><a href='https://about.doordash.com/en-us/news/doordash-to-acquire-instacart'>DoorDash to acquire Instacart</a></td><td>263 👍</td><td>478 💬</td></tr>
+<tr><td>8.</td><td><a href='https://trakkr.ai/trakkr-research/zombie-stats'>Zombie stats: Where the numbers AI quotes come from</a></td><td>89 👍</td><td>46 💬</td></tr>
+<tr><td>9.</td><td><a href='https://nedbatchelder.com/blog/201711/toxic_experts'>Toxic experts (2017)</a></td><td>39 👍</td><td>23 💬</td></tr>
+<tr><td>10.</td><td><a href='https://16colo.rs/'>16colo.rs – ANSI/ASCII art archive</a></td><td>32 👍</td><td>3 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>29 Oct 2026, 13:45 UTC</b> · Data from Hacker News</sub>
+<b>29 Oct 2026, 18:35 UTC</b>
 
 ---
 
