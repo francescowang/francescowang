@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://elect.horse/'>elect.horse</a></td><td>262 👍</td><td>71 💬</td></tr>
-<tr><td>2.</td><td><a href='https://cyberplace.social/@GossiTheDog/117528831681803563'>Backdoors in official Claude Code extensions</a></td><td>466 👍</td><td>137 💬</td></tr>
-<tr><td>3.</td><td><a href='https://www.binarysecurity.no/posts/2026/10/one-root-case'>Azure's Weakest Link – Five Full Cross-Tenant Compromises</a></td><td>90 👍</td><td>6 💬</td></tr>
-<tr><td>4.</td><td><a href='https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8'>Binance-hacker-1029 – $5.6B stolen from Binance</a></td><td>1557 👍</td><td>1026 💬</td></tr>
-<tr><td>5.</td><td><a href='https://mistral.ai/news/mistral-large-4-oss/'>We're releasing the weights of Mistral Large 4</a></td><td>1576 👍</td><td>413 💬</td></tr>
-<tr><td>6.</td><td><a href='https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead'>US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for...</a></td><td>87 👍</td><td>40 💬</td></tr>
-<tr><td>7.</td><td><a href='https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2'>Anthropic hacked to deliver remote access trojan</a></td><td>290 👍</td><td>55 💬</td></tr>
-<tr><td>8.</td><td><a href='https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/'>How Do You Take a Picture of a Black Hole?</a></td><td>40 👍</td><td>32 💬</td></tr>
-<tr><td>9.</td><td><a href='https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/'>The $6.3B Binance Hack Was Pulled Off in Just 20 Minutes</a></td><td>23 👍</td><td>4 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.theguardian.com/books/2026/oct/20/gilgamesh-by-simon-armitage-review-an-ancient-epic-is-brilliantly-translated-for-our-times'>Gilgamesh by Simon Armitage review – an ancient epic is brilliantly...</a></td><td>96 👍</td><td>27 💬</td></tr>
+<tr><td>1.</td><td><a href='https://status.northflank.com'>Northflank Breached</a></td><td>161 👍</td><td>91 💬</td></tr>
+<tr><td>2.</td><td><a href='https://phorion.io/blog/offical-claude-code-vsx-compromise/'>Backdoor in Claude Code for VS Code extension on the Cursor Marketp...</a></td><td>454 👍</td><td>373 💬</td></tr>
+<tr><td>3.</td><td><a href='https://github.com/dbreunig/nesformer'>A Working Nintendo in ~1GB of Qwen Weights</a></td><td>67 👍</td><td>60 💬</td></tr>
+<tr><td>4.</td><td><a href='https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/'>My favourite PowerMac is a Nintendo Wii</a></td><td>15 👍</td><td>0 💬</td></tr>
+<tr><td>5.</td><td><a href='https://www.githubstatus.com/incidents/pwxsjgnvrk6b'>GitHub Incident with Actions, Pages, and Webhooks</a></td><td>11 👍</td><td>4 💬</td></tr>
+<tr><td>6.</td><td><a href='https://tangled.org/blog/forge/'>The federated code forge</a></td><td>86 👍</td><td>35 💬</td></tr>
+<tr><td>7.</td><td><a href='https://github.com/kevinraymond/florilegium'>Florilegium: Procedural Flowers in LaTeX</a></td><td>50 👍</td><td>8 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/'>Breaking the open web won't stop the bad bots</a></td><td>32 👍</td><td>6 💬</td></tr>
+<tr><td>9.</td><td><a href='https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling'>AI isn't replacing SREs, it's deskilling them</a></td><td>265 👍</td><td>199 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.bbc.co.uk/news/articles/cvwy72e0n72yo'>US tech stocks see sharp falls over AI cost fears</a></td><td>142 👍</td><td>98 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>30 Oct 2026, 13:38 UTC</b> · Data from Hacker News</sub>
+<b>30 Oct 2026, 18:07 UTC</b>
 
 ---
 
