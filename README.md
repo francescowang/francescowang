@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament'>Serbia just elected the world's brainiest parliament</a></td><td>328 👍</td><td>195 💬</td></tr>
-<tr><td>2.</td><td><a href='https://piefed.world/post/1503394'>Molly(Signal fork) has not been updated since 3 months and is vulne...</a></td><td>69 👍</td><td>30 💬</td></tr>
-<tr><td>3.</td><td><a href='https://xoranth.net/gcc-switch/'>Switch Lowering in GCC</a></td><td>98 👍</td><td>19 💬</td></tr>
-<tr><td>4.</td><td><a href='https://www.parameter.ai/labs/we-found-a-gap-at-openai'>We Took over ChatGPT Accounts</a></td><td>53 👍</td><td>26 💬</td></tr>
-<tr><td>5.</td><td><a href='https://zebra.rodeo/en/blog/marelleo/'>Show HN: Marelleo, an open-source story box I built for my kids usi...</a></td><td>98 👍</td><td>29 💬</td></tr>
-<tr><td>6.</td><td><a href='https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html'>Digital Minimalism</a></td><td>106 👍</td><td>67 💬</td></tr>
-<tr><td>7.</td><td><a href='https://thedataexchange.media/leo-de-moura-lean-aws/'>AI, Lean, and the Future of Formal Verification, with Lean Creator ...</a></td><td>74 👍</td><td>17 💬</td></tr>
-<tr><td>8.</td><td><a href='https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/'>My favourite PowerMac is a Nintendo Wii</a></td><td>327 👍</td><td>95 💬</td></tr>
-<tr><td>9.</td><td><a href='https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/'>The $6.3B Binance hack was pulled off in just 20 minutes</a></td><td>488 👍</td><td>343 💬</td></tr>
-<tr><td>10.</td><td><a href='https://github.com/chris124567/cfsolve'>Cloudflare Turnstile solver library (no headless browser required)</a></td><td>246 👍</td><td>75 💬</td></tr>
+<tr><td>1.</td><td><a href='https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/'>Malware uses LLMs to rank victims by how much they're worth</a></td><td>114 👍</td><td>50 💬</td></tr>
+<tr><td>2.</td><td><a href='https://piefed.world/post/1503394'>Molly (Signal fork) has not been updated since 3 months and is vuln...</a></td><td>196 👍</td><td>130 💬</td></tr>
+<tr><td>3.</td><td><a href='https://www.parameter.ai/labs/we-found-a-gap-at-openai'>We Took over ChatGPT Accounts</a></td><td>213 👍</td><td>104 💬</td></tr>
+<tr><td>4.</td><td><a href='https://a-side.social/'>A/SIDE – Private photo sharing and encrypted messages</a></td><td>8 👍</td><td>6 💬</td></tr>
+<tr><td>5.</td><td><a href='https://www.casio.com/us/watches/50th/Heritage/1980s/'>Casio Watches of the 1980s</a></td><td>61 👍</td><td>19 💬</td></tr>
+<tr><td>6.</td><td><a href='https://aatishb.com/myriad/lets-build-a-brain/'>Simple circuits can create complex behaviors</a></td><td>108 👍</td><td>23 💬</td></tr>
+<tr><td>7.</td><td><a href='https://xoranth.net/gcc-switch/'>Switch Lowering in GCC</a></td><td>154 👍</td><td>29 💬</td></tr>
+<tr><td>8.</td><td><a href='https://jepsen.io/analyses/particledb-1.1.4'>Jepsen: ParticleDB 1.1.4</a></td><td>21 👍</td><td>6 💬</td></tr>
+<tr><td>9.</td><td><a href='https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament'>Serbia just elected the world's brainiest parliament</a></td><td>639 👍</td><td>371 💬</td></tr>
+<tr><td>10.</td><td><a href='https://fgiesen.wordpress.com/2015/10/25/reading-and-writing-are-less-symmetric-than-you-probably-think/'>Reading and writing are less symmetric than you (probably) think</a></td><td>30 👍</td><td>7 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>31 Oct 2026, 13:07 UTC</b> · Data from Hacker News</sub>
+<b>31 Oct 2026, 17:18 UTC</b>
 
 ---
 
