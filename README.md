@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/'>Norway makes shithouses great again</a></td><td>396 👍</td><td>185 💬</td></tr>
-<tr><td>2.</td><td><a href='https://karpathy.bearblog.dev/hacker-tube/'>HackerTube: YouTube built from videos recommended by HN</a></td><td>1543 👍</td><td>414 💬</td></tr>
-<tr><td>3.</td><td><a href='https://arxiv.org/abs/2610.39302'>Proving and Improving the Platonic Representation Hypothesis with J...</a></td><td>13 👍</td><td>0 💬</td></tr>
-<tr><td>4.</td><td><a href='https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/'>An Italian farmer found some unknown seeds in his attic and planted...</a></td><td>548 👍</td><td>166 💬</td></tr>
-<tr><td>5.</td><td><a href='https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/'>Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing</a></td><td>183 👍</td><td>80 💬</td></tr>
-<tr><td>6.</td><td><a href='https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/🆆🆃🅵/'>Domain hacks with unusual Unicode characters (2018)</a></td><td>25 👍</td><td>18 💬</td></tr>
-<tr><td>7.</td><td><a href='https://radiaverse.com/'>Radiation Map of the World</a></td><td>16 👍</td><td>5 💬</td></tr>
-<tr><td>8.</td><td><a href='https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve'>Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBe...</a></td><td>304 👍</td><td>146 💬</td></tr>
-<tr><td>9.</td><td><a href='https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf'>TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8</a></td><td>566 👍</td><td>263 💬</td></tr>
-<tr><td>10.</td><td><a href='https://blog.zamzar.com/2026/10/30/20-years-766-million-files-two-chameleons/'>Running a bootstrapped SaaS for 20 years with my brother</a></td><td>151 👍</td><td>34 💬</td></tr>
+<tr><td>1.</td><td><a href='https://hackerbooks.org'>Show HN: HackerBooks – HackerTube, but for books mentioned on HN</a></td><td>244 👍</td><td>73 💬</td></tr>
+<tr><td>2.</td><td><a href='https://karpathy.bearblog.dev/hacker-tube/'>HackerTube: YouTube built from videos recommended by HN</a></td><td>1839 👍</td><td>476 💬</td></tr>
+<tr><td>3.</td><td><a href='https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml'>Seoul Viosys begins production of rare-earth-free white light emitter</a></td><td>66 👍</td><td>6 💬</td></tr>
+<tr><td>4.</td><td><a href='https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies'>Police chief unplugs Flock cameras after company ignores contract c...</a></td><td>232 👍</td><td>66 💬</td></tr>
+<tr><td>5.</td><td><a href='https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism'>Patrick Stewart taught us what good men do with power</a></td><td>36 👍</td><td>22 💬</td></tr>
+<tr><td>6.</td><td><a href='https://arxiv.org/abs/2610.39302'>Proving and improving the Platonic Representation Hypothesis with J...</a></td><td>63 👍</td><td>31 💬</td></tr>
+<tr><td>7.</td><td><a href='https://www.jefftk.com/p/bidirectional-charging-during-grid-outages'>Bidirectional charging during grid outages</a></td><td>35 👍</td><td>46 💬</td></tr>
+<tr><td>8.</td><td><a href='https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html'>Novellas with Groff</a></td><td>66 👍</td><td>23 💬</td></tr>
+<tr><td>9.</td><td><a href='https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/'>Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card...</a></td><td>199 👍</td><td>73 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/'>Frontier Airlines Likely Breached</a></td><td>57 👍</td><td>9 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>01 Nov 2026, 13:49 UTC</b> · Data from Hacker News</sub>
+<b>01 Nov 2026, 18:00 UTC</b>
 
 ---
 
