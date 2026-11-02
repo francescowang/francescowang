@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://posthog.com/blog/moving-off-duckdb'>Moving our warehouse off DuckDB</a></td><td>31 👍</td><td>6 💬</td></tr>
-<tr><td>2.</td><td><a href='https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/'>If you love a website, back it up</a></td><td>57 👍</td><td>11 💬</td></tr>
-<tr><td>3.</td><td><a href='https://news.ycombinator.com/item?id=50338728'>Ask HN: Who is hiring? (November 2026)</a></td><td>11 👍</td><td>23 💬</td></tr>
-<tr><td>4.</td><td><a href='https://blog.cloudflare.com/dns-targeted-zone-builds/'>We halved DNS build delay and cut memory use by 85%</a></td><td>16 👍</td><td>2 💬</td></tr>
-<tr><td>5.</td><td><a href='https://longcat.ai/blog/longcat-2.5/'>LongCat-2.5: Native Multimodality for Agentic Tasks</a></td><td>21 👍</td><td>8 💬</td></tr>
-<tr><td>6.</td><td><a href='http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html'>Postgres 19 is late because so many more bugs are being found now</a></td><td>737 👍</td><td>442 💬</td></tr>
-<tr><td>7.</td><td><a href='https://deploymentsafety.openai.com/gpt-rosalind-6'>GPT-Rosalind-6 System Card Addendum</a></td><td>13 👍</td><td>3 💬</td></tr>
-<tr><td>8.</td><td><a href='https://syscall.sh/'>Show HN: I've updated my Linux System Call website and API</a></td><td>149 👍</td><td>44 💬</td></tr>
-<tr><td>9.</td><td><a href='https://news.ycombinator.com/item?id=50338726'>Ask HN: Who wants to be hired? (November 2026)</a></td><td>7 👍</td><td>64 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span'>Bones may release proteins that slow aging and extend life span</a></td><td>247 👍</td><td>88 💬</td></tr>
+<tr><td>1.</td><td><a href='https://rikiyat.github.io/blog/weight-space-programming/'>Astra can read and write weights to improve Qwen</a></td><td>1254 👍</td><td>394 💬</td></tr>
+<tr><td>2.</td><td><a href='https://news.ycombinator.com/item?id=50340088'>Show HN: Subvocal – Talk to your computer without making noise</a></td><td>400 👍</td><td>237 💬</td></tr>
+<tr><td>3.</td><td><a href='https://namedaisy.com/blog/boy-names-that-became-girl-names'>US boy names that became girl names and vice versa</a></td><td>206 👍</td><td>224 💬</td></tr>
+<tr><td>4.</td><td><a href='https://momentic.ai/'>Launch HN: Momentic (YC W24) – Agents that catch bugs by using your...</a></td><td>94 👍</td><td>63 💬</td></tr>
+<tr><td>5.</td><td><a href='https://p.migdal.pl/warsaw-vibe-voxel/'>Show HN: Warsaw in voxels – An interactive 3D map of the city centre</a></td><td>167 👍</td><td>31 💬</td></tr>
+<tr><td>6.</td><td><a href='https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/'>If you love a website, back it up</a></td><td>291 👍</td><td>69 💬</td></tr>
+<tr><td>7.</td><td><a href='https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/'>Egoless Mathematics in the AI Era</a></td><td>62 👍</td><td>49 💬</td></tr>
+<tr><td>8.</td><td><a href='https://news.ycombinator.com/item?id=50338728'>Ask HN: Who is hiring? (November 2026)</a></td><td>138 👍</td><td>115 💬</td></tr>
+<tr><td>9.</td><td><a href='https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/'>Sneaking into the auditorium for the Windows 2000 launch rehearsal</a></td><td>67 👍</td><td>21 💬</td></tr>
+<tr><td>10.</td><td><a href='https://github.com/aaitor/skill-video-studio'>Skill to Create Product Videos</a></td><td>36 👍</td><td>11 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>02 Nov 2026, 16:35 UTC</b> · Data from Hacker News</sub>
+<b>02 Nov 2026, 21:51 UTC</b>
 
 ---
 
