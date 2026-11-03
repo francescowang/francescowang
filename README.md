@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://honnibal.dev/blog/astra-read-write-misleading'>The 'Astra can read and write weights to improve Qwen' post is misl...</a></td><td>352 👍</td><td>74 💬</td></tr>
-<tr><td>2.</td><td><a href='https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/'>Just a little AI resistance, as a treat</a></td><td>30 👍</td><td>5 💬</td></tr>
-<tr><td>3.</td><td><a href='https://rikiyat.github.io/blog/weight-space-programming/'>Astra can read and write weights to improve Qwen</a></td><td>2872 👍</td><td>864 💬</td></tr>
-<tr><td>4.</td><td><a href='https://dfarq.homeip.net/charles-tandy-the-mastermind-behind-radio-shack/'>Charles Tandy, the mastermind behind Radio Shack</a></td><td>32 👍</td><td>10 💬</td></tr>
-<tr><td>5.</td><td><a href='https://www.esquire.com/news-politics/a74031571/life-with-down-syndrome/'>Life with Down Syndrome</a></td><td>71 👍</td><td>36 💬</td></tr>
-<tr><td>6.</td><td><a href='https://katamari.vaguespac.es/'>Katamari Damacy but it's The Met collection</a></td><td>82 👍</td><td>22 💬</td></tr>
-<tr><td>7.</td><td><a href='https://github.com/NVIDIA/auto-ontology'>Nvidia – open-source auto-ontology</a></td><td>195 👍</td><td>66 💬</td></tr>
-<tr><td>8.</td><td><a href='https://toit.io/blog/toit-v2-0-0/'>Toit v2.0.0</a></td><td>163 👍</td><td>56 💬</td></tr>
-<tr><td>9.</td><td><a href='https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html'>Could a modern chess engine on a Pentium have defeated Kasparov in ...</a></td><td>174 👍</td><td>90 💬</td></tr>
-<tr><td>10.</td><td><a href='https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio'>DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs</a></td><td>301 👍</td><td>63 💬</td></tr>
+<tr><td>1.</td><td><a href='https://github.com/postmanlabs/postman-app-support/issues/14370'>Postman silently auto-installs AI plugins and attempts to share all...</a></td><td>556 👍</td><td>178 💬</td></tr>
+<tr><td>2.</td><td><a href='https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/'>Qwen 3.8 27B on my laptop can interpret model weights, too</a></td><td>236 👍</td><td>67 💬</td></tr>
+<tr><td>3.</td><td><a href='https://blog.nns.ee/2026/11/02/renault-hack/'>Jailbreaking my car's navigation system just so I can change the time</a></td><td>366 👍</td><td>130 💬</td></tr>
+<tr><td>4.</td><td><a href='https://neufangled.com/'>Stringman, an $800 open-source room scale gripper robot</a></td><td>85 👍</td><td>37 💬</td></tr>
+<tr><td>5.</td><td><a href='https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/'>Fujifilm to boost tape production 5x as AI fuels archiving demand</a></td><td>272 👍</td><td>111 💬</td></tr>
+<tr><td>6.</td><td><a href='https://namespace.so/blog/mac-at-any-scale'>Mac at Any Scale</a></td><td>210 👍</td><td>104 💬</td></tr>
+<tr><td>7.</td><td><a href='https://news.ycombinator.com/item?id=50352757'>OpenAI seems to be silently re-enabling model training on Codex chats</a></td><td>297 👍</td><td>91 💬</td></tr>
+<tr><td>8.</td><td><a href='https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/'>Kalshi and its co-founders face felony charges for violating Utah g...</a></td><td>274 👍</td><td>202 💬</td></tr>
+<tr><td>9.</td><td><a href='https://honnibal.dev/blog/astra-read-write-misleading'>The 'Astra can read and write weights to improve Qwen' post is misl...</a></td><td>767 👍</td><td>176 💬</td></tr>
+<tr><td>10.</td><td><a href='https://arxiv.org/abs/2611.02618'>USDB: Scaling Storage for Next-Generation Recommender Systems at By...</a></td><td>28 👍</td><td>3 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>03 Nov 2026, 14:41 UTC</b> · Data from Hacker News</sub>
+<b>03 Nov 2026, 19:41 UTC</b>
 
 ---
 
