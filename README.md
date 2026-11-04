@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability'>AI is forcing us to pay off 40 years of technical debt</a></td><td>355 👍</td><td>244 💬</td></tr>
-<tr><td>2.</td><td><a href='https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop'>Nvidia RTX Spark encrypted firmware slows inference speed to 35% on...</a></td><td>304 👍</td><td>156 💬</td></tr>
-<tr><td>3.</td><td><a href='https://www.semafor.com/article/11/04/2026/us-voters-roundly-reject-data-centers-in-ballot-measures'>US voters roundly reject data centers in ballot measures</a></td><td>61 👍</td><td>24 💬</td></tr>
-<tr><td>4.</td><td><a href='https://www.githubstatus.com/incidents/smtdswd1h2w4'>Incident with Pull Requests, Git Operations and Issues</a></td><td>164 👍</td><td>80 💬</td></tr>
-<tr><td>5.</td><td><a href='https://blog.cosmos-institute.org/p/verification-is-not-knowledge'>Verification Is Not Knowledge: Science needs more than answers</a></td><td>126 👍</td><td>75 💬</td></tr>
-<tr><td>6.</td><td><a href='https://news.ycombinator.com/item?id=50363461'>Tell HN: Gemini trains on chat history, even for subscribers (perso...</a></td><td>291 👍</td><td>74 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398'>North Korean fake job interview led to $6.3B Binance heist</a></td><td>56 👍</td><td>31 💬</td></tr>
-<tr><td>8.</td><td><a href='https://sw.kovidgoyal.net/kitty/changelog/#'>Kitty 0.50</a></td><td>259 👍</td><td>160 💬</td></tr>
-<tr><td>9.</td><td><a href='https://mrdoob.github.io/codevember-2026/01/'>Jelly Sheet</a></td><td>339 👍</td><td>88 💬</td></tr>
-<tr><td>10.</td><td><a href='https://blog.nns.ee/2026/11/02/renault-hack/'>Jailbreaking my car's navigation system just so I can change the time</a></td><td>890 👍</td><td>334 💬</td></tr>
+<tr><td>1.</td><td><a href='https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability'>AI is forcing us to pay off 40 years of technical debt</a></td><td>853 👍</td><td>506 💬</td></tr>
+<tr><td>2.</td><td><a href='https://go.dev/blog/jsonv2'>A New Go API for JSON</a></td><td>87 👍</td><td>22 💬</td></tr>
+<tr><td>3.</td><td><a href='https://www.anthropic.com/research/provable-inference'>Progress on provable inference for large language models</a></td><td>118 👍</td><td>51 💬</td></tr>
+<tr><td>4.</td><td><a href='https://blog.kagi.com/education-should-not-be-held-for-ransom'>Education Shouldn't Be Held for Ransom</a></td><td>65 👍</td><td>23 💬</td></tr>
+<tr><td>5.</td><td><a href='https://www.ricursive.com/ripple'>Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding</a></td><td>29 👍</td><td>15 💬</td></tr>
+<tr><td>6.</td><td><a href='https://longreads.com/2026/11/03/murder-friendship-doubt/'>Have I Befriended a Murderer?</a></td><td>28 👍</td><td>1 💬</td></tr>
+<tr><td>7.</td><td><a href='https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop'>Nvidia RTX Spark encrypted firmware slows inference speed to 35% on...</a></td><td>516 👍</td><td>230 💬</td></tr>
+<tr><td>8.</td><td><a href='https://news.ycombinator.com/item?id=50368804'>Launch HN: Kino AI (YC S23) – AI media manager and video editor</a></td><td>30 👍</td><td>21 💬</td></tr>
+<tr><td>9.</td><td><a href='https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections'>AMD expects to outsell Intel in Q4 for the first time in history</a></td><td>310 👍</td><td>98 💬</td></tr>
+<tr><td>10.</td><td><a href='https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/'>Guerrilla bike lanes: San Francisco makes illicit infrastructure pe...</a></td><td>189 👍</td><td>126 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>04 Nov 2026, 14:54 UTC</b> · Data from Hacker News</sub>
+<b>04 Nov 2026, 19:56 UTC</b>
 
 ---
 
