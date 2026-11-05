@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://sshhole.com'>Sshole</a></td><td>751 👍</td><td>215 💬</td></tr>
-<tr><td>2.</td><td><a href='https://mcp-explained.com/'>MCP Explained</a></td><td>50 👍</td><td>18 💬</td></tr>
-<tr><td>3.</td><td><a href='https://www.openssh.org/releasenotes.html#10.6p2'>OpenSSH 10.6p2 Critical workaround for alpine without PAM</a></td><td>89 👍</td><td>3 💬</td></tr>
-<tr><td>4.</td><td><a href='https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/'>Alpine Linux Security advisory: OpenSSH-server password authenticat...</a></td><td>9 👍</td><td>0 💬</td></tr>
-<tr><td>5.</td><td><a href='https://layer3intel.com/blog/residential-proxies-white-house-network'>Residential proxies detected on White House network</a></td><td>1192 👍</td><td>387 💬</td></tr>
-<tr><td>6.</td><td><a href='https://ernie.baidu.com/release/ernie-5-5-flash-base/'>Baidu released ERNIE 5.5 Flash Base</a></td><td>118 👍</td><td>68 💬</td></tr>
-<tr><td>7.</td><td><a href='https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/'>Download your favourite YouTube videos</a></td><td>21 👍</td><td>8 💬</td></tr>
-<tr><td>8.</td><td><a href='https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/'>Awesome repositories are no longer awesome</a></td><td>146 👍</td><td>75 💬</td></tr>
-<tr><td>9.</td><td><a href='https://kottke.org/26/11/stunning-image-of-our-satellite-choked-night-skies'>Image of Our Satellite-Choked Night Skies</a></td><td>8 👍</td><td>2 💬</td></tr>
-<tr><td>10.</td><td><a href='https://markblah.github.io/lemmings/'>Lemmings CSS Animation</a></td><td>297 👍</td><td>56 💬</td></tr>
+<tr><td>1.</td><td><a href='https://sshhole.com'>sshole</a></td><td>1873 👍</td><td>490 💬</td></tr>
+<tr><td>2.</td><td><a href='https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/'>Alpine Linux Security Advisory: OpenSSH-server password authenticat...</a></td><td>438 👍</td><td>77 💬</td></tr>
+<tr><td>3.</td><td><a href='https://motorolanews.com/motorola-signature-27-2/'>Motorola Signature 27 with GrapheneOS support</a></td><td>261 👍</td><td>169 💬</td></tr>
+<tr><td>4.</td><td><a href='https://github.com/saragordic/window-sweaters'>Window Sweaters</a></td><td>111 👍</td><td>43 💬</td></tr>
+<tr><td>5.</td><td><a href='https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/'>The Hackintosh Reborn</a></td><td>16 👍</td><td>0 💬</td></tr>
+<tr><td>6.</td><td><a href='https://github.com/rivet-dev/rivet'>Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3</a></td><td>42 👍</td><td>23 💬</td></tr>
+<tr><td>7.</td><td><a href='https://javahippie.net/programming/llm/2026/03/05/the-lisp-curse-coming-to-your-ecosystem.html'>The Lisp curse, now coming to your ecosystem</a></td><td>150 👍</td><td>91 💬</td></tr>
+<tr><td>8.</td><td><a href='https://servo.org/blog/2026/11/05/september-in-servo/'>September in Servo: <progress>, rounded rectangles, and more</a></td><td>137 👍</td><td>29 💬</td></tr>
+<tr><td>9.</td><td><a href='https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf'>My psychophysics as a bilateral cochlear implant user</a></td><td>117 👍</td><td>29 💬</td></tr>
+<tr><td>10.</td><td><a href='https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/'>Download your favourite YouTube videos</a></td><td>199 👍</td><td>90 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>05 Nov 2026, 14:58 UTC</b> · Data from Hacker News</sub>
+<b>05 Nov 2026, 20:10 UTC</b>
 
 ---
 
