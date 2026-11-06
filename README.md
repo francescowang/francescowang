@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/'>Gemini Omni 1.2 Flash</a></td><td>56 👍</td><td>29 💬</td></tr>
-<tr><td>2.</td><td><a href='https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105'>Dutch 'idealist' bank ASN blocks non-Google Android, including Grap...</a></td><td>381 👍</td><td>224 💬</td></tr>
-<tr><td>3.</td><td><a href='https://github.com/ppmpreetham/BUI'>Blender's UI and Runtime: Much Faster Than GPUI</a></td><td>407 👍</td><td>173 💬</td></tr>
-<tr><td>4.</td><td><a href='https://github.com/anthropics/claude-code/issues/107757'>Claude Code sends your email address to websites</a></td><td>1344 👍</td><td>427 💬</td></tr>
-<tr><td>5.</td><td><a href='https://github.com/Unleash/unleash'>We've built an open-source feature flag server for 11 years</a></td><td>55 👍</td><td>28 💬</td></tr>
-<tr><td>6.</td><td><a href='https://sshhole.com'>sshole</a></td><td>2811 👍</td><td>685 💬</td></tr>
-<tr><td>7.</td><td><a href='https://jhr.pensoft.net/articles.php?id=9096'>Living beyond the limits of survival: wood ants trapped in a gigant...</a></td><td>82 👍</td><td>29 💬</td></tr>
-<tr><td>8.</td><td><a href='https://apps.metaebene.me/en/kugelblitz'>Kugelblitz – Mac-Native Google Earth Alternative</a></td><td>155 👍</td><td>45 💬</td></tr>
-<tr><td>9.</td><td><a href='https://www.cve.org/CVERecord?id=CVE-2026-83844'>MS Paint Remote Code Execution Vulnerability</a></td><td>619 👍</td><td>231 💬</td></tr>
-<tr><td>10.</td><td><a href='https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/'>From Linux to Wikipedia: How Volunteers Build the Internet</a></td><td>179 👍</td><td>58 💬</td></tr>
+<tr><td>1.</td><td><a href='https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/'>US FAA says it will phase out floppy disks from air traffic control...</a></td><td>140 👍</td><td>128 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817'>Tesla to wind down Cybertruck production</a></td><td>530 👍</td><td>1212 💬</td></tr>
+<tr><td>3.</td><td><a href='https://kevinboone.me/efitest_index.html'>First steps in bare-metal programming using UEFI</a></td><td>101 👍</td><td>8 💬</td></tr>
+<tr><td>4.</td><td><a href='https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/'>We know 15k websites are infected. how do we tell them?</a></td><td>60 👍</td><td>40 💬</td></tr>
+<tr><td>5.</td><td><a href='https://magnitudle.com/size-it-up'>Size-It-Up (Game)</a></td><td>26 👍</td><td>10 💬</td></tr>
+<tr><td>6.</td><td><a href='https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work'>Perplexity launches AI agents for work</a></td><td>37 👍</td><td>27 💬</td></tr>
+<tr><td>7.</td><td><a href='https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/'>Gemini Omni 1.2 Flash</a></td><td>241 👍</td><td>188 💬</td></tr>
+<tr><td>8.</td><td><a href='https://github.com/ppmpreetham/BUI'>Blender's UI and Runtime: Much Faster Than GPUI</a></td><td>591 👍</td><td>242 💬</td></tr>
+<tr><td>9.</td><td><a href='https://arxiv.org/abs/2610.21375'>Memorilla: Latent Semantic Memory for LLMs</a></td><td>25 👍</td><td>1 💬</td></tr>
+<tr><td>10.</td><td><a href='https://github.com/anomalyco/rune'>Rune: A native GPU-rendered Rust UI framework for macOS, Windows, L...</a></td><td>85 👍</td><td>67 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>06 Nov 2026, 14:38 UTC</b> · Data from Hacker News</sub>
+<b>06 Nov 2026, 19:36 UTC</b>
 
 ---
 
