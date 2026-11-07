@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://nfsu2.xyz/'>Need for Speed Underground 2 online in the browser</a></td><td>141 👍</td><td>43 💬</td></tr>
-<tr><td>2.</td><td><a href='https://mitchellh.com/writing/libghostty-1-0'>Libghostty 1.0</a></td><td>771 👍</td><td>122 💬</td></tr>
-<tr><td>3.</td><td><a href='https://uploadyourram.org'>Upload Your RAM</a></td><td>180 👍</td><td>129 💬</td></tr>
-<tr><td>4.</td><td><a href='https://8rank.ai/game/apple-intelligence-personal-knowledge-graph'>Every Mac comes with an (undocumented) family member classifier</a></td><td>219 👍</td><td>106 💬</td></tr>
-<tr><td>5.</td><td><a href='https://hightouch.com/blog/llm-judges-identity-resolution'>A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost</a></td><td>513 👍</td><td>122 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817'>Tesla to wind down Cybertruck production</a></td><td>1057 👍</td><td>1913 💬</td></tr>
-<tr><td>7.</td><td><a href='https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/'>Running a law firm on Free software</a></td><td>28 👍</td><td>3 💬</td></tr>
-<tr><td>8.</td><td><a href='https://www.anthropic.com/research/components-of-agent-memory'>The Components of Agent Memory</a></td><td>76 👍</td><td>40 💬</td></tr>
-<tr><td>9.</td><td><a href='https://brisk4t.github.io/blog/toothpaste/'>ToothPaste</a></td><td>22 👍</td><td>5 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/'>Every Windows 11 app should kill Electron, and Discord just showed why</a></td><td>47 👍</td><td>34 💬</td></tr>
+<tr><td>1.</td><td><a href='http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html'>The $8 Linux Computer (2022)</a></td><td>115 👍</td><td>48 💬</td></tr>
+<tr><td>2.</td><td><a href='https://mceglowski.substack.com/p/how-long-can-life-wait'>How Long Can Life Wait?</a></td><td>34 👍</td><td>5 💬</td></tr>
+<tr><td>3.</td><td><a href='https://github.com/hedgerow-dev/coldframe'>Show HN: Coldframe, a honeypot that poses as a supermarket fridge c...</a></td><td>13 👍</td><td>1 💬</td></tr>
+<tr><td>4.</td><td><a href='https://nfsu2.xyz/'>Need for Speed Underground 2 online in the browser</a></td><td>517 👍</td><td>160 💬</td></tr>
+<tr><td>5.</td><td><a href='https://mitchellh.com/writing/libghostty-1-0'>Libghostty 1.0</a></td><td>922 👍</td><td>152 💬</td></tr>
+<tr><td>6.</td><td><a href='https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/'>Running a law firm on Free software</a></td><td>142 👍</td><td>69 💬</td></tr>
+<tr><td>7.</td><td><a href='https://textjs.org/'>Text.js: Build full-stack React apps that render inside console.log</a></td><td>30 👍</td><td>10 💬</td></tr>
+<tr><td>8.</td><td><a href='https://kevinboone.me/tpwin.html'>They don't make 'em like that any more: Borland Turbo Pascal 7</a></td><td>74 👍</td><td>49 💬</td></tr>
+<tr><td>9.</td><td><a href='https://www.bl.uk/services/legal-deposit/web-archiving'>British Library Legal deposit and web archiving</a></td><td>39 👍</td><td>20 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.hamza.se/blog/tasfer'>Tasfer: a text editor drawn on a 2D canvas</a></td><td>37 👍</td><td>13 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>07 Nov 2026, 13:35 UTC</b> · Data from Hacker News</sub>
+<b>07 Nov 2026, 17:48 UTC</b>
 
 ---
 
