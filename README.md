@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://krthr.co/person-of-interest/'>Person of Interest</a></td><td>126 👍</td><td>76 💬</td></tr>
-<tr><td>2.</td><td><a href='https://aworkinglibrary.com/writing/petered'>Petered (what happens after the Peter Principle)</a></td><td>69 👍</td><td>35 💬</td></tr>
-<tr><td>3.</td><td><a href='https://github.com/synchopate/llama-modchip'>Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU</a></td><td>55 👍</td><td>21 💬</td></tr>
-<tr><td>4.</td><td><a href='https://linebender.org/blog/jit-bitmap-text/'>JIT bitmap text rendering for microcontrollers</a></td><td>30 👍</td><td>6 💬</td></tr>
-<tr><td>5.</td><td><a href='https://caleb.software/posts/claude-to-pi.html'>Goodbye Claude, Hello Pi</a></td><td>430 👍</td><td>272 💬</td></tr>
-<tr><td>6.</td><td><a href='https://z1x.us/blog/four-hundred-bucks-of-e-waste'>Porting Android 16 to my blind mother's keypad phone</a></td><td>18 👍</td><td>2 💬</td></tr>
-<tr><td>7.</td><td><a href='https://blog.bosscher.ch/posts/openstick/'>What I run on my $10 USD OpenStick homelab</a></td><td>648 👍</td><td>119 💬</td></tr>
-<tr><td>8.</td><td><a href='https://clj.rs/'>Clj.rs – a Clojure dialect implemented in Rust</a></td><td>90 👍</td><td>31 💬</td></tr>
-<tr><td>9.</td><td><a href='https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again'>Claude Code's "Don't Ask Again" exposes passwords in 1,122 public G...</a></td><td>457 👍</td><td>319 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.lorekit.io/blog/open-agent-memory-format'>Agent memory needs its OpenTelemetry moment</a></td><td>80 👍</td><td>72 💬</td></tr>
+<tr><td>1.</td><td><a href='https://github.com/synchopate/llama-modchip'>Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU</a></td><td>222 👍</td><td>66 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.bundesarchiv.de/en/stasi-records-archive/the-reconstruction-of-torn-documents/'>The Reconstruction of Torn Documents</a></td><td>42 👍</td><td>19 💬</td></tr>
+<tr><td>3.</td><td><a href='http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html'>Writing as a thinking tool</a></td><td>126 👍</td><td>37 💬</td></tr>
+<tr><td>4.</td><td><a href='https://caleb.software/posts/claude-to-pi.html'>Goodbye Claude, hello Pi</a></td><td>568 👍</td><td>356 💬</td></tr>
+<tr><td>5.</td><td><a href='https://goldstein.lol/posts/deno-security/'>I'm not a fan of Deno's security model (2024)</a></td><td>29 👍</td><td>13 💬</td></tr>
+<tr><td>6.</td><td><a href='https://z1x.us/blog/four-hundred-bucks-of-e-waste'>Porting Android 16 to my blind mother's keypad phone</a></td><td>93 👍</td><td>32 💬</td></tr>
+<tr><td>7.</td><td><a href='https://jrcpl.us/contrib/2020/gardening-for-engineers/'>Show HN: Vegetable Gardening for Engineers</a></td><td>37 👍</td><td>6 💬</td></tr>
+<tr><td>8.</td><td><a href='https://linebender.org/blog/jit-bitmap-text/'>JIT bitmap text rendering for microcontrollers</a></td><td>69 👍</td><td>11 💬</td></tr>
+<tr><td>9.</td><td><a href='https://blog.bosscher.ch/posts/openstick/'>What I run on my $10 USD OpenStick homelab</a></td><td>705 👍</td><td>126 💬</td></tr>
+<tr><td>10.</td><td><a href='https://clj.rs/'>Clj.rs – a Clojure dialect implemented in Rust</a></td><td>127 👍</td><td>48 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>08 Nov 2026, 13:54 UTC</b> · Data from Hacker News</sub>
+<b>08 Nov 2026, 17:59 UTC</b>
 
 ---
 
