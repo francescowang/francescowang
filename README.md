@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy'>Payments Canada announces launch of Canada's Real-Time Rail (RTR) p...</a></td><td>46 👍</td><td>27 💬</td></tr>
-<tr><td>2.</td><td><a href='https://www.foldableflight.com'>Fold Epic Paper Airplanes</a></td><td>446 👍</td><td>81 💬</td></tr>
-<tr><td>3.</td><td><a href='https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/'>I Saw Your HN Comment</a></td><td>213 👍</td><td>138 💬</td></tr>
-<tr><td>4.</td><td><a href='https://github.com/datareceipts/data-receipts/tree/main/109-gpu-pricing'>The same H100 costs $2.69 or $12.29 an hour depending where you ren...</a></td><td>47 👍</td><td>25 💬</td></tr>
-<tr><td>5.</td><td><a href='https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia'>Humans will never again create a project like Wikipedia</a></td><td>393 👍</td><td>322 💬</td></tr>
-<tr><td>6.</td><td><a href='https://github.com/ikey4u/zebkit'>Zebkit – Chromium as an embeddable library</a></td><td>60 👍</td><td>26 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/'>Magenta solar panels may be agrivoltaics' cleverest trick yet</a></td><td>42 👍</td><td>9 💬</td></tr>
-<tr><td>8.</td><td><a href='https://benmandrew.com/articles/what-is-malloc-doing-anyway'>What is malloc doing, anyway?</a></td><td>123 👍</td><td>27 💬</td></tr>
-<tr><td>9.</td><td><a href='https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/'>Fun things to do with your VM/370 CE machine – Fun with big computers</a></td><td>82 👍</td><td>16 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.michaelponders.com/2026/11/isnt-it-time-for-avif-everywhere.html'>Isn't It Time for AVIF Everywhere?</a></td><td>22 👍</td><td>15 💬</td></tr>
+<tr><td>1.</td><td><a href='https://postalpro.usps.com/zcb'>USPS now offers official ZIP Code boundary polygons</a></td><td>294 👍</td><td>144 💬</td></tr>
+<tr><td>2.</td><td><a href='https://artificialanalysis.ai/models/claude-fable-5-2'>Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far</a></td><td>170 👍</td><td>93 💬</td></tr>
+<tr><td>3.</td><td><a href='https://e-means.github.io/'>E-means: 10x faster k-means at equal loss</a></td><td>195 👍</td><td>11 💬</td></tr>
+<tr><td>4.</td><td><a href='https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy'>Payments Canada announces launch of Canada's Real-Time Rail (RTR) p...</a></td><td>426 👍</td><td>234 💬</td></tr>
+<tr><td>5.</td><td><a href='https://github.com/thisisme6598/gemini_files/'>Google Gemini routes personal Drive files and emails to human annot...</a></td><td>196 👍</td><td>33 💬</td></tr>
+<tr><td>6.</td><td><a href='https://research.meta.ai/blog/muse-ember'>Our Smallest, Most Efficient Model: Muse Ember</a></td><td>201 👍</td><td>84 💬</td></tr>
+<tr><td>7.</td><td><a href='https://yappologistic.github.io/CUI/'>CUI – Native UI components for C</a></td><td>101 👍</td><td>57 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.infineon.com/press-release/2026/infpr202611-028'>Infineon marks innovation milestone with 300mm power silicon carbid...</a></td><td>77 👍</td><td>33 💬</td></tr>
+<tr><td>9.</td><td><a href='https://www.foldableflight.com'>Fold Epic Paper Airplanes</a></td><td>770 👍</td><td>130 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.anthropic.com/claude-fable-and-mythos-5-2'>Claude Fable 5.2 and Mythos 5.2</a></td><td>790 👍</td><td>463 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>09 Nov 2026, 16:54 UTC</b> · Data from Hacker News</sub>
+<b>09 Nov 2026, 22:36 UTC</b>
 
 ---
 
