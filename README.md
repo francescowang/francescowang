@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://deepmind.google/blog/introducing-alphaproof-code/'>AlphaProof Code</a></td><td>288 👍</td><td>109 💬</td></tr>
-<tr><td>2.</td><td><a href='https://neongd.com/articles/netbsd11-rpi4.gmi'>NetBSD 11 desktop on a Raspberry Pi 4</a></td><td>46 👍</td><td>5 💬</td></tr>
-<tr><td>3.</td><td><a href='https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/'>Amazon saves millions by replacing Sonnet 4.6 with Strands Decider</a></td><td>493 👍</td><td>177 💬</td></tr>
-<tr><td>4.</td><td><a href='https://www.anthropic.com/claude-fable-and-mythos-5-2'>Claude Fable 5.2 and Mythos 5.2</a></td><td>755 👍</td><td>902 💬</td></tr>
-<tr><td>5.</td><td><a href='https://connect.queenslibrary.org/'>Queens Public library under ransomware attack e-borrowing suspended</a></td><td>104 👍</td><td>76 💬</td></tr>
-<tr><td>6.</td><td><a href='https://github.com/HolyArrs/HolyArrs'>Show HN: A 15 MB self-hosted Netflix and Spotify for your media server</a></td><td>99 👍</td><td>51 💬</td></tr>
-<tr><td>7.</td><td><a href='https://stoppels.ch/2026/11/07/the-hardest-tarball.html'>The Hardest Tarball?</a></td><td>5 👍</td><td>0 💬</td></tr>
-<tr><td>8.</td><td><a href='https://postalpro.usps.com/zcb'>USPS now offers official ZIP Code boundary polygons</a></td><td>684 👍</td><td>347 💬</td></tr>
-<tr><td>9.</td><td><a href='https://www.nytimes.com/2026/11/04/obituaries/simon-winchester-dead.html'>Simon Winchester, Author of 'The Professor and the Madman,' Has Died</a></td><td>32 👍</td><td>10 💬</td></tr>
-<tr><td>10.</td><td><a href='https://hannahilea.com/blog/daylight-clock/'>Here comes the sun[light]:An ambient Daylight Clock with time and s...</a></td><td>13 👍</td><td>0 💬</td></tr>
+<tr><td>1.</td><td><a href='https://neil.fraser.name/news/2026/11/10/'>.name Grandfathered</a></td><td>409 👍</td><td>74 💬</td></tr>
+<tr><td>2.</td><td><a href='https://docodethatmatters.com/home-automation-overnight-success/'>Smart home devices should work without the internet</a></td><td>345 👍</td><td>142 💬</td></tr>
+<tr><td>3.</td><td><a href='https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/'>Synaptics patent claims stop work on DisplayLink drivers</a></td><td>107 👍</td><td>48 💬</td></tr>
+<tr><td>4.</td><td><a href='https://blog.val.town/winding-down'>Val Town is winding down</a></td><td>144 👍</td><td>39 💬</td></tr>
+<tr><td>5.</td><td><a href='https://deepmind.google/blog/introducing-alphaproof-code/'>AlphaProof Code</a></td><td>503 👍</td><td>162 💬</td></tr>
+<tr><td>6.</td><td><a href='https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast'>AMD's Zen 6 Family: Feeding the Beast</a></td><td>94 👍</td><td>34 💬</td></tr>
+<tr><td>7.</td><td><a href='https://github.com/GoogleChrome/modern-web-guidance'>Show HN: Get your coding agent off ~2019 JavaScript, onto modern we...</a></td><td>76 👍</td><td>30 💬</td></tr>
+<tr><td>8.</td><td><a href='https://starlink.com/mini-2'>Starlink Mini 2</a></td><td>107 👍</td><td>96 💬</td></tr>
+<tr><td>9.</td><td><a href='https://claude.com/resources/articles/sheets-whiteboards-data'>Claude Whiteboards, Claude Sheets, and Claude Data</a></td><td>33 👍</td><td>14 💬</td></tr>
+<tr><td>10.</td><td><a href='https://github.com/microsoft/Procexp-Mac'>Process Explorer for macOS</a></td><td>53 👍</td><td>21 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>10 Nov 2026, 15:15 UTC</b> · Data from Hacker News</sub>
+<b>10 Nov 2026, 19:54 UTC</b>
 
 ---
 
