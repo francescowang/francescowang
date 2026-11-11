@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://pietromiotti.com/latest/maya-site/?maya'>Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya p...</a></td><td>364 👍</td><td>143 💬</td></tr>
-<tr><td>2.</td><td><a href='https://nathan.rs/posts/weight-space-lp/'>Can a Linear Program Do Weight-Space Programming?</a></td><td>88 👍</td><td>14 💬</td></tr>
-<tr><td>3.</td><td><a href='https://massimo-nocentini.github.io/pharo-vm/world.html'>Pharo in the Browser with WebAssembly</a></td><td>15 👍</td><td>2 💬</td></tr>
-<tr><td>4.</td><td><a href='https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/'>Using voltage glitching to unleash the A100 in my mining card</a></td><td>92 👍</td><td>35 💬</td></tr>
-<tr><td>5.</td><td><a href='https://blog.atuin.sh/threads-agent-sessions/'>Atuin Threads: All your agent sessions on every machine</a></td><td>8 👍</td><td>1 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.experimental-history.com/p/we-need-more-goat-sacrifices'>We need more goat sacrifices</a></td><td>30 👍</td><td>16 💬</td></tr>
-<tr><td>7.</td><td><a href='http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html'>Next-Level Benchmarking Overfitting – Thomas Neumann</a></td><td>28 👍</td><td>4 💬</td></tr>
-<tr><td>8.</td><td><a href='https://gatezh.com/posts/macos-secure-enclave-ssh-keys/'>Protecting SSH Keys with macOS Secure Enclave</a></td><td>296 👍</td><td>109 💬</td></tr>
-<tr><td>9.</td><td><a href='https://www.theverge.com/tech/1012372/tv-privacy-acr-questions'>I asked every TV manufacturer 17 questions about how they spy on you</a></td><td>38 👍</td><td>12 💬</td></tr>
-<tr><td>10.</td><td><a href='https://docodethatmatters.com/home-automation-overnight-success/'>Smart home devices should work without the internet</a></td><td>1094 👍</td><td>390 💬</td></tr>
+<tr><td>1.</td><td><a href='https://github.com/aws/aws-emulator'>AWS Finally Built Its Own AWS Emulator</a></td><td>262 👍</td><td>68 💬</td></tr>
+<tr><td>2.</td><td><a href='https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028'>Tim Peters has died</a></td><td>410 👍</td><td>42 💬</td></tr>
+<tr><td>3.</td><td><a href='https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/'>A false smoke alarm almost drowned Jane Street's only NYC datacenter</a></td><td>258 👍</td><td>131 💬</td></tr>
+<tr><td>4.</td><td><a href='https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html'>AWS Emulator and the engineer's job when agents write the code</a></td><td>58 👍</td><td>4 💬</td></tr>
+<tr><td>5.</td><td><a href='https://termsheetplease.com/'>Show HN: I recreated Papers Please but you're deciding which YC sta...</a></td><td>33 👍</td><td>7 💬</td></tr>
+<tr><td>6.</td><td><a href='https://machinelearning.apple.com/research/faster-retrieval'>Faster Retrieval for Better, More Efficient RAG</a></td><td>79 👍</td><td>17 💬</td></tr>
+<tr><td>7.</td><td><a href='https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/'>Retirement Savings Are Fueling the AI Bubble</a></td><td>14 👍</td><td>6 💬</td></tr>
+<tr><td>8.</td><td><a href='https://pietromiotti.com/latest/maya-site/?maya'>Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya p...</a></td><td>835 👍</td><td>309 💬</td></tr>
+<tr><td>9.</td><td><a href='https://av.github.io/safe-sand/'>Hyper-Realistic Sand with WebGL2</a></td><td>215 👍</td><td>50 💬</td></tr>
+<tr><td>10.</td><td><a href='https://github.com/FrigadeHQ/yogurt'>Show HN: Yogurt – Free, private, open-source alternative to Granola</a></td><td>83 👍</td><td>39 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>11 Nov 2026, 14:44 UTC</b> · Data from Hacker News</sub>
+<b>11 Nov 2026, 19:46 UTC</b>
 
 ---
 
