@@ -5,7 +5,7 @@
 
 <!-- LIVE CLOCK -->
 <p>
-<img src="https://img.shields.io/badge/📅_Today-Wednesday, 11 November 2026-58a6ff?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/📅_Today-Thursday, 12 November 2026-58a6ff?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/☕_Visitors-welcome-f78166?style=for-the-badge&labelColor=0d1117" />
 </p>
 
@@ -131,12 +131,12 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>🌬️ Wind</th>
 <th>☁️ Conditions</th>
 </tr>
-<tr><td>🇬🇧 <b>London</b></td><td colspan='4'>Data unavailable</td></tr>
-<tr><td>🇫🇷 <b>Paris</b></td><td>11.1°C</td><td>62%</td><td>18.4 km/h</td><td>⛅ Partly cloudy</td></tr>
-<tr><td>🇮🇹 <b>Milan</b></td><td colspan='4'>Data unavailable</td></tr>
-<tr><td>🇩🇪 <b>Berlin</b></td><td colspan='4'>Data unavailable</td></tr>
-<tr><td>🇷🇺 <b>Moscow</b></td><td>1.8°C</td><td>88%</td><td>2.1 km/h</td><td>☁️ Overcast</td></tr>
-<tr><td>🇳🇱 <b>Amsterdam</b></td><td>10.1°C</td><td>57%</td><td>19.1 km/h</td><td>☀️ Clear sky</td></tr>
+<tr><td>🇬🇧 <b>London</b></td><td>7.8°C</td><td>60%</td><td>15.5 km/h</td><td>☀️ Clear sky</td></tr>
+<tr><td>🇫🇷 <b>Paris</b></td><td>10.7°C</td><td>65%</td><td>17.1 km/h</td><td>☁️ Overcast</td></tr>
+<tr><td>🇮🇹 <b>Milan</b></td><td>11.5°C</td><td>97%</td><td>8.4 km/h</td><td>🌧️ Light rain</td></tr>
+<tr><td>🇩🇪 <b>Berlin</b></td><td>5.9°C</td><td>77%</td><td>9.4 km/h</td><td>☁️ Overcast</td></tr>
+<tr><td>🇷🇺 <b>Moscow</b></td><td>1.5°C</td><td>89%</td><td>1.5 km/h</td><td>☁️ Overcast</td></tr>
+<tr><td>🇳🇱 <b>Amsterdam</b></td><td>9.8°C</td><td>59%</td><td>17.3 km/h</td><td>☀️ Clear sky</td></tr>
 </table>
 
 </details>
@@ -152,13 +152,13 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>🌬️ Wind</th>
 <th>☁️ Conditions</th>
 </tr>
-<tr><td>🇨🇳 <b>Beijing</b></td><td>6.0°C</td><td>93%</td><td>3.6 km/h</td><td>☀️ Clear sky</td></tr>
-<tr><td>🇯🇵 <b>Tokyo</b></td><td>10.5°C</td><td>85%</td><td>2.8 km/h</td><td>☀️ Clear sky</td></tr>
-<tr><td>🇦🇪 <b>Dubai</b></td><td colspan='4'>Data unavailable</td></tr>
-<tr><td>🇭🇰 <b>Hong Kong</b></td><td>22.7°C</td><td>76%</td><td>7.9 km/h</td><td>⛅ Partly cloudy</td></tr>
-<tr><td>🇸🇬 <b>Singapore</b></td><td>25.5°C</td><td>96%</td><td>5.1 km/h</td><td>🌧️ Light showers</td></tr>
-<tr><td>🇹🇭 <b>Bangkok</b></td><td colspan='4'>Data unavailable</td></tr>
-<tr><td>🇰🇷 <b>Seoul</b></td><td colspan='4'>Data unavailable</td></tr>
+<tr><td>🇨🇳 <b>Beijing</b></td><td>5.5°C</td><td>94%</td><td>4.5 km/h</td><td>☀️ Clear sky</td></tr>
+<tr><td>🇯🇵 <b>Tokyo</b></td><td>10.0°C</td><td>86%</td><td>2.3 km/h</td><td>☀️ Clear sky</td></tr>
+<tr><td>🇦🇪 <b>Dubai</b></td><td>27.8°C</td><td>54%</td><td>18.4 km/h</td><td>☀️ Clear sky</td></tr>
+<tr><td>🇭🇰 <b>Hong Kong</b></td><td>22.3°C</td><td>80%</td><td>7.6 km/h</td><td>☁️ Overcast</td></tr>
+<tr><td>🇸🇬 <b>Singapore</b></td><td>24.6°C</td><td>100%</td><td>7.3 km/h</td><td>🌫️ Fog</td></tr>
+<tr><td>🇹🇭 <b>Bangkok</b></td><td>27.3°C</td><td>74%</td><td>6.5 km/h</td><td>☁️ Overcast</td></tr>
+<tr><td>🇰🇷 <b>Seoul</b></td><td>8.9°C</td><td>97%</td><td>3.2 km/h</td><td>🌤️ Mainly clear</td></tr>
 </table>
 
 </details>
@@ -174,10 +174,10 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>🌬️ Wind</th>
 <th>☁️ Conditions</th>
 </tr>
-<tr><td>🇺🇸 <b>New York</b></td><td colspan='4'>Data unavailable</td></tr>
-<tr><td>🇺🇸 <b>Los Angeles</b></td><td colspan='4'>Data unavailable</td></tr>
-<tr><td>🇨🇦 <b>Toronto</b></td><td>5.2°C</td><td>83%</td><td>19.6 km/h</td><td>☁️ Overcast</td></tr>
-<tr><td>🇲🇽 <b>Mexico City</b></td><td>14.9°C</td><td>83%</td><td>3.2 km/h</td><td>☁️ Overcast</td></tr>
+<tr><td>🇺🇸 <b>New York</b></td><td>15.7°C</td><td>59%</td><td>21.6 km/h</td><td>☁️ Overcast</td></tr>
+<tr><td>🇺🇸 <b>Los Angeles</b></td><td>17.2°C</td><td>66%</td><td>6.2 km/h</td><td>☁️ Overcast</td></tr>
+<tr><td>🇨🇦 <b>Toronto</b></td><td>5.6°C</td><td>80%</td><td>17.3 km/h</td><td>☁️ Overcast</td></tr>
+<tr><td>🇲🇽 <b>Mexico City</b></td><td>15.6°C</td><td>78%</td><td>2.6 km/h</td><td>☁️ Overcast</td></tr>
 </table>
 
 </details>
@@ -193,9 +193,9 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>🌬️ Wind</th>
 <th>☁️ Conditions</th>
 </tr>
-<tr><td>🇧🇷 <b>São Paulo</b></td><td>22.0°C</td><td>75%</td><td>11.7 km/h</td><td>🌧️ Dense drizzle</td></tr>
-<tr><td>🇦🇷 <b>Buenos Aires</b></td><td>26.7°C</td><td>52%</td><td>8.9 km/h</td><td>☀️ Clear sky</td></tr>
-<tr><td>🇵🇪 <b>Lima</b></td><td colspan='4'>Data unavailable</td></tr>
+<tr><td>🇧🇷 <b>São Paulo</b></td><td>22.8°C</td><td>74%</td><td>7.4 km/h</td><td>🌧️ Dense drizzle</td></tr>
+<tr><td>🇦🇷 <b>Buenos Aires</b></td><td>27.5°C</td><td>47%</td><td>10.1 km/h</td><td>🌤️ Mainly clear</td></tr>
+<tr><td>🇵🇪 <b>Lima</b></td><td>25.9°C</td><td>76%</td><td>16.1 km/h</td><td>☁️ Overcast</td></tr>
 </table>
 
 </details>
@@ -211,9 +211,9 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>🌬️ Wind</th>
 <th>☁️ Conditions</th>
 </tr>
-<tr><td>🇿🇦 <b>Cape Town</b></td><td>21.4°C</td><td>52%</td><td>20.8 km/h</td><td>☁️ Overcast</td></tr>
-<tr><td>🇪🇬 <b>Cairo</b></td><td>25.1°C</td><td>43%</td><td>9.7 km/h</td><td>☁️ Overcast</td></tr>
-<tr><td>🇳🇬 <b>Lagos</b></td><td>29.0°C</td><td>76%</td><td>2.4 km/h</td><td>🌦️ Drizzle</td></tr>
+<tr><td>🇿🇦 <b>Cape Town</b></td><td>20.1°C</td><td>54%</td><td>21.0 km/h</td><td>☁️ Overcast</td></tr>
+<tr><td>🇪🇬 <b>Cairo</b></td><td>23.8°C</td><td>47%</td><td>7.2 km/h</td><td>☁️ Overcast</td></tr>
+<tr><td>🇳🇬 <b>Lagos</b></td><td>28.0°C</td><td>79%</td><td>0.5 km/h</td><td>🌧️ Dense drizzle</td></tr>
 </table>
 
 </details>
@@ -229,15 +229,15 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>🌬️ Wind</th>
 <th>☁️ Conditions</th>
 </tr>
-<tr><td>🇦🇺 <b>Sydney</b></td><td colspan='4'>Data unavailable</td></tr>
-<tr><td>🇦🇺 <b>Melbourne</b></td><td>13.4°C</td><td>85%</td><td>2.5 km/h</td><td>☁️ Overcast</td></tr>
-<tr><td>🇳🇿 <b>Auckland</b></td><td>13.8°C</td><td>93%</td><td>4.0 km/h</td><td>☀️ Clear sky</td></tr>
+<tr><td>🇦🇺 <b>Sydney</b></td><td>16.5°C</td><td>94%</td><td>3.3 km/h</td><td>🌤️ Mainly clear</td></tr>
+<tr><td>🇦🇺 <b>Melbourne</b></td><td>13.4°C</td><td>84%</td><td>3.8 km/h</td><td>☁️ Overcast</td></tr>
+<tr><td>🇳🇿 <b>Auckland</b></td><td>13.6°C</td><td>95%</td><td>2.7 km/h</td><td>🌤️ Mainly clear</td></tr>
 </table>
 
 </details>
 <!-- WEATHER END -->
 
-<sub>🕐 Last weather update: <b>12 Nov 2026, 14:36 UTC</b> · Data from OpenWeatherMap</sub>
+<sub>🕐 Last weather update: <b>12 Nov 2026, 15:37 UTC</b> · Data from OpenWeatherMap</sub>
 
 ---
 
@@ -254,15 +254,15 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>📊 % Change</th>
 <th>📅 As Of</th>
 </tr>
-<tr><td><b>VUAG.L</b></td><td>110.88</td><td>🟢 +1.90</td><td>+1.74%</td><td>11 Nov 2026, 19:38 UTC</td></tr>
-<tr><td><b>VWRL.L</b></td><td>137.93</td><td>🟢 +2.36</td><td>+1.74%</td><td>11 Nov 2026, 19:38 UTC</td></tr>
-<tr><td><b>SPY</b></td><td>760.64</td><td>🟢 +9.30</td><td>+1.24%</td><td>11 Nov 2026, 19:38 UTC</td></tr>
-<tr><td><b>QQQ</b></td><td>692.71</td><td>🟢 +15.08</td><td>+2.23%</td><td>11 Nov 2026, 19:38 UTC</td></tr>
-<tr><td><b>ARKK</b></td><td>78.93</td><td>🟢 +1.66</td><td>+2.15%</td><td>11 Nov 2026, 19:38 UTC</td></tr>
-<tr><td><b>VTI</b></td><td>374.62</td><td>🟢 +3.82</td><td>+1.03%</td><td>11 Nov 2026, 19:38 UTC</td></tr>
+<tr><td><b>VUAG.L</b></td><td>111.18</td><td>🟢 +0.20</td><td>+0.18%</td><td>12 Nov 2026, 15:37 UTC</td></tr>
+<tr><td><b>VWRL.L</b></td><td>137.81</td><td>🔴 -0.11</td><td>-0.08%</td><td>12 Nov 2026, 15:37 UTC</td></tr>
+<tr><td><b>SPY</b></td><td>757.77</td><td>🟢 +1.86</td><td>+0.25%</td><td>12 Nov 2026, 15:37 UTC</td></tr>
+<tr><td><b>QQQ</b></td><td>686.29</td><td>🟢 +2.76</td><td>+0.40%</td><td>12 Nov 2026, 15:37 UTC</td></tr>
+<tr><td><b>ARKK</b></td><td>76.17</td><td>🔴 -1.30</td><td>-1.68%</td><td>12 Nov 2026, 15:37 UTC</td></tr>
+<tr><td><b>VTI</b></td><td>372.98</td><td>🟢 +0.27</td><td>+0.07%</td><td>12 Nov 2026, 15:37 UTC</td></tr>
 </table>
 
-<b>11 Nov 2026, 19:38 UTC</b> · Data from Yahoo Finance</sub>
+<sub>🕐 Last market update: <b>12 Nov 2026, 15:37 UTC</b> · Data from Yahoo Finance</sub>
 
 ---
 
@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://github.com/aws/aws-emulator'>AWS Finally Built Its Own AWS Emulator</a></td><td>262 👍</td><td>68 💬</td></tr>
-<tr><td>2.</td><td><a href='https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028'>Tim Peters has died</a></td><td>410 👍</td><td>42 💬</td></tr>
-<tr><td>3.</td><td><a href='https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/'>A false smoke alarm almost drowned Jane Street's only NYC datacenter</a></td><td>258 👍</td><td>131 💬</td></tr>
-<tr><td>4.</td><td><a href='https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html'>AWS Emulator and the engineer's job when agents write the code</a></td><td>58 👍</td><td>4 💬</td></tr>
-<tr><td>5.</td><td><a href='https://termsheetplease.com/'>Show HN: I recreated Papers Please but you're deciding which YC sta...</a></td><td>33 👍</td><td>7 💬</td></tr>
-<tr><td>6.</td><td><a href='https://machinelearning.apple.com/research/faster-retrieval'>Faster Retrieval for Better, More Efficient RAG</a></td><td>79 👍</td><td>17 💬</td></tr>
-<tr><td>7.</td><td><a href='https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/'>Retirement Savings Are Fueling the AI Bubble</a></td><td>14 👍</td><td>6 💬</td></tr>
-<tr><td>8.</td><td><a href='https://pietromiotti.com/latest/maya-site/?maya'>Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya p...</a></td><td>835 👍</td><td>309 💬</td></tr>
-<tr><td>9.</td><td><a href='https://av.github.io/safe-sand/'>Hyper-Realistic Sand with WebGL2</a></td><td>215 👍</td><td>50 💬</td></tr>
-<tr><td>10.</td><td><a href='https://github.com/FrigadeHQ/yogurt'>Show HN: Yogurt – Free, private, open-source alternative to Granola</a></td><td>83 👍</td><td>39 💬</td></tr>
+<tr><td>1.</td><td><a href='https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at'>Talking Zen 6 with Mike Clark at AMD In-Depth</a></td><td>48 👍</td><td>0 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64'>Abandoned Quake 4 expansion finished by modders and now playable</a></td><td>52 👍</td><td>18 💬</td></tr>
+<tr><td>3.</td><td><a href='https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition'>NVIDIA Announces CEO Transition</a></td><td>959 👍</td><td>782 💬</td></tr>
+<tr><td>4.</td><td><a href='https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/'>Jensen Huang resigns as Nvidia CEO immediately</a></td><td>310 👍</td><td>164 💬</td></tr>
+<tr><td>5.</td><td><a href='https://pron.github.io/posts/correctness-and-complexity'>Why Writing Correct Software Is Hard</a></td><td>214 👍</td><td>91 💬</td></tr>
+<tr><td>6.</td><td><a href='https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/'>Jane Street – Our software engineering interviews are changing (a l...</a></td><td>44 👍</td><td>22 💬</td></tr>
+<tr><td>7.</td><td><a href='https://libreagi.com/'>Libreagi – Save OSS Models</a></td><td>26 👍</td><td>11 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.bbc.co.uk/news/live/c6zjry11v8w1t'>Nvidia CEO Jensen Huang resigns after reports of second affair deep...</a></td><td>153 👍</td><td>79 💬</td></tr>
+<tr><td>9.</td><td><a href='https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md'>Jane Street: Socratic Tutor</a></td><td>492 👍</td><td>113 💬</td></tr>
+<tr><td>10.</td><td><a href='https://spectrum.ieee.org/electric-ship-batteries'>Electric Ship Batteries Promise Compact, Cooler Power</a></td><td>16 👍</td><td>4 💬</td></tr>
 </table>
 
-<b>11 Nov 2026, 19:46 UTC</b>
+<sub>🕐 Last news update: <b>12 Nov 2026, 15:37 UTC</b> · Data from Hacker News</sub>
 
 ---
 
@@ -303,20 +303,20 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 
 ### 📖 Word of the Day
 
-> **Eloquent** · */ˈɛl.əˌkwənt/*
+> **Mellifluous** · */məˈlɪflu.əs/*
 >
-> *adjective* — Fluently persuasive and articulate
+> *adjective* — Flowing like honey.
 >
-> 💬 *"Today's word is 'eloquent' — try using it in conversation!"*
+> 💬 *"Today's word is 'mellifluous' — try using it in conversation!"*
 
 </td>
 <td width="50%">
 
 ### 🏛️ Philosopher's Quote
 
-> *"A random act of kindness, no matter how small, can make a tremendous impact on someone else's life."*
+> *"The only true wisdom is in knowing you know nothing."*
 >
-> — **Roy T. Bennett**
+> — **Socrates**
 
 </td>
 </tr>
@@ -325,7 +325,7 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 
 ### 🧠 Fun Fact
 
-> In 10 minutes, a hurricane releases more energy than all of the world's nuclear weapons combined.
+> An American urologist bought Napoleon’s penis for $40,000.
 
 </td>
 <td>
@@ -334,9 +334,9 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 
 > 🌑 New Moon
 
-### 📜 On This Day (November 11)
+### 📜 On This Day (November 12)
 
-> **1778** — American Revolutionary War: British forces and their Iroquois allies attacked a fort and the village of Cherry Valley, New York, killing 14 soldiers and 30 civilians.
+> **1932** — At the request of the Government of Western Australia, the Australian military officially resumed fighting the Emu War after their prior withdrawal.
 
 </td>
 </tr>
@@ -349,16 +349,16 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 
 | 🎉 Event | 📅 Days Left |
 |-----------|-------------|
-| 🎆 New Year | `██████████████████░░` **50** days |
-| 💝 Valentine's Day | `███████████████░░░░░` **94** days |
-| 🥧 Pi Day | `██████████████░░░░░░` **122** days |
-| 🍀 St. Patrick's Day | `██████████████░░░░░░` **125** days |
-| 🌍 Earth Day | `████████████░░░░░░░░` **161** days |
-| ⚔️ Star Wars Day | `███████████░░░░░░░░░` **173** days |
-| ☀️ Summer Solstice | `████████░░░░░░░░░░░░` **220** days |
-| 🎃 Halloween | `█░░░░░░░░░░░░░░░░░░░` **353** days |
-| 🎄 Christmas | `██████████████████░░` **43** days |
-| 🎊 New Year's Eve | `██████████████████░░` **49** days |
+| 🎆 New Year | `██████████████████░░` **49** days |
+| 💝 Valentine's Day | `███████████████░░░░░` **93** days |
+| 🥧 Pi Day | `██████████████░░░░░░` **121** days |
+| 🍀 St. Patrick's Day | `██████████████░░░░░░` **124** days |
+| 🌍 Earth Day | `████████████░░░░░░░░` **160** days |
+| ⚔️ Star Wars Day | `███████████░░░░░░░░░` **172** days |
+| ☀️ Summer Solstice | `████████░░░░░░░░░░░░` **219** days |
+| 🎃 Halloween | `█░░░░░░░░░░░░░░░░░░░` **352** days |
+| 🎄 Christmas | `██████████████████░░` **42** days |
+| 🎊 New Year's Eve | `██████████████████░░` **48** days |
 
 ---
 
