@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at'>Talking Zen 6 with Mike Clark at AMD In-Depth</a></td><td>48 👍</td><td>0 💬</td></tr>
-<tr><td>2.</td><td><a href='https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64'>Abandoned Quake 4 expansion finished by modders and now playable</a></td><td>52 👍</td><td>18 💬</td></tr>
-<tr><td>3.</td><td><a href='https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition'>NVIDIA Announces CEO Transition</a></td><td>959 👍</td><td>782 💬</td></tr>
-<tr><td>4.</td><td><a href='https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/'>Jensen Huang resigns as Nvidia CEO immediately</a></td><td>310 👍</td><td>164 💬</td></tr>
-<tr><td>5.</td><td><a href='https://pron.github.io/posts/correctness-and-complexity'>Why Writing Correct Software Is Hard</a></td><td>214 👍</td><td>91 💬</td></tr>
-<tr><td>6.</td><td><a href='https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/'>Jane Street – Our software engineering interviews are changing (a l...</a></td><td>44 👍</td><td>22 💬</td></tr>
-<tr><td>7.</td><td><a href='https://libreagi.com/'>Libreagi – Save OSS Models</a></td><td>26 👍</td><td>11 💬</td></tr>
-<tr><td>8.</td><td><a href='https://www.bbc.co.uk/news/live/c6zjry11v8w1t'>Nvidia CEO Jensen Huang resigns after reports of second affair deep...</a></td><td>153 👍</td><td>79 💬</td></tr>
-<tr><td>9.</td><td><a href='https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md'>Jane Street: Socratic Tutor</a></td><td>492 👍</td><td>113 💬</td></tr>
-<tr><td>10.</td><td><a href='https://spectrum.ieee.org/electric-ship-batteries'>Electric Ship Batteries Promise Compact, Cooler Power</a></td><td>16 👍</td><td>4 💬</td></tr>
+<tr><td>1.</td><td><a href='https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f'>Jensen Huang resigns</a></td><td>2166 👍</td><td>2165 💬</td></tr>
+<tr><td>2.</td><td><a href='https://github.com/rust-lang/rust/releases/tag/1.100.0'>Rust 1.100.0</a></td><td>289 👍</td><td>61 💬</td></tr>
+<tr><td>3.</td><td><a href='https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/'>Dwarf planet candidate appears which takes roughly 280 years to orb...</a></td><td>50 👍</td><td>12 💬</td></tr>
+<tr><td>4.</td><td><a href='https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/'>Gemini 4 Hydrogen and Orchestrator</a></td><td>64 👍</td><td>10 💬</td></tr>
+<tr><td>5.</td><td><a href='https://github.com/simpsoka/zigzag'>Show HN: My $300 embroidery machine needed a subscription, so I bui...</a></td><td>100 👍</td><td>31 💬</td></tr>
+<tr><td>6.</td><td><a href='https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price'>Data centers need power – lower income, rural residents pay the price</a></td><td>12 👍</td><td>6 💬</td></tr>
+<tr><td>7.</td><td><a href='https://gvwire.com/2026/11/12/microsoft-outlook-down-for-thousands-of-users-downdetector-shows/'>Outlook is down, and so is Microsoft's status page</a></td><td>208 👍</td><td>66 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64'>Abandoned Quake 4 expansion finished by modders and now playable</a></td><td>198 👍</td><td>66 💬</td></tr>
+<tr><td>9.</td><td><a href='https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/'>Gemini 4 Hydrogen</a></td><td>306 👍</td><td>213 💬</td></tr>
+<tr><td>10.</td><td><a href='https://github.com/hyperionaidev/smolmaxxing/'>I'm making LLMs work on small and old devices</a></td><td>174 👍</td><td>65 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>12 Nov 2026, 15:37 UTC</b> · Data from Hacker News</sub>
+<b>12 Nov 2026, 20:14 UTC</b>
 
 ---
 
