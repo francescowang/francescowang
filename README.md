@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.science.org/doi/10.1126/science.132.3436.1291'>Doomsday: Friday, 13 November, A.D. 2026 (1960)</a></td><td>238 👍</td><td>146 💬</td></tr>
-<tr><td>2.</td><td><a href='https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/'>Reverse Engineering My Coway Air Purifier to Ditch the Cloud</a></td><td>68 👍</td><td>15 💬</td></tr>
-<tr><td>3.</td><td><a href='https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f'>Jensen Huang resigns</a></td><td>3782 👍</td><td>3266 💬</td></tr>
-<tr><td>4.</td><td><a href='https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/'>Why Zig over C for Systems Programming</a></td><td>20 👍</td><td>1 💬</td></tr>
-<tr><td>5.</td><td><a href='https://status.claude.com/incidents/nn11wk485zfn'>Elevated errors on claude.ai, Claude Code, and platform.claude.com</a></td><td>355 👍</td><td>312 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.ft.com/content/f4a1fd87-9abc-4965-963a-a5349dbfdab7'>Mercedes-Benz to halt 'all future investments' in Germany</a></td><td>37 👍</td><td>32 💬</td></tr>
-<tr><td>7.</td><td><a href='https://ice-wm.org/'>IceWM</a></td><td>280 👍</td><td>142 💬</td></tr>
-<tr><td>8.</td><td><a href='https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/'>Rust 1.100</a></td><td>785 👍</td><td>284 💬</td></tr>
-<tr><td>9.</td><td><a href='https://brave.com/blog/search-api-agentic-payments/'>Brave Search API now accepts agentic payments via the x402 protocol</a></td><td>190 👍</td><td>104 💬</td></tr>
-<tr><td>10.</td><td><a href='https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest'>Eli Lilly CEO pushes back on Dario Amodei's ludicrous medical claims</a></td><td>172 👍</td><td>182 💬</td></tr>
+<tr><td>1.</td><td><a href='https://open.m-vave.com/fm1-workbench'>FM-1 Workbench</a></td><td>33 👍</td><td>9 💬</td></tr>
+<tr><td>2.</td><td><a href='https://haddyalchaer.com/jepa'>After 600 experiments, here's what I discovered about JEPA world mo...</a></td><td>114 👍</td><td>24 💬</td></tr>
+<tr><td>3.</td><td><a href='https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/'>Reverse engineering my Coway air purifier to ditch the cloud</a></td><td>563 👍</td><td>157 💬</td></tr>
+<tr><td>4.</td><td><a href='https://www.science.org/doi/10.1126/science.132.3436.1291'>Doomsday: Friday, 13 November, A.D. 2026 (1960)</a></td><td>384 👍</td><td>267 💬</td></tr>
+<tr><td>5.</td><td><a href='https://isometricsf.com/'>Show HN: Isometric SF – A pixel-art map of the SF Bay Area</a></td><td>55 👍</td><td>18 💬</td></tr>
+<tr><td>6.</td><td><a href='https://toninoble.com/post/ctrlc-ctrlv-ctrlcve'>Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Securi...</a></td><td>22 👍</td><td>4 💬</td></tr>
+<tr><td>7.</td><td><a href='https://www.alphaxiv.org/abs/2611.weight-space-misfolding'>Models can now transmit viruses in weight-space</a></td><td>60 👍</td><td>29 💬</td></tr>
+<tr><td>8.</td><td><a href='https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078'>A technical vision for the Haskell ecosystem</a></td><td>135 👍</td><td>54 💬</td></tr>
+<tr><td>9.</td><td><a href='https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths'>AI unlocks Gödel's notebooks, said to contain hundreds of proved th...</a></td><td>185 👍</td><td>43 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/'>It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad</a></td><td>96 👍</td><td>43 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>13 Nov 2026, 14:56 UTC</b> · Data from Hacker News</sub>
+<b>13 Nov 2026, 19:55 UTC</b>
 
 ---
 
