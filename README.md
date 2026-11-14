@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/'>Why get an expensive Pi when I have an old phone?</a></td><td>203 👍</td><td>135 💬</td></tr>
-<tr><td>2.</td><td><a href='https://github.com/ggml-org/ggml/releases/tag/v1.0.0'>Ggml v1.0.0</a></td><td>317 👍</td><td>50 💬</td></tr>
-<tr><td>3.</td><td><a href='https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/'>Generative AI uses more energy on non-English text</a></td><td>14 👍</td><td>4 💬</td></tr>
-<tr><td>4.</td><td><a href='https://monkeyisland.pages.dev/'>Monkey Island: all 13 versions side by side</a></td><td>253 👍</td><td>81 💬</td></tr>
-<tr><td>5.</td><td><a href='https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again'>Tech Companies Are Trying to Shift the Concept of Privacy (Again)</a></td><td>31 👍</td><td>2 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus'>Nvidia allegedly engineered scarcity by funding AI startups to buy ...</a></td><td>774 👍</td><td>459 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.joshka.net/cell-borders/'>Terminal borders that don't cost a cell</a></td><td>324 👍</td><td>141 💬</td></tr>
-<tr><td>8.</td><td><a href='https://unsloth.ai/docs/models/qwen3.8'>Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update</a></td><td>191 👍</td><td>53 💬</td></tr>
-<tr><td>9.</td><td><a href='https://beyondloom.com/blog/postscript.html'>Let's Write a PostScript Interpreter</a></td><td>22 👍</td><td>6 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247'>FAA issues national ground stop – lifted 4.5 hours later</a></td><td>1583 👍</td><td>1204 💬</td></tr>
+<tr><td>1.</td><td><a href='https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/'>PyPI's redesigned project pages with clearer security signals are n...</a></td><td>111 👍</td><td>39 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.crissyfield.de/research/lovable-en/'>Lovable apps expose passport details and more than 200K private mes...</a></td><td>50 👍</td><td>10 💬</td></tr>
+<tr><td>3.</td><td><a href='https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c'>KDE: The documentary [video]</a></td><td>191 👍</td><td>30 💬</td></tr>
+<tr><td>4.</td><td><a href='https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/'>A Family Tree of Software Job Titles</a></td><td>11 👍</td><td>3 💬</td></tr>
+<tr><td>5.</td><td><a href='https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/'>Why get an expensive Pi when I have an old phone?</a></td><td>390 👍</td><td>238 💬</td></tr>
+<tr><td>6.</td><td><a href='https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/'>Advancing science and engineering with Antigravity's /teamwork</a></td><td>83 👍</td><td>23 💬</td></tr>
+<tr><td>7.</td><td><a href='https://gitlab.com/snipedbywifi/terminactory'>Show HN: A terminal-native idle factory game, written in Rust with ...</a></td><td>92 👍</td><td>14 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.righto.com/2026/11/signetics-st680a-dtl-nand.html'>Reverse engineering a vintage diode-transistor logic chip</a></td><td>33 👍</td><td>1 💬</td></tr>
+<tr><td>9.</td><td><a href='https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/'>Generative AI uses more energy on non-English text</a></td><td>112 👍</td><td>72 💬</td></tr>
+<tr><td>10.</td><td><a href='https://github.com/FURSOY/fursoy-cpu'>Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Li...</a></td><td>36 👍</td><td>9 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>14 Nov 2026, 13:49 UTC</b> · Data from Hacker News</sub>
+<b>14 Nov 2026, 18:22 UTC</b>
 
 ---
 
