@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/'>The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes...</a></td><td>40 👍</td><td>14 💬</td></tr>
-<tr><td>2.</td><td><a href='https://www.spacex.com/launches/starship-flight-15'>SpaceX catches the Starship to end Flight 15</a></td><td>1394 👍</td><td>925 💬</td></tr>
-<tr><td>3.</td><td><a href='https://space.stackexchange.com/questions/37775'>Why did some Apollo missions carry a grenade launcher?</a></td><td>106 👍</td><td>64 💬</td></tr>
-<tr><td>4.</td><td><a href='https://magazine.sebastianraschka.com/p/understanding-positional-embeddings'>Understanding Positional Embeddings in Modern LLMs</a></td><td>26 👍</td><td>0 💬</td></tr>
-<tr><td>5.</td><td><a href='https://prog21.dadgum.com/116.html'>Things That Turbo Pascal Is Smaller Than (2011)</a></td><td>6 👍</td><td>1 💬</td></tr>
-<tr><td>6.</td><td><a href='https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal'>Court denies motion to dismiss DRAM price fixing case</a></td><td>299 👍</td><td>115 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.crissyfield.de/research/lovable-en/'>Lovable apps expose passport details and more than 200K private mes...</a></td><td>901 👍</td><td>342 💬</td></tr>
-<tr><td>8.</td><td><a href='https://operator0x.com/field-notes/qwen-conversation-state-space/'>What thousands of conversations look like inside a language model</a></td><td>31 👍</td><td>7 💬</td></tr>
-<tr><td>9.</td><td><a href='https://lucypero.com/lucynes.html'>A NES emulator written in Odin</a></td><td>9 👍</td><td>0 💬</td></tr>
-<tr><td>10.</td><td><a href='https://subalpinecircuits.com/chasing-an-audio-artifact-on-power-loss/'>Chasing an audio artifact on power loss</a></td><td>13 👍</td><td>1 💬</td></tr>
+<tr><td>1.</td><td><a href='https://jakub.jankiewicz.org/blog/ai-code-open-source/'>All AI-generated code should be Open Source</a></td><td>713 👍</td><td>385 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.youtube.com/watch?v=7_JF3etiAv8'>A short explainer on how El Niño works [video]</a></td><td>23 👍</td><td>1 💬</td></tr>
+<tr><td>3.</td><td><a href='https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/'>The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes...</a></td><td>268 👍</td><td>154 💬</td></tr>
+<tr><td>4.</td><td><a href='https://prog21.dadgum.com/116.html'>Things That Turbo Pascal Is Smaller Than (2011)</a></td><td>127 👍</td><td>59 💬</td></tr>
+<tr><td>5.</td><td><a href='https://joshblais.com/blog/emacs-as-my-browser/'>Emacs Is My Browser</a></td><td>90 👍</td><td>51 💬</td></tr>
+<tr><td>6.</td><td><a href='https://www.youtube.com/watch?v=WPj3aQ-xxpI'>Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a ...</a></td><td>142 👍</td><td>65 💬</td></tr>
+<tr><td>7.</td><td><a href='https://www.spacex.com/launches/starship-flight-15'>SpaceX catches the Starship to end Flight 15</a></td><td>1540 👍</td><td>1071 💬</td></tr>
+<tr><td>8.</td><td><a href='https://magazine.sebastianraschka.com/p/understanding-positional-embeddings'>Understanding Positional Embeddings in Modern LLMs</a></td><td>140 👍</td><td>5 💬</td></tr>
+<tr><td>9.</td><td><a href='https://websites.umich.edu/~ners311/CourseLibrary/MathNotes.pdf'>Notes on Mathematics for Engineers (1959) [pdf]</a></td><td>21 👍</td><td>1 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html'>'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can</a></td><td>20 👍</td><td>11 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>15 Nov 2026, 14:20 UTC</b> · Data from Hacker News</sub>
+<b>15 Nov 2026, 19:00 UTC</b>
 
 ---
 
