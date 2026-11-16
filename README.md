@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/'>The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to ...</a></td><td>169 👍</td><td>76 💬</td></tr>
-<tr><td>2.</td><td><a href='http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/'>Many of Amazon’s Black Friday and Cyber Monday “Deals” Offered No S...</a></td><td>294 👍</td><td>156 💬</td></tr>
-<tr><td>3.</td><td><a href='https://pub.cba.mit.edu/863.26/site/'>How to make almost anything</a></td><td>621 👍</td><td>103 💬</td></tr>
-<tr><td>4.</td><td><a href='https://iter.ca/post/ubo-uxss/'>Universal XSS in uBlock Origin from website-driven element picker</a></td><td>520 👍</td><td>148 💬</td></tr>
-<tr><td>5.</td><td><a href='https://jack.cab/blog/siterate'>What is w2rt6byl5nf1opmc-a.com?</a></td><td>244 👍</td><td>102 💬</td></tr>
-<tr><td>6.</td><td><a href='https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/'>Interpreting claims that a theorem is correct because it was checke...</a></td><td>184 👍</td><td>69 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.eevblog.com/forum/testgear/oos-an-open-operating-system-for-the-rigol-scopes/'>OOS – an open operating system for the Rigol Scopes</a></td><td>74 👍</td><td>25 💬</td></tr>
-<tr><td>8.</td><td><a href='https://github.com/OpenTodoApp/OpenTodo'>Show HN: OpenTodo – a self-hosted, local-first task manager in one ...</a></td><td>13 👍</td><td>5 💬</td></tr>
-<tr><td>9.</td><td><a href='https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch'>Researchers track whole body movement with just a smartwatch</a></td><td>141 👍</td><td>44 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/'>Nvidia Was in Trouble Before the Jensen Huang Mess</a></td><td>27 👍</td><td>8 💬</td></tr>
+<tr><td>1.</td><td><a href='https://www.cs.cmu.edu/learn/'>Carnegie Mellon is putting computer science courses on YouTube for ...</a></td><td>95 👍</td><td>19 💬</td></tr>
+<tr><td>2.</td><td><a href='https://blog.startifact.com/posts/how-rust-changed-me/'>Rust changed me as a developer</a></td><td>80 👍</td><td>36 💬</td></tr>
+<tr><td>3.</td><td><a href='https://www.spamhaus.org/sender-guidelines/'>Spamhaus new email sender requirements in November</a></td><td>22 👍</td><td>13 💬</td></tr>
+<tr><td>4.</td><td><a href='https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda'>Technical issue at JPMorgan Chase triggers online banking delays fo...</a></td><td>628 👍</td><td>480 💬</td></tr>
+<tr><td>5.</td><td><a href='https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains'>Grazing sheep in fields with solar arrays</a></td><td>171 👍</td><td>146 💬</td></tr>
+<tr><td>6.</td><td><a href='https://burntsushi.net/jiff/'>Jiff 1.0: A datetime library for Rust</a></td><td>256 👍</td><td>55 💬</td></tr>
+<tr><td>7.</td><td><a href='https://trmnl.com/blog/introducing-frame'>Frame – 31.5" color ePaper display</a></td><td>234 👍</td><td>153 💬</td></tr>
+<tr><td>8.</td><td><a href='https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs'>My Quest to push native Three.js quality match AAA Game Engines</a></td><td>45 👍</td><td>13 💬</td></tr>
+<tr><td>9.</td><td><a href='https://linebender.org/wiki/curves/squircle/'>Squircles</a></td><td>78 👍</td><td>27 💬</td></tr>
+<tr><td>10.</td><td><a href='https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry'>Chemistry Is Geometry</a></td><td>24 👍</td><td>3 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>16 Nov 2026, 16:29 UTC</b> · Data from Hacker News</sub>
+<b>16 Nov 2026, 22:24 UTC</b>
 
 ---
 
