@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://jordankrueger.com/blog/better-open-source-not-more-apps/'>We don't need more apps. We need better open source</a></td><td>230 👍</td><td>125 💬</td></tr>
-<tr><td>2.</td><td><a href='https://runta.com/blog/introducing-frontierharness-eval-v1-1/'>In 27,280 coding agent runs, 64% of inference spend went to runs th...</a></td><td>59 👍</td><td>14 💬</td></tr>
-<tr><td>3.</td><td><a href='https://alloyhtml.com/example.html'>Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScri...</a></td><td>45 👍</td><td>10 💬</td></tr>
-<tr><td>4.</td><td><a href='https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html'>New Evidence Shows School Phone Bans Are Gradually Improving Test S...</a></td><td>671 👍</td><td>336 💬</td></tr>
-<tr><td>5.</td><td><a href='https://nautil.us/check-out-the-first-photos-of-the-poles-of-a-rod-shaped-bacterium-1286664'>First Photos of the Poles of a Rod-Shaped Bacterium</a></td><td>55 👍</td><td>10 💬</td></tr>
-<tr><td>6.</td><td><a href='https://www.cs.cmu.edu/learn/'>Carnegie Mellon is putting computer science courses on YouTube for ...</a></td><td>2032 👍</td><td>273 💬</td></tr>
-<tr><td>7.</td><td><a href='https://thehill.com/policy/defense/6224597-pentagon-fails-ninth-audit/'>Pentagon fails 9th financial audit in a row</a></td><td>91 👍</td><td>44 💬</td></tr>
-<tr><td>8.</td><td><a href='https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down'>Highly classified US national security communications network goes ...</a></td><td>80 👍</td><td>51 💬</td></tr>
-<tr><td>9.</td><td><a href='https://actsofvolition.com/2026/11/loopholes-are-for-assholes/'>Loopholes Are for Assholes</a></td><td>128 👍</td><td>102 💬</td></tr>
-<tr><td>10.</td><td><a href='https://visualbasic.world/'>VisualBasic.World: A gallery of Planet Source Code programs from 19...</a></td><td>161 👍</td><td>58 💬</td></tr>
+<tr><td>1.</td><td><a href='https://openai.com/index/introducing-gpt-6-2-astra-sol/'>GPT‑6.2 Astra and Sol</a></td><td>813 👍</td><td>497 💬</td></tr>
+<tr><td>2.</td><td><a href='https://github.com/jquery/jquery/releases/tag/4.1.0'>jQuery 4.1.0</a></td><td>113 👍</td><td>48 💬</td></tr>
+<tr><td>3.</td><td><a href='https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/'>MAI Code 2 and Code 2 Flash</a></td><td>179 👍</td><td>82 💬</td></tr>
+<tr><td>4.</td><td><a href='https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969'>350 years ago, this man discovered that light has a finite speed</a></td><td>103 👍</td><td>27 💬</td></tr>
+<tr><td>5.</td><td><a href='https://browser.engineering/'>Web Browser Engineering (2021)</a></td><td>50 👍</td><td>8 💬</td></tr>
+<tr><td>6.</td><td><a href='https://www.solidjs.com/blog/solid-2-0-the-long-hold/'>Solid 2.0</a></td><td>115 👍</td><td>25 💬</td></tr>
+<tr><td>7.</td><td><a href='https://phrack.org/issues/73/introduction_md'>Phrack 73 Released</a></td><td>130 👍</td><td>6 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down'>Highly classified US national security communications network goes ...</a></td><td>291 👍</td><td>451 💬</td></tr>
+<tr><td>9.</td><td><a href='https://developer.apple.com/system-status/'>Apple Services Down</a></td><td>489 👍</td><td>270 💬</td></tr>
+<tr><td>10.</td><td><a href='https://runta.com/blog/introducing-frontierharness-eval-v1-1/'>What is the best harness for each model?</a></td><td>285 👍</td><td>102 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>17 Nov 2026, 16:30 UTC</b> · Data from Hacker News</sub>
+<b>17 Nov 2026, 21:10 UTC</b>
 
 ---
 
