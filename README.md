@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://techstackups.com/articles/quad9-leaves-france-dns-blocking/'>Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to F...</a></td><td>271 👍</td><td>63 💬</td></tr>
-<tr><td>2.</td><td><a href='https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026'>'Human' Is Cambridge Dictionary's Word of the Year 2026</a></td><td>69 👍</td><td>40 💬</td></tr>
-<tr><td>3.</td><td><a href='https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities'>Pre-auth RCE in Nginx HTTP/2 handling</a></td><td>66 👍</td><td>16 💬</td></tr>
-<tr><td>4.</td><td><a href='https://energy-based-reasoners.github.io/'>Energy-Based Reasoners: 385x more efficient inference</a></td><td>220 👍</td><td>31 💬</td></tr>
-<tr><td>5.</td><td><a href='https://www.jeffquast.com/post/a-perfect-simcity/'>A Perfect SimCity</a></td><td>159 👍</td><td>60 💬</td></tr>
-<tr><td>6.</td><td><a href='https://calif.io/java4shell/'>Java4Shell: RCE in OpenJDK when processing Base64</a></td><td>1108 👍</td><td>296 💬</td></tr>
-<tr><td>7.</td><td><a href='https://revscope.co/blog/search-seo-geo-2026/'>Google's AI answers reducing search traffic by 40%</a></td><td>620 👍</td><td>470 💬</td></tr>
-<tr><td>8.</td><td><a href='https://pikuma.com/blog/history-of-x86-4004-to-486'>The x86 CPU: From 4004 to 486</a></td><td>10 👍</td><td>1 💬</td></tr>
-<tr><td>9.</td><td><a href='https://blog.cloudflare.com/quad9-withdrawal-from-france/'>Quad9's withdrawal from France: A canary in the coal mine</a></td><td>835 👍</td><td>385 💬</td></tr>
-<tr><td>10.</td><td><a href='https://typefighter2.com/'>Show HN: Type Fighter 2</a></td><td>67 👍</td><td>29 💬</td></tr>
+<tr><td>1.</td><td><a href='https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities'>Unauthenticated remote code execution in Nginx</a></td><td>749 👍</td><td>317 💬</td></tr>
+<tr><td>2.</td><td><a href='https://microsoft.ai/news/microsoft-ignite-2026/'>Seven new models at scalable price-performance</a></td><td>323 👍</td><td>210 💬</td></tr>
+<tr><td>3.</td><td><a href='https://www.inside-db.com/'>Inside Deutsche Bank</a></td><td>390 👍</td><td>141 💬</td></tr>
+<tr><td>4.</td><td><a href='https://techstackups.com/articles/quad9-leaves-france-dns-blocking/'>DNS resolvers are the wrong place to fight piracy</a></td><td>475 👍</td><td>161 💬</td></tr>
+<tr><td>5.</td><td><a href='https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/'>AI agents ask better questions than KPMG accountants in audit trial</a></td><td>183 👍</td><td>96 💬</td></tr>
+<tr><td>6.</td><td><a href='https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/'>Genie 4 is now available</a></td><td>103 👍</td><td>83 💬</td></tr>
+<tr><td>7.</td><td><a href='https://jimmyhmiller.com/magic-of-partial-evaluation'>The Magic of Partial Evaluation</a></td><td>51 👍</td><td>5 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.radixark.com/blog/daisyrose-27b'>DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Termi...</a></td><td>19 👍</td><td>4 💬</td></tr>
+<tr><td>9.</td><td><a href='https://openai.com/index/advancing-chip-design-with-our-models/'>Advancing chip design with OpenAI models</a></td><td>74 👍</td><td>30 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026'>The Cambridge Dictionary has named ‘human’ as the Word of the Year ...</a></td><td>187 👍</td><td>142 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>18 Nov 2026, 15:59 UTC</b> · Data from Hacker News</sub>
+<b>18 Nov 2026, 20:46 UTC</b>
 
 ---
 
