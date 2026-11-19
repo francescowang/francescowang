@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/'>How the European Commission rolled out Matrix to more than 40k staff</a></td><td>446 👍</td><td>224 💬</td></tr>
-<tr><td>2.</td><td><a href='https://lastbook.org/'>Everything you need to survive and rebuild society</a></td><td>54 👍</td><td>26 💬</td></tr>
-<tr><td>3.</td><td><a href='https://blog.harrison.page/garage-door-spam/'>Garage Door Spam</a></td><td>375 👍</td><td>158 💬</td></tr>
-<tr><td>4.</td><td><a href='https://thedataexchange.media/pete-warden-moonshine/'>Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine V...</a></td><td>16 👍</td><td>4 💬</td></tr>
-<tr><td>5.</td><td><a href='https://maccus.fr/en/cooling-overtaking-heating/'>Cooling buildings is overtaking heating them as an energy need, IEA...</a></td><td>25 👍</td><td>7 💬</td></tr>
-<tr><td>6.</td><td><a href='https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/'>Making 8-page foldable zines from a single A4 sheet in the browser</a></td><td>87 👍</td><td>25 💬</td></tr>
-<tr><td>7.</td><td><a href='https://www.youtube.com/watch?v=-TLCGUpoD6c'>Nintendo takes Picofly firmware down from GitHub [video]</a></td><td>141 👍</td><td>41 💬</td></tr>
-<tr><td>8.</td><td><a href='https://foolscap.works/'>Show HN: Foolscap – a writing app that reads your book and never wr...</a></td><td>75 👍</td><td>40 💬</td></tr>
-<tr><td>9.</td><td><a href='https://github.com/openjdk/jdk/pull/32781'>Someone reported java4shell bug in September 2026</a></td><td>110 👍</td><td>27 💬</td></tr>
-<tr><td>10.</td><td><a href='https://verialabs.com/ruby2shell/'>Ruby2ßhell: Pre-authentication RCE on stock Rails</a></td><td>285 👍</td><td>116 💬</td></tr>
+<tr><td>1.</td><td><a href='https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/'>Anthropic hits $2T in Nasdaq debut</a></td><td>568 👍</td><td>908 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/'>Pancreatic cancer halted by virus injection in three patients</a></td><td>194 👍</td><td>19 💬</td></tr>
+<tr><td>3.</td><td><a href='https://www.anthropic.com/research/claude-black-hole-physics'>Claude solves two open problems in the physics of black holes</a></td><td>250 👍</td><td>98 💬</td></tr>
+<tr><td>4.</td><td><a href='https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine'>The 98% Slot Machine: How Paid Advertising Became an Extraction Tax</a></td><td>75 👍</td><td>36 💬</td></tr>
+<tr><td>5.</td><td><a href='https://blog.harrison.page/garage-door-spam/'>Garage Door Spam</a></td><td>624 👍</td><td>262 💬</td></tr>
+<tr><td>6.</td><td><a href='https://cornholenews.news'>Show HN: Cornhole News – A Hacker News inspired site for news acros...</a></td><td>136 👍</td><td>64 💬</td></tr>
+<tr><td>7.</td><td><a href='https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/'>UK government forced to admit it issued Apple a secret encryption o...</a></td><td>318 👍</td><td>151 💬</td></tr>
+<tr><td>8.</td><td><a href='https://github.com/onlook-dev/onlook/'>Launch HN: Onlook (YC W25) – An open-source developer tool for desi...</a></td><td>59 👍</td><td>57 💬</td></tr>
+<tr><td>9.</td><td><a href='https://github.com/openjdk/jdk/pull/32781'>Someone reported java4shell bug in September 2026</a></td><td>273 👍</td><td>78 💬</td></tr>
+<tr><td>10.</td><td><a href='https://thedataexchange.media/pete-warden-moonshine/'>Pete warden on local AI, open models, voice interfaces, the future ...</a></td><td>177 👍</td><td>158 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>19 Nov 2026, 16:05 UTC</b> · Data from Hacker News</sub>
+<b>19 Nov 2026, 20:52 UTC</b>
 
 ---
 
