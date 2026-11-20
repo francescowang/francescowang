@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://alpo.ge/remark.pdf'>Anthropic employee claims general proof of the Riemann Hypothesis [...</a></td><td>662 👍</td><td>371 💬</td></tr>
-<tr><td>2.</td><td><a href='https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it'>If you can't explain something in simple terms, you don't understan...</a></td><td>313 👍</td><td>186 💬</td></tr>
-<tr><td>3.</td><td><a href='https://architectlabs.com/blog/frostbite'>Frostbite: A new CPU architecture discovered, designed and verified...</a></td><td>382 👍</td><td>243 💬</td></tr>
-<tr><td>4.</td><td><a href='https://kobi.music/research/dettato'>Show HN: I made an audio-to-MIDI model 60x more efficient</a></td><td>78 👍</td><td>15 💬</td></tr>
-<tr><td>5.</td><td><a href='https://github.com/bigcrimping/floppy3.5'>Floppy3.5: A portable 3.5-inch floppy WiFi NAS</a></td><td>65 👍</td><td>17 💬</td></tr>
-<tr><td>6.</td><td><a href='https://signal.org/blog/protecting-your-privacy/'>Signal Is Serious About Protecting Your Privacy</a></td><td>148 👍</td><td>58 💬</td></tr>
-<tr><td>7.</td><td><a href='https://jeanmicheljarre.com/aaa/the-making-of-oxygene'>The Making of Oxygene</a></td><td>121 👍</td><td>43 💬</td></tr>
-<tr><td>8.</td><td><a href='https://hippomaps.ch/?q=cafes+by+the+Limmat+100+m+from+the+lake+in+zurich#map=15.02/47.36708/8.54935'>Show HN: Fast deterministic natural language search for OpenStreetM...</a></td><td>76 👍</td><td>24 💬</td></tr>
-<tr><td>9.</td><td><a href='https://dev.java/learn/jvm/tool/garbage-collection/g1gc-overview/'>The G1 Garbage Collector</a></td><td>17 👍</td><td>5 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off'>Global stock markets slump as Anthropic's record IPO fails to stem ...</a></td><td>91 👍</td><td>63 💬</td></tr>
+<tr><td>1.</td><td><a href='https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/'>Hurried Announcement: Alessandro Masullo GRH</a></td><td>746 👍</td><td>344 💬</td></tr>
+<tr><td>2.</td><td><a href='https://alpo.ge/remark.pdf'>Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]</a></td><td>2028 👍</td><td>1376 💬</td></tr>
+<tr><td>3.</td><td><a href='https://thinkingmachines.ai/news/inkling-2-mini/'>Inkling 2 Mini</a></td><td>80 👍</td><td>6 💬</td></tr>
+<tr><td>4.</td><td><a href='https://arxiv.org/abs/2611.21885'>Language Models Can Rewrite Their Own Weights</a></td><td>253 👍</td><td>90 💬</td></tr>
+<tr><td>5.</td><td><a href='https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/'>Unforced Navier-Stokes Singularity and the Generalized Riemann Hypo...</a></td><td>168 👍</td><td>39 💬</td></tr>
+<tr><td>6.</td><td><a href='https://manidoraisamy.com/developer-to-architect.html'>We promoted developers into architects without informing them</a></td><td>107 👍</td><td>62 💬</td></tr>
+<tr><td>7.</td><td><a href='https://ankitg.me/blog/vibecoding-inference-chip/'>Vibecoding an inference chip</a></td><td>55 👍</td><td>18 💬</td></tr>
+<tr><td>8.</td><td><a href='https://winedroid.soham.sh/demo/'>Winedroid – run Android apps without Android (WASM demo)</a></td><td>30 👍</td><td>13 💬</td></tr>
+<tr><td>9.</td><td><a href='https://github.com/tristanbuckmaster/navier-stokes/'>Finite-time blow-up for the Navier–Stokes equations</a></td><td>192 👍</td><td>64 💬</td></tr>
+<tr><td>10.</td><td><a href='https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it'>If you can't explain something in simple terms, you don't understan...</a></td><td>540 👍</td><td>271 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>20 Nov 2026, 15:46 UTC</b> · Data from Hacker News</sub>
+<b>20 Nov 2026, 20:37 UTC</b>
 
 ---
 
