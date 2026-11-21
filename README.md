@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really'>Derek Lowe: Detonating a Pile of Lead Azide</a></td><td>101 👍</td><td>60 💬</td></tr>
-<tr><td>2.</td><td><a href='https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria'>Brazil's tax authority open-sources its tax calculator on GitHub un...</a></td><td>287 👍</td><td>91 💬</td></tr>
-<tr><td>3.</td><td><a href='https://blog.tymscar.com/posts/studiodisplayethernet/'>My Monitor Was Cutting My Download Speed by 75%</a></td><td>129 👍</td><td>49 💬</td></tr>
-<tr><td>4.</td><td><a href='https://simple-bench.com/'>Astra 6.2 and Sol 6.2 flop at Simple Bench</a></td><td>30 👍</td><td>7 💬</td></tr>
-<tr><td>5.</td><td><a href='https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/'>Hurried Announcement: Alessandro Masullo GRH</a></td><td>2255 👍</td><td>1066 💬</td></tr>
-<tr><td>6.</td><td><a href='https://alpo.ge/remark.pdf'>Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]</a></td><td>2756 👍</td><td>1932 💬</td></tr>
-<tr><td>7.</td><td><a href='https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html'>RCE in Gnupg</a></td><td>119 👍</td><td>40 💬</td></tr>
-<tr><td>8.</td><td><a href='https://thinkingmachines.ai/news/inkling-2-mini/'>Inkling 2 Mini</a></td><td>1147 👍</td><td>217 💬</td></tr>
-<tr><td>9.</td><td><a href='https://sgiannopoulos.github.io/blog/machine-code-programming/'>LLMs can read and write executables byte by byte from a hex dump</a></td><td>35 👍</td><td>15 💬</td></tr>
-<tr><td>10.</td><td><a href='https://manidoraisamy.com/developer-to-architect.html'>We promoted developers into architects without informing them</a></td><td>504 👍</td><td>281 💬</td></tr>
+<tr><td>1.</td><td><a href='https://github.com/ShinMegamiBoson/lookatmyquant'>Inkling-2-Mini in 5.4 GB Memory</a></td><td>110 👍</td><td>10 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria'>Brazil's tax authority open-sources its tax calculator on GitHub un...</a></td><td>544 👍</td><td>178 💬</td></tr>
+<tr><td>3.</td><td><a href='https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really'>Detonating a pile of lead azide</a></td><td>391 👍</td><td>258 💬</td></tr>
+<tr><td>4.</td><td><a href='https://leanprover-community.github.io/blog/posts/riemann-hypothesis/'>Lean verification of the Riemann Hypothesis</a></td><td>536 👍</td><td>419 💬</td></tr>
+<tr><td>5.</td><td><a href='https://jespino.github.io/gopgext/'>PostgreSQL Extensions in Go</a></td><td>62 👍</td><td>3 💬</td></tr>
+<tr><td>6.</td><td><a href='https://blog.tymscar.com/posts/studiodisplayethernet/'>My monitor was cutting my download speed by 75%</a></td><td>336 👍</td><td>177 💬</td></tr>
+<tr><td>7.</td><td><a href='https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/'>Hurried Announcement: Alessandro Masullo GRH</a></td><td>2333 👍</td><td>1116 💬</td></tr>
+<tr><td>8.</td><td><a href='https://math.mit.edu/~drew/grh/'>Verification files for the Lean proof of the Riemann Hypothesis</a></td><td>41 👍</td><td>12 💬</td></tr>
+<tr><td>9.</td><td><a href='https://alpo.ge/remark.pdf'>Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]</a></td><td>2836 👍</td><td>2007 💬</td></tr>
+<tr><td>10.</td><td><a href='https://thinkingmachines.ai/news/inkling-2-mini/'>Inkling 2 Mini</a></td><td>1280 👍</td><td>262 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>21 Nov 2026, 14:57 UTC</b> · Data from Hacker News</sub>
+<b>21 Nov 2026, 19:36 UTC</b>
 
 ---
 
