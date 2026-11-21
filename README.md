@@ -5,7 +5,7 @@
 
 <!-- LIVE CLOCK -->
 <p>
-<img src="https://img.shields.io/badge/📅_Today-Friday, 20 November 2026-58a6ff?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/📅_Today-Saturday, 21 November 2026-58a6ff?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/☕_Visitors-welcome-f78166?style=for-the-badge&labelColor=0d1117" />
 </p>
 
@@ -131,12 +131,12 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>🌬️ Wind</th>
 <th>☁️ Conditions</th>
 </tr>
-<tr><td>🇬🇧 <b>London</b></td><td colspan='4'>Data unavailable</td></tr>
-<tr><td>🇫🇷 <b>Paris</b></td><td colspan='4'>Data unavailable</td></tr>
+<tr><td>🇬🇧 <b>London</b></td><td>8.3°C</td><td>76%</td><td>8.6 km/h</td><td>⛅ Partly cloudy</td></tr>
+<tr><td>🇫🇷 <b>Paris</b></td><td>11.5°C</td><td>77%</td><td>7.3 km/h</td><td>☁️ Overcast</td></tr>
 <tr><td>🇮🇹 <b>Milan</b></td><td colspan='4'>Data unavailable</td></tr>
 <tr><td>🇩🇪 <b>Berlin</b></td><td colspan='4'>Data unavailable</td></tr>
-<tr><td>🇷🇺 <b>Moscow</b></td><td colspan='4'>Data unavailable</td></tr>
-<tr><td>🇳🇱 <b>Amsterdam</b></td><td colspan='4'>Data unavailable</td></tr>
+<tr><td>🇷🇺 <b>Moscow</b></td><td>3.2°C</td><td>86%</td><td>12.4 km/h</td><td>☁️ Overcast</td></tr>
+<tr><td>🇳🇱 <b>Amsterdam</b></td><td>9.5°C</td><td>72%</td><td>11.5 km/h</td><td>☁️ Overcast</td></tr>
 </table>
 
 </details>
@@ -152,13 +152,13 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>🌬️ Wind</th>
 <th>☁️ Conditions</th>
 </tr>
-<tr><td>🇨🇳 <b>Beijing</b></td><td colspan='4'>Data unavailable</td></tr>
-<tr><td>🇯🇵 <b>Tokyo</b></td><td colspan='4'>Data unavailable</td></tr>
-<tr><td>🇦🇪 <b>Dubai</b></td><td colspan='4'>Data unavailable</td></tr>
+<tr><td>🇨🇳 <b>Beijing</b></td><td>0.8°C</td><td>54%</td><td>8.4 km/h</td><td>☀️ Clear sky</td></tr>
+<tr><td>🇯🇵 <b>Tokyo</b></td><td>7.4°C</td><td>55%</td><td>2.8 km/h</td><td>☀️ Clear sky</td></tr>
+<tr><td>🇦🇪 <b>Dubai</b></td><td>27.5°C</td><td>63%</td><td>11.6 km/h</td><td>☀️ Clear sky</td></tr>
 <tr><td>🇭🇰 <b>Hong Kong</b></td><td colspan='4'>Data unavailable</td></tr>
-<tr><td>🇸🇬 <b>Singapore</b></td><td colspan='4'>Data unavailable</td></tr>
-<tr><td>🇹🇭 <b>Bangkok</b></td><td colspan='4'>Data unavailable</td></tr>
-<tr><td>🇰🇷 <b>Seoul</b></td><td colspan='4'>Data unavailable</td></tr>
+<tr><td>🇸🇬 <b>Singapore</b></td><td>25.9°C</td><td>92%</td><td>0.5 km/h</td><td>⛅ Partly cloudy</td></tr>
+<tr><td>🇹🇭 <b>Bangkok</b></td><td>29.1°C</td><td>70%</td><td>2.6 km/h</td><td>☀️ Clear sky</td></tr>
+<tr><td>🇰🇷 <b>Seoul</b></td><td>-3.2°C</td><td>51%</td><td>4.8 km/h</td><td>☀️ Clear sky</td></tr>
 </table>
 
 </details>
@@ -174,10 +174,10 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>🌬️ Wind</th>
 <th>☁️ Conditions</th>
 </tr>
-<tr><td>🇺🇸 <b>New York</b></td><td colspan='4'>Data unavailable</td></tr>
-<tr><td>🇺🇸 <b>Los Angeles</b></td><td colspan='4'>Data unavailable</td></tr>
-<tr><td>🇨🇦 <b>Toronto</b></td><td colspan='4'>Data unavailable</td></tr>
-<tr><td>🇲🇽 <b>Mexico City</b></td><td colspan='4'>Data unavailable</td></tr>
+<tr><td>🇺🇸 <b>New York</b></td><td>13.3°C</td><td>60%</td><td>9.1 km/h</td><td>☀️ Clear sky</td></tr>
+<tr><td>🇺🇸 <b>Los Angeles</b></td><td>8.2°C</td><td>67%</td><td>9.6 km/h</td><td>☀️ Clear sky</td></tr>
+<tr><td>🇨🇦 <b>Toronto</b></td><td>6.6°C</td><td>100%</td><td>1.6 km/h</td><td>🌫️ Fog</td></tr>
+<tr><td>🇲🇽 <b>Mexico City</b></td><td>14.9°C</td><td>59%</td><td>1.7 km/h</td><td>☀️ Clear sky</td></tr>
 </table>
 
 </details>
@@ -193,9 +193,9 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>🌬️ Wind</th>
 <th>☁️ Conditions</th>
 </tr>
-<tr><td>🇧🇷 <b>São Paulo</b></td><td colspan='4'>Data unavailable</td></tr>
-<tr><td>🇦🇷 <b>Buenos Aires</b></td><td colspan='4'>Data unavailable</td></tr>
-<tr><td>🇵🇪 <b>Lima</b></td><td colspan='4'>Data unavailable</td></tr>
+<tr><td>🇧🇷 <b>São Paulo</b></td><td>30.9°C</td><td>48%</td><td>13.9 km/h</td><td>☁️ Overcast</td></tr>
+<tr><td>🇦🇷 <b>Buenos Aires</b></td><td>28.1°C</td><td>23%</td><td>6.8 km/h</td><td>⛅ Partly cloudy</td></tr>
+<tr><td>🇵🇪 <b>Lima</b></td><td>27.4°C</td><td>67%</td><td>14.1 km/h</td><td>☁️ Overcast</td></tr>
 </table>
 
 </details>
@@ -211,9 +211,9 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>🌬️ Wind</th>
 <th>☁️ Conditions</th>
 </tr>
-<tr><td>🇿🇦 <b>Cape Town</b></td><td colspan='4'>Data unavailable</td></tr>
+<tr><td>🇿🇦 <b>Cape Town</b></td><td>19.7°C</td><td>61%</td><td>16.9 km/h</td><td>🌤️ Mainly clear</td></tr>
 <tr><td>🇪🇬 <b>Cairo</b></td><td colspan='4'>Data unavailable</td></tr>
-<tr><td>🇳🇬 <b>Lagos</b></td><td colspan='4'>Data unavailable</td></tr>
+<tr><td>🇳🇬 <b>Lagos</b></td><td>29.2°C</td><td>78%</td><td>11.8 km/h</td><td>🌦️ Drizzle</td></tr>
 </table>
 
 </details>
@@ -229,15 +229,15 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>🌬️ Wind</th>
 <th>☁️ Conditions</th>
 </tr>
-<tr><td>🇦🇺 <b>Sydney</b></td><td colspan='4'>Data unavailable</td></tr>
-<tr><td>🇦🇺 <b>Melbourne</b></td><td colspan='4'>Data unavailable</td></tr>
-<tr><td>🇳🇿 <b>Auckland</b></td><td colspan='4'>Data unavailable</td></tr>
+<tr><td>🇦🇺 <b>Sydney</b></td><td>21.5°C</td><td>83%</td><td>5.4 km/h</td><td>☀️ Clear sky</td></tr>
+<tr><td>🇦🇺 <b>Melbourne</b></td><td>16.2°C</td><td>94%</td><td>5.6 km/h</td><td>☁️ Overcast</td></tr>
+<tr><td>🇳🇿 <b>Auckland</b></td><td>13.1°C</td><td>94%</td><td>4.7 km/h</td><td>⛅ Partly cloudy</td></tr>
 </table>
 
 </details>
 <!-- WEATHER END -->
 
-<sub>🕐 Last weather update: <b>21 Nov 2026, 10:38 UTC</b> · Data from OpenWeatherMap</sub>
+<sub>🕐 Last weather update: <b>21 Nov 2026, 14:57 UTC</b> · Data from OpenWeatherMap</sub>
 
 ---
 
@@ -254,15 +254,15 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>📊 % Change</th>
 <th>📅 As Of</th>
 </tr>
-<tr><td><b>VUAG.L</b></td><td>104.40</td><td>🔴 -3.66</td><td>-3.39%</td><td>20 Nov 2026, 20:25 UTC</td></tr>
-<tr><td><b>VWRL.L</b></td><td>129.05</td><td>🔴 -4.39</td><td>-3.29%</td><td>20 Nov 2026, 20:25 UTC</td></tr>
-<tr><td><b>SPY</b></td><td>693.45</td><td>🔴 -22.04</td><td>-3.08%</td><td>20 Nov 2026, 20:25 UTC</td></tr>
-<tr><td><b>QQQ</b></td><td>613.06</td><td>🔴 -30.45</td><td>-4.73%</td><td>20 Nov 2026, 20:25 UTC</td></tr>
-<tr><td><b>ARKK</b></td><td>64.67</td><td>🔴 -3.74</td><td>-5.47%</td><td>20 Nov 2026, 20:25 UTC</td></tr>
-<tr><td><b>VTI</b></td><td>341.58</td><td>🔴 -10.41</td><td>-2.96%</td><td>20 Nov 2026, 20:25 UTC</td></tr>
+<tr><td><b>VUAG.L</b></td><td>104.40</td><td>🔴 -3.66</td><td>-3.39%</td><td>21 Nov 2026, 14:57 UTC</td></tr>
+<tr><td><b>VWRL.L</b></td><td>129.05</td><td>🔴 -4.39</td><td>-3.29%</td><td>21 Nov 2026, 14:57 UTC</td></tr>
+<tr><td><b>SPY</b></td><td>689.81</td><td>🔴 -25.68</td><td>-3.59%</td><td>21 Nov 2026, 14:57 UTC</td></tr>
+<tr><td><b>QQQ</b></td><td>608.45</td><td>🔴 -35.06</td><td>-5.45%</td><td>21 Nov 2026, 14:57 UTC</td></tr>
+<tr><td><b>ARKK</b></td><td>64.22</td><td>🔴 -4.19</td><td>-6.12%</td><td>21 Nov 2026, 14:57 UTC</td></tr>
+<tr><td><b>VTI</b></td><td>340.02</td><td>🔴 -11.97</td><td>-3.40%</td><td>21 Nov 2026, 14:57 UTC</td></tr>
 </table>
 
-<b>20 Nov 2026, 20:25 UTC</b> · Data from Yahoo Finance</sub>
+<sub>🕐 Last market update: <b>21 Nov 2026, 14:57 UTC</b> · Data from Yahoo Finance</sub>
 
 ---
 
@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/'>Hurried Announcement: Alessandro Masullo GRH</a></td><td>746 👍</td><td>344 💬</td></tr>
-<tr><td>2.</td><td><a href='https://alpo.ge/remark.pdf'>Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]</a></td><td>2028 👍</td><td>1376 💬</td></tr>
-<tr><td>3.</td><td><a href='https://thinkingmachines.ai/news/inkling-2-mini/'>Inkling 2 Mini</a></td><td>80 👍</td><td>6 💬</td></tr>
-<tr><td>4.</td><td><a href='https://arxiv.org/abs/2611.21885'>Language Models Can Rewrite Their Own Weights</a></td><td>253 👍</td><td>90 💬</td></tr>
-<tr><td>5.</td><td><a href='https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/'>Unforced Navier-Stokes Singularity and the Generalized Riemann Hypo...</a></td><td>168 👍</td><td>39 💬</td></tr>
-<tr><td>6.</td><td><a href='https://manidoraisamy.com/developer-to-architect.html'>We promoted developers into architects without informing them</a></td><td>107 👍</td><td>62 💬</td></tr>
-<tr><td>7.</td><td><a href='https://ankitg.me/blog/vibecoding-inference-chip/'>Vibecoding an inference chip</a></td><td>55 👍</td><td>18 💬</td></tr>
-<tr><td>8.</td><td><a href='https://winedroid.soham.sh/demo/'>Winedroid – run Android apps without Android (WASM demo)</a></td><td>30 👍</td><td>13 💬</td></tr>
-<tr><td>9.</td><td><a href='https://github.com/tristanbuckmaster/navier-stokes/'>Finite-time blow-up for the Navier–Stokes equations</a></td><td>192 👍</td><td>64 💬</td></tr>
-<tr><td>10.</td><td><a href='https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it'>If you can't explain something in simple terms, you don't understan...</a></td><td>540 👍</td><td>271 💬</td></tr>
+<tr><td>1.</td><td><a href='https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really'>Derek Lowe: Detonating a Pile of Lead Azide</a></td><td>101 👍</td><td>60 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria'>Brazil's tax authority open-sources its tax calculator on GitHub un...</a></td><td>287 👍</td><td>91 💬</td></tr>
+<tr><td>3.</td><td><a href='https://blog.tymscar.com/posts/studiodisplayethernet/'>My Monitor Was Cutting My Download Speed by 75%</a></td><td>129 👍</td><td>49 💬</td></tr>
+<tr><td>4.</td><td><a href='https://simple-bench.com/'>Astra 6.2 and Sol 6.2 flop at Simple Bench</a></td><td>30 👍</td><td>7 💬</td></tr>
+<tr><td>5.</td><td><a href='https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/'>Hurried Announcement: Alessandro Masullo GRH</a></td><td>2255 👍</td><td>1066 💬</td></tr>
+<tr><td>6.</td><td><a href='https://alpo.ge/remark.pdf'>Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]</a></td><td>2756 👍</td><td>1932 💬</td></tr>
+<tr><td>7.</td><td><a href='https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html'>RCE in Gnupg</a></td><td>119 👍</td><td>40 💬</td></tr>
+<tr><td>8.</td><td><a href='https://thinkingmachines.ai/news/inkling-2-mini/'>Inkling 2 Mini</a></td><td>1147 👍</td><td>217 💬</td></tr>
+<tr><td>9.</td><td><a href='https://sgiannopoulos.github.io/blog/machine-code-programming/'>LLMs can read and write executables byte by byte from a hex dump</a></td><td>35 👍</td><td>15 💬</td></tr>
+<tr><td>10.</td><td><a href='https://manidoraisamy.com/developer-to-architect.html'>We promoted developers into architects without informing them</a></td><td>504 👍</td><td>281 💬</td></tr>
 </table>
 
-<b>20 Nov 2026, 20:37 UTC</b>
+<sub>🕐 Last news update: <b>21 Nov 2026, 14:57 UTC</b> · Data from Hacker News</sub>
 
 ---
 
@@ -303,20 +303,20 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 
 ### 📖 Word of the Day
 
-> **Luminous** · */ˈluːmɪnəs/*
+> **Ineffable** · */ɪˈnɛf.ə.bəl/*
 >
-> *adjective* — Emitting light; glowing brightly.
+> *adjective* — Beyond expression in words; unspeakable.
 >
-> 💬 *"Today's word is 'luminous' — try using it in conversation!"*
+> 💬 *"Today's word is 'ineffable' — try using it in conversation!"*
 
 </td>
 <td width="50%">
 
 ### 🏛️ Philosopher's Quote
 
-> *"Never waste a minute of your precious life thinking about people you don't like."*
+> *"To avoid criticism, do nothing, say nothing, and be nothing."*
 >
-> — **Celestine Chua**
+> — **Elbert Hubbard**
 
 </td>
 </tr>
@@ -325,18 +325,18 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 
 ### 🧠 Fun Fact
 
-> "Stewardesses" is the longest word typed with only the left hand.
+> 315 entries in Webster’s 1996 dictionary were misspelled.
 
 </td>
 <td>
 
 ### 🌙 Moon Phase
 
-> 🌓 First Quarter
+> 🌔 Waxing Gibbous
 
-### 📜 On This Day (November 20)
+### 📜 On This Day (November 21)
 
-> **1947** — Princess Elizabeth, daughter of King George VI, married Lieutenant Philip Mountbatten, who was given the title Duke of Edinburgh.
+> **1964** — The Verrazzano–Narrows Bridge (pictured), connecting Staten Island and Brooklyn in New York City, opened to traffic as the longest suspension bridge in the world at the time.
 
 </td>
 </tr>
@@ -349,16 +349,16 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 
 | 🎉 Event | 📅 Days Left |
 |-----------|-------------|
-| 🎆 New Year | `██████████████████░░` **41** days |
-| 💝 Valentine's Day | `████████████████░░░░` **85** days |
-| 🥧 Pi Day | `██████████████░░░░░░` **113** days |
-| 🍀 St. Patrick's Day | `██████████████░░░░░░` **116** days |
-| 🌍 Earth Day | `████████████░░░░░░░░` **152** days |
-| ⚔️ Star Wars Day | `████████████░░░░░░░░` **164** days |
-| ☀️ Summer Solstice | `█████████░░░░░░░░░░░` **211** days |
-| 🎃 Halloween | `██░░░░░░░░░░░░░░░░░░` **344** days |
-| 🎄 Christmas | `███████████████████░` **34** days |
-| 🎊 New Year's Eve | `██████████████████░░` **40** days |
+| 🎆 New Year | `██████████████████░░` **40** days |
+| 💝 Valentine's Day | `████████████████░░░░` **84** days |
+| 🥧 Pi Day | `██████████████░░░░░░` **112** days |
+| 🍀 St. Patrick's Day | `██████████████░░░░░░` **115** days |
+| 🌍 Earth Day | `████████████░░░░░░░░` **151** days |
+| ⚔️ Star Wars Day | `████████████░░░░░░░░` **163** days |
+| ☀️ Summer Solstice | `█████████░░░░░░░░░░░` **210** days |
+| 🎃 Halloween | `██░░░░░░░░░░░░░░░░░░` **343** days |
+| 🎄 Christmas | `███████████████████░` **33** days |
+| 🎊 New Year's Eve | `██████████████████░░` **39** days |
 
 ---
 
