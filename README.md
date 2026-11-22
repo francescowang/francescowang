@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/'>Toyota, Nissan, and Honda to standardize parts to lower costs</a></td><td>795 👍</td><td>470 💬</td></tr>
-<tr><td>2.</td><td><a href='https://github.com/pithings/unkernel'>A real Linux kernel, compiled to WebAssembly</a></td><td>163 👍</td><td>51 💬</td></tr>
-<tr><td>3.</td><td><a href='https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib'>Pill to treat pancreatic cancer hailed as 'biggest breakthrough in ...</a></td><td>1169 👍</td><td>248 💬</td></tr>
-<tr><td>4.</td><td><a href='https://github.com/gulivan/worker755'>Show HN: I built a game where you are an LLM's subagent</a></td><td>10 👍</td><td>1 💬</td></tr>
-<tr><td>5.</td><td><a href='https://leanprover-community.github.io/blog/posts/riemann-hypothesis/'>Lean verification of the Riemann Hypothesis</a></td><td>1123 👍</td><td>935 💬</td></tr>
-<tr><td>6.</td><td><a href='https://stulle.app/'>Sandwich Simulator</a></td><td>384 👍</td><td>137 💬</td></tr>
-<tr><td>7.</td><td><a href='https://joinmayberry.com/'>Self-hosted library branch over public web OPDS</a></td><td>51 👍</td><td>14 💬</td></tr>
-<tr><td>8.</td><td><a href='https://github.com/ShinMegamiBoson/lookatmyquant'>Inkling-2-Mini in 5.4 GB Memory</a></td><td>507 👍</td><td>126 💬</td></tr>
-<tr><td>9.</td><td><a href='https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/'>Data Processing Incidents on Inference Providers</a></td><td>222 👍</td><td>78 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really'>Detonating a pile of lead azide</a></td><td>652 👍</td><td>405 💬</td></tr>
+<tr><td>1.</td><td><a href='https://openai.com/index/perplexity-and-intelligence/'>Perplexity and Intelligence</a></td><td>258 👍</td><td>173 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/'>Toyota, Nissan, and Honda to standardize parts to lower costs</a></td><td>1050 👍</td><td>622 💬</td></tr>
+<tr><td>3.</td><td><a href='https://github.com/gulivan/worker755'>Show HN: I built a game where you are an LLM's subagent</a></td><td>187 👍</td><td>46 💬</td></tr>
+<tr><td>4.</td><td><a href='https://osw-alliance.net/en/'>Open Social Web Alliance</a></td><td>158 👍</td><td>159 💬</td></tr>
+<tr><td>5.</td><td><a href='https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife'>The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife</a></td><td>5 👍</td><td>0 💬</td></tr>
+<tr><td>6.</td><td><a href='https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/'>I joined the NTP Pool, but not with my Stratum 1 Pi</a></td><td>69 👍</td><td>20 💬</td></tr>
+<tr><td>7.</td><td><a href='https://alperenkeles.com/posts/vocab-for-testing/'>A Better Vocabulary for Testing</a></td><td>68 👍</td><td>19 💬</td></tr>
+<tr><td>8.</td><td><a href='https://repository.law.umich.edu/mlr/vol118/iss7/2/'>Fascism and Monopoly</a></td><td>37 👍</td><td>13 💬</td></tr>
+<tr><td>9.</td><td><a href='https://bernsteinbear.com/blog/inside-pypy-first-contact-with-rpython/'>Inside PyPy: First Contact with RPython</a></td><td>29 👍</td><td>4 💬</td></tr>
+<tr><td>10.</td><td><a href='https://transvoxel.org/'>The Transvoxel Algorithm</a></td><td>27 👍</td><td>1 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>22 Nov 2026, 14:55 UTC</b> · Data from Hacker News</sub>
+<b>22 Nov 2026, 19:54 UTC</b>
 
 ---
 
