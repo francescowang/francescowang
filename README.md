@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html'>Nvidia Reinstates Jensen Huang as CEO</a></td><td>1096 👍</td><td>2178 💬</td></tr>
-<tr><td>2.</td><td><a href='https://ladybird.org/posts/alpha/'>Ladybird is now in alpha</a></td><td>654 👍</td><td>173 💬</td></tr>
-<tr><td>3.</td><td><a href='https://z.ai/blog/glm-5.4'>GLM-5.4: Toward generalized coding with our first loop transformer</a></td><td>851 👍</td><td>301 💬</td></tr>
-<tr><td>4.</td><td><a href='https://blog.kagi.com/kagi-mail-public-beta'>Kagi Mail (public beta)</a></td><td>112 👍</td><td>66 💬</td></tr>
-<tr><td>5.</td><td><a href='https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo'>Spacecraft reaches Mercury on second-ever mission to enter its orbit</a></td><td>162 👍</td><td>55 💬</td></tr>
-<tr><td>6.</td><td><a href='https://github.com/mikuta0407/win4wine'>Win4wine – Run Windows Shell as the Linux Desktop on Wine</a></td><td>151 👍</td><td>87 💬</td></tr>
-<tr><td>7.</td><td><a href='https://github.com/os6/nospeaker'>Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor</a></td><td>186 👍</td><td>93 💬</td></tr>
-<tr><td>8.</td><td><a href='https://spelunkr.tv'>Free alternative TV network built from the Internet Archive's forgo...</a></td><td>830 👍</td><td>149 💬</td></tr>
-<tr><td>9.</td><td><a href='https://blog.regehr.org/archives/1621'>What's the difference between an integer and a pointer? (2018)</a></td><td>80 👍</td><td>53 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.easypost.com/careers/'>EasyPost (YC S13) Is Hiring</a></td><td>1 👍</td><td>0 💬</td></tr>
+<tr><td>1.</td><td><a href='https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html'>Nvidia Reinstates Jensen Huang as CEO</a></td><td>1951 👍</td><td>3046 💬</td></tr>
+<tr><td>2.</td><td><a href='https://stalw.art/blog/microsoft-exchange-replacement/'>Stalwart is now a drop-in replacement for Microsoft Exchange</a></td><td>104 👍</td><td>61 💬</td></tr>
+<tr><td>3.</td><td><a href='https://ladybird.org/posts/alpha/'>Ladybird is now in alpha</a></td><td>1320 👍</td><td>315 💬</td></tr>
+<tr><td>4.</td><td><a href='https://github.com/zed-industries/gpui'>GPUI is getting its own repository</a></td><td>87 👍</td><td>16 💬</td></tr>
+<tr><td>5.</td><td><a href='https://arm.jonpalmisc.com/'>Per Arm's request, this site will be discontinued on 4 December 202...</a></td><td>789 👍</td><td>160 💬</td></tr>
+<tr><td>6.</td><td><a href='https://z.ai/blog/glm-5.4'>GLM-5.4: Toward generalized coding with our first loop transformer</a></td><td>1030 👍</td><td>334 💬</td></tr>
+<tr><td>7.</td><td><a href='https://github.com/anthropics/formal-math/tree/main/vp-vnp'>VP ≠ VNP over Every Field</a></td><td>173 👍</td><td>126 💬</td></tr>
+<tr><td>8.</td><td><a href='https://www.bored.com/'>Bored.com: Fun, interesting and cool websites to explore when bored</a></td><td>68 👍</td><td>19 💬</td></tr>
+<tr><td>9.</td><td><a href='https://twitter.com/ylecun/status/2124550037912920090'>Dario is hyping the dangers so OSS models are illegal and he stays ...</a></td><td>1009 👍</td><td>588 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.rockpapershotgun.com/theyre-more-complicated-and-more-expensive-than-lcd-screens-but-your-next-gaming-monitor-should-still-be-an-oled'>Next gaming monitor should still be an OLED</a></td><td>17 👍</td><td>28 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>23 Nov 2026, 18:46 UTC</b> · Data from Hacker News</sub>
+<b>24 Nov 2026, 00:09 UTC</b>
 
 ---
 
