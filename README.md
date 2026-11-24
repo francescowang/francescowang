@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign'>Cyberattack campaign compromising Check Point servers across 22 org...</a></td><td>139 👍</td><td>50 💬</td></tr>
-<tr><td>2.</td><td><a href='http://hypercritical.co/2026/11/23/jetty-pro'>Jetty Pro</a></td><td>109 👍</td><td>41 💬</td></tr>
-<tr><td>3.</td><td><a href='https://mechanical-pencil.com/products/spray-bottle'>Mechanical Pencil: Spray Bottle</a></td><td>114 👍</td><td>22 💬</td></tr>
-<tr><td>4.</td><td><a href='https://www.frankchiarulli.com/blog/splitting-usb-c/'>Splitting USB-C: USB 3 and USB 2 on One Port</a></td><td>58 👍</td><td>35 💬</td></tr>
-<tr><td>5.</td><td><a href='https://www.worksinprogress.news/p/how-to-make-a-lovable-city'>How to Make a Lovable City</a></td><td>52 👍</td><td>16 💬</td></tr>
-<tr><td>6.</td><td><a href='https://fzakaria.com/2026/11/23/2035-came-early'>2035 came early</a></td><td>807 👍</td><td>299 💬</td></tr>
-<tr><td>7.</td><td><a href='https://github.com/sous-labs/songe'>A training engine for your local model, using your idle compute</a></td><td>76 👍</td><td>10 💬</td></tr>
-<tr><td>8.</td><td><a href='https://arxiv.org/abs/2611.30835'>The KL Divergence Is Never Negative, Except in PyTorch</a></td><td>41 👍</td><td>11 💬</td></tr>
-<tr><td>9.</td><td><a href='https://jobs.ashbyhq.com/weave-os'>Weave (YC W25) is hiring ML, AI, product, & design engineers</a></td><td>1 👍</td><td>0 💬</td></tr>
-<tr><td>10.</td><td><a href='https://masondata.ai/'>Show HN: Mason – a lightweight Postgres read-replica, built on colu...</a></td><td>22 👍</td><td>0 💬</td></tr>
+<tr><td>1.</td><td><a href='https://prismml.com/news/bonsai-2-5-27b'>Ternary Bonsai 2.5 27B</a></td><td>206 👍</td><td>63 💬</td></tr>
+<tr><td>2.</td><td><a href='https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/'>GPT-6 models demonstrate intrinsic protein-design capabilities</a></td><td>57 👍</td><td>6 💬</td></tr>
+<tr><td>3.</td><td><a href='https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance'>Heart attack and stroke risk detectable decades in advance</a></td><td>31 👍</td><td>6 💬</td></tr>
+<tr><td>4.</td><td><a href='https://news.ycombinator.com/item?id=50634426'>Launch HN: Versine (YC F26) – MCP to send and receive money</a></td><td>41 👍</td><td>21 💬</td></tr>
+<tr><td>5.</td><td><a href='https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign'>Active intrusion campaign against Check Point security management s...</a></td><td>236 👍</td><td>96 💬</td></tr>
+<tr><td>6.</td><td><a href='https://mechanical-pencil.com/products/spray-bottle'>The Spray Bottle</a></td><td>297 👍</td><td>82 💬</td></tr>
+<tr><td>7.</td><td><a href='https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description'>Gödel Enigma</a></td><td>34 👍</td><td>8 💬</td></tr>
+<tr><td>8.</td><td><a href='https://andlukyane.com/blog/cayley-graphs-and-torchtpu'>From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver</a></td><td>43 👍</td><td>1 💬</td></tr>
+<tr><td>9.</td><td><a href='https://meshcoveragecalculator.lalala.ing/'>Calculate how many mesh radio nodes your city needs</a></td><td>47 👍</td><td>6 💬</td></tr>
+<tr><td>10.</td><td><a href='https://fzakaria.com/2026/11/23/2035-came-early'>2035 came early</a></td><td>926 👍</td><td>350 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>24 Nov 2026, 18:22 UTC</b> · Data from Hacker News</sub>
+<b>24 Nov 2026, 22:39 UTC</b>
 
 ---
 
