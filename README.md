@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts'>A few questions for the guy who went snorkeling in a Home Depot ret...</a></td><td>238 👍</td><td>68 💬</td></tr>
-<tr><td>2.</td><td><a href='https://www.githubstatus.com/incidents/qn8mfv6q5hlx'>Investigating degraded experiences across GitHub products</a></td><td>116 👍</td><td>59 💬</td></tr>
-<tr><td>3.</td><td><a href='https://github.com/google-research/google-research/tree/master/cogentic_research_papers'>Google Releases Cogentic Papers on Integer Factorization, Discrete ...</a></td><td>275 👍</td><td>225 💬</td></tr>
-<tr><td>4.</td><td><a href='https://github.com/xoxorwr/pw-loudness-eq'>Windows Loudness Equalization, reverse-engineered and ported to Pip...</a></td><td>242 👍</td><td>137 💬</td></tr>
-<tr><td>5.</td><td><a href='https://engram.com/blog/lora-size'>Predicting LoRA size for any dataset</a></td><td>36 👍</td><td>1 💬</td></tr>
-<tr><td>6.</td><td><a href='https://s.conao3.com/blog/2026/e4f733'>I checked Clojure's core with Lean and found unreported bugs</a></td><td>43 👍</td><td>11 💬</td></tr>
-<tr><td>7.</td><td><a href='https://buttons.joshwcomeau.com/'>Button Sounds – collection of professionally-recorded button clicks...</a></td><td>713 👍</td><td>115 💬</td></tr>
-<tr><td>8.</td><td><a href='https://jayd.ml/2026/11/14/rockbox-on-yp3.html'>Porting Rockbox to an Undocumented $9 Aliexpress 'YP3' MP3 Player w...</a></td><td>70 👍</td><td>32 💬</td></tr>
-<tr><td>9.</td><td><a href='https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf'>Matrix Multiplication is Θ(n^2.25) [pdf]</a></td><td>892 👍</td><td>504 💬</td></tr>
-<tr><td>10.</td><td><a href='https://1password.com/blog/update-on-nov-2026-security-incident'>1Password Security Incident</a></td><td>51 👍</td><td>18 💬</td></tr>
+<tr><td>1.</td><td><a href='https://1password.com/blog/update-on-nov-2026-security-incident'>1Password Security Incident</a></td><td>839 👍</td><td>348 💬</td></tr>
+<tr><td>2.</td><td><a href='https://scottaaronson.blog/?p=10379'>Holy shit holy shit holy shit holy shit: The magnitude of what’s no...</a></td><td>567 👍</td><td>410 💬</td></tr>
+<tr><td>3.</td><td><a href='https://bjin.github.io/go-codegolf-benchmark/#leaderboard'>GPT-6.2 Astra is the first model to beat Googlers' code golf records</a></td><td>72 👍</td><td>11 💬</td></tr>
+<tr><td>4.</td><td><a href='https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts'>A few questions for the guy who went snorkeling in a Home Depot ret...</a></td><td>388 👍</td><td>97 💬</td></tr>
+<tr><td>5.</td><td><a href='https://zydra.sh/articles/ssh-is-a-gui-framework/'>SSH is a GUI framework</a></td><td>82 👍</td><td>41 💬</td></tr>
+<tr><td>6.</td><td><a href='https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf'>The polynomial Hirsch conjecture is false [pdf]</a></td><td>82 👍</td><td>15 💬</td></tr>
+<tr><td>7.</td><td><a href='https://defang.io/blog/post/security-incident-november-2026/'>Defang Security Incident</a></td><td>5 👍</td><td>0 💬</td></tr>
+<tr><td>8.</td><td><a href='https://s.conao3.com/blog/2026/e4f733'>I checked Clojure's core with Lean and found unreported bugs</a></td><td>148 👍</td><td>52 💬</td></tr>
+<tr><td>9.</td><td><a href='https://github.com/xoxorwr/pw-loudness-eq'>Windows Loudness Equalization, reverse-engineered and ported to Pip...</a></td><td>296 👍</td><td>166 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.fullstackoptimization.com/a/googlebot-249-file-rendering-limit'>The undocumented 249-file limit for Googlebot rendering</a></td><td>9 👍</td><td>1 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>25 Nov 2026, 17:39 UTC</b> · Data from Hacker News</sub>
+<b>25 Nov 2026, 21:53 UTC</b>
 
 ---
 
