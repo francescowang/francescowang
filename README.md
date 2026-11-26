@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/'>Euro-Office comes to your desktop with the Nextcloud Office Desktop...</a></td><td>325 👍</td><td>136 💬</td></tr>
-<tr><td>2.</td><td><a href='https://github.com/samueleverett01/bss-permanent-separations'>NP_R ≠ PAR_R</a></td><td>12 👍</td><td>2 💬</td></tr>
-<tr><td>3.</td><td><a href='https://devnull.land/amd-specific-llama-cpp'>AMD Specific Patches for Llama.cpp</a></td><td>6 👍</td><td>0 💬</td></tr>
-<tr><td>4.</td><td><a href='https://github.com/intel/intel-one-mono'>Intel One Mono font</a></td><td>334 👍</td><td>194 💬</td></tr>
-<tr><td>5.</td><td><a href='https://scottaaronson.blog/?p=10379'>Holy shit holy shit holy shit holy shit: The magnitude of what’s no...</a></td><td>1858 👍</td><td>1708 💬</td></tr>
-<tr><td>6.</td><td><a href='https://news.ycombinator.com/item?id=50655664'>Tell HN: Happy Thanksgiving</a></td><td>344 👍</td><td>97 💬</td></tr>
-<tr><td>7.</td><td><a href='https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/'>Curiosity Is No Solo Act</a></td><td>65 👍</td><td>16 💬</td></tr>
-<tr><td>8.</td><td><a href='https://1password.com/blog/update-on-nov-2026-security-incident'>1Password Security Incident</a></td><td>1592 👍</td><td>692 💬</td></tr>
-<tr><td>9.</td><td><a href='https://michidk.github.io/sidebyside/'>Show HN: Three Linux VMs in a browser tab, each running a different...</a></td><td>30 👍</td><td>11 💬</td></tr>
-<tr><td>10.</td><td><a href='https://www.pencilofrays.com/smartphone-lens/'>The Engineering of Smartphone Cameras</a></td><td>9 👍</td><td>2 💬</td></tr>
+<tr><td>1.</td><td><a href='https://devnull.land/amd-specific-llama-cpp'>AMD-specific fork of llama.cpp</a></td><td>212 👍</td><td>54 💬</td></tr>
+<tr><td>2.</td><td><a href='https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/'>The greatest architect you've never heard of is in Pakistan</a></td><td>34 👍</td><td>4 💬</td></tr>
+<tr><td>3.</td><td><a href='https://github.com/antonpictures/youtube-punisher'>YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays</a></td><td>154 👍</td><td>219 💬</td></tr>
+<tr><td>4.</td><td><a href='https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/'>CTO of 'RansomwareHelp' Indicted for Wire Fraud</a></td><td>149 👍</td><td>62 💬</td></tr>
+<tr><td>5.</td><td><a href='https://github.com/eisenzopf/rvoip'>Rvoip 0.5 the complete VoIP stack in Rust</a></td><td>29 👍</td><td>8 💬</td></tr>
+<tr><td>6.</td><td><a href='https://github.com/intel/intel-one-mono'>Intel One Mono font (2023)</a></td><td>423 👍</td><td>230 💬</td></tr>
+<tr><td>7.</td><td><a href='https://lia.mg/posts/measuring-company-culture-with-slack-emoji/'>Company Culture = Slack Emoji ÷ √Headcount</a></td><td>8 👍</td><td>0 💬</td></tr>
+<tr><td>8.</td><td><a href='https://micjm.com/blog/openai-is-in-cost-control-mode/'>OpenAI may be in cost control mode</a></td><td>138 👍</td><td>125 💬</td></tr>
+<tr><td>9.</td><td><a href='https://olumino.app'>Show HN: Olumino, a Markdown notes and spaced repetition app</a></td><td>32 👍</td><td>23 💬</td></tr>
+<tr><td>10.</td><td><a href='https://www.science.org/content/blog-post/george-whitesides-1939-2026'>George Whitesides, 1939-2026</a></td><td>28 👍</td><td>4 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>26 Nov 2026, 17:21 UTC</b> · Data from Hacker News</sub>
+<b>26 Nov 2026, 21:47 UTC</b>
 
 ---
 
