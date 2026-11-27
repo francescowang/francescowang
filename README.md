@@ -278,19 +278,19 @@ fun_fact: "This README updates itself regularly via GitHub Actions."
 <th>👍 Score</th>
 <th>💬 Comments</th>
 </tr>
-<tr><td>1.</td><td><a href='https://bouncemarket.minhanhday.com/'>Show HN: bouncemarket – a live prediction market game for a bouncin...</a></td><td>158 👍</td><td>44 💬</td></tr>
-<tr><td>2.</td><td><a href='https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer'>Credit card skimming scripts using WebRTC found on popular shopping...</a></td><td>60 👍</td><td>18 💬</td></tr>
-<tr><td>3.</td><td><a href='https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/'>First images of the impact of DART asteroid deflection experiment</a></td><td>101 👍</td><td>27 💬</td></tr>
-<tr><td>4.</td><td><a href='https://cr.yp.to/proofs/falseccp.html'>False Computer-Checked Proofs</a></td><td>35 👍</td><td>12 💬</td></tr>
-<tr><td>5.</td><td><a href='https://www.kimi.ai/news/kimi-for-science-program'>Kimi for Science: More scientific ideas, made possible</a></td><td>137 👍</td><td>92 💬</td></tr>
-<tr><td>6.</td><td><a href='https://construct22.com/'>The group chat where your AI talks behind your back</a></td><td>543 👍</td><td>240 💬</td></tr>
-<tr><td>7.</td><td><a href='https://eprint.iacr.org/2026/3020.pdf'>A Deterministic Subexponential-Time Algorithm for the Discrete Loga...</a></td><td>167 👍</td><td>75 💬</td></tr>
-<tr><td>8.</td><td><a href='https://janlukas.blog/posts/ai-self-hosting'>AI made self-hosting fun again</a></td><td>954 👍</td><td>457 💬</td></tr>
-<tr><td>9.</td><td><a href='https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163'>US Air Force's cloud computing platform hacked</a></td><td>175 👍</td><td>95 💬</td></tr>
-<tr><td>10.</td><td><a href='https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical'>GPT 6.2 Astra Solves a Historical Mystery</a></td><td>80 👍</td><td>34 💬</td></tr>
+<tr><td>1.</td><td><a href='https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical'>GPT 6.2 Astra Solves a Historical Mystery</a></td><td>94 👍</td><td>98 💬</td></tr>
+<tr><td>2.</td><td><a href='https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer'>Credit card skimming scripts using WebRTC found on popular shopping...</a></td><td>312 👍</td><td>162 💬</td></tr>
+<tr><td>3.</td><td><a href='https://github.com/convex/convex-backend-skill/issues/64'>Convex skills send the user's app idea to a remote server without t...</a></td><td>140 👍</td><td>48 💬</td></tr>
+<tr><td>4.</td><td><a href='https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html'>Citroën Hydraulic System</a></td><td>55 👍</td><td>19 💬</td></tr>
+<tr><td>5.</td><td><a href='https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/'>The AT&T Unix PC (3B1) VM</a></td><td>22 👍</td><td>3 💬</td></tr>
+<tr><td>6.</td><td><a href='https://bouncemarket.minhanhday.com/'>Show HN: bouncemarket – a live prediction market game for a bouncin...</a></td><td>296 👍</td><td>90 💬</td></tr>
+<tr><td>7.</td><td><a href='https://twitter.com/michael_nielsen/status/2126359767362748777'>Michael Nielsen took down his book on neural nets</a></td><td>187 👍</td><td>123 💬</td></tr>
+<tr><td>8.</td><td><a href='https://dragdropmath.com/'>Show HN: DragDropMath – Learn math by feel</a></td><td>49 👍</td><td>11 💬</td></tr>
+<tr><td>9.</td><td><a href='https://cr.yp.to/proofs/falseccp.html'>False computer-checked proofs</a></td><td>140 👍</td><td>63 💬</td></tr>
+<tr><td>10.</td><td><a href='https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/'>First images of the impact of DART asteroid deflection experiment</a></td><td>159 👍</td><td>52 💬</td></tr>
 </table>
 
-<sub>🕐 Last news update: <b>27 Nov 2026, 17:00 UTC</b> · Data from Hacker News</sub>
+<b>27 Nov 2026, 21:30 UTC</b>
 
 ---
 
